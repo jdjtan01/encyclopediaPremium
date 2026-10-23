@@ -1,60 +1,76 @@
-"""Run this on your own computer (it needs internet access to Wikimedia Commons).
+"""Run this on your own computer (it needs internet access to Wikipedia).
 
     python tools/check_images.py
 
-It reads the article titles and the file names in data/images*.js, checks that each
-file exists on Wikimedia Commons, and searches for a replacement when one is missing.
-It also searches for a photo for every article that has none. Results are written to
-data/images-auto.js. Review that file: automatic picks can be wrong, and any entry you
-add by hand to data/images.js takes priority over it.
+What it does:
+  1. Checks that every Commons file name listed by hand in data/images.js, images2.js
+     and images3.js still exists.
+  2. Looks up the lead image of the Wikipedia page each article points to in
+     data/wiki.js, and reports pages that are missing or whose lead image is a
+     flag, map or logo (pick a better page title for those in data/wiki.js).
+  3. Writes data/images-auto.js, which pins those lead images as file names so
+     photos appear immediately without a lookup in the browser.
+
+Entries you add by hand to data/images.js always take priority over images-auto.js.
 """
 import glob, json, re, time, urllib.parse, urllib.request
 
-API = "https://commons.wikimedia.org/w/api.php"
-SKIP = re.compile(r"map|logo|flag|icon|diagram|coat of arms|stamp|signature", re.I)
+WP = "https://en.wikipedia.org/w/api.php"
+CM = "https://commons.wikimedia.org/w/api.php"
+BAD = re.compile(r"(^|[ _\-(,])(flag|map|locator|logo|seal|blank|icon)([ _\-.,)]|$)|coat[ _]of[ _]arms|location|orthographic|projection|signature", re.I)
 
-def api(**p):
+def api(url, **p):
     p["format"] = "json"
-    req = urllib.request.Request(API + "?" + urllib.parse.urlencode(p),
-                                 headers={"User-Agent": "EncyclopediaPremium/1.0 (personal project)"})
+    req = urllib.request.Request(url + "?" + urllib.parse.urlencode(p),
+                                 headers={"User-Agent": "EncyclopediaPremium/1.1 (personal project)"})
     time.sleep(0.3)
     return json.load(urllib.request.urlopen(req, timeout=30))
 
-def exists(name):
-    pages = api(action="query", titles="File:" + name, prop="imageinfo")["query"]["pages"]
-    return "-1" not in pages
+def read(pattern):
+    return "\n".join(open(f, encoding="utf-8").read() for f in sorted(glob.glob(pattern)))
 
-def find(query):
-    hits = api(action="query", list="search", srnamespace=6, srsearch=query, srlimit=10)["query"]["search"]
-    for h in hits:
-        name = h["title"][5:]
-        if re.search(r"\.(jpe?g|png)$", name, re.I) and not SKIP.search(name):
-            return name
-
-titles = {}
-for f in glob.glob("data/articles-*.js"):
-    for i, t in re.findall(r'\{id:"(\w+)",t:"([^"]+)"', open(f, encoding="utf-8").read()):
-        titles[i] = t
-
-current = {}
+titles = dict(re.findall(r'\{id:"(\w+)",t:"([^"]+)"', read("data/articles-*.js") + open("index.html", encoding="utf-8").read()))
+wiki = dict(re.findall(r'(\w+):"([^"]+)"', open("data/wiki.js", encoding="utf-8").read()))
+manual = {}
 for f in sorted(glob.glob("data/images*.js")):
-    if f.endswith("images-auto.js"):
-        continue
-    current.update(re.findall(r'(\w+):"([^"]+\.(?:jpe?g|png|svg))"', open(f, encoding="utf-8").read()))
+    if not f.endswith("images-auto.js"):
+        manual.update(re.findall(r'(\w+):"([^"]+\.(?:jpe?g|png|svg|gif|tiff?))"', open(f, encoding="utf-8").read(), re.I))
 
-auto = {}
-for i, t in titles.items():
-    name = current.get(i)
-    if name and exists(name):
-        continue
-    pick = find(t)
-    if pick:
-        auto[i] = pick
-        print(("fixed   " if name else "added   ") + i, "->", pick)
-    else:
-        print("no match", i)
+print("Checking", len(manual), "hand-picked Commons files...")
+names = list(manual.values())
+for k in range(0, len(names), 50):
+    pages = api(CM, action="query", titles="|".join("File:" + n for n in names[k:k + 50]), prop="imageinfo")["query"]["pages"]
+    for p in pages.values():
+        if "missing" in p and "imageinfo" not in p:
+            ids = [i for i, n in manual.items() if "File:" + n.replace("_", " ") == p["title"].replace("_", " ")]
+            print("  MISSING", p["title"], "used by", ", ".join(ids) or "?")
 
-body = ",\n".join('%s:%s' % (k, json.dumps(v, ensure_ascii=False)) for k, v in auto.items())
+print("Looking up Wikipedia lead images for", len(titles), "articles...")
+auto, want = {}, {i: wiki.get(i) or re.sub(r"^(The|A|An) ", "", t) for i, t in titles.items()}
+items = list(want.items())
+for k in range(0, len(items), 45):
+    chunk = items[k:k + 45]
+    q = api(WP, action="query", prop="pageimages", piprop="name", pilimit=50, redirects=1,
+            titles="|".join(t for _, t in chunk))["query"]
+    to = {t: t for _, t in chunk}
+    for n in q.get("normalized", []) + q.get("redirects", []):
+        for t in to:
+            if to[t] == n["from"]:
+                to[t] = n["to"]
+    pages = {p["title"]: p for p in q.get("pages", {}).values()}
+    for i, t in chunk:
+        p = pages.get(to[t], {})
+        if "missing" in p or not p:
+            print("  NO PAGE    ", i, "->", t)
+        elif "pageimage" not in p:
+            print("  NO IMAGE   ", i, "->", t)
+        elif BAD.search(p["pageimage"]):
+            print("  FLAG/MAP?  ", i, "->", t, ":", p["pageimage"])
+        else:
+            auto[i] = p["pageimage"].replace("_", " ")
+
+body = ",\n".join("%s:%s" % (k, json.dumps(v, ensure_ascii=False)) for k, v in sorted(auto.items()))
 open("data/images-auto.js", "w", encoding="utf-8").write(
+    "// Written by tools/check_images.py from Wikipedia lead images. Hand-picked entries in images.js win.\n"
     "window.IMG=Object.assign(window.IMG||{},{\n" + body + "});\n")
 print("Wrote data/images-auto.js with", len(auto), "entries")
