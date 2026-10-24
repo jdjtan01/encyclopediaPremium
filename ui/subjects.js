@@ -28,7 +28,7 @@ const closeMenus=()=>{document.querySelectorAll(".mega").forEach(m=>m.hidden=tru
 nv.querySelectorAll(".ddb").forEach(b=>b.onclick=e=>{e.stopPropagation();const m=$("#mg-"+b.dataset.dd),open=m.hidden;closeMenus();if(!open)return;const r=nv.getBoundingClientRect();m.style.top=(r.bottom+scrollY-1)+"px";m.hidden=false;b.setAttribute("aria-expanded","true");const f=m.querySelector("a");f&&f.focus({preventScroll:true})});
 document.addEventListener("click",e=>{if(!e.target.closest(".mega"))closeMenus();else if(e.target.closest("a"))closeMenus()});
 addEventListener("keydown",e=>{if(e.key=="Escape")closeMenus()});addEventListener("resize",closeMenus);
-function markNav(){const v=location.hash.replace(/^#\/?/,"").split("/")[0]||"home",sub=["cat","art","browse"].includes(v);nv.querySelectorAll("button").forEach(b=>b.classList.toggle("on",b.dataset.v==v||(sub&&b.dataset.v=="cat")||(b.dataset.v=="maze"&&v=="chal")||(b.dataset.v=="more"&&["index","gloss","dict","countries","country","regions","region","notes","hist","cover","howto","book","about"].includes(v))))}
+function markNav(){const v=location.hash.replace(/^#\/?/,"").split("/")[0]||"home",sub=["cat","art","browse"].includes(v);nv.querySelectorAll("button").forEach(b=>b.classList.toggle("on",b.dataset.v==v||(sub&&b.dataset.v=="cat")||(b.dataset.v=="maze"&&v=="chal")||(b.dataset.v=="more"&&["index","gloss","dict","countries","country","regions","region","notes","hist","cover","howto","book","about","guides","guide","phtimeline"].includes(v))))}
 addEventListener("hashchange",()=>{closeMenus();setTimeout(markNav)});addEventListener("DOMContentLoaded",()=>setTimeout(markNav));
 
 /* ---------- Subject and sub-section pages ---------- */
@@ -99,6 +99,10 @@ const nextSub=ALLSUBS[(j+1)%ALLSUBS.length],prevSub=ALLSUBS[(j-1+ALLSUBS.length)
 const nx=k<L.length-1?[L[k+1],"Up next in "+a.sub]:[get(nextSub[1].ids[0]),"Next sub-section: "+nextSub[1].n+(nextSub[0]!=a.c?" ("+nextSub[0]+")":"")];
 const pv=k>0?[L[k-1],"Previous in "+a.sub]:[get(prevSub[1].ids.at(-1)),"Previous: "+prevSub[1].n+(prevSub[0]!=a.c?" ("+prevSub[0]+")":"")];
 const pn=V.querySelector(".body .pn");if(pn&&nx[0]&&pv[0]){pn.className="upnext";pn.innerHTML=`<a class="unprev" href="#/art/${pv[0].id}"><small>‹ ${esc(pv[1])}</small><b>${esc(pv[0].t)}</b></a><a class="unnext" href="#/art/${nx[0].id}">${ban(nx[0])}<span><small>${esc(nx[1])} ›</small><b>${esc(nx[0].t)}</b><em>${esc(snip(nx[0],100))}</em></span></a>`;want([nx[0]])}
+/* References: specific sources for this article’s facts */
+const RF=(window.REFS||{})[id];const fr=$("#fr");if(RF&&fr){const w=WIKI[id]||sortT(a.t),L=[[`${w} (Wikipedia)`,"https://en.wikipedia.org/wiki/"+enc(w.replace(/ /g,"_"))],...RF];
+fr.insertAdjacentHTML("beforebegin",`<div class="refs" id="refs"><b class="disp">References</b><p class="mu" style="font:13px system-ui;margin:.2em 0">Sources covering the facts in this article. Key facts and dates were reviewed against sources like these in October 2026.</p><ol>${L.map(x=>`<li><a href="${esc(x[1])}" target="_blank" rel="noopener">${esc(x[0])}</a></li>`).join("")}</ol></div>`);
+const toc=V.querySelector(".toc"),fb=toc&&toc.querySelector('[data-s="fr"]');fb&&fb.insertAdjacentHTML("beforebegin",`<button class="lk" data-s="refs">References</button>`);const rb=toc&&toc.querySelector('[data-s="refs"]');rb&&(rb.onclick=()=>$("#refs").scrollIntoView({behavior:"smooth"}))}
 /* Contents list follows the reader */
 spy()};
 const prog=$("#rprog i");let spyT=0;

@@ -1,6 +1,8 @@
 /* Applies the subject arrangement in data/subjects.js before the layout layers load.
    Each article keeps its old section in a.oc, gets its subject in a.c and its sub-section in a.sub,
    and the article list is put in book order: subject, then sub-section, then the order listed. */
+/* Extra sections for flagship articles (data/deep3-*.js) are added after the in-depth layer. */
+Object.entries(window.DEEP3||{}).forEach(([i,d])=>{const a=get(i);if(a&&d.s)a.p.push(...d.s)});
 (()=>{const S=window.SUBJECTS||[],OLD=window.OLDSEC||{};if(!S.length)return;
 const where={};S.forEach((s,si)=>s[6].forEach((b,bi)=>b[2].split(/\s+/).filter(Boolean).forEach((id,k)=>where[id]=[si,bi,k])));
 const SUBJ=window.SUBJ={};S.forEach(s=>SUBJ[s[0]]={n:s[0],i:s[1],col:s[2],tag:s[3],intro:s[4],feat:s[5],subs:s[6].map(b=>({n:b[0],d:b[1],ids:[]}))});

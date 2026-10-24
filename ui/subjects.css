@@ -173,3 +173,24 @@ nav.mlinks{padding:0;border:0;margin:0}
 /* Dark mode: subject accents use the light shade so text stays readable. */
 :root[data-theme=dark] :is(.runhead.crumbs nav a:not(:first-child),.acard .t em,.upnext small,.subtile .more,.subtile li a:hover,.runhead a,.cl1 b,.ffile dt){color:var(--cl,var(--g2))}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) :is(.runhead.crumbs nav a:not(:first-child),.acard .t em,.upnext small,.subtile .more,.subtile li a:hover,.runhead a,.cl1 b,.ffile dt){color:var(--cl,var(--g2))}}
+.refs{border-top:1px solid var(--bd);margin-top:18px;padding-top:12px}.refs ol{margin:.4em 0;padding-left:22px}.refs li{font:14px/1.5 system-ui,sans-serif;margin:.2em 0}
+
+/* ---------- Philippine timeline and reading guides ---------- */
+.erajump{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 16px}.erajump a{font:600 13px var(--disp);padding:6px 12px;border-radius:999px;border:2px solid var(--c);color:var(--tx);text-decoration:none;background:var(--sf)}
+.phtl section{margin:18px 0}.phtl h3{border-top:0;margin:0 0 8px;padding:6px 12px;background:var(--c);color:#fff;border-radius:8px;font:800 16px var(--disp);letter-spacing:.06em;text-transform:uppercase}
+.phtl ol{list-style:none;margin:0;padding:0 0 0 14px;border-left:3px solid var(--c)}
+.phtl li{position:relative;display:grid;grid-template-columns:minmax(110px,170px) 1fr;gap:12px;padding:8px 0 8px 14px}
+.phtl li::before{content:"";position:absolute;left:-9px;top:14px;width:12px;height:12px;border-radius:50%;background:var(--sf);border:3px solid var(--c)}
+.phtl li b{font:800 14px/1.4 var(--disp);color:var(--hd)}.phtl li span{font:15px/1.5 var(--serif);color:var(--tx2)}.phtl li a{font:600 13px system-ui,sans-serif;white-space:nowrap}
+@media (max-width:640px){.phtl li{grid-template-columns:1fr;gap:2px}}
+.guides{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;margin-top:10px}
+.gcard{display:flex;flex-direction:column;gap:4px;padding:16px;border-radius:14px;background:var(--sf);border:1px solid var(--bd);border-top:5px solid var(--c);text-decoration:none;color:var(--tx)}
+.gcard:hover{box-shadow:0 10px 24px var(--sh)}.gcard .gi{font-size:28px}.gcard b{font:800 18px/1.2 var(--disp);color:var(--hd)}.gcard small{font:14px/1.45 system-ui,sans-serif;color:var(--mu)}.gcard em{font:700 11px var(--disp);letter-spacing:.08em;text-transform:uppercase;font-style:normal;color:var(--mu);margin-top:auto}
+.gprog{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:10px 0 16px}.gprog div{flex:1 1 200px;height:10px;border-radius:99px;background:var(--sf2);overflow:hidden}.gprog i{display:block;height:100%;background:var(--cc,var(--g))}
+.gsteps{list-style:none;padding:0;margin:0;display:grid;gap:10px}.gsteps a{display:flex;gap:14px;align-items:center;background:var(--sf);border:1px solid var(--bd);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--tx)}
+.gsteps .ban{width:120px;flex:0 0 120px;height:86px;font-size:32px}.gsteps span{padding:8px 12px 8px 0}.gsteps em{display:block;font:700 11px var(--disp);letter-spacing:.1em;text-transform:uppercase;font-style:normal;color:var(--cc)}.gsteps b{display:block;font:800 17px var(--disp);color:var(--hd)}.gsteps small{font:14px/1.4 system-ui,sans-serif}
+.gsteps li.done b::after{content:" ✓";color:var(--g)}
+.gbanner{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px 14px;margin:8px 0;padding:8px 14px;border-radius:10px;background:var(--sf2);border-left:4px solid var(--cc,var(--g));font:14px system-ui,sans-serif}
+.gbanner a{font-weight:600}
+:root[data-theme=dark] .lead::first-letter{color:var(--cl)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .lead::first-letter{color:var(--cl)}}

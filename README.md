@@ -73,3 +73,12 @@ The encyclopedia is arranged like a printed reference book: 11 subjects, each sp
   - The front page and Contents by subject
 - **Old links** such as `#/cat/Science` still work: they open the subject that section became.
 - **New articles:** 20 Animal Kingdom articles in `data/animals1.js` to `animals5.js`, and 20 more for the thinnest sub-sections in `data/more1.js` to `more5.js`, all added through `ADDART` in `data/animals-load.js`. Use the same format for any new article in any subject, then list its id in `data/subjects.js`. Every sub-section now has at least five articles.
+
+## Content round: gaps, references, flagships, timeline and guides
+
+- **42 gap articles** in `data/gaps1.js` to `gaps8.js` (Space, the Philippines, Planet Earth, History, How We Live, Technology, the Human Body), added with `ADDART`. New sub-sections: Asia Through the Ages, Government and Society, Transport and Engineering.
+- **References:** `data/refs.js` lists specific sources (Britannica, UNESCO, the Official Gazette, PHIVOLCS, Lawphil, Nobel Prize and others) for every Philippines and People article. The article’s Wikipedia page is added automatically. They appear as a References list above Further reading.
+- **Flagship articles:** `data/deep3-1.js` to `deep3-4.js` add six longer sections to 25 key articles (the DEEP3 layer, merged in `ui/subjects-pre.js`).
+- **Visuals:** `data/diagrams3.js` (tsunami, rocket, flower, the Sun, the neuron) and `data/visuals2.js` (12 scale drawings, 30 locator maps and 32 Today in history events).
+- **Philippine history timeline** (`#/phtimeline`) and **reading guides** (`#/guides`, `#/guide/<id>`): `ui/guides.js`. Articles in a guide show a banner with the next step. Edit `GUIDES` in that file to add a guide.
+- Totals: 387 articles in 11 subjects and 51 sub-sections, about 242,000 words, 1,548 key words and 47 diagrams.
