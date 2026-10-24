@@ -82,3 +82,7 @@ The encyclopedia is arranged like a printed reference book: 11 subjects, each sp
 - **Visuals:** `data/diagrams3.js` (tsunami, rocket, flower, the Sun, the neuron) and `data/visuals2.js` (12 scale drawings, 30 locator maps and 32 Today in history events).
 - **Philippine history timeline** (`#/phtimeline`) and **reading guides** (`#/guides`, `#/guide/<id>`): `ui/guides.js`. Articles in a guide show a banner with the next step. Edit `GUIDES` in that file to add a guide.
 - Totals: 387 articles in 11 subjects and 51 sub-sections, about 242,000 words, 1,548 key words and 47 diagrams.
+
+## Atlas
+
+`ui/atlas.js` replaces the original atlas. Scroll or pinch to zoom, drag to move, double-click to zoom in, use + / − / 0 and the arrow keys when the map is focused, search for a country by name and link straight to one with `#/atlas/<country>`. Russia and Fiji in `data/atlas.js` were split at the 180° line so they no longer draw bands across the map.
