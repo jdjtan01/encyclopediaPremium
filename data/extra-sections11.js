@@ -1,0 +1,16 @@
+window.EXTRA=Object.assign(window.EXTRA||{},{
+mozart:[["Style","Mozart’s music is known for its clear melodies and balanced form, and he wrote in nearly every genre of his day, from symphonies and concertos to operas and chamber music."]],
+opm:[["Languages and themes","OPM songs are written in Filipino, English and regional languages such as Cebuano and Ilocano, and the genre ranges from love ballads to protest songs."]],
+blues:[["Blue notes","Blues musicians bend certain notes, known as blue notes, to give the music its mournful, expressive sound."]],
+electro:[["Samples and loops","Drum machines and samplers let producers build tracks from loops, a technique that spread from electronic dance music into pop and hip hop."]],
+reggae:[["Rhythm","Reggae’s drum and bass patterns put the emphasis on the offbeat, producing the relaxed, rolling feel that makes the style instantly recognizable."]],
+tennis:[["Surfaces","Tennis is played on grass, clay and hard courts, and each surface changes how the ball bounces and which players do well."]],
+athletics:[["Field events","Field events include the long jump, high jump, pole vault, shot put, discus, javelin and hammer throw."]],
+swimming:[["Open water","Open-water swimming takes place in seas, lakes and rivers, and the Olympic marathon swim covers 10 km."]],
+cricket:[["Rules in brief","Two teams of eleven take turns to bat and bowl, and the batting side scores runs by hitting the ball and running between the wickets."]],
+martial:[["Discipline","Martial arts emphasize discipline and respect as much as fighting skill, and many are practiced as sport, self-defense or fitness."]],
+spanish:[["Spelling and sound","Spanish is largely phonetic, so words are spelled much as they sound, which makes it relatively quick to learn to read aloud."]],
+mandarin:[["Dialects","Chinese languages include Mandarin, Cantonese, Shanghainese and others, which differ so much in speech that speakers often cannot understand each other, though they share a writing system."]],
+latin:[["Everyday English","Many everyday English words come from Latin, and phrases such as et cetera, per capita and status quo are used unchanged."]],
+arabic:[["Calligraphy","Arabic calligraphy is a major art form, used to decorate manuscripts, mosques and buildings across the Islamic world."]],
+signlang:[["Grammar and space","Sign languages use handshapes, movement, facial expressions and the space around the signer as part of their grammar."]]});
