@@ -86,3 +86,16 @@ The encyclopedia is arranged like a printed reference book: 11 subjects, each sp
 ## Atlas
 
 `ui/atlas.js` replaces the original atlas. Scroll or pinch to zoom, drag to move, double-click to zoom in, use + / − / 0 and the arrow keys when the map is focused, search for a country by name and link straight to one with `#/atlas/<country>`. Russia and Fiji in `data/atlas.js` were split at the 180° line so they no longer draw bands across the map.
+
+## Countries, flags and the atlas (round 6)
+- `data/countries.js` (`window.CTRY`): data for all 177 places on the map, keyed by the atlas names. Includes ISO codes, official name, continent and region, capitals, languages, currencies, calling code, internet domain, demonym, area, neighbours, landlocked and UN status, World Bank population (to 2024) and GDP (2023), and time zones. Northern Cyprus and Somaliland carry notes on their disputed status. Taiwan's population is the government estimate.
+- `flags/`: 175 SVG flags from flag-icons (MIT), all cached for offline use.
+- `ui/countries.js` + `ui/countries.css`:
+  - **Countries of the world** (`#/countries`): flag cards, continent filter, search, and sorting by population, area, density or GDP per person.
+  - **Country fact files** (`#/country/<name>`): flag header, stat tiles with world ranks, fuller fact file, clickable neighbours, comparison with the Philippines, and previous/next country.
+  - **Flag quiz** (`#/flags`).
+  - Shared helpers in `window.CUI`.
+- `ui/atlas.js`:
+  - Continent colour-coding, plus population, density and GDP-per-person map modes.
+  - A clickable legend that picks out one group, flags in tooltips and the profile panel, clickable neighbours, and better fitting for island countries.
+- Service worker cache is now `ep-v6`.
