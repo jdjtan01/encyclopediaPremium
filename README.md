@@ -99,3 +99,38 @@ The encyclopedia is arranged like a printed reference book: 11 subjects, each sp
   - Continent colour-coding, plus population, density and GDP-per-person map modes.
   - A clickable legend that picks out one group, flags in tooltips and the profile panel, clickable neighbours, and better fitting for island countries.
 - Service worker cache is now `ep-v6`.
+
+## Atlas redesign (round 7)
+- `data/atlasmap.js` (`window.WMAP`): a new, more detailed world map from Natural Earth (public domain, via world-atlas) with 241 places. It uses the rounded Natural Earth projection, and Antarctica is trimmed to a thin edge. Each place has a simple outline for the full-world view and a detailed one for close-ups, plus a box, a label point, 195 capital-city locations, and ocean and sea labels (including the Sulu, Celebes, Sibuyan, Bohol and Visayan Seas and the West Philippine Sea).
+- `data/countries.js` now covers 238 countries and territories. Territories carry a status line (for example "an unincorporated territory of the United States").
+- `flags/`: 236 flags.
+- `ui/atlas.js`:
+  - Labels appear as you zoom, without overlapping: countries, then capitals, then seas.
+  - Depth comes from an ocean gradient, a coastal glow, land shadows and a paper texture in light mode.
+  - The selected country lifts, and its neighbours are outlined.
+  - The side panel shows a world summary, a continent summary or a country profile with a world locator.
+  - Tiny islands are shown as dots.
+  - The data modes use a smooth colour bar with a hover marker, and colours cross-fade between modes.
+  - On phones the map is taller and the profile opens as a bottom sheet.
+  - There is a full-screen mode and an overview map.
+- Country pages use the new map for their "Where in the world" locator.
+- The service worker cache is now `ep-v7`.
+- `data/atlas.js` (`window.WORLD`) is kept for the small locator maps inside articles.
+
+## A general encyclopedia (round 8)
+The encyclopedia is now written for readers anywhere, with no country given special weight.
+
+- **Structure:** "The Philippines" subject is replaced by **Countries and Places**, which has the sub-sections Asia (more continents follow with the country articles), Cities and Landmarks, and Islands. The other Philippine articles moved into their topic subjects:
+  - volcanoes and mountains to Planet Earth
+  - wildlife and reefs to Animal Kingdom
+  - history to History
+  - language, food, government, economy and sport to How We Live
+  - folklore and dance to Arts and Culture
+  - jeepneys and power to Technology
+- **History:** "The Modern World" is split into The World Wars and Since 1945.
+- **People:** "Filipino Heroes" is replaced by Freedom and Reform, plus a new Care and Faith sub-section.
+- **Guides:** rebalanced, with a new "The first civilizations" guide and a world view in the others.
+- **Philippine pages:** the Philippine timeline and regions pages are linked from the Philippines article and fact file instead of the main menus.
+- **Country pages:** "Compared with the Philippines" is replaced by "How it compares": the country's share of the world's people and land, plus a picker to compare with any country.
+- **Atlas:** opens on the whole world on every screen, and sea labels are spread evenly around the world.
+- **Filipino summaries:** now optional, switched on from an article's More menu.

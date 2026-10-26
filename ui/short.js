@@ -2,7 +2,7 @@
 (()=>{
 const enc=encodeURIComponent,slug=t=>t.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 const art=new Map(A.map(a=>[sortT(a.t).toLowerCase(),a.id]));
-window.SH=(window.SHORT||[]).map(x=>({id:slug(x[0]),t:x[0],c:CAT[x[1]]?x[1]:((window.OLDSEC||{})[x[1]]||"The Philippines"),x:x[2],art:art.get(sortT(x[0]).toLowerCase())})).sort((a,b)=>sortT(a.t).localeCompare(sortT(b.t),"en",{sensitivity:"base"}));
+window.SH=(window.SHORT||[]).map(x=>({id:slug(x[0]),t:x[0],c:CAT[x[1]]?x[1]:((window.OLDSEC||{})[x[1]]||"Countries and Places"),x:x[2],art:art.get(sortT(x[0]).toLowerCase())})).sort((a,b)=>sortT(a.t).localeCompare(sortT(b.t),"en",{sensitivity:"base"}));
 window.SHBY={};SH.forEach(e=>SHBY[e.id]=e);
 const L1=s=>{const c=sortT(s).normalize("NFD").replace(/[̀-ͯ]/g,"")[0].toUpperCase();return /[A-Z]/.test(c)?c:"#"};
 const first=t=>{const m=t.match(/^.*?[.!?](\s|$)/);return m?m[0]:t};
