@@ -6,20 +6,20 @@ window.SUBJECTS=[
 ["Planet Earth","🌍",["#0f6e5a","#7fd9bf"],"The restless rock we live on",
 "Earth is a living planet: its crust moves, its mountains rise and wear away, and water and weather carry heat around the globe. This subject explores the forces that shape the land, the oceans and rivers, and the great wild places of the world.",
 ["tect","everest","pacific","amazon"],[
-["Restless Earth","Moving plates, volcanoes and earthquakes.","tect volc quake tsunami rift"],
-["Mountains and Canyons","The highest peaks and deepest valleys.","everest himal alps andes canyon"],
-["Water and Weather","Oceans, seas, rivers, tides and climate.","pacific atlantic indocean med reef nile mekong tides wcycle climate climchange"],
-["Lands and Regions","Deserts, ice, forests and islands.","continents desert soil amazon sahara antarc arctic iceland madag sea"]]],
+["Restless Earth","Moving plates, volcanoes and earthquakes.","tect volc quake tsunami rift taal mayon pinatubo"],
+["Mountains and Canyons","The highest peaks and deepest valleys.","everest himal alps andes canyon apo pulag"],
+["Water and Weather","Oceans, seas, rivers, tides and climate.","pacific atlantic indocean med reef nile mekong tides wcycle climate climchange phtyph"],
+["Lands and Regions","Deserts, ice, forests and islands.","continents desert soil amazon sahara antarc arctic sea"]]],
 
 ["Animal Kingdom","🐘",["#4d7c0f","#c3e97a"],"Every creature, great and small",
 "From the blue whale to the smallest beetle, living things fill every corner of the planet. This subject meets the mammals, birds, sea creatures, reptiles and minibeasts, and explains the plants and cells that make life possible.",
 ["elephant","eagle","wshark","dino"],[
 ["Mammals","Furry, warm-blooded animals that feed their young on milk.","elephant tiger lion wolf bear gorilla giraffe kangaroo bat tarsier"],
 ["Birds","Feathered fliers, hunters, talkers and swimmers.","birds eagle owl parrot penguin"],
-["Sea Life","Creatures of the oceans and coral reefs.","whale shark wshark octopus jelly seaturtle"],
+["Sea Life","Creatures of the oceans and coral reefs.","whale shark wshark octopus jelly seaturtle tubbataha"],
 ["Reptiles and Amphibians","Scaly hunters, frogs and the dinosaurs.","snake lizard croc frog dino"],
 ["Insects and Spiders","The minibeasts that run the world.","insect butterfly bee ants spider"],
-["Plants and Habitats","Green plants, forests and the webs of life.","photo flower trees fungi eco"],
+["Plants and Habitats","Green plants, forests and the webs of life.","photo flower trees fungi eco phbio"],
 ["How Life Works","Cells, genes and the story of evolution.","cell dna genome mendel evo microbe"]]],
 
 ["Space","🪐",["#312e81","#a5b4fc"],"Our place among the stars",
@@ -46,57 +46,57 @@ window.SUBJECTS=[
 ["Disease and Medicine","Germs, defenses and the fight against illness.","immune vacc flu malaria allergy"]]],
 
 ["History","🏛️",["#8a5a1a","#e6bd78"],"Five thousand years of the human story",
-"History is the story of how people built cities, empires and nations, and how ideas, trade and war changed the world. This subject travels from the first civilizations to the world wars and the Cold War.",
+"History is the story of how people built cities, empires and nations, and how ideas, trade and war changed the world. This subject travels from the first civilizations to the world wars and the decades since.",
 ["egypt","rome","renais","ww2"],[
 ["Ancient Worlds","The first cities, kingdoms and empires.","mesop egypt greece rome maya"],
-["Asia Through the Ages","India, China, Japan, Korea and the Mongols.","indus china mongol japan korea"],
+["Asia Through the Ages","India, China, Japan, Korea and the Mongols.","indus china mongol precol sulu japan korea"],
 ["Middle Ages","Raiders, traders and great empires.","byzant viking crusades silk ottoman aztec"],
-["Discovery and Revolution","New ideas, new lands and new nations.","renais reform explor usrev frrev indrev"],
-["The Modern World","The world wars, the Cold War and the world since 1945.","wwi ww2 holocaust un coldwar koreanwar decol vietnam ussrfall asean"]]],
+["Discovery and Revolution","New ideas, new lands and new nations.","renais reform explor lapulapu spanph usrev frrev phrev malolos indrev"],
+["The World Wars","Two global wars and the years between them.","wwi commonwealth ww2 holocaust japocc"],
+["Since 1945","The United Nations, the end of empires, the Cold War and after.","un independence decol koreanwar coldwar vietnam asean martiallaw edsa ussrfall"]]],
 
-["The Philippines","🏝️",["#0b3d91","#f2c94c"],"Seven thousand islands, one nation",
-"The Philippines is an archipelago of more than 7,600 islands, rich in history, culture and wildlife. This subject tells the story of the nation, visits its islands and cities, explores its volcanoes and wildlife, and celebrates its food, festivals and languages.",
-["ph","banaue","phrev","phfood"],[
-["Story of the Nation","From early kingdoms to People Power.","precol lapulapu sulu spanph phrev malolos commonwealth japocc independence martiallaw edsa"],
-["Islands and Places","Cities, islands and heritage sites.","ph manila cebu mindanao palawan bohol baguio vigan boracay siargao banaue tubbataha"],
-["Volcanoes, Weather and Wildlife","Fire mountains, typhoons and unique animals.","apo taal mayon pinatubo pulag phtyph phbio"],
-["Culture and Daily Life","Languages, food, festivals and work.","phgov indig phlang baybayin phfood phfest phfolk phdance phsport jeepney ofw phecon phpower"]]],
+["Countries and Places","🗺️",["#0b5a7a","#7cc9ea"],"Nations, cities and islands of the world",
+"The world is home to about two hundred countries, each with its own land, history and way of life. This subject visits countries on every continent, great cities and landmarks, and the island worlds scattered across the oceans.",
+["ph","manila","palawan","banaue"],[
+["Asia","Countries of the largest and most populous continent.","ph"],
+["Cities and Landmarks","Great cities and famous places.","manila cebu baguio vigan banaue"],
+["Islands","Island worlds and their peoples.","mindanao palawan bohol boracay siargao iceland madag"]]],
 
 ["People","👤",["#7a1f3d","#f4a3b5"],"Lives that changed the world",
-"History is made by people. This subject tells the life stories of heroes of the Philippines and of world leaders, thinkers, scientists, explorers, artists and champions whose work still shapes our lives.",
-["rizal","einstein","gandhi","magellan"],[
-["Filipino Heroes","The men and women who fought for the nation.","rizal bonifacio silang sora delpilar mabini aluna aguinaldo lorenzoruiz ninoy"],
-["Leaders and Rulers","Presidents, queens, kings and emperors.","quezon magsaysay marcos cory cleopatra alexander caesar mansamusa napoleon lincoln"],
-["Changemakers","Campaigners for freedom, peace and care.","gandhi mandela mlk malala teresa keller nightingale"],
+"History is made by people. This subject tells the life stories of rulers and reformers, thinkers, scientists, explorers, artists and champions from around the world whose work still shapes our lives.",
+["einstein","gandhi","cleopatra","kahlo"],[
+["Leaders and Rulers","Presidents, queens, kings, emperors and generals.","cleopatra alexander caesar mansamusa napoleon lincoln aguinaldo aluna quezon magsaysay marcos cory"],
+["Freedom and Reform","Campaigners for independence, rights and justice.","gandhi mandela mlk malala rizal bonifacio delpilar mabini silang sora ninoy"],
+["Care and Faith","Lives devoted to healing, teaching and faith.","teresa nightingale keller lorenzoruiz"],
 ["Scientists and Inventors","Minds that unlocked nature’s secrets.","einstein darwin newtonp lovelace rfranklin hawking fedelmundo"],
 ["Explorers","Journeys across the world and to the Moon.","marcopolo ibnbattuta zhenghe columbus magellan armstrong"],
-["Artists and Champions","Painters, writers, musicians and athletes.","jluna balagtas beethoven kahlo salonga hidilyn pacquiao"]]],
+["Artists and Champions","Painters, writers, musicians and athletes.","beethoven kahlo jluna balagtas salonga hidilyn pacquiao"]]],
 
 ["Arts and Culture","🎨",["#6d28d9","#c9b8ff"],"Painting, stories, music and the stage",
-"People have always made art, told stories and played music. This subject explores great painters and sculptors, the books and myths that last for centuries, music from Mozart to OPM, and theatre, dance and film.",
+"People have always made art, told stories and played music. This subject explores great painters and sculptors, the books and myths that last for centuries, music from Mozart to hip hop, and theatre, dance and film.",
 ["davinci","shakes","musicw","cinema"],[
 ["Painting and Sculpture","Great artists and the buildings they inspired.","davinci michel impress vangogh picasso gothic"],
-["Books and Stories","Epics, plays, novels, poems and myths.","homer shakes austen novel fairy gmyth haikuart phlit"],
-["Music","From symphonies to hip hop and OPM.","musicw mozart opera jazz blues beatles reggae hiphop electro guitar opm"],
+["Books and Stories","Epics, plays, novels, poems and myths.","homer shakes austen novel fairy gmyth phfolk haikuart phlit"],
+["Music","Music and dance from symphonies to hip hop.","musicw mozart opera jazz blues beatles reggae hiphop electro guitar opm phdance"],
 ["Stage and Screen","Theatre, ballet, film, animation and television.","theatre ballet cinema phcinema anim tv"]]],
 
 ["Technology","⚙️",["#0e7490","#6fe3f5"],"The inventions that made the modern world",
 "Every machine began as an idea. This subject follows the inventions that changed how we travel, talk, compute and power our homes, from the printing press to artificial intelligence.",
 ["print","comp","internet","renew"],[
 ["Inventions and Machines","Engines, printing, radio and photography.","print steam phone radio camera laser robot"],
-["Transport and Engineering","Trains, planes, cars, ships and bridges.","rail cars ships flight bridges"],
+["Transport and Engineering","Trains, planes, cars, ships and bridges.","rail cars ships flight bridges jeepney"],
 ["Computers and Communication","Chips, networks and smart machines.","comp chip internet smartphone socialmedia ai gps crypto"],
-["Energy and Power","Electricity, batteries and clean energy.","elec battery nuclear renew wind ev"]]],
+["Energy and Power","Electricity, batteries and clean energy.","elec battery nuclear renew wind ev phpower"]]],
 
 ["How We Live","🏘️",["#c2410c","#fdba74"],"Money, beliefs, words, food and play",
 "People live together in families, towns and nations. This subject explains how we earn and trade, what the world’s great religions and thinkers teach, how languages work, where our food comes from and the sports we love.",
 ["money","relig","rice","olymp"],[
-["Government and Society","Democracy, law, rights, taxes and cities.","democ law hrights taxes urban"],
-["Money and Work","Trade, banks, prices and jobs.","supdem money trade inflation gdp stockm insur labor"],
-["Beliefs and Ideas","Religions and philosophies of the world.","relig hindu buddh judaism christ islam confu tao socr stoic"],
-["Languages","How people speak, write and sign.","langevo alphabet english spanish mandarin latin arabic signlang"],
-["Food and Farming","Crops, cooking and feeding the world.","agri rice wheat maize potato sugar spice coffee choco fish"],
-["Sport","Games, races and great competitions.","olymp soccer bball volley tennis athletics swimming cricket martial chess"]]]
+["Government and Society","Democracy, law, rights, taxes and cities.","democ law hrights taxes urban phgov indig"],
+["Money and Work","Trade, banks, prices and jobs.","supdem money trade inflation gdp stockm insur labor phecon ofw"],
+["Beliefs and Ideas","Religions and philosophies of the world.","relig hindu buddh judaism christ islam confu tao socr stoic phfest"],
+["Languages","How people speak, write and sign.","langevo alphabet english spanish mandarin latin arabic signlang phlang baybayin"],
+["Food and Farming","Crops, cooking and feeding the world.","agri rice wheat maize potato sugar spice coffee choco fish phfood"],
+["Sport","Games, races and great competitions.","olymp soccer bball volley tennis athletics swimming cricket martial chess phsport"]]]
 ];
 // Where the old sections went, for old links and for the quick-reference A–Z entries.
-window.OLDSEC={"Science":"Science and Numbers","History":"History","Geography":"Planet Earth","Technology":"Technology","Philippines":"The Philippines","Arts and Literature":"Arts and Culture","Health and the Body":"The Human Body","Mathematics":"Science and Numbers","Religion and Philosophy":"How We Live","Animals and Nature":"Animal Kingdom","Space and Astronomy":"Space","Economics and Society":"How We Live","Food and Agriculture":"How We Live","Music":"Arts and Culture","Sports":"How We Live","Languages":"How We Live","History of Science":"Science and Numbers","People":"People"};
+window.OLDSEC={"Science":"Science and Numbers","History":"History","Geography":"Planet Earth","Technology":"Technology","Philippines":"Countries and Places","Arts and Literature":"Arts and Culture","Health and the Body":"The Human Body","Mathematics":"Science and Numbers","Religion and Philosophy":"How We Live","Animals and Nature":"Animal Kingdom","Space and Astronomy":"Space","Economics and Society":"How We Live","Food and Agriculture":"How We Live","Music":"Arts and Culture","Sports":"How We Live","Languages":"How We Live","History of Science":"Science and Numbers","People":"People"};

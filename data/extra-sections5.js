@@ -10,7 +10,7 @@ rift:[["Lakes","Rift lakes such as Tanganyika, about 1,470 m deep, are among the
 mekong:[["Fishing and dams","The Mekong supports one of the world’s largest inland fisheries. Dams on the river have raised concerns about fish migration and the sediment that feeds the delta."]],
 camera:[["Inside a camera","A lens focuses light onto film or a sensor, while the aperture and shutter control how much light arrives. A digital sensor turns light into electrical signals pixel by pixel."]],
 ev:[["Range and charging","Range depends on battery size, speed and temperature. Fast chargers can add a large share of a battery’s range in under an hour."]],
-wind:[["Offshore wind","Offshore turbines catch stronger, steadier winds but cost more to build and maintain. The Philippines has identified large offshore wind potential and has been developing rules for projects."]],
+wind:[["Offshore wind","Offshore turbines catch stronger, steadier winds but cost more to build and maintain. The North Sea off Britain, Denmark, Germany and the Netherlands is home to the largest offshore wind farms, and China now builds the most."]],
 manila:[["Landmarks","Rizal Park, Fort Santiago and Manila Cathedral are among the city’s landmarks, and San Agustin Church in Intramuros is part of a UNESCO World Heritage site."]],
 spanph:[["Baroque churches","Four churches, in Manila, Paoay, Santa Maria and Miagao, make up the UNESCO site Baroque Churches of the Philippines, listed in 1993."]],
 japocc:[["Resistance","Guerrilla groups, including the Hukbalahap, attacked Japanese forces and supplied intelligence to the Allies throughout the occupation."]],
