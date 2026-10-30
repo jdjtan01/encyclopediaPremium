@@ -20,7 +20,7 @@ if(a.oc=="Languages"&&/speakers|languages/i.test(l))return["Ethnologue","https:/
 return BRIT(sortT(a.t))}
 const prevArt=R.art;R.art=function(id){prevArt(id);const a=get(id);if(!a)return;
 const cl=[...V.querySelectorAll(".hero .cl1")];if(cl.length&&a.k){const N=[];cl.forEach((c,i)=>{const k=a.k[i];if(!k)return;N.push([k,noteFor(a,k[0],k[1])]);c.querySelector("b").insertAdjacentHTML("beforeend",`<sup><a href="#nt" class="nref" data-n="${N.length}">${N.length}</a></sup>`)});
-const fr=$("#fr");if(fr&&N.length)fr.insertAdjacentHTML("beforeend",`<div id="nt"><b class="disp">Notes</b><p class="mu" style="font:13px system-ui;margin:.2em 0">Where to check the figures in the fact file at the top of this article.</p><ol class="notes">${N.map(([k,s])=>`<li><b>${esc(k[0])}</b> (${esc(k[1])}): <a href="${esc(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a></li>`).join("")}</ol></div>`);
+const fr=$("#fr");if(fr&&N.length)fr.insertAdjacentHTML("beforeend",`<div id="nt"><b class="disp">Notes</b><p class="mu" style="font:13px system-ui;margin:.2em 0">Where to check the figures in the fact file at the top of this article. Figures are as of ${ED.date} unless another date is given.</p><ol class="notes">${N.map(([k,s])=>`<li><b>${esc(k[0])}</b> (${esc(k[1])}): <a href="${esc(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a></li>`).join("")}</ol></div>`);
 V.querySelectorAll(".nref").forEach(r=>r.onclick=e=>{e.preventDefault();$("#nt").scrollIntoView({behavior:"smooth"})})}
 quiz(a)};
 

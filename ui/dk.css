@@ -219,3 +219,14 @@ sup a.nref{font:700 10px system-ui;color:var(--ac);text-decoration:none;margin-l
 @media print{body.printing-book header,body.printing-book nav,body.printing-book .bk-bar,body.printing-book .foot,body.printing-book .edge,body.printing-book .tab{display:none!important}
 .book .bk-cover{min-height:180mm;break-after:page;-webkit-print-color-adjust:exact;print-color-adjust:exact}.bk-toc{break-after:page}.bk-art{break-before:page;columns:2;column-gap:9mm;border-top:none}.bk-art h2,.bk-rh,.bk-art .lead,.bk-tl,.bk-kf{column-span:all}.bk-art h3{break-after:avoid}
 @page{@bottom-center{content:counter(page);font:9pt sans-serif;color:#666}}}
+/* Empire maps */
+.empsvg .sea{fill:var(--sea)}.empsvg .land path{fill:var(--land);stroke:var(--sea)}.empsvg .land path.ef{fill:var(--cc)}.empsvg .land path.ep{fill:url(#epat)}
+.empsvg .epbg{fill:var(--land)}.empsvg .epln{stroke:var(--cc)}
+.emleg{display:flex;flex-wrap:wrap;gap:6px 18px;margin:8px 0 2px;font:600 13px system-ui;color:var(--tx)}.emleg span{display:inline-flex;align-items:center;gap:6px}
+.emleg .sw{display:inline-block;width:18px;height:12px;border-radius:3px;border:1px solid var(--bd)}.emleg .sw.f{background:var(--cc)}
+.emleg .sw.p{background:repeating-linear-gradient(45deg,var(--cc) 0 3px,var(--land) 3px 6px)}
+/* In brief */
+.brief{clear:none;margin:14px 0 18px;border:1px solid var(--bd);border-left:5px solid var(--cc);border-radius:12px;background:var(--sf);padding:10px 16px 6px}
+.brief .bh{font:800 12px var(--disp);letter-spacing:.12em;text-transform:uppercase;color:var(--cc);margin-bottom:4px}
+.brief ul{margin:0;padding:0 0 0 18px}.brief li{margin:0 0 8px;font-size:16px;line-height:1.5}.brief li b{font-family:var(--disp)}
+.brief .lk.more{display:inline;padding:0;font:600 14px system-ui}

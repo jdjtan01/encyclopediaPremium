@@ -15,7 +15,7 @@ const BB=MC.map(c=>c[3]);
 const bbOf=n=>{const i=idx(n);return i<0?null:BB[i]};
 /* A small map of a country: whole world (world=true) or its surroundings, with the country picked out */
 function loc(n,world){const i=idx(n);if(i<0)return"";const r=MC[i],b=r[3];let x,y,w,h;
-if(world){x=0;y=0;w=MAP.W;h=MAP.cut}else{const bw=b[2]-b[0],bh=b[3]-b[1];w=Math.min(MAP.W,Math.max(bw*2.6,bh*2.6*1.6,140));h=w/1.6;x=(b[0]+b[2])/2-w/2;y=(b[1]+b[3])/2-h/2;x=Math.max(0,Math.min(MAP.W-w,x));y=Math.max(0,Math.min(MAP.cut-h,y))}
+if(world){x=0;y=0;w=MAP.W;h=MAP.cut}else{const bw=b[2]-b[0],bh=b[3]-b[1];w=Math.min(MAP.W,Math.max(bw*2.6,bh*2.6*1.6,140));h=w/1.6;x=(b[0]+b[2])/2-w/2;y=(b[1]+b[3])/2-h/2;const mx=(b[0]+b[2])/2;if(mx>MAP.W*.04&&mx<MAP.W*.96)x=Math.max(0,Math.min(MAP.W-w,x));y=Math.max(0,Math.min(MAP.cut-h,y))}
 const detail=w<300,pick=c=>detail?c[2]:(c[1]||c[2]),inv=c=>{const q=c[3];return q[2]>=x-20&&q[0]<=x+w+20&&q[3]>=y-20&&q[1]<=y+h+20};
 const small=Math.max(b[2]-b[0],b[3]-b[1])<w/45,sw=w/400;
 return `<svg viewBox="${x.toFixed(1)} ${y.toFixed(1)} ${w.toFixed(1)} ${h.toFixed(1)}" class="cloc${world?" world":""}" role="img" aria-label="Map showing where ${esc(disp(n))} is"><defs><clipPath id="cl${i}${world?"w":""}"><path d="${MAP.sphere}"/></clipPath></defs><path d="${MAP.sphere}" class="oc"/><g clip-path="url(#cl${i}${world?"w":""})"><path d="${MAP.grat}" class="gr" stroke-width="${sw*.6}"/>${world?`<path d="${MAP.land}" class="ld"/>`:`<g class="ld" stroke-width="${sw}">${MC.filter(c=>c!==r&&!c[6]&&inv(c)).map(c=>`<path d="${pick(c)}"/>`).join("")}</g>`}<path d="${pick(r)}" class="hl" style="--k:${kv((D[n]||{}).ct)}" stroke-width="${sw}"/>${small||world?`<circle cx="${r[4][0]}" cy="${r[4][1]}" r="${(world?w/38:w/40).toFixed(2)}" class="mk" stroke-width="${(world?w/220:w/160).toFixed(2)}"/>`:""}</g><path d="${MAP.sphere}" class="rim" stroke-width="${sw}"/></svg>`}
@@ -67,7 +67,7 @@ V.querySelectorAll(".cchips button").forEach(b=>b.onclick=()=>{st.c=b.dataset.c;
 
 /* ---------- Country fact file ---------- */
 R.country=function(n){n=decodeURIComponent(n||"");if(!D[n]&&!PROF[n]){const k=names.find(x=>disp(x).toLowerCase()==n.toLowerCase());if(k)n=k;else{R.countries();return}}
-window.setCat&&setCat("Planet Earth");const d=D[n]||{},p=prof(n),P=pop(n),Ar=area(n),De=dens(n),G=gpc(n),rk=ranks(),art=artFor(n),b=bbOf(n),nm=disp(n),cap=capOf(n),f=ATD[n];
+window.setCat&&setCat("Countries and Places");const d=D[n]||{},p=prof(n),P=pop(n),Ar=area(n),De=dens(n),G=gpc(n),rk=ranks(),art=artFor(n),b=bbOf(n),nm=disp(n),cap=capOf(n),f=ATD[n];
 const sameC=names.filter(x=>D[x].ct==p.cont),k=sameC.indexOf(n),prev=sameC[k-1],next=sameC[k+1];
 const tile=(lab,val,sub)=>val?`<div class="cstat"><small>${lab}</small><b>${val}</b>${sub?`<em>${sub}</em>`:""}</div>`:"";
 const rkTxt=(o)=>o?`${ord(o[0])} of ${o[1]}`:"";
