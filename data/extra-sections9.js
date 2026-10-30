@@ -28,7 +28,7 @@ pulsar:[["Magnetars","Magnetars are neutron stars with extremely powerful magnet
 supdem:[["Shifting curves","A change in income, taste or technology can shift demand or supply and move the market price."]],
 money:[["Digital money","Most money today exists as bank balances on computers, and cards and payment apps move it electronically."]],
 trade:[["Tariffs","Tariffs, which are taxes on imports, can protect local industries but raise prices for consumers."]],
-rice:[["Varieties","Rice comes in thousands of varieties, from fragrant jasmine to the sticky glutinous rice used in Filipino kakanin."]],
+rice:[["Varieties","Rice comes in thousands of varieties, from fragrant jasmine and basmati to the short, sticky rice used in Japanese sushi and Asian desserts."]],
 agri:[["Domestication","Early farmers chose the best plants and animals over generations, gradually changing wild species into crops and livestock."]],
 coffee:[["Growers","Most coffee is grown by small farmers in tropical countries, and fair trade programs aim to pay them more stable prices."]],
 inflation:[["Interest rates","Central banks fight inflation by raising interest rates, which slows borrowing and spending."]],
@@ -39,5 +39,5 @@ urban:[["Planning","Compact planning, public transit and green spaces can make c
 wheat:[["Types","Hard wheat is used for bread, soft wheat for cakes and pastries, and durum wheat for pasta."]],
 spice:[["Pepper","Black pepper, native to India, was once so valuable that it was used to pay rent and taxes."]],
 choco:[["Cocoa farming","Cacao trees grow only near the equator and take years to bear fruit, and each pod holds 20 to 60 beans."]],
-fish:[["Philippine waters","The Philippines lies in the Coral Triangle and is a leading fish producer, with millions of people depending on fishing."]],
+fish:[["Great fishing nations","China, Indonesia, India, Peru, Russia and the United States catch the most fish, and millions of people depend on fishing for a living."]],
 potato:[["Uses","Potatoes are boiled, baked and fried, and are also used to make starch and vodka."]]});
