@@ -230,3 +230,6 @@ sup a.nref{font:700 10px system-ui;color:var(--ac);text-decoration:none;margin-l
 .brief .bh{font:800 12px var(--disp);letter-spacing:.12em;text-transform:uppercase;color:var(--cc);margin-bottom:4px}
 .brief ul{margin:0;padding:0 0 0 18px}.brief li{margin:0 0 8px;font-size:16px;line-height:1.5}.brief li b{font-family:var(--disp)}
 .brief .lk.more{display:inline;padding:0;font:600 14px system-ui}
+/* Timeline key moments: era headings and article links */
+.tlera{font:800 13px var(--disp);letter-spacing:.1em;text-transform:uppercase;color:var(--ac);margin:20px 0 6px 8px}
+.ev span a{color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--ac) 45%,transparent)}.ev span a:hover{color:var(--ac)}
