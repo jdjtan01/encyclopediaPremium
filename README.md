@@ -51,7 +51,7 @@ The layout layer lives in `ui/dk.js` and `ui/dk.css`, loaded after the main scri
 
 - **Links inside the text:** `ui/ref.js`, with link phrases in `data/links.js`. Mentions of other articles and A–Z entries become links.
 - **Citations and edition page:** How to cite (APA, MLA, Chicago) and Report an error on every article. The About this edition page (`#/about`) holds editorial standards, picture credits and saved error reports.
-- **People section:** 42 biographies in `data/people1.js` to `people7.js`, loaded by `data/people-load.js`.
+- **People section:** biographies in `data/people*.js`, loaded by `data/people-load.js`.
 - **Quick reference A–Z:** 319 short entries in `data/short1.js` to `short8.js`. Pages are `#/az` and `#/e/<id>`, built by `ui/short.js`.
 - **Location maps and charts:** `data/locations.js`, `data/charts.js` and `ui/maps.js`.
 - **Fixed photos:** `data/images-pinned.js`. Turn on the photo editor from the About page, choose photos and aim labels, then download the file and replace `data/images-pinned.js` with it.
@@ -61,7 +61,7 @@ The layout layer lives in `ui/dk.js` and `ui/dk.css`, loaded after the main scri
 
 ## Subjects and sub-sections (third edition of the layout)
 
-The encyclopedia is arranged like a printed reference book: 11 subjects, each split into sub-sections.
+The encyclopedia is arranged like a printed reference book: subjects, each split into sub-sections.
 
 - **The arrangement:** `data/subjects.js` lists every subject with its icon, colors, tagline, introduction, featured articles and sub-sections, and every article id in the order of the book. To move an article, move its id to another sub-section. An article not listed goes to an "Other articles" sub-section of the subject its old section maps to (`OLDSEC`).
 - **Applying it:** `ui/subjects-pre.js` runs straight after the main script. Each article keeps its old section in `a.oc`, gets its subject in `a.c` and its sub-section in `a.sub`, and the article list is sorted into book order, so numbering, Contents, colors, Browse, the Glossary and quizzes all follow the subjects.
@@ -81,7 +81,7 @@ The encyclopedia is arranged like a printed reference book: 11 subjects, each sp
 - **Flagship articles:** `data/deep3-1.js` to `deep3-4.js` add six longer sections to 25 key articles (the DEEP3 layer, merged in `ui/subjects-pre.js`).
 - **Visuals:** `data/diagrams3.js` (tsunami, rocket, flower, the Sun, the neuron) and `data/visuals2.js` (12 scale drawings, 30 locator maps and 32 Today in history events).
 - **Philippine history timeline** (`#/phtimeline`) and **reading guides** (`#/guides`, `#/guide/<id>`): `ui/guides.js`. Articles in a guide show a banner with the next step. Edit `GUIDES` in that file to add a guide.
-- Totals: 387 articles in 11 subjects and 51 sub-sections, about 242,000 words, 1,548 key words and 47 diagrams.
+- The About page describes the edition in general terms; totals are not shown, so they never go out of date.
 
 ## Atlas
 

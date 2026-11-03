@@ -8,7 +8,7 @@ const L1=s=>{const c=sortT(s).normalize("NFD").replace(/[̀-ͯ]/g,"")[0].toUpper
 const first=t=>{const m=t.match(/^.*?[.!?](\s|$)/);return m?m[0]:t};
 
 R.az=function(l){window.setCat&&setCat(null);const has=new Set(SH.map(e=>L1(e.t)));l=l&&has.has(l)?l:"";
-V.innerHTML=`<h2>Quick reference A–Z</h2><p class="mu" style="font:14px system-ui">${SH.length} short entries on people, places, foods, words and ideas, to go with the ${A.length} full articles. Each entry links to related articles.</p><input type="search" id="azq" placeholder="Find an entry" aria-label="Find an entry" style="width:100%;max-width:420px"><div class="letters">${["","#",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"].map(c=>`<button data-l="${c}"${c&&!has.has(c)?" disabled":""}${c==l?' class="on"':""}>${c||"All"}</button>`).join("")}</div><div id="azb"></div>`;
+V.innerHTML=`<h2>Quick reference A–Z</h2><p class="mu" style="font:14px system-ui">Short entries on people, places, foods, words and ideas, to go with the full articles. Each entry links to related articles.</p><input type="search" id="azq" placeholder="Find an entry" aria-label="Find an entry" style="width:100%;max-width:420px"><div class="letters">${["","#",..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"].map(c=>`<button data-l="${c}"${c&&!has.has(c)?" disabled":""}${c==l?' class="on"':""}>${c||"All"}</button>`).join("")}</div><div id="azb"></div>`;
 V.querySelector('[data-l=""]').style.width="auto";V.querySelector('[data-l=""]').style.padding="0 10px";
 const show=(lt,q)=>{const r=SH.filter(e=>q?(e.t+" "+e.x).toLowerCase().includes(q):!lt||L1(e.t)==lt);let cur="";
 $("#azb").innerHTML=r.length?r.map(e=>{const h=!q&&L1(e.t)!=cur?`<h3 class="azh">${cur=L1(e.t)}</h3>`:"";return h+`<a class="aze" href="#/e/${e.id}" style="--c:${CAT[e.c][1]}"><b>${esc(e.t)}</b><small>${esc(e.c)}</small><span>${esc(first(e.x))}</span></a>`}).join(""):"<p>No entries found.</p>"};
@@ -32,6 +32,6 @@ const p=V.querySelector("p.mu");p&&(p.textContent+=`, ${r.length} A–Z entr${r.
 
 /* Navigation, contents and home links */
 const nv=$("#nv"),ib=nv&&nv.querySelector('[data-v="index"]');ib&&ib.insertAdjacentHTML("afterend",`<button data-v="az" onclick="go('az')">A–Z</button>`);
-const oc=R.contents;R.contents=function(){oc();const fb=V.querySelector(".frontbar");fb&&fb.insertAdjacentHTML("beforeend",`<a class="btn" href="#/az">Quick reference A–Z (${SH.length} entries)</a>`)};
+const oc=R.contents;R.contents=function(){oc();const fb=V.querySelector(".frontbar");fb&&fb.insertAdjacentHTML("beforeend",`<a class="btn" href="#/az">Quick reference A–Z</a>`)};
 const oh=R.home;R.home=function(x){oh(x);const fb=V.querySelector(".frontbar");fb&&fb.insertAdjacentHTML("beforeend",`<a class="btn sm" href="#/az">A–Z</a>`)};
 })();

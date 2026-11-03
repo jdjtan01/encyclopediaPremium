@@ -1,4 +1,4 @@
-// The encyclopedia's arrangement: 11 subjects, each split into sub-sections.
+// The encyclopedia's arrangement: subjects, each split into sub-sections.
 // Every article id appears in exactly one sub-section; the order here is the order of the book.
 // [name, icon, [dark color, light color], tagline, introduction, featured ids, sub-sections]
 // Sub-section: [name, one-line description, article ids separated by spaces]
