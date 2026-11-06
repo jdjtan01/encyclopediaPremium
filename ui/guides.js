@@ -30,8 +30,23 @@ const G=window.GUIDES=[
 ["wild","Wild places of the world","Rainforests, reefs, deserts and polar ice.","🦁","eco amazon reef sahara antarc arctic madag tubbataha"],
 ["life","How life works","From cells and DNA to evolution and the human genome.","🧬","cell dna genome mendel evo microbe"],
 ["body","Your amazing body","How your body works and how to keep it healthy.","🫀","heart lungs blood brain nervous memory mental nutri sleep"],
-["journeys","Great journeys","Explorers who crossed oceans, deserts and space.","🧭","zhenghe ibnbattuta marcopolo columbus magellan apollo armstrong"],
-["digital","The digital world","Computers, the internet and the devices that connect us.","💻","comp chip internet smartphone socialmedia ai"]];
+["journeys","Great journeys","Explorers who crossed oceans, ice, mountains, the sky and space.","🧭","zhenghe ibnbattuta marcopolo columbus magellan amundsen earhart tenzing gagarin apollo armstrong cousteau"],
+["digital","The digital world","Computers, the internet and the devices that connect us.","💻","comp chip internet smartphone socialmedia ai"],
+["thinkers","Faith and thought","Founders of the world’s religions and the philosophers who shaped how people think.","🕊️","buddha confucius laozi socrates plato aristotle jesus muhammad rumi kant"],
+["worldlit","Stories from around the world","Great writers and the literatures of every continent.","📚","homer shakes cervantes tolstoy childlit chineselit russianlit africanlit latamlit"],
+["artworld","Art across the world","Styles and traditions of art from many cultures.","🎨","islamicart chineseart africanart baroque romanticism hokusai modernart"],
+["regions","Regions of the world","Deserts, steppes, islands and megacities beyond the headlines.","🌍","sahel patagonia polynesia centralasia lagos saopaulo mexicocity"],
+["atom","Inside the atom","The tiny particles that make up everything, and the energy inside them.","⚛️","atom electron standardmodel quarks neutrinos higgs isotopes radioact fission fusion accelerators"],
+["safe","Staying safe and well","Everyday habits that protect your health and your family.","🩹","hygiene foodsafety firstaid sunsafety disasterprep sleep screentime"],
+["today","The world today","The big trends and challenges shaping the 21st century.","🌐","sdgs worldpop megacities migration energytransition covid19 remotework esports"],
+["langs","Languages of the world","How the world’s major languages work and where they come from.","🗣️","langevo alphabet english spanish mandarin arabic hindi french swahili japanese korean malay"],
+["growing","Growing up today","Health, friendship and staying safe in a connected world.","🌱","mentalyouth screentime cyberbullying onlinelearning shortvideo loneliness"],
+["work","Work and money today","How people earn, spend and work in the 21st century.","💼","costliving gigeconomy remotework startups automation digitalpay"],
+["medicine","Breakthroughs in medicine","Discoveries that changed how we fight disease.","💊","germtheory pasteur xrays penicil insulin doublehelix vacc mrna genetherapy crispr aimedicine"],
+["online","Smart and safe online","How to think clearly and stay safe in the digital world.","🛡️","internet misinformation deepfakes onlinescams cybersecurity aieveryday ecommerce digitalpay"],
+["hazards","Living with natural hazards","Landslides, sinkholes, storms and rising seas, and how communities prepare.","⚠️","landslides sinkholes quake tsunami volc phtyph extremeheat sealevel disasterprep"],
+["spacenow","Exploring space today","The missions and space agencies taking us back to the Moon and beyond.","🛰️","artemis chandrayaan tiangong philsa europa titan jwst commspace"],
+["phcrafts","Filipino arts and crafts","Songs, theater, weaving and pottery from the Philippine islands.","🪡","kundiman zarzuela weaving ceramics phdance phcinema jeepney"]];
 const ids=g=>g[4].split(" ").map(get).filter(Boolean);
 R.guides=function(){window.setCat&&setCat(null);V.innerHTML=`<h2>Reading guides</h2><p class="mu" style="font:14px system-ui">Short reading paths through the encyclopedia. Each guide takes you through a topic step by step; articles you have marked as read are ticked.</p>
 <div class="guides">${G.map(g=>{const L=ids(g),done=L.filter(a=>rd.includes(a.id)).length;return `<a class="gcard" href="#/guide/${g[0]}" style="--c:${col(L[0].c)[0]}"><span class="gi">${g[3]}</span><b>${esc(g[1])}</b><small>${esc(g[2])}</small><em>${done?`${done} read`:"Start reading"}</em></a>`}).join("")}</div>`;document.title="Reading guides · Encyclopedia Premium"};

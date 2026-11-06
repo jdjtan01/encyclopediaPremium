@@ -1,6 +1,6 @@
 /* Reference features: links inside the text, How to cite, error reports, the edition page and the footer. */
 (()=>{
-const ED={n:1,label:"First edition",date:"October 2026",year:2026};window.ED=ED;
+const ED={n:1,label:"First edition",date:"November 2026",year:2026};window.ED=ED;
 const enc=encodeURIComponent;
 
 /* ---------- Links inside the text ---------- */

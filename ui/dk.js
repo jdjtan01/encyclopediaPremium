@@ -33,10 +33,10 @@ const seeAlso=a=>{if(!SIM)buildSim();return[...new Set([...(a.r||[]),...SIM[a.id
 /* ---------- Further reading ---------- */
 const MORE={"Science":[["NASA Science","https://science.nasa.gov"],["Khan Academy","https://www.khanacademy.org"]],"Space and Astronomy":[["NASA","https://www.nasa.gov"],["European Space Agency","https://www.esa.int"],["Philippine Space Agency","https://philsa.gov.ph"]],"Philippines":[["National Historical Commission of the Philippines","https://nhcp.gov.ph"],["Philippine Statistics Authority","https://psa.gov.ph"],["National Museum of the Philippines","https://www.nationalmuseum.gov.ph"]],"Geography":[["National Geographic Education","https://education.nationalgeographic.org"],["US Geological Survey","https://www.usgs.gov"],["PHIVOLCS","https://www.phivolcs.dost.gov.ph"]],"Health and the Body":[["World Health Organization","https://www.who.int"],["Department of Health","https://doh.gov.ph"],["MedlinePlus","https://medlineplus.gov"]],"Animals and Nature":[["IUCN Red List","https://www.iucnredlist.org"],["WWF","https://www.worldwildlife.org"]],"History":[["Smithsonian Institution","https://www.si.edu"],["UNESCO World Heritage","https://whc.unesco.org"]],"Technology":[["Computer History Museum","https://computerhistory.org"],["Science Museum, London","https://www.sciencemuseum.org.uk"]],"Arts and Literature":[["The Met: Heilbrunn Timeline of Art History","https://www.metmuseum.org/toah/"],["National Commission for Culture and the Arts","https://ncca.gov.ph"]],"Mathematics":[["MacTutor History of Mathematics","https://mathshistory.st-andrews.ac.uk"],["Khan Academy","https://www.khanacademy.org"]],"Religion and Philosophy":[["Stanford Encyclopedia of Philosophy","https://plato.stanford.edu"]],"Economics and Society":[["Bangko Sentral ng Pilipinas","https://www.bsp.gov.ph"],["Philippine Statistics Authority","https://psa.gov.ph"],["World Bank Open Data","https://data.worldbank.org"]],"Food and Agriculture":[["Food and Agriculture Organization","https://www.fao.org"],["International Rice Research Institute","https://www.irri.org"]],"Music":[["Smithsonian Folkways","https://folkways.si.edu"],["Cultural Center of the Philippines","https://culturalcenter.gov.ph"]],"Sports":[["Olympics.com","https://olympics.com"],["FIBA","https://www.fiba.basketball"]],"Languages":[["Ethnologue","https://www.ethnologue.com"],["Komisyon sa Wikang Filipino","https://kwf.gov.ph"],["Omniglot","https://www.omniglot.com"]],"History of Science":[["Science History Institute","https://www.sciencehistory.org"],["The Nobel Prize","https://www.nobelprize.org"],["MacTutor History of Mathematics","https://mathshistory.st-andrews.ac.uk"]]};
 const further=a=>{const w=WIKI[a.id]||sortT(a.t);const L=[[`Wikipedia: ${w}`,"https://en.wikipedia.org/wiki/"+enc(w.replace(/ /g,"_"))],["Encyclopaedia Britannica","https://www.britannica.com/search?query="+enc(sortT(a.t))],...(MORE[a.oc]||MORE[a.c]||[])];
-return `<div class="further" id="fr"><b class="disp">Further reading</b><p class="mu" style="font:13px system-ui;margin:.2em 0">Trusted places to check facts and read more about this topic. Last reviewed October 2026.</p><ul>${L.map(x=>`<li><a href="${esc(x[1])}" target="_blank" rel="noopener">${esc(x[0])}</a></li>`).join("")}</ul></div>`};
+return `<div class="further" id="fr"><b class="disp">Further reading</b><p class="mu" style="font:13px system-ui;margin:.2em 0">Trusted places to check facts and read more about this topic. Last reviewed November 2026.</p><ul>${L.map(x=>`<li><a href="${esc(x[1])}" target="_blank" rel="noopener">${esc(x[0])}</a></li>`).join("")}</ul></div>`};
 
 /* ---------- Captioned photos from the topic’s Wikipedia page ---------- */
-const GK="gal1";let GC=ls(GK,{});
+const GK="gal2";let GC=ls(GK,{});
 const strip=h=>{const d=document.createElement("div");d.innerHTML=String(h||"");return d.textContent.replace(/\s+/g," ").trim()};
 const pretty=t=>t.replace(/^File:/,"").replace(/\.[a-z]+$/i,"").replace(/[_]+/g," ").replace(/\s*\(\d+\)$/,"").replace(/\b(IMG|DSC|DSCN|P)\s?\d+\b/gi,"").replace(/\s+/g," ").trim();
 const JUNK=/\b(svg|icon|symbol|logo|flag|map|locator|seal|stub|edit|commons|wikidata|question|padlock|portal|disambig|coat of arms|signature|diagram|chart|graph)\b/i;
@@ -48,7 +48,7 @@ const f=(pg.images||[]).map(x=>x.title).filter(x=>/\.(jpe?g|png)$/i.test(x)&&!JU
 if(!f.length){GC[a.id]=0;sv(GK,GC);cb([]);return}
 return fetch(WAPI+"&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=600&iiextmetadatafilter=ImageDescription|ObjectName|Artist|LicenseShortName&titles="+enc(f.join("|"))).then(r=>r.json()).then(d=>{
 const L=Object.values((d.query||{}).pages||{}).map(p=>{const ii=(p.imageinfo||[])[0];if(!ii||!ii.thumburl||(ii.width&&ii.width<400))return null;const m=ii.extmetadata||{},v=k=>strip((m[k]||{}).value);
-return{u:ii.thumburl,p:ii.descriptionurl||"",n:cut(v("ObjectName")||pretty(p.title),70),d:cut(v("ImageDescription"),170),by:cut(v("Artist"),60),lic:v("LicenseShortName"),o:f.indexOf(p.title)}}).filter(Boolean).sort((x,y)=>x.o-y.o).slice(0,4);
+return{u:ii.thumburl,p:ii.descriptionurl||"",n:cut(v("ObjectName")||pretty(p.title),70),d:cut(v("ImageDescription"),170),by:cut(v("Artist"),60),lic:v("LicenseShortName"),o:f.indexOf(p.title)}}).filter(Boolean).sort((x,y)=>x.o-y.o).slice(0,6);
 GC[a.id]=L.length?L:0;sv(GK,GC);cb(L)})}).catch(()=>cb([]))}
 const fig=(g,k)=>`<figure class="ph ${k%2?"fl":"fr"}"><img src="${esc(g.u)}" alt="${esc(g.n)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><figcaption><b>${esc(g.n)}</b>${g.d&&g.d.toLowerCase()!=g.n.toLowerCase()?` ${esc(g.d)}`:""}<small>Photo${g.by?": "+esc(g.by):""}${g.lic?" · "+esc(g.lic):""} · <a href="${esc(g.p)}" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>`;
 
@@ -78,6 +78,17 @@ return `<svg viewBox="0 0 ${W} ${H}" class="dg" role="img" aria-label="${esc(s.t
 const mx=Math.max(...s.items.map(i=>i[1])),R=110,B=240;let x=10;const r=s.items.map(i=>Math.max(1.5,R*i[1]/mx));const tot=r.reduce((a,b)=>a+2*b,0)+(r.length-1)*30,sc=tot>W-20?(W-20)/tot:1;x=(W-tot*sc)/2;
 s.items.forEach((it,i)=>{const rr=r[i]*sc,cx=x+rr,f=it[3]||PAL[i%PAL.length];g+=`<circle cx="${cx}" cy="${B-rr-40}" r="${rr}" fill="${f}"/><text x="${cx}" y="${B-14}" text-anchor="middle" font-weight="700">${esc(it[0])}</text><text x="${cx}" y="${B+2}" text-anchor="middle" opacity=".75">${fmt(it[1])} ${esc(s.u)}</text>`;x+=2*rr+30*sc});
 return `<svg viewBox="0 0 ${W} ${B+10}" class="dg" role="img" aria-label="${esc(s.t)}">${g}</svg>`}
+/* Keep diagram labels readable in light and dark themes: a label with no colour of its own
+   that sits on a light shape gets dark ink, and one on a dark shape gets white ink. */
+function inkFix(svg){try{const shapes=[...svg.querySelectorAll("rect,circle,ellipse,path,polygon")].filter(e=>!e.closest("defs,marker"));
+const lum=c=>{const m=String(c).match(/[\d.]+/g);if(!m||m.length<3)return null;const [r,g,b]=m.map(Number);return (0.2126*r+0.7152*g+0.0722*b)/255};
+svg.querySelectorAll("text").forEach(t=>{if(/fill\s*:/.test(t.getAttribute("style")||"")||t.getAttribute("fill"))return;
+const bb=t.getBBox();if(!bb.width)return;const tm=t.getCTM();if(!tm)return;
+const pt=svg.createSVGPoint();pt.x=bb.x+bb.width/2;pt.y=bb.y+bb.height/2;const gp=pt.matrixTransform(tm);
+for(let i=shapes.length-1;i>=0;i--){const e=shapes[i];if(!(e.compareDocumentPosition(t)&Node.DOCUMENT_POSITION_FOLLOWING))continue;
+const cs=getComputedStyle(e);if(cs.fill=="none"||!cs.fill||+cs.fillOpacity<0.5||+cs.opacity<0.5)continue;
+const m=e.getCTM();if(!m)continue;const lp=gp.matrixTransform(m.inverse());let hit=false;try{hit=e.isPointInFill(lp)}catch(_){}
+if(!hit)continue;const L=lum(cs.fill);if(L==null)return;if(L>0.6)t.style.fill="#0f172a";else if(L<0.35)t.style.fill="#fff";return}})}catch(_){}}
 const panel=(title,sub,body,cap)=>`<section class="panelx"><div class="hd">${esc(title)}${sub?`<span>${esc(sub)}</span>`:""}</div><div class="in">${body}${cap?`<p class="cap">${esc(cap)}</p>`:""}</div></section>`;
 
 /* ---------- Picture timeline ---------- */
@@ -100,7 +111,7 @@ const kd=V.querySelector("ol.kd");if(kd&&a.d&&a.d.length)kd.outerHTML=tline(a.d)
 /* Feature panels */
 const before=(i,html)=>{const h=document.getElementById("s"+i);if(h)h.insertAdjacentHTML("beforebegin",html);else{const b=V.querySelector(".body .pn");b&&b.insertAdjacentHTML("beforebegin",html)}};
 const ff=(window.FACT||{})[id];if(ff){const ld=V.querySelector(".body .lead");const html=`<section class="panelx ffile"><div class="hd">Fact file<span>${esc(ff.n)}</span></div><dl class="in">${ff.f.map(x=>`<div><dt>${icon(x[0])} ${esc(x[0])}</dt><dd>${esc(x[1])}</dd></div>`).join("")}</dl></section>`;ld?ld.insertAdjacentHTML("afterend",html):before(0,html)}
-const dg=DIAG[id];if(dg)before(2,panel(dg.t,"Diagram",dg.svg,dg.c));
+const dg=DIAG[id];if(dg)before(2,panel(dg.t,"Diagram",dg.svg,dg.c));V.querySelectorAll("svg.dg").forEach(inkFix);
 const sc=SCALE[id];if(sc)before(4,panel(sc.t,"Drawn to scale",scaleSVG(sc),sc.c));
 /* See also and Further reading */
 V.querySelectorAll("h2").forEach(x=>{if(x.textContent=="Related articles"){const g=x.nextElementSibling;if(g&&g.classList.contains("grid"))g.remove();x.remove()}});
@@ -110,16 +121,16 @@ want(sa);
 const toc=V.querySelector(".toc");if(toc){const rel=[...toc.childNodes].findIndex(n=>n.nodeName=="BR");toc.querySelectorAll("a").forEach(x=>x.remove());toc.querySelector("br")&&toc.querySelector("br").remove();[...toc.querySelectorAll("b")].slice(1).forEach(x=>x.remove());toc.insertAdjacentHTML("beforeend",`<button class="lk" data-s="sa">See also</button><button class="lk" data-s="fr">Further reading</button>`);toc.querySelectorAll('[data-s="sa"],[data-s="fr"]').forEach(b=>b.onclick=()=>document.getElementById(b.dataset.s).scrollIntoView({behavior:"smooth"}))}
 const hp=$("#hp");if(hp)hp.insertAdjacentHTML("afterend",`<button class="btn" id="pr" title="Print this article as a two-column spread">🖨 Print</button>`);$("#pr")&&($("#pr").onclick=()=>print());
 /* Photos through the text */
-gallery(a,L=>{if(tk!=NAVT||!L.length)return;const at=[1,5,9,13];L.forEach((g,k)=>{const h=document.getElementById("s"+at[k]);const p=h&&h.nextElementSibling;if(p)p.insertAdjacentHTML("beforebegin",fig(g,k))})});
+gallery(a,L=>{if(tk!=NAVT||!L.length)return;const at=[1,3,5,7,9,11];L.forEach((g,k)=>{const h=document.getElementById("s"+at[k]);const p=h&&h.nextElementSibling;if(p)p.insertAdjacentHTML("beforebegin",fig(g,k))})});
 if(window.JUMP){const j=window.JUMP;window.JUMP=null;setTimeout(()=>{const e=document.getElementById(j);e&&e.scrollIntoView({block:"start"})},30)}};
 
 /* ---------- Category opener ---------- */
 R.cat=function(c){if(!CAT[c]){R.contents();return}setCat(c);const L=inCat(c),I=CI[c]||{},f=(I.feat||[]).map(get).filter(Boolean),ic=(f[0]||L[0]).i,w=L.reduce((s,a)=>s+artWords(a),0),G=L.flatMap(a=>(a.g||[]).map(g=>[g,a])),pick=shuf(G).slice(0,8);
-V.innerHTML=`<section class="opener"><div class="big-ic" aria-hidden="true">${ic}</div><small>Section ${ORDER.indexOf(c)+1} of ${ORDER.length}</small><h2>${esc(c)}</h2><p class="tg">${esc(I.tag||"")}</p><p>${esc(I.intro||"")}</p><div class="st"><div><b>${L.length}</b>articles</div><div><b>${Math.round(w/1000)}k</b>words</div><div><b>${G.length}</b>key words</div><div><b>${NUM[L[0].id]}–${NUM[L.at(-1).id]}</b>article numbers</div></div></section>
+V.innerHTML=`<section class="opener"><div class="big-ic" aria-hidden="true">${ic}</div><small>Section ${ORDER.indexOf(c)+1} of ${ORDER.length}</small><h2>${esc(c)}</h2><p class="tg">${esc(I.tag||"")}</p><p>${esc(I.intro||"")}</p></section>
 ${f.length?`<h2>Start here</h2><div class="featrow">${f.map(a=>`<a class="card" href="#/art/${a.id}">${ban(a)}<div class="t"><b>${esc(a.t)}</b><br>${esc(cut(a.l||"",120))}</div></a>`).join("")}</div>`:""}
 <h2>In this section</h2><ol class="numlist">${L.map(a=>`<li><em>${NUM[a.id]}</em><a href="#/art/${a.id}">${esc(a.t)}</a></li>`).join("")}</ol>
 <h2>Key words from this section</h2><div class="glx">${pick.map(([g,a])=>`<div style="--c:${col(c)[1]}"><dt>${esc(g[0])}</dt><dd>${esc(g[1])}</dd><a href="#/art/${a.id}">${esc(a.t)}</a></div>`).join("")}</div>
-<p><a class="btn" href="#/gloss/${enc(c)}">All ${G.length} key words in ${esc(c)}</a><a class="btn" href="#/browse/${enc(c)}">Browse with filters</a>${ORDER[ORDER.indexOf(c)+1]?`<a class="btn" href="#/cat/${enc(ORDER[ORDER.indexOf(c)+1])}">Next section: ${esc(ORDER[ORDER.indexOf(c)+1])} ›</a>`:""}</p>`;
+<p><a class="btn" href="#/gloss/${enc(c)}">All key words in ${esc(c)}</a><a class="btn" href="#/browse/${enc(c)}">Browse with filters</a>${ORDER[ORDER.indexOf(c)+1]?`<a class="btn" href="#/cat/${enc(ORDER[ORDER.indexOf(c)+1])}">Next section: ${esc(ORDER[ORDER.indexOf(c)+1])} ›</a>`:""}</p>`;
 want(f)};
 
 /* ---------- A to Z index ---------- */
