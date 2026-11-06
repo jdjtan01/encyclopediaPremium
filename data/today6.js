@@ -55,5 +55,5 @@ window.TODAY=(window.TODAY||[]).concat([
 [11,26,1922,"Howard Carter first looks into the tomb of Tutankhamun.","egypt"],
 [11,29,1947,"The UN General Assembly votes for the partition of Palestine."],
 [12,5,1933,"Prohibition ends in the United States."],
-[12,6,1917,"Finland declares independence."],
+[12,6,1917,"Finland declares independence.","finlandcountry"],
 [12,22,1989,"Romanian leader Nicolae Ceaușescu flees Bucharest as his regime falls.","coldwar"]]);

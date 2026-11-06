@@ -24,7 +24,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [8,6,1991,"Tim Berners-Lee makes the World Wide Web publicly available.","internet"],
 [8,14,1945,"Japan announces its acceptance of surrender terms.","ww2"],
 [8,19,1878,"Manuel L. Quezon is born in Baler.","commonwealth"],
-[8,25,1991,"Linus Torvalds announces the Linux project.","comp"],
+[8,25,1991,"Linus Torvalds announces the Linux project.","opensource"],
 [8,29,2005,"Hurricane Katrina makes landfall on the US Gulf Coast."],
 [9,2,1666,"The Great Fire of London begins."],
 [9,21,1937,"The Hobbit by J. R. R. Tolkien is published."],

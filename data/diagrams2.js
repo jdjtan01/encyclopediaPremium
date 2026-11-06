@@ -114,7 +114,7 @@ svg:S(`${arrow("ya","#2563eb")}<rect x="0" y="290" width="600" height="50" fill=
 <path d="M240,290C238,200,225,110,215,55L195,48C210,120,220,200,215,290Z" fill="#9ca3af"/><path d="M360,290C362,200,375,110,385,55L405,48C390,120,380,200,385,290Z" fill="#9ca3af"/>
 <g stroke="#60a5fa" stroke-width="2">${[60,100,140,460,500,540].map(x=>`<line x1="${x}" y1="245" x2="${x-8}" y2="285"/>`).join("")}</g>
 <g stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#ya)"><path d="M20,280H180"/><path d="M580,280H420"/><path d="M225,270V110"/><path d="M375,270V110"/><path d="M210,50C150,30,90,30,40,50"/><path d="M390,50C450,30,510,30,560,50"/><path d="M300,80V250"/></g>
-${L(300,180,300,320,"Eye: calm, clear, sinking air","middle")}${L(220,200,120,160,"Eyewall: strongest winds and rain")}${L(80,200,20,105,"Rain bands")}${L(100,280,60,320,"Warm, moist air spirals in")}${L(450,40,500,15,"Air flows out at the top")}${L(375,180,480,160,"Air rises and cools")}`)};
+${L(300,180,300,320,"Eye: calm, clear, sinking air","middle")}${L(215,200,120,178,"Eyewall: strongest winds and rain","middle")}${L(80,200,20,105,"Rain bands")}${L(100,280,60,320,"Warm, moist air spirals in")}${L(450,40,500,15,"Air flows out at the top")}${L(375,180,480,178,"Air rises and cools","middle")}`)};
 
 /* Wind turbine */
 D.wind={t:"Inside a wind turbine",c:"Wind turns the blades, which spin a shaft. A gearbox speeds up the rotation, and a generator in the nacelle turns it into electricity, which travels down cables to the grid.",

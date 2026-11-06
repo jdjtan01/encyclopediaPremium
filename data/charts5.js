@@ -1,0 +1,4 @@
+// Data charts, part 5. Same format as data/charts.js.
+Object.assign(window.CHARTS=window.CHARTS||{},{
+sealevel:{t:"Global sea level rise since 1900",type:"line",u:"centimeters above the 1900 level",x:["1900","1920","1940","1960","1980","2000","2010","2020","2024"],y:[0,2.6,5.2,7.8,10.9,14.7,17,21,22.8],src:"Approximate figures based on rates reported by the Intergovernmental Panel on Climate Change (AR6) and recent satellite measurements. The rise has been speeding up."},
+tourism:{t:"International visitor arrivals in the Philippines",type:"bar",u:"million visitors",x:["2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"],y:[5.36,5.97,6.62,7.13,8.26,1.48,0.16,2.65,5.45,5.95],src:"Philippine Department of Tourism. Figures rounded. Arrivals collapsed during the COVID-19 pandemic and have since been recovering."}});

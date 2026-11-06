@@ -2,7 +2,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [1,1,1801,"Giuseppe Piazzi discovers Ceres, the first asteroid found.","solar"],
 [1,3,2019,"China’s Chang’e 4 makes the first soft landing on the far side of the Moon.","moon"],
 [1,5,1922,"Explorer Ernest Shackleton dies on South Georgia during his last expedition.","antarc"],
-[1,11,1922,"The first patient is treated with insulin in Toronto."],
+[1,11,1922,"The first patient is treated with insulin in Toronto.","insulin"],
 [2,6,1819,"Stamford Raffles establishes a trading post on Singapore."],
 [2,11,2016,"Scientists announce the first detection of gravitational waves.","relat"],
 [2,14,1990,"Voyager 1 takes the Pale Blue Dot photograph of Earth from billions of kilometers away.","space"],

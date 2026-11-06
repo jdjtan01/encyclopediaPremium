@@ -17,7 +17,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [4,7,1948,"The World Health Organization is founded.","immune"],
 [4,9,1942,"Bataan falls to Japanese forces in the Philippines.","ww2"],
 [4,22,1970,"The first Earth Day is held.","climate"],
-[4,25,1953,"The structure of DNA is published in Nature.","dna"],
+[4,25,1953,"The structure of DNA is published in Nature.","doublehelix"],
 [4,27,1521,"Magellan is killed at the Battle of Mactan.","explor"],
 [4,30,1993,"CERN places the World Wide Web software in the public domain.","internet"],
 [5,8,1945,"Victory in Europe Day marks Germany’s surrender.","ww2"],
@@ -55,6 +55,6 @@ window.TODAY=(window.TODAY||[]).concat([
 [12,7,1941,"Japan attacks Pearl Harbor; attacks on the Philippines follow within hours.","ww2"],
 [12,10,1948,"The UN adopts the Universal Declaration of Human Rights."],
 [12,12,1901,"Marconi receives the first transatlantic radio signal.","radio"],
-[12,14,1911,"Roald Amundsen’s team reaches the South Pole.","antarc"],
+[12,14,1911,"Roald Amundsen’s team reaches the South Pole.","amundsen"],
 [12,23,1947,"The first transistor is demonstrated at Bell Labs.","chip"],
 [12,26,1991,"The Soviet Union formally ceases to exist.","coldwar"]]);

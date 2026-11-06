@@ -34,7 +34,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [6,3,1965,"Ed White makes the first American spacewalk.","space"],
 [6,4,1783,"The Montgolfier brothers give the first public hot-air balloon demonstration.","flight"],
 [6,21,1948,"The Manchester Baby runs the first program stored in electronic memory.","comp"],
-[6,23,1912,"Alan Turing is born in London.","ai"],
+[6,23,1912,"Alan Turing is born in London.","turing"],
 [6,24,1948,"The Berlin Blockade begins.","coldwar"],
 [6,25,1950,"The Korean War begins.","coldwar"],
 [6,27,1954,"The Obninsk reactor becomes the first nuclear plant to supply a grid.","nuclear"],

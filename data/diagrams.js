@@ -71,7 +71,7 @@ svg:S(`<rect x="0" y="175" width="600" height="165" fill="#f9a8b4" fill-opacity=
 <path d="M215,55q85,-25,170,0q15,50,0,115q-8,60,-18,135h-25q-5,-60,-47,-110q-42,50,-47,110h-25q-10,-75,-18,-135q-15,-65,0,-115z" fill="#fde68a"/>
 <path d="M260,95q40,-15,80,0q10,30,0,60q-5,40,-15,140h-6q-5,-90,-19,-120q-14,30,-19,120h-6q-10,-100,-15,-140q-10,-30,0,-60z" fill="#f87171"/>
 <path d="M300,140q-10,60,-20,160M300,140q10,60,22,160" stroke="#7f1d1d" stroke-width="2" fill="none"/>
-${L(330,45,470,30,"Enamel: hardest substance in the body")}${L(380,110,470,80,"Dentin")}${L(320,110,470,130,"Pulp: nerves and blood vessels")}${L(260,140,90,60,"Crown","end")}${L(380,185,470,185,"Gum")}${L(272,260,90,240,"Root canal","end")}${L(372,300,470,260,"Root, covered with cementum")}${L(520,300,470,320,"Jawbone")}`)};
+${L(330,45,470,30,"Enamel: hardest substance in the body")}${L(380,110,470,80,"Dentin")}${L(320,110,470,130,"Pulp: nerves and blood vessels")}${L(260,140,90,60,"Crown","end")}${L(380,185,470,185,"Gum")}${L(272,260,90,240,"Root canal","end")}${L(372,300,470,262,"Root (cementum)")}${L(520,300,470,320,"Jawbone")}`)};
 
 /* Skin */
 D.skin={t:"Layers of the skin",c:"A block of skin as if seen under a microscope. The epidermis renews itself constantly, while the dermis holds nerves, blood vessels, glands and hair roots.",
