@@ -112,6 +112,8 @@ const kd=V.querySelector("ol.kd");if(kd&&a.d&&a.d.length)kd.outerHTML=tline(a.d)
 const before=(i,html)=>{const h=document.getElementById("s"+i);if(h)h.insertAdjacentHTML("beforebegin",html);else{const b=V.querySelector(".body .pn");b&&b.insertAdjacentHTML("beforebegin",html)}};
 const ff=(window.FACT||{})[id];if(ff){const ld=V.querySelector(".body .lead");const html=`<section class="panelx ffile"><div class="hd">Fact file<span>${esc(ff.n)}</span></div><dl class="in">${ff.f.map(x=>`<div><dt>${icon(x[0])} ${esc(x[0])}</dt><dd>${esc(x[1])}</dd></div>`).join("")}</dl></section>`;ld?ld.insertAdjacentHTML("afterend",html):before(0,html)}
 const dg=DIAG[id];if(dg)before(2,panel(dg.t,"Diagram",dg.svg,dg.c));V.querySelectorAll("svg.dg").forEach(inkFix);
+/* Picture examples, loaded only when an article has them */
+if((window.EXIDS||[]).includes(id)){const go=()=>{const ex=(window.EXAMPLES||{})[id];if(!ex||tk!=NAVT||V.querySelector(".exg"))return;before(1,panel(ex.t,"See an example",`<div class="exg">${ex.items.map(it=>`<figure class="exi${it.w?" exw":""}">${it.s}<figcaption>${esc(it.c)}</figcaption></figure>`).join("")}</div>`,ex.c))};if(window.EXAMPLES)go();else{const sc=document.createElement("script");sc.src="data/examples.js";sc.onload=go;document.head.appendChild(sc)}}
 const sc=SCALE[id];if(sc)before(4,panel(sc.t,"Drawn to scale",scaleSVG(sc),sc.c));
 /* See also and Further reading */
 V.querySelectorAll("h2").forEach(x=>{if(x.textContent=="Related articles"){const g=x.nextElementSibling;if(g&&g.classList.contains("grid"))g.remove();x.remove()}});
