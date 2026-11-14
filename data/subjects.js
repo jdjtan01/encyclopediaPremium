@@ -8,15 +8,15 @@ window.SUBJECTS=[
 ["tect","everest","pacific","amazon"],[
 ["Restless Earth","Moving plates, volcanoes and earthquakes.","tect volc quake tsunami rift taal mayon pinatubo geysers rocks fossils landslides sinkholes ringoffire kanlaon earthlayers"],
 ["Mountains and Canyons","The highest peaks and deepest valleys.","everest himal alps andes canyon apo pulag kilimanjaro fuji rockies waterfalls glaciers plateaus mountainform"],
-["Water and Weather","Oceans, seas, rivers, tides and climate.","pacific atlantic indocean med reef nile mekong wetlands tides wcycle climate climchange phtyph lakes storms monsoon trench amazonriver yangtze ganges mississippi danube atmosphere weatherforecast elnino thunderstorms rainbows rivers"],
-["Lands and Regions","Deserts, ice, forests and islands.","continents desert soil amazon sahara antarc arctic sea iceage caves grasslands fossilfuels pollution deforestation plasticwaste maps timezones sahel patagonia centralasia recycling coasts deltas deadsea"]]],
+["Water and Weather","Oceans, seas, rivers, tides and climate.","pacific atlantic indocean med reef nile mekong wetlands tides wcycle climate climchange phtyph lakes storms monsoon trench amazonriver yangtze ganges mississippi danube atmosphere weatherforecast elnino thunderstorms rainbows rivers floods droughts snow"],
+["Lands and Regions","Deserts, ice, forests and islands.","continents desert soil amazon sahara antarc arctic sea iceage caves grasslands fossilfuels pollution deforestation plasticwaste maps timezones sahel patagonia centralasia recycling coasts deltas deadsea tundra"]]],
 
 ["Animal Kingdom","🐘",["#4d7c0f","#c3e97a"],"Every creature, great and small",
 "From the blue whale to the smallest beetle, living things fill every corner of the planet. This subject meets the mammals, birds, sea creatures, reptiles and minibeasts, and explains the plants and cells that make life possible.",
 ["elephant","eagle","wshark","dino"],[
-["Mammals","Furry, warm-blooded animals that feed their young on milk.","elephant rhino hippo tiger lion cheetah wolf bear panda gorilla giraffe camel kangaroo bat tarsier monkeys horses dogs cats rodents pangolins sloths otters hyenas leopards zebras carabao tamaraw seals lemurs hedgehogs bison platypus foxes deer mousedeer cloudrats wartypig"],
+["Mammals","Furry, warm-blooded animals that feed their young on milk.","elephant rhino hippo tiger lion cheetah wolf bear panda gorilla giraffe camel kangaroo bat tarsier monkeys horses dogs cats rodents pangolins sloths otters hyenas leopards zebras carabao tamaraw seals lemurs hedgehogs bison platypus foxes deer mousedeer cloudrats wartypig mammoth"],
 ["Birds","Feathered fliers, hunters, talkers and swimmers.","birds eagle owl parrot crow penguin hummingbird ostrich birdmigr hornbill albatross flamingo vultures pigeons cockatoo swiftlets kingfishers"],
-["Sea Life","Creatures of the oceans and coral reefs.","whale shark wshark octopus mollusc crustacean seahorse jelly seaturtle tubbataha fishes coral dugongs rays echinoderms eels squid tuna"],
+["Sea Life","Creatures of the oceans and coral reefs.","whale shark wshark octopus mollusc crustacean seahorse jelly seaturtle tubbataha fishes coral dugongs rays echinoderms eels squid tuna salmon"],
 ["Reptiles and Amphibians","Scaly hunters, frogs and the dinosaurs.","snake lizard croc frog dino turtle chameleon salamander tuatara komodo seasnakes geckos pythons cobras monitorlizards"],
 ["Insects and Minibeasts","Insects, spiders, worms and other small creatures.","insect butterfly bee ants termite spider beetle dragonfly mosquito worms locusts fireflies mantises scorpions wasps"],
 ["Plants and Habitats","Green plants, forests and the webs of life.","photo flower trees bamboo ferns cactus carnivplant fungi eco phbio foodchains conservation orchids rafflesia fruits seaweeds coconut seeds leaves roots medicinalplants grasses giantrees aquaticplants sunflowers palms conifers vines poisonousplants invasiveplants narra sampaguita abaca lichens"],
@@ -43,16 +43,16 @@ window.SUBJECTS=[
 ["heart","brain","vacc","nutri"],[
 ["Body Systems","Heart, lungs, bones, blood and more.","heart lungs blood digest microbiome kidney bones spine nervous hormone skin liver bloodtypes muscles lymphatic hair hiccups"],
 ["Brain and Senses","Thinking, remembering, sensing and sleeping.","brain memory mental eye ear smelltaste sleep pain emotions psychology dreams habits illusions touch reflexes dyslexia voice balance"],
-["Staying Healthy","Food, water, exercise and good habits.","nutri water exercise hygiene teeth firstaid sanitation aging pregnancy disasterprep foodsafety stress sunsafety myopia vitamins blooddonation"],
+["Staying Healthy","Food, water, exercise and good habits.","nutri water exercise hygiene teeth firstaid sanitation aging pregnancy disasterprep foodsafety stress sunsafety myopia vitamins blooddonation yoga"],
 ["Disease and Medicine","Germs, defenses and the fight against illness.","immune vacc flu malaria allergy cancer diabetes antibiotics pandemic heartdisease surgery transplant tb dengue hiv medimaging rabies measles stroke asthma hypertension leptospirosis anemia fever polio"]]],
 
 ["History","🏛️",["#8a5a1a","#e6bd78"],"Five thousand years of the human story",
 "History is the story of how people built cities, empires and nations, and how ideas, trade and war changed the world. This subject travels from the first civilizations to the world wars and the decades since.",
 ["egypt","rome","renais","ww2"],[
-["Ancient Worlds","The first cities, kingdoms and empires.","mesop egypt kush persia greece rome maya aksum phoenicians celts humanorigins stoneage archaeology"],
-["Asia Through the Ages","India, China, Japan, Korea and the Mongols.","indus china mongol precol sulu japan korea mughal seaempires khmer opium"],
-["Middle Ages","Raiders, traders and great empires.","byzant caliphate viking crusades silk mali zimbabwe benin ottoman aztec inca blackdeath medieurope"],
-["Discovery and Revolution","New ideas, new lands and new nations.","renais reform explor lapulapu spanph slavetrade usrev frrev latinind indrev meiji phrev malolos enlightenment uscivilwar africacolon phamwar"],
+["Ancient Worlds","The first cities, kingdoms and empires.","mesop egypt kush persia greece rome maya aksum phoenicians celts humanorigins stoneage archaeology pompeii carthage neanderthals babylon minoans olmecs"],
+["Asia Through the Ages","India, China, Japan, Korea and the Mongols.","indus china mongol precol sulu japan korea mughal seaempires khmer opium samurai"],
+["Middle Ages","Raiders, traders and great empires.","byzant caliphate viking crusades silk mali zimbabwe benin ottoman aztec inca blackdeath medieurope castles magnacarta songhai"],
+["Discovery and Revolution","New ideas, new lands and new nations.","renais reform explor lapulapu spanph slavetrade usrev frrev latinind indrev meiji phrev malolos enlightenment uscivilwar africacolon phamwar pirates asante zulu"],
 ["The World Wars","Two global wars and the years between them.","wwi westernfront russrev versailles depression fascism commonwealth ww2 stalingrad dday holocaust pacificwar japocc atomicbomb"],
 ["Since 1945","The United Nations, the end of empires, the Cold War and after.","un partition independence decol koreanwar coldwar berlinwall cubancrisis vietnam asean martiallaw edsa ussrfall apartheid eu greenrev modernchina middleeast terrorism nukeweapons"]]],
 
@@ -64,8 +64,8 @@ window.SUBJECTS=[
 ["Europe","Countries of a small but densely populated continent.","germanycountry francecountry russiacountry ukcountry italycountry spaincountry polandcountry netherlandscountry ukrainecountry greececountry swedencountry portugalcountry norwaycountry switzerlandcountry irelandcountry austriacountry finlandcountry"],
 ["The Americas","Countries of North, Central and South America.","usacountry canadacountry mexicocountry brazilcountry argentinacountry perucountry chilecountry colombiacountry cubacountry venezuelacountry ecuadorcountry boliviacountry jamaicacountry guatemalacountry costaricacountry panamacountry haiticountry uruguaycountry"],
 ["Oceania","Countries of Australia and the Pacific islands.","australiacountry nzcountry pngcountry fijicountry samoacountry tongacountry vanuatucountry solomoncountry kiribaticountry polynesia"],
-["Cities and Landmarks","Great cities and famous places.","greatwall pyramids tajmahal machupicchu angkor banaue vigan paris newyork sydney manila cebu baguio tokyo cairo istanbul rio lagos saopaulo mexicocity"],
-["Islands","Island worlds and their peoples.","greenland borneo mindanao madag hawaii palawan iceland galapagos bohol boracay siargao"]]],
+["Cities and Landmarks","Great cities and famous places.","greatwall pyramids tajmahal machupicchu angkor banaue vigan paris newyork sydney manila cebu baguio tokyo cairo istanbul rio lagos saopaulo mexicocity london beijing mumbai nairobi petra colosseum intramuros chocolatehills undergroundriver seoul venice moscow buenosaires dubai stonehenge chichenitza kyoto hongkong bangkok toronto jerusalem"],
+["Islands","Island worlds and their peoples.","greenland borneo mindanao madag hawaii palawan iceland galapagos bohol boracay siargao easterisland"]]],
 
 ["People","👤",["#7a1f3d","#f4a3b5"],"Lives that changed the world",
 "History is made by people. This subject tells the life stories of rulers and reformers, thinkers, scientists, explorers, artists and champions from around the world whose work still shapes our lives.",
@@ -81,7 +81,7 @@ window.SUBJECTS=[
 ["Arts and Culture","🎨",["#6d28d9","#c9b8ff"],"Painting, stories, music and the stage",
 "People have always made art, told stories and played music. This subject explores great painters and sculptors, the books and myths that last for centuries, music from Mozart to hip hop, and theatre, dance and film.",
 ["davinci","shakes","musicw","cinema"],[
-["Art, Architecture and Photography","From cave paintings to masterpieces, great buildings and photographs.","caveart davinci michel impress vangogh picasso gothic architecture photography ukiyoe sculpture calligraphy baroque romanticism modernart islamicart chineseart africanart streetart weaving ceramics tattoo rembrandt amorsolo bahaynabato stainedglass origami graphicdesign"],
+["Art, Architecture and Photography","From cave paintings to masterpieces, great buildings and photographs.","caveart davinci michel impress vangogh picasso gothic architecture photography ukiyoe sculpture calligraphy baroque romanticism modernart islamicart chineseart africanart streetart weaving ceramics tattoo rembrandt amorsolo bahaynabato stainedglass origami graphicdesign museums libraries"],
 ["Books and Stories","Epics, plays, novels, poems and myths.","homer shakes austen novel fairy gmyth phfolk haikuart phlit comics poetry norsemyth childlit chineselit russianlit africanlit latamlit manga scifi detective"],
 ["Music","Music and dance from symphonies to hip hop.","musicw mozart opera jazz blues beatles reggae hiphop electro guitar opm phdance orchestra drums rockpop kpop indianmusic kundiman kulintang"],
 ["Stage and Screen","Theatre, ballet, film, animation and television.","theatre ballet cinema phcinema anim tv puppetry circus musicals bollywood asiantheatre zarzuela documentary comedy stagemagic filmfestivals"]]],
@@ -90,7 +90,7 @@ window.SUBJECTS=[
 "Every machine began as an idea. This subject follows the inventions that changed how we travel, talk, compute and power our homes, from the printing press to artificial intelligence.",
 ["print","comp","internet","renew"],[
 ["Inventions and Machines","Engines, printing, radio and photography.","print steam phone radio camera laser robot wheel lightbulb printing3d refrigeration paper compass gunpowder clocks drones qrcodes microwave typewriter sewingmachine calculators leds"],
-["Transport and Engineering","Trains, planes, cars, ships and bridges.","rail cars ships flight bridges jeepney canals bicycle submarine skyscrapers tunnels elevators highspeedrail motorcycles containers roads airports"],
+["Transport and Engineering","Trains, planes, cars, ships and bridges.","rail cars ships flight bridges jeepney canals bicycle submarine skyscrapers tunnels elevators highspeedrail motorcycles containers roads airports titanic suezcanal concrete steel glass lighthouses"],
 ["Computers and Communication","Chips, networks and smart machines.","comp chip internet smartphone socialmedia gps crypto quantumcomp videogames cybersecurity coding binary cloud opensource fiberoptics touchscreens"],
 ["Artificial Intelligence","Machines that learn, see, talk and reason, and how to use them wisely.","ai aihistory algorithm mlearn neural llm compvision aisafety aieveryday selfdriving turingtest aiart voiceassistants"],
 ["Energy and Power","Electricity, batteries and clean energy.","elec battery nuclear renew wind ev phpower solarpower hydropower geothermal hydrogen powergrid oceanenergy biofuels"]]],
@@ -98,12 +98,12 @@ window.SUBJECTS=[
 ["How We Live","🏘️",["#c2410c","#fdba74"],"Money, beliefs, words, food and play",
 "People live together in families, towns and nations. This subject explains how we earn and trade, what the world’s great religions and thinkers teach, how languages work, where our food comes from and the sports we love.",
 ["money","relig","rice","olymp"],[
-["Government and Society","Democracy, law, rights, taxes and cities.","democ law hrights taxes urban phgov indig elections constitution monarchy journalism capitalism socialism liberalism nationalism feminism family education clothing who nato africanunion"],
+["Government and Society","Democracy, law, rights, taxes and cities.","democ law hrights taxes urban phgov indig elections constitution monarchy journalism capitalism socialism liberalism nationalism feminism family education clothing who nato africanunion inuit maori aboriginal"],
 ["Money and Work","Trade, banks, prices and jobs.","supdem money trade inflation gdp stockm insur labor phecon ofw tourism"],
-["Beliefs and Ideas","Religions and philosophies of the world.","relig hindu buddh judaism christ islam confu tao socr stoic phfest festivals ethics logic indianphil chinesephil existentialism sikhism shinto jainism indigrelig anthropology"],
-["Languages","How people speak, write and sign.","langevo alphabet english spanish mandarin latin arabic signlang phlang baybayin japanese korean hindi french swahili malay"],
+["Beliefs and Ideas","Religions and philosophies of the world.","relig hindu buddh judaism christ islam confu tao socr stoic phfest festivals ethics logic indianphil chinesephil existentialism sikhism shinto jainism indigrelig anthropology lunarnewyear phchristmas"],
+["Languages","How people speak, write and sign.","langevo alphabet english spanish mandarin latin arabic signlang phlang baybayin japanese korean hindi french swahili malay writing"],
 ["Food and Farming","Crops, cooking and feeding the world.","agri rice wheat maize potato sugar spice coffee choco fish phfood noodles"],
-["Sport","Games, races and great competitions.","olymp soccer bball volley tennis athletics swimming cricket martial chess phsport badminton toys"]]],
+["Sport","Games, races and great competitions.","olymp soccer bball volley tennis athletics swimming cricket martial chess phsport badminton toys baseball boardgames sumo gymnastics"]]],
 
 ["The Modern World","🌐",["#a21caf","#f0abfc"],"The world we live in today",
 "The 21st century has brought rapid change: billions of people online, new ways of working, earning and paying, a pandemic, breakthroughs in medicine and urgent global challenges such as hunger, water, extreme heat, rising seas and the loss of nature. This subject explains the big trends shaping the world today, from smart cities and influencers to deepfakes and online scams, and sets out the debates around them.",
