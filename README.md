@@ -8,7 +8,7 @@ An offline-friendly, Encarta-style encyclopedia that runs as a static site.
 2. In the repository, open Settings, then Pages, choose the main branch and the root folder, and save.
 3. Open the Pages link GitHub gives you.
 
-`index.html` loads every file in `data/`, so all of them must be uploaded.
+`index.html` loads the bundled data files in `data/b/` and the picture chunks in `data/ex/`, so upload the whole `data/` folder.
 
 ## Photos
 Photos load when the site is online, in this order:
@@ -27,7 +27,7 @@ Reading history, bookmarks, notes and quiz best scores are stored only in the re
 
 ## Adding content
 Articles live in the `data/articles-*.js` files, and their longer encyclopedia material (opening summary, extra sections, Key facts and Key dates) lives in `data/deep-*.js`. The in-depth layer (six more sections, a Spotlight box, Key words and extra Did you know facts per article) lives in `data/deep-more-*.js`. Articles (add a Wikipedia page title for each new article to `data/wiki.js`), extra sections in `data/extra-sections*.js`, Today in history events in `data/today*.js`, and Dictionary terms in `data/terms*.js`.
-After adding a new data file, add a matching script tag to `index.html`.
+After adding a new data file, add a matching script tag to `index.src.html` and the file to the CORE list in `sw.src.js`, then run `python3 tools/build.py`. The build joins the data files into a few bundles in `data/b/`, splits `data/examples.js` into small picture chunks in `data/ex/` (each article loads only the chunk it needs), and writes `index.html` and `sw.js`. Do not edit `index.html`, `sw.js`, `data/b/` or `data/ex/` by hand; run the build again after any change to a data file.
 
 ## Reference-book layout
 
@@ -57,7 +57,7 @@ The layout layer lives in `ui/dk.js` and `ui/dk.css`, loaded after the main scri
 - **Fixed photos:** `data/images-pinned.js`. Turn on the photo editor from the About page, choose photos and aim labels, then download the file and replace `data/images-pinned.js` with it.
 - **Filipino summaries and pronunciation:** `data/tl1.js` to `tl6.js` and `data/pron.js`, shown by `ui/tl.js`.
 - **Countries, regions, quizzes, print book and smarter search:** `ui/more.js`, with the Philippine regions in `data/regions.js`. Pages are `#/countries`, `#/country/<name>`, `#/regions`, `#/region/<id>` and `#/book`.
-- **Offline use:** `manifest.webmanifest`, `sw.js` and `icons/`. Offline use works when the site is served over http or https, not opened as a local file. Add any new files to the CORE list in `sw.js`.
+- **Offline use:** `manifest.webmanifest`, `sw.js` and `icons/`. Offline use works when the site is served over http or https, not opened as a local file. Add any new files to the CORE list in `sw.src.js` and run `python3 tools/build.py`.
 
 ## Subjects and sub-sections (third edition of the layout)
 
