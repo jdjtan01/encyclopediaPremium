@@ -54,9 +54,16 @@ const hide=(now)=>{clearTimeout(tShow);clearTimeout(tHide);const c=card;card=nul
 const show=(link,id)=>{hide(true);const a=get(id);if(!a)return;curLink=link;want([a]);
 card=document.createElement("div");card.className="apv";card.setAttribute("role","dialog");card.setAttribute("aria-label","Preview of "+a.t);
 card.innerHTML=body(a)+`<div class="pv-ft"><a class="pv-go" href="#/art/${a.id}">Open article ›</a><small>Click the card to open</small></div></div>`;
-document.body.appendChild(card);const r=link.getBoundingClientRect(),W=card.offsetWidth,H=card.offsetHeight,g=12;
-let x=r.left+r.width/2-W/2;x=Math.max(g,Math.min(innerWidth-W-g,x));let below=r.bottom+g+H<innerHeight||r.top-g-H<0;let y=below?r.bottom+10:r.top-H-10;
-card.style.left=(x+scrollX)+"px";card.style.top=(y+scrollY)+"px";card.style.setProperty("--ox",(r.left+r.width/2-x)+"px");card.style.setProperty("--oy",below?"0%":"100%");
+document.body.appendChild(card);const g=12;card.style.maxHeight=(innerHeight-2*g)+"px";card.style.overflowY="auto";
+const r=link.getBoundingClientRect(),W=card.offsetWidth,H=Math.min(card.offsetHeight,innerHeight-2*g),below=innerHeight-r.bottom-g,above=r.top-g,cx=r.left+r.width/2;
+let x=cx-W/2,y,ox=null,oy;
+if(H+10<=below){y=r.bottom+10;oy="0%"}
+else if(H+10<=above){y=r.top-H-10;oy="100%"}
+else{/* not enough room above or below: open beside the item, or keep it fully on screen */
+if(innerWidth-r.right-g>=W+12){x=r.right+12;ox="0px"}else if(r.left-g>=W+12){x=r.left-W-12;ox=W+"px"}
+y=r.top+r.height/2-H/2;oy="50%"}
+x=Math.max(g,Math.min(innerWidth-W-g,x));y=Math.max(g,Math.min(innerHeight-H-g,y));
+card.style.left=(x+scrollX)+"px";card.style.top=(y+scrollY)+"px";card.style.setProperty("--ox",ox!=null?ox:(cx-x)+"px");card.style.setProperty("--oy",oy);
 card.addEventListener("mouseenter",()=>clearTimeout(tHide));card.addEventListener("mouseleave",()=>{tHide=setTimeout(()=>hide(),220)});
 card.addEventListener("click",e=>{if(!e.target.closest("a")){location.hash="#/art/"+a.id;hide(true)}})};
 document.addEventListener("pointerover",e=>{if(e.pointerType!="mouse")return;const l=e.target.closest&&e.target.closest('a[href^="#/art/"]');if(!l||l.closest(SKIP))return;
