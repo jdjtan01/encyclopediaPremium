@@ -78,7 +78,7 @@ svg.amap.focus #cty path:not(.on),svg.amap.focus #dots circle:not(.on){opacity:.
 .albl .lbl text{paint-order:stroke;stroke:var(--halo);stroke-width:.28em;stroke-linejoin:round;fill:var(--lbl);text-anchor:middle;dominant-baseline:middle;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;visibility:hidden}
 #clbl text{font-weight:600}#clbl text.big{font-size:1.18em;font-weight:700;letter-spacing:.12em;text-transform:uppercase}#clbl text.mid{font-size:1.05em}#clbl text.sm{font-size:.95em}
 #clbl text[dx]:not([dx="0.000"]){text-anchor:start}
-.albl .sea text{font-family:Georgia,"Times New Roman",serif;font-style:italic;fill:var(--sealbl);stroke-width:.22em;stroke:var(--oc1);stroke-opacity:.6;letter-spacing:.06em}
+.albl .sea text{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;font-style:italic;fill:var(--sealbl);stroke-width:.22em;stroke:var(--oc1);stroke-opacity:.6;letter-spacing:.06em}
 .albl .sea .s3{font-size:1.5em;letter-spacing:.3em}.albl .sea .s2{font-size:1.25em;letter-spacing:.22em}.albl .sea .s1{font-size:1.12em;letter-spacing:.1em}
 #caps circle{fill:var(--capdot);stroke:var(--halo);stroke-width:1.2;vector-effect:non-scaling-stroke}#caps text{text-anchor:start;font-size:.95em;font-weight:500}
 /* Paper texture (light theme) */

@@ -1,5 +1,5 @@
 /* Reference-book layout: display type, category colors, openers, callouts, galleries, timelines, diagrams, index, front matter and print. */
-:root{--disp:"Archivo","Arial Narrow",system-ui,sans-serif;--serif:"Source Serif 4",Georgia,"Times New Roman",serif}
+:root{--disp:"Archivo","Arial Narrow",system-ui,sans-serif;--serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
 p,li{font-family:var(--serif)}
 h2,h3,.disp{font-family:var(--disp)}
 h2{font-weight:800;letter-spacing:-.02em}
