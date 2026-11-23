@@ -46,6 +46,8 @@ header h1{background:linear-gradient(90deg,#d97706,#db2777 45%,#7c3aed 80%,#0891
 .home2 .hcard .btn{background:linear-gradient(90deg,#db2777,#7c3aed)!important;border:0!important;color:#fff!important}
 .home2 #dc p>b:first-child{display:inline-block;min-width:3.6em;text-align:center;padding:3px 9px;margin-right:6px;border-radius:999px;color:#fff;background:var(--yc,#7c3aed);font-family:var(--disp)}
 .home2 .stile{border-radius:22px}
+@media (min-width:1000px){.home2 .stiles{grid-template-columns:repeat(5,minmax(0,1fr))}.home2 .stile{height:236px}}
+@media (min-width:1000px){.hx-orbs{grid-template-columns:repeat(8,minmax(0,1fr))}}
 @media (max-width:560px){.hx{border-radius:22px}.hx-orbs{grid-template-columns:repeat(4,1fr);gap:12px 4px}.hx-orbs .o{width:54px;height:54px;font-size:25px}.hx-orbs a{font-size:11.5px}.hx-s button{padding:10px 16px}.hx-pills li{font-size:13px;padding:8px 11px}}
 
 .hx-top{display:block}
