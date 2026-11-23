@@ -223,6 +223,7 @@ transform:perspective(600px) rotateX(var(--rx)) rotateY(var(--ry));transition:tr
 @keyframes bxw{25%{transform:rotate(-10deg) scale(1.1)}75%{transform:rotate(8deg) scale(1.1)}}
 .bento .btn{transition:transform .2s,box-shadow .2s}.bento .btn:active{transform:scale(.94)}
 /* ---- scroll reveal ---- */
+#v.home2{overflow-x:clip}
 .home2.rv-on .rv{opacity:0;transform:translateY(46px) scale(.97);transition:opacity .8s cubic-bezier(.2,.8,.2,1),transform .9s cubic-bezier(.2,.8,.2,1);transition-delay:var(--rd,0s)}
 .home2.rv-on .rv.rv-l{transform:translateX(-50px) rotate(-2deg)}.home2.rv-on .rv.rv-r{transform:translateX(50px) rotate(2deg)}
 .home2.rv-on .rv.rv-z{transform:scale(.82) rotate(-3deg)}

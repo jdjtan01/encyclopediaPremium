@@ -84,7 +84,7 @@ document.head.insertAdjacentHTML("beforeend",`<style>${css}</style>`);
 const nv=document.getElementById("nv");
 if(nv){const ind=document.createElement("span");ind.className="nvi";ind.setAttribute("aria-hidden","true");nv.appendChild(ind);nv.classList.add("has-nvi");
 const place=()=>{const on=nv.querySelector("button.on");if(!on){ind.style.opacity=0;return}ind.style.opacity=1;ind.style.left=(on.offsetLeft+8)+"px";ind.style.width=Math.max(10,on.offsetWidth-16)+"px"};
-new MutationObserver(place).observe(nv,{attributes:true,subtree:true,attributeFilter:["class"]});addEventListener("resize",place);
+let pr=0;const placeR=()=>{if(!pr)pr=requestAnimationFrame(()=>{pr=0;place()})};new MutationObserver(placeR).observe(nv,{attributes:true,subtree:true,attributeFilter:["class"]});addEventListener("resize",place);
 document.fonts&&document.fonts.ready.then(place);setTimeout(place,300);place()}
 
 if(still)return;
