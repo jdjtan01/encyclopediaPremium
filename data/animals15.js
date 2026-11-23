@@ -48,7 +48,7 @@ s2:[["Bison and Native Americans","For many Plains Indian nations, such as the L
 sp:["The bison of Yellowstone","By 1902, only about two dozen wild bison remained in Yellowstone National Park, hiding in remote valleys and threatened by poachers. Park managers brought in bison from private herds and protected the survivors, slowly rebuilding the population. Today Yellowstone’s bison, numbering several thousand, are among the few genetically pure wild bison left. They are also the subject of disputes. Some bison carry a disease called brucellosis, and ranchers in nearby Montana fear it could spread to cattle, so bison that leave the park have sometimes been captured or culled. Conservationists and tribes argue that bison should be allowed to roam more widely, and the debate continues."],
 g:[["Bison","A large wild cattle with a shoulder hump"],["Wisent","The European bison"],["Herd","A group of grazing animals"],["Wallow","A shallow hole where animals roll in dust or mud"]],
 f:["Bison are the largest land animals in North America.","European bison were saved from a few zoo animals.","The bison is the US national mammal."],
-fun:"Despite weighing up to a tonne, a bison can run about as fast as a horse over short distances.",
+fun:"Despite weighing up to a metric ton, a bison can run about as fast as a horse over short distances.",
 tl:"Ang bison ay malalaki at mabalahibong ligaw na baka sa Hilagang Amerika at Europa. Halos maubos sila dahil sa pangangaso noong 1800s. Kamag-anak sila ng kalabaw at tamaraw."});
 
 ADDART({id:"platypus",t:"The Platypus",c:"Mammals",i:"🦆",w:"Platypus",r:["kangaroo","evo","australiacountry","otters","animalbehavior"],
