@@ -14,7 +14,7 @@ const ALLSUBS=[];ORDER.forEach(c=>(SUBJ[c]?SUBJ[c].subs:[]).forEach(b=>ALLSUBS.p
 const subCount=()=>ALLSUBS.length;
 const snip=(a,n)=>cut(a.l||a.p[0][1],n||130);
 const crumbs=(c,b,right)=>`<div class="runhead crumbs"><nav aria-label="You are here"><a href="#/contents">Contents</a><i>›</i><a href="${catUrl(c)}">${esc(c)}</a>${b?`<i>›</i><a href="${subUrl(c,b)}">${esc(b)}</a>`:""}</nav><span></span><small>${right||""}</small></div>`;
-const acard=a=>`<a class="card acard" href="#/art/${a.id}">${ban(a)}<div class="t"><em>No. ${NUM[a.id]} · ${mins(a)} min</em><b>${esc(a.t)}</b><p>${esc(snip(a,120))}</p></div></a>`;
+const acard=a=>`<a class="card acard" href="#/art/${a.id}">${ban(a)}<div class="t"><em>${mins(a)} min read</em><b>${esc(a.t)}</b><p>${esc(snip(a,120))}</p></div></a>`;
 
 /* ---------- Menus ---------- */
 const nv=$("#nv");
@@ -35,7 +35,7 @@ addEventListener("hashchange",()=>{closeMenus();setTimeout(markNav)});addEventLi
 const subTile=(c,b)=>{const L=b.ids.map(get).filter(Boolean),f=get((SUBJ[c].feat||[]).find(i=>b.ids.includes(i)))||L[0];return `<div class="subtile"><a class="sthead" href="${subUrl(c,b.n)}">${ban(f)}<span><b>${esc(b.n)}</b><small>${esc(b.d||"")}</small></span></a><p>${esc(b.d)}</p><ul>${L.slice(0,5).map(a=>`<li><a href="#/art/${a.id}">${esc(a.t)}</a></li>`).join("")}</ul>${L.length>5?`<a class="lk more" href="${subUrl(c,b.n)}">See all ›</a>`:`<a class="lk more" href="${subUrl(c,b.n)}">Open ›</a>`}</div>`};
 function subjectPage(c){const S=SUBJ[c],L=A.filter(a=>a.c==c),k=ORDER.indexOf(c),G=L.flatMap(a=>(a.g||[]).map(g=>[g,a])),pick=shuf(G).slice(0,6),f=(S.feat||[]).map(get).filter(Boolean),w=L.reduce((s,a)=>s+artWords(a),0);
 const pv=ORDER[(k-1+ORDER.length)%ORDER.length],nx=ORDER[(k+1)%ORDER.length];
-V.innerHTML=`${crumbs(c,"",`Subject ${k+1} of ${ORDER.length}`)}<section class="opener"><div class="big-ic" aria-hidden="true">${S.i}</div><small>Subject ${k+1} of ${ORDER.length}</small><h2>${esc(c)}</h2><p class="tg">${esc(S.tag)}</p><p>${esc(S.intro)}</p></section>
+V.innerHTML=`${crumbs(c,"","")}<section class="opener"><div class="big-ic" aria-hidden="true">${S.i}</div><h2>${esc(c)}</h2><p class="tg">${esc(S.tag)}</p><p>${esc(S.intro)}</p></section>
 <div class="subjump" aria-label="Sub-sections">${S.subs.map(b=>`<a href="${subUrl(c,b.n)}">${esc(b.n)}</a>`).join("")}</div>
 ${c=="Countries and Places"?`<p><a class="btn" href="#/countries">Countries of the world ›</a><a class="btn" href="#/atlas">Atlas ›</a><a class="btn" href="#/flags">Flag quiz ›</a></p>`:c=="Planet Earth"?`<p><a class="btn" href="#/countries">Countries of the world ›</a><a class="btn" href="#/atlas">Atlas ›</a></p>`:""}
 ${f.length?`<h2 class="sech">Start here</h2><div class="featrow">${f.map(a=>`<a class="card" href="#/art/${a.id}">${ban(a)}<div class="t"><b>${esc(a.t)}</b><span class="csub" style="--c:${col(c)[0]}">${esc(a.sub)}</span><p>${esc(snip(a,110))}</p></div></a>`).join("")}</div>`:""}
@@ -53,9 +53,9 @@ R.cat=function(arg){const parts=String(arg||"").split("/");let c=window.subjFor?
 const b=parts[1]&&SUBJ[c].subs.find(x=>x.n==parts[1]);if(b)subPage(c,b);else subjectPage(c)};
 
 /* ---------- Contents by subject ---------- */
-R.contents=function(){setCat(null);V.innerHTML=`<h2>Contents</h2><p class="mu" style="font:14px system-ui">Every subject, its sub-sections and their numbered articles, in order. Select a subject or sub-section for its opening page.</p>
+R.contents=function(){setCat(null);V.innerHTML=`<h2>Contents</h2><p class="mu" style="font:14px system-ui">Every subject, its sub-sections and their articles, in order. Select a subject or sub-section for its opening page.</p>
 <div class="frontbar"><a class="btn" href="#/howto">How to use this encyclopedia</a><a class="btn" href="#/index">Index</a><a class="btn" href="#/gloss">Glossary</a><a class="btn" href="#/az">Quick reference A–Z</a><a class="btn" href="#/countries">Countries</a><a class="btn" href="#/atlas">Atlas</a><a class="btn" href="#/book">Print the book</a></div>
-<div class="contents2">${ORDER.map((c,i)=>{const S=SUBJ[c];return `<section style="--c:${col(c)[0]};--l:${col(c)[1]}"><h3><em>${String(i+1).padStart(2,"0")}</em><a href="${catUrl(c)}"><span aria-hidden="true">${S.i}</span> ${esc(c)}</a><small>${esc(S.tag)}</small></h3><div class="csubs">${S.subs.map(b=>`<div><h4><a href="${subUrl(c,b.n)}">${esc(b.n)}</a></h4><ol>${b.ids.map(get).filter(Boolean).map(a=>`<li><a href="#/art/${a.id}">${esc(a.t)}</a><span>${NUM[a.id]}</span></li>`).join("")}</ol></div>`).join("")}</div></section>`}).join("")}</div>`};
+<div class="contents2">${ORDER.map((c,i)=>{const S=SUBJ[c];return `<section style="--c:${col(c)[0]};--l:${col(c)[1]}"><h3><a href="${catUrl(c)}"><span aria-hidden="true">${S.i}</span> ${esc(c)}</a><small>${esc(S.tag)}</small></h3><div class="csubs">${S.subs.map(b=>`<div><h4><a href="${subUrl(c,b.n)}">${esc(b.n)}</a></h4><ol>${b.ids.map(get).filter(Boolean).map(a=>`<li><a href="#/art/${a.id}">${esc(a.t)}</a></li>`).join("")}</ol></div>`).join("")}</div></section>`}).join("")}</div>`};
 
 /* ---------- Front page ---------- */
 R.home=function(){setCat(null);const d=new Date(),seed=d.getFullYear()*400+d.getMonth()*32+d.getDate(),f=FACTS[seed%FACTS.length],aod=A[(seed*7919)%A.length];
@@ -81,7 +81,7 @@ const oa=R.about;R.about=function(){oa();V.querySelectorAll(".edbox small").forE
 const pa=R.art;
 R.art=function(id){pa(id);const a=get(id);if(!a)return;const S=SUBJ[a.c],b=window.subOf&&subOf(a);
 /* Breadcrumb */
-const rh=V.querySelector(".runhead");if(rh){const sm=rh.querySelector("small");rh.outerHTML=crumbs(a.c,b?a.sub:"",sm?sm.textContent:"")}
+const rh=V.querySelector(".runhead");if(rh){const sm=rh.querySelector("small");rh.outerHTML=crumbs(a.c,b?a.sub:"","")}
 const meta=V.querySelector("h2.atitle+p.mu");if(meta)meta.innerHTML=`<a href="${b?subUrl(a.c,a.sub):catUrl(a.c)}">${esc(a.sub||a.c)}</a> · ${mins(a)} min read · ${a.p.length} sections`;
 /* Toolbar: Bookmark and Listen stay visible; the rest go into one menu */
 const bk=$("#bk");if(bk){const bar=document.createElement("div");bar.className="atools";bk.before(bar);bar.append(bk);const sp=$("#sp");sp&&bar.append(sp);
