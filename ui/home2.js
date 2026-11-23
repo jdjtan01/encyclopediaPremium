@@ -27,11 +27,6 @@ header h1{background:linear-gradient(90deg,#d97706,#db2777 45%,#7c3aed 80%,#0891
 .hx-s:focus-within{outline:3px solid #ffd23f;outline-offset:3px}
 .hx-pills{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 4px;padding:0;list-style:none}
 .hx-pills li{font:700 14px/1 var(--disp);padding:9px 14px;border-radius:999px;color:#1b0f45;background:var(--pc)}
-.hx-orbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:14px 10px;margin:30px 0 8px}
-.hx-orbs a{display:flex;flex-direction:column;align-items:center;gap:8px;text-decoration:none;color:#fff;text-align:center;font:700 13.5px/1.2 var(--disp);border-radius:16px;padding:6px 2px}
-.hx-orbs .o{width:66px;height:66px;border-radius:50%;display:grid;place-items:center;font-size:30px;background:radial-gradient(circle at 32% 28%,var(--l),var(--c) 70%);box-shadow:0 0 0 3px rgba(255,255,255,.55),0 10px 24px -6px var(--c);transition:transform .2s}
-.hx-orbs a:hover .o,.hx-orbs a:focus-visible .o{transform:translateY(-4px) scale(1.08)}
-.hx-orbs a:focus-visible{outline:3px solid #ffd23f}
 .hx-links{border:0!important;padding:0!important;background:none!important;display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
 .hx-links a{color:#fff;text-decoration:none;font:700 14px var(--disp);padding:8px 14px;border-radius:999px;border:1px solid rgba(255,255,255,.45);background:rgba(255,255,255,.08)}
 .hx-links a:hover{background:rgba(255,255,255,.2)}
@@ -47,8 +42,7 @@ header h1{background:linear-gradient(90deg,#d97706,#db2777 45%,#7c3aed 80%,#0891
 .home2 #dc p>b:first-child{display:inline-block;min-width:3.6em;text-align:center;padding:3px 9px;margin-right:6px;border-radius:999px;color:#fff;background:var(--yc,#7c3aed);font-family:var(--disp)}
 .home2 .stile{border-radius:22px}
 @media (min-width:1000px){.home2 .stiles{grid-template-columns:repeat(5,minmax(0,1fr))}.home2 .stile{height:236px}}
-@media (min-width:1000px){.hx-orbs{grid-template-columns:repeat(8,minmax(0,1fr))}}
-@media (max-width:560px){.hx{border-radius:22px}.hx-orbs{grid-template-columns:repeat(4,1fr);gap:12px 4px}.hx-orbs .o{width:54px;height:54px;font-size:25px}.hx-orbs a{font-size:11.5px}.hx-s button{padding:10px 16px}.hx-pills li{font-size:13px;padding:8px 11px}}
+@media (max-width:560px){.hx{border-radius:22px}.hx-s button{padding:10px 16px}.hx-pills li{font-size:13px;padding:8px 11px}}
 
 .hx-top{display:block}
 @media (min-width:1100px){.hx-top{display:grid;grid-template-columns:minmax(0,1fr) 330px;gap:30px;align-items:center}.hx-t{font-size:clamp(60px,7.4vw,104px)}}
@@ -65,11 +59,11 @@ header h1{background:linear-gradient(90deg,#d97706,#db2777 45%,#7c3aed 80%,#0891
 .hx-t .w{display:inline-block;background:inherit;background-size:200% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:hxs 14s ease-in-out infinite alternate;padding-bottom:.06em}
 .hx-in .hx-t .w{animation:hxw .9s cubic-bezier(.2,.8,.2,1.15) both,hxs 14s ease-in-out infinite alternate;animation-delay:calc(var(--i) * .12s),0s}
 @keyframes hxw{from{opacity:0;transform:translateY(60px) rotate(4deg) scale(.9)}}
-.hx-in .hx-orbs a{animation:hxo .55s cubic-bezier(.3,1.6,.5,1) both;animation-delay:calc(.45s + var(--i) * .05s)}
+.hx-in .sx-c{animation:hxo .6s cubic-bezier(.3,1.5,.5,1) both;animation-delay:calc(.45s + var(--i) * .045s)}
 @keyframes hxo{from{opacity:0;transform:scale(.3) translateY(20px)}}
 .hx-in .hx-deck a{animation:hxc .9s cubic-bezier(.2,.9,.25,1.1) both,hxf 7s ease-in-out .9s infinite alternate;animation-delay:calc(.3s + var(--n) * .15s),calc(1.2s + var(--n) * .15s)}
 @keyframes hxc{from{opacity:0;transform:translate(120px,-40px) rotate(25deg)}}
-@media (prefers-reduced-motion:reduce){.hx-t .w,.hx-deck a,.hx-in .hx-t .w,.hx-in .hx-orbs a,.hx-in .hx-deck a{animation:none!important}}
+@media (prefers-reduced-motion:reduce){.hx-t .w,.hx-deck a,.hx-in .hx-t .w,.hx-in .sx-c,.hx-in .hx-deck a{animation:none!important}}
 .pk{margin:0 0 26px;position:relative}
 .pk h2.sech{margin-top:.2em}
 .pk-row{overflow:hidden;-webkit-mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent);mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent);padding:8px 0}
@@ -99,6 +93,51 @@ header h1{background:linear-gradient(90deg,#d97706,#db2777 45%,#7c3aed 80%,#0891
 @media (max-width:560px){.pk-tr a{width:168px}.pk-tr a .ban{height:104px}.tk-l{font-size:13px;padding:10px 12px}}
 .home2 .stile{transition:transform .25s ease,box-shadow .25s ease;will-change:transform}
 .home2 .stile:hover{box-shadow:0 24px 40px -18px var(--c)}
+
+.sx{display:grid;gap:18px;margin:30px 0 6px}
+@media (min-width:1100px){.sx{grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);align-items:stretch}}
+.sx-cards{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.sx-c{--rx:0deg;--ry:0deg;position:relative;display:flex;flex-direction:column;justify-content:flex-end;min-height:122px;padding:10px 10px 9px;border-radius:18px;overflow:hidden;text-decoration:none;color:#fff;isolation:isolate;
+background:linear-gradient(150deg,var(--l) -20%,var(--c) 55%,color-mix(in srgb,var(--c) 60%,#000) 100%);box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.28),0 10px 22px -12px var(--c);
+transform:perspective(600px) rotateX(var(--rx)) rotateY(var(--ry));transition:transform .25s ease,box-shadow .25s ease}
+.sx-c:before{content:"";position:absolute;inset:-40%;z-index:-1;opacity:0;background:linear-gradient(115deg,transparent 40%,rgba(255,255,255,.55) 50%,transparent 60%);transform:translateX(-70%);transition:transform .8s ease}
+.sx-c:hover:before,.sx-c.on:before{transform:translateX(70%);opacity:1}
+.sx-c:after{content:"";position:absolute;inset:0;z-index:-1;background:radial-gradient(circle at var(--mx,70%) var(--my,20%),rgba(255,255,255,.35),transparent 55%);opacity:0;transition:opacity .3s}
+.sx-c:hover:after,.sx-c.on:after{opacity:1}
+.sx-c .e{position:absolute;top:6px;right:6px;width:50px;height:50px;font-size:34px;line-height:1;filter:drop-shadow(0 6px 8px rgba(0,0,0,.35));transition:transform .35s cubic-bezier(.3,1.6,.5,1)}
+.sx-c:hover .e,.sx-c.on .e{transform:scale(1.25) rotate(-8deg) translateY(-2px)}
+.sx-c b{font:800 14px/1.15 var(--disp);text-shadow:0 1px 6px rgba(0,0,0,.35)}
+.sx-c small{font:700 11.5px/1.2 system-ui,sans-serif;color:#fff;margin-top:3px;text-shadow:0 1px 4px rgba(0,0,0,.45)}
+.sx-c.on{box-shadow:inset 0 0 0 2.5px #fff,0 0 0 3px var(--l),0 18px 30px -12px var(--c);transform:perspective(600px) rotateX(var(--rx)) rotateY(var(--ry)) translateY(-4px)}
+.sx-c:focus-visible{outline:3px solid #ffd23f;outline-offset:3px}
+.sx-c i.bar{position:absolute;left:0;top:0;height:4px;width:0;background:#fff;opacity:.9}
+.sx-c.on i.bar{animation:sxb var(--cyc,5s) linear forwards}
+.sx.paused .sx-c.on i.bar{animation:none;width:100%}
+@keyframes sxb{to{width:100%}}
+.sx-pv{position:relative;border-radius:24px;overflow:hidden;padding:20px 20px 18px;background:linear-gradient(160deg,color-mix(in srgb,var(--c) 70%,#120a3a),#120a3a 85%);box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.22),0 0 40px -10px var(--l);transition:background .5s,box-shadow .5s;min-height:300px;display:flex;flex-direction:column}
+.sx-pv .big{position:absolute;right:14px;top:14px;width:96px;height:96px;font-size:0;opacity:.95;pointer-events:none;filter:drop-shadow(0 10px 18px rgba(0,0,0,.35));z-index:1}
+.sx-pv .sx-in{position:relative;z-index:1}.sx-pv h3,.sx-pv .tg,.sx-pv .ct{padding-right:100px}
+.sx-ph{position:absolute;inset:0;z-index:0;pointer-events:none}.sx-ph .ban{position:absolute!important;inset:0;height:100%!important;font-size:0!important;color:transparent!important;background:none!important;margin:0!important}.sx-ph img{width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity .6s}.sx-ph img.ld{opacity:.5}
+.sx-ph:after{content:"";position:absolute;inset:0;background:linear-gradient(170deg,color-mix(in srgb,var(--c) 55%,transparent) 0%,rgba(18,10,58,.82) 55%,#120a3a 100%)}
+.sx-in{display:flex;flex-direction:column;gap:10px;flex:1;animation:sxi .45s cubic-bezier(.2,.8,.2,1)}
+@keyframes sxi{from{opacity:0;transform:translateY(14px)}}
+.sx-pv h3{margin:0;font:900 clamp(28px,3vw,38px)/1 var(--disp);letter-spacing:-.03em;color:#fff}
+.sx-pv .tg{margin:0;color:var(--l);font:700 15px/1.3 var(--disp)}
+.sx-pv .ct{margin:0;color:#e7e1ff;font:500 14px/1.4 system-ui,sans-serif}
+.sx-th{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.sx-th a{display:block;border-radius:12px;overflow:hidden;background:rgba(255,255,255,.1);text-decoration:none;color:#fff;transition:transform .2s}
+.sx-th a:hover,.sx-th a:focus-visible{transform:translateY(-3px)}
+.sx-th .ban{height:70px;font-size:28px;display:grid;place-items:center;position:relative;overflow:hidden}
+.sx-th .ban img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.sx-th span{display:block;padding:6px 8px 7px;font:700 12px/1.2 var(--disp)}
+.sx-sb{display:flex;flex-wrap:wrap;gap:6px}
+.sx-sb a{font:600 12.5px/1 system-ui,sans-serif;color:#fff;text-decoration:none;padding:7px 10px;border-radius:999px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25)}
+.sx-sb a:hover{background:rgba(255,255,255,.24)}
+.sx-go{margin-top:auto;align-self:flex-start;display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:999px;text-decoration:none;font:800 15px var(--disp);color:#1b0f45;background:linear-gradient(90deg,#fff,var(--l))}
+.sx-go:hover{filter:brightness(1.06)}
+.sx-tip{margin:0;color:#cfc6f2;font:500 12.5px system-ui,sans-serif}
+@media (max-width:760px){.sx-cards{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.sx-c{min-height:104px;border-radius:15px}.sx-c .e{width:42px;height:42px}.sx-pv .big{width:70px;height:70px}.sx-pv h3,.sx-pv .tg,.sx-pv .ct{padding-right:74px}.sx-c b{font-size:13px}.sx-pv{min-height:0}}
+@media (prefers-reduced-motion:reduce){.sx-c,.sx-c:before,.sx-c .e,.sx-in{transition:none;animation:none}.sx-c.on i.bar{animation:none;width:100%}}
 `;
 document.head.insertAdjacentHTML("beforeend",`<style>${css}</style>`);
 const esc3=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -112,7 +151,8 @@ R.home=function(x){prev(x);const m=V.querySelector(".mast2");if(!m)return;V.clas
 const S=window.SUBJ||{},order=Object.keys(CAT),d=new Date();
 const nC=(window.COUNTRIES||window.CTRY||[]).length||238;
 const hrefs={};V.querySelectorAll("a.stile").forEach(a=>{const b=a.querySelector("b");b&&(hrefs[b.textContent]=a.getAttribute("href"))});
-const orbs=order.filter(c=>S[c]).map(c=>`<a href="${hrefs[c]||"#/browse/"+encodeURIComponent(c)}" style="--c:${CAT[c][0]};--l:${CAT[c][1]}"><span class="o" aria-hidden="true">${S[c].i||"•"}</span>${esc3(c)}</a>`).join("");
+const cnt={};A.forEach(a=>cnt[a.c]=(cnt[a.c]||0)+1);const SL=order.filter(c=>S[c]);
+const orbs=SL.map((c,i)=>`<a class="sx-c" data-c="${esc3(c)}" href="${hrefs[c]||"#/browse/"+encodeURIComponent(c)}" style="--c:${CAT[c][0]};--l:${CAT[c][1]};--i:${i}"><span class="e" aria-hidden="true">${window.subjArt?subjArt(c):S[c].i}</span><b>${esc3(c)}</b><small>${cnt[c]||0} articles</small><i class="bar" aria-hidden="true"></i></a>`).join("");
 const links=m.querySelector(".mlinks");
 const hx=document.createElement("section");hx.className="hx";
 const seed=d.getFullYear()*400+d.getMonth()*32+d.getDate();
@@ -127,9 +167,26 @@ hx.innerHTML=`<div class="hx-bg" aria-hidden="true"><i></i><i></i><i></i><i></i>
 <form class="hx-s" role="search"><input type="search" aria-label="Search the encyclopedia" placeholder="Search ${A.length.toLocaleString("en-US")} articles, countries and words"><button type="submit">Search</button></form>
 <ul class="hx-pills"><li style="--pc:#ffd23f">${A.length.toLocaleString("en-US")} articles</li><li style="--pc:#ff9ccc">${nC} countries</li><li style="--pc:#8ff0dc">${order.length} subjects</li><li style="--pc:#c7b4ff">Daily facts and quizzes</li></ul></div>
 <div class="hx-deck" aria-label="Today’s picture preview">${deck.map((a,n)=>pcard(a).replace('style="',`style="--r:${DK[n][0]};left:${DK[n][1]};top:${DK[n][2]};--n:${n};--dl:${-n*1.7}s;`)).join("")}</div></div>
-<div class="hx-orbs">${orbs}</div>`;
+<div class="sx"><div class="sx-cards">${orbs}</div><div class="sx-pv" aria-live="polite"></div></div>`;
 if(links){links.className="hx-links";hx.appendChild(links)}
-m.replaceWith(hx);hx.querySelectorAll(".hx-orbs a").forEach((a,i)=>a.style.setProperty("--i",i));
+m.replaceWith(hx);
+{const sx=hx.querySelector(".sx"),pv=sx.querySelector(".sx-pv"),cards=[...sx.querySelectorAll(".sx-c")],CYC=5000;let cur=-1,tm=0,hold=false;
+const show=i=>{cur=i;const c=SL[i],Sx=S[c],href=cards[i].getAttribute("href");cards.forEach((k,j)=>k.classList.toggle("on",j==i));
+const fe=(Sx.feat||[]).map(get).filter(Boolean).slice(0,3);want(fe);
+pv.style.setProperty("--c",CAT[c][0]);pv.style.setProperty("--l",CAT[c][1]);
+pv.innerHTML=`${fe[0]?`<div class="sx-ph" aria-hidden="true">${ban(fe[0])}</div>`:""}<span class="big" aria-hidden="true">${window.subjArt?subjArt(c):Sx.i}</span><div class="sx-in"><h3>${esc3(c)}</h3><p class="tg">${esc3(Sx.tag||"")}</p><p class="ct">${cnt[c]||0} articles in ${Sx.subs.length} sections</p>
+<div class="sx-th">${fe.map(a=>`<a href="#/art/${a.id}">${ban(a)}<span>${esc3(a.t)}</span></a>`).join("")}</div>
+<div class="sx-sb">${Sx.subs.filter(b=>b.n!="Other articles").slice(0,4).map(b=>`<a href="${href}">${esc3(b.n)}</a>`).join("")}</div>
+<a class="sx-go" href="${href}">Explore ${esc3(c)} ›</a></div>`};
+const next=()=>{clearTimeout(tm);if(!document.body.contains(sx))return;if(!hold&&!sx.classList.contains("paused"))show((cur+1)%SL.length);tm=setTimeout(next,CYC)};
+sx.style.setProperty("--cyc",CYC/1000+"s");
+const fine=matchMedia("(hover:hover) and (pointer:fine)").matches,still=matchMedia("(prefers-reduced-motion:reduce)").matches;
+cards.forEach((k,i)=>{k.addEventListener("mouseenter",()=>{hold=true;show(i)});k.addEventListener("focus",()=>{hold=true;show(i)});
+if(fine&&!still){k.addEventListener("mousemove",e=>{const r=k.getBoundingClientRect(),x=(e.clientX-r.left)/r.width,y=(e.clientY-r.top)/r.height;k.style.setProperty("--ry",(x-.5)*16+"deg");k.style.setProperty("--rx",(.5-y)*16+"deg");k.style.setProperty("--mx",x*100+"%");k.style.setProperty("--my",y*100+"%")});
+k.addEventListener("mouseleave",()=>{k.style.setProperty("--rx","0deg");k.style.setProperty("--ry","0deg")})}});
+sx.addEventListener("mouseleave",()=>{hold=false});sx.addEventListener("focusout",e=>{if(!sx.contains(e.relatedTarget))hold=false});
+if(still)sx.classList.add("paused");
+show(seed%SL.length);tm=setTimeout(next,CYC)}
 if(!played){played=true;hx.classList.add("hx-in")}
 const pk=document.createElement("section");pk.className="pk";pk.setAttribute("aria-label","A peek inside");
 const row=(l,cls,dur)=>`<div class="pk-row ${cls}"><div class="pk-tr" style="--dur:${dur}s">${l.map(pcard).join("")}${l.map(a=>pcard(a).replace("<a ",'<a tabindex="-1" aria-hidden="true" ')).join("")}</div></div>`;
@@ -142,6 +199,7 @@ const st=[...V.querySelectorAll(".sech")].find(h=>/Explore/.test(h.textContent))
 want([...deck,...row1,...row2]);
 if(matchMedia("(hover:hover) and (pointer:fine)").matches&&!matchMedia("(prefers-reduced-motion:reduce)").matches)V.querySelectorAll(".stile").forEach(t=>{t.onmousemove=e=>{const r=t.getBoundingClientRect(),x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;t.style.transform=`perspective(700px) rotateY(${x*10}deg) rotateX(${-y*10}deg) translateY(-4px)`};t.onmouseleave=()=>{t.style.transform=""}});
 hx.querySelector(".hx-s").onsubmit=e=>{e.preventDefault();const q=hx.querySelector("input").value.trim();if(!q)return;const qi=$("#q");if(qi){qi.value=q}location.hash="#/search/"+encodeURIComponent(q)};
+V.querySelectorAll("a.stile").forEach(t=>{const b=t.querySelector("b"),i=t.querySelector(".st-i");if(b&&i&&window.subjArt){const sv=subjArt(b.textContent);if(sv){i.classList.add("svg");i.innerHTML=sv}}});
 V.querySelectorAll(".sech").forEach((h,i)=>{h.style.setProperty("--hg",GR[i%GR.length]);if(!h.querySelector("span"))h.innerHTML=`<span>${h.innerHTML}</span>`});
 V.querySelectorAll(".cols3 > .panel, .row > .panel").forEach((p,i)=>{p.classList.add("hp");p.style.setProperty("--pc",PC[i%PC.length][0]);const h=p.querySelector("h3");h&&h.setAttribute("data-e",PC[i%PC.length][1])});
 const yc=()=>V.querySelectorAll("#dc p>b:first-child").forEach((b,i)=>b.style.setProperty("--yc",YC[i%YC.length]));yc();
