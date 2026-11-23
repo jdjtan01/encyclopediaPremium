@@ -15,7 +15,7 @@ hovercraft:[["Hovercraft (Britannica)","https://www.britannica.com/technology/ai
 farmmachinery:[["Agricultural machinery (Britannica)","https://www.britannica.com/technology/agricultural-technology"]],
 constructionmachines:[["Crane (Britannica)","https://www.britannica.com/technology/crane-machine"]],
 wristwatches:[["Watch (Britannica)","https://www.britannica.com/technology/watch"]],
-bepicolombo:[["‘A new mission starting today’: BepiColombo begins Mercury arrival (Space.com, September 2026)","https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival/amp/"],["BepiColombo (ESA)","https://www.esa.int/Science_Exploration/Space_Science/BepiColombo"]],
+bepicolombo:[["BepiColombo arrives at Mercury (Eos, 21 November 2026)","https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury"],["‘A new mission starting today’: BepiColombo begins Mercury arrival (Space.com, September 2026)","https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival/amp/"],["BepiColombo (ESA)","https://www.esa.int/Science_Exploration/Space_Science/BepiColombo"]],
 venusmissions:[["NASA’s ‘decade of Venus’ may bank on one probe (Space.com, March 2026)","https://www.space.com/space-exploration/missions/nasas-ambitious-decade-of-venus-exploration-may-bank-on-1-probe-not-everything-can-move-forward"],["Venus exploration (NASA)","https://science.nasa.gov/venus/exploration/"]],
 pioneerprobes:[["Pioneer 10 (NASA)","https://science.nasa.gov/mission/pioneer-10/"],["Pioneer 11 (NASA)","https://science.nasa.gov/mission/pioneer-11/"]],
 vikinglanders:[["Viking 1 and 2 (NASA)","https://science.nasa.gov/mission/viking-1/"]],

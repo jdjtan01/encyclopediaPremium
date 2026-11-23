@@ -353,5 +353,8 @@ window.TODAY=(window.TODAY||[]).concat([
 [10,14,2012,"Felix Baumgartner parachutes from about 39 kilometers, breaking the sound barrier in free fall.","parachutes"],
 [8,5,2013,"The first lab-grown burger is cooked and tasted in London.","labgrownmeat"],
 [9,7,2001,"Surgeons in New York operate on a patient in France using a robot.","roboticsurgery"],
-[11,26,1966,"The La Rance tidal power station opens in France.","tidalpower"]
+[11,26,1966,"The La Rance tidal power station opens in France.","tidalpower"],
+[6,12,2026,"SpaceX shares begin trading on the Nasdaq after the largest public share sale in history.","spacex"],
+[11,21,2026,"The European–Japanese BepiColombo spacecraft enters orbit around Mercury after an eight-year journey.","bepicolombo"],
+[7,10,2026,"China’s Long March 10B rocket recovers its first stage after an orbital launch, a first for the Long March family.","longmarch"]
 ]);

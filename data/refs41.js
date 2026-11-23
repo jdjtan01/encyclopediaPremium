@@ -32,7 +32,7 @@ ingenuity:[["Ingenuity Mars Helicopter (NASA)","https://science.nasa.gov/mission
 vostok:[["Vostok (Britannica)","https://www.britannica.com/technology/Vostok-Soviet-spacecraft"],["Yuri Gagarin (Britannica)","https://www.britannica.com/biography/Yuri-Gagarin"]],
 salyut:[["Salyut (Britannica)","https://www.britannica.com/technology/Salyut"]],
 buran:[["Buran (Britannica)","https://www.britannica.com/technology/Buran"]],
-longmarch:[["Long March (Britannica)","https://www.britannica.com/technology/Long-March-launch-vehicle"],["China conducts key flight test for manned lunar mission (China Daily)","https://global.chinadaily.com.cn/a/202602/11/WS698bf2b4a310d6866eb38a93_4.html"]],
+longmarch:[["China achieves first orbital booster recovery with Long March 10B (AIAA, 10 July 2026)","https://aiaa.org/2026/07/10/china-achieves-first-orbital-booster-recovery-with-long-march-10b/"],["Long March (Britannica)","https://www.britannica.com/technology/Long-March-launch-vehicle"],["China conducts key flight test for manned lunar mission (China Daily)","https://global.chinadaily.com.cn/a/202602/11/WS698bf2b4a310d6866eb38a93_4.html"]],
 jaxa:[["JAXA","https://global.jaxa.jp/"],["SLIM (JAXA)","https://global.jaxa.jp/projects/sas/slim/"]],
 weathersatellites:[["Weather satellite (Britannica)","https://www.britannica.com/technology/weather-satellite"],["GOES-R series (NOAA)","https://www.goes-r.gov/"]],
 earthobservation:[["Landsat (US Geological Survey)","https://www.usgs.gov/landsat-missions"],["Landsat Science (NASA)","https://landsat.gsfc.nasa.gov/"]],
