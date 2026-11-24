@@ -64,7 +64,7 @@ document.head.insertAdjacentHTML("beforeend",`<style>${css}</style>`);
 
 /* ======================= article pages ======================= */
 const rd=document.createElement("div");rd.className="rdbar";rd.setAttribute("aria-hidden","true");
-const rl=document.createElement("div");rl.className="rdleft";rl.setAttribute("aria-hidden","true");document.body.append(rd,rl);
+const rl=document.createElement("div");document.body.append(rd);
 let artState=null;
 const animSvg=svg=>{if(still||svg.dataset.anim||svg.closest(".sart,.sico,.hx,.bento,.empt,.opener,#ldsp"))return;const bb=svg.getBoundingClientRect();if(bb.width<80)return;svg.dataset.anim=1;
 const els=[...svg.querySelectorAll("rect,circle,ellipse,path,line,polyline,polygon,text")].slice(0,320);let k=0;
@@ -96,7 +96,7 @@ const words=(V.querySelector(".body")||V).innerText.split(/\s+/).length;artState
 V.querySelectorAll(".body svg,.hero svg").forEach(s=>svgIO.observe(s));keyFacts();photoColor();onScroll()};
 const onScroll=()=>{if(!artState||!/^#\/art\//.test(location.hash)){rd.style.setProperty("--rp",0);rl.classList.remove("on");return}
 const body=V.querySelector(".body");if(!body)return;const r=body.getBoundingClientRect(),tot=r.height-innerHeight*.6,done=Math.max(0,Math.min(1,(-r.top+innerHeight*.25)/Math.max(1,tot)));
-rd.style.setProperty("--rp",done.toFixed(4));const left=Math.ceil(artState.words*(1-done)/200);rl.textContent=done>.97?"Finished — nice!":left<=1?"Less than 1 min left":left+" min left";rl.classList.toggle("on",scrollY>innerHeight*.5&&done<1.01);
+rd.style.setProperty("--rp",done.toFixed(4));
 const S=artState.secs;let cur=-1;for(let i=0;i<S.length;i++){if(S[i][1].getBoundingClientRect().top<innerHeight*.32)cur=i}
 if(cur!=artState.cur&&artState.mk){artState.cur=cur;S.forEach((p,i)=>p[0].classList.toggle("cur",i==cur));if(cur>=0){const b=S[cur][0];artState.mk.style.top=b.offsetTop+"px";artState.mk.style.height=b.offsetHeight+"px";artState.mk.style.opacity=1}else artState.mk.style.opacity=0}};
 let sr=0;addEventListener("scroll",()=>{if(!sr)sr=requestAnimationFrame(()=>{sr=0;onScroll()})},{passive:true});
