@@ -67,7 +67,7 @@ card.style.left=(x+scrollX)+"px";card.style.top=(y+scrollY)+"px";card.style.setP
 card.addEventListener("mouseenter",()=>clearTimeout(tHide));card.addEventListener("mouseleave",()=>{tHide=setTimeout(()=>hide(),220)});
 card.addEventListener("click",e=>{if(!e.target.closest("a")){location.hash="#/art/"+a.id;hide(true)}})};
 document.addEventListener("pointerover",e=>{if(e.pointerType!="mouse")return;const l=e.target.closest&&e.target.closest('a[href^="#/art/"]');if(!l||l.closest(SKIP))return;
-if(l===curLink){clearTimeout(tHide);return}const id=idOf(l);if(!id)return;clearTimeout(tShow);tShow=setTimeout(()=>{if(l.matches(":hover"))show(l,id)},480)});
+if(l===curLink){clearTimeout(tHide);return}const id=idOf(l);if(!id)return;clearTimeout(tShow);tShow=setTimeout(()=>{if((window.__pvBlock||0)>performance.now()||document.querySelector(".pk-row.drag"))return;if(l.matches(":hover"))show(l,id)},480)});
 document.addEventListener("pointerout",e=>{if(e.pointerType!="mouse")return;const l=e.target.closest&&e.target.closest('a[href^="#/art/"]');if(!l)return;
 if(e.relatedTarget&&l.contains(e.relatedTarget))return;clearTimeout(tShow);if(l===curLink)tHide=setTimeout(()=>hide(),260)});
 addEventListener("hashchange",()=>{hide(true);closeSheet(true)});addEventListener("scroll",()=>{if(card)hide()},{passive:true});

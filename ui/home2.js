@@ -67,11 +67,13 @@ header h1{background:linear-gradient(90deg,#d97706,#db2777 45%,#7c3aed 80%,#0891
 .pk{margin:0 0 26px;position:relative}
 .pk h2.sech{margin-top:.2em}
 .pk-row{overflow:hidden;-webkit-mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent);mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent);padding:8px 0}
-.pk-tr{display:flex;gap:14px;width:max-content;animation:pkm var(--dur,70s) linear infinite}
-.pk-row.rev .pk-tr{animation-direction:reverse}
-.pk-row:hover .pk-tr,.pk-row:focus-within .pk-tr{animation-play-state:paused}
+.pk-tr{display:flex;gap:14px;width:max-content;will-change:transform}
+.pk-row{cursor:grab;touch-action:pan-y;user-select:none;-webkit-user-select:none}
+.pk-row.drag{cursor:grabbing}.pk-row.drag a{pointer-events:none}
+.pk-tr a,.pk-tr img{-webkit-user-drag:none}
+.pk-hint{margin:-4px 0 8px;color:var(--mu);font:500 14px system-ui,sans-serif}
 @keyframes pkm{to{transform:translateX(-50%)}}
-@media (prefers-reduced-motion:reduce){.pk-tr{animation:none}.pk-row{overflow-x:auto;-webkit-mask-image:none;mask-image:none}}
+
 .pk-tr a{flex:none;width:210px;border-radius:18px;overflow:hidden;background:var(--sf);border:1px solid var(--bd);text-decoration:none;color:var(--hd);transition:transform .2s,box-shadow .2s}
 .pk-tr a:hover,.pk-tr a:focus-visible{transform:translateY(-6px) rotate(-1deg);box-shadow:0 18px 30px -14px var(--c)}
 .pk-tr a .ban{height:130px;font-size:46px;display:grid;place-items:center;position:relative;overflow:hidden}
@@ -285,7 +287,27 @@ show(seed%SL.length);tm=setTimeout(next,CYC)}
 if(!played){played=true;hx.classList.add("hx-in")}
 const pk=document.createElement("section");pk.className="pk";pk.setAttribute("aria-label","A peek inside");
 const row=(l,cls,dur)=>`<div class="pk-row ${cls}"><div class="pk-tr" style="--dur:${dur}s">${l.map(pcard).join("")}${l.map(a=>pcard(a).replace("<a ",'<a tabindex="-1" aria-hidden="true" ')).join("")}</div></div>`;
-pk.innerHTML=`<h2 class="sech">A peek inside</h2>${row(row1,"",80)}${row(row2,"rev",95)}`;
+pk.innerHTML=`<h2 class="sech">A peek inside</h2><p class="pk-hint">Drag the rows left or right to browse.</p>${row(row1,"",80)}${row(row2,"rev",95)}`;
+/* rows glide on their own and can be dragged (mouse or finger) with a little momentum */
+{const still=matchMedia("(prefers-reduced-motion:reduce)").matches;
+pk.querySelectorAll(".pk-row").forEach((rw,ri)=>{const tr=rw.querySelector(".pk-tr");const dir=rw.classList.contains("rev")?1:-1;const speed=ri?0.42:0.5;
+let x=0,half=0,vel=0,drag=false,hover=false,sx=0,lx=0,lt=0,moved=0,pid=null,last=performance.now();
+let started=false;const measure=()=>{half=tr.scrollWidth/2;if(half&&!started){started=true;if(dir>0)x=-half/2}};addEventListener("resize",measure);
+const wrap=()=>{if(!half){measure();if(!half)return}while(x<=-half)x+=half;while(x>0)x-=half};
+const frame=t=>{if(!document.body.contains(rw))return;const dt=Math.min(50,t-last);last=t;
+if(!drag){if(Math.abs(vel)>0.02){x+=vel*dt;vel*=Math.pow(0.94,dt/16)}else{vel=0;if(!hover&&!still&&!document.hidden)x+=dir*speed*dt/16}}
+wrap();tr.style.transform=`translate3d(${x.toFixed(1)}px,0,0)`;requestAnimationFrame(frame)};requestAnimationFrame(frame);
+rw.addEventListener("mouseenter",()=>hover=true);rw.addEventListener("mouseleave",()=>hover=false);
+rw.addEventListener("focusin",()=>hover=true);rw.addEventListener("focusout",()=>hover=false);
+rw.addEventListener("pointerdown",e=>{if(e.button)return;drag=true;moved=0;vel=0;sx=lx=e.clientX;lt=performance.now();pid=e.pointerId});
+rw.addEventListener("pointermove",e=>{if(!drag||e.pointerId!==pid)return;const dx=e.clientX-lx,now=performance.now();moved+=Math.abs(dx);
+if(moved>6&&!rw.classList.contains("drag")){rw.classList.add("drag");const pv=document.querySelector(".apv");pv&&pv.remove();try{rw.setPointerCapture(pid)}catch(_){}}
+x+=dx;vel=dx/Math.max(1,now-lt);lx=e.clientX;lt=now});
+const end=e=>{if(!drag||(e&&e.pointerId!==pid))return;drag=false;if(moved>6)window.__pvBlock=performance.now()+900;if(performance.now()-lt>80)vel=0;vel=Math.max(-3,Math.min(3,vel));
+setTimeout(()=>rw.classList.remove("drag"),0)};
+rw.addEventListener("pointerup",end);rw.addEventListener("pointercancel",end);rw.addEventListener("lostpointercapture",end);
+rw.addEventListener("click",e=>{if(moved>6){e.preventDefault();e.stopPropagation()}},true);
+rw.addEventListener("dragstart",e=>e.preventDefault())})}
 const aodCard=V.querySelector(".hcard");(aodCard||hx).insertAdjacentElement(aodCard?"afterend":"afterend",pk);
 const fun=window.FUN||{},fk=Object.keys(fun).filter(get);const tf=[];for(let k=0;k<14&&fk.length;k++){const id=fk[(seed*17+k*211)%fk.length];if(!tf.includes(id))tf.push(id)}
 if(tf.length){const tk=document.createElement("div");tk.className="tk";const it=tf.map(id=>`<a href="#/art/${id}" style="--c:${pal(get(id))}"><span>${esc3(fun[id])}</span></a>`).join("");
