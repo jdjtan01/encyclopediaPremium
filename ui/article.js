@@ -47,6 +47,7 @@ background:linear-gradient(135deg,var(--a1),color-mix(in srgb,var(--a1) 55%,#000
 .body .rvx{opacity:0;transform:translateY(18px);transition:opacity .8s ease,transform .9s ${E}}
 .body .rvx.in{opacity:1;transform:none}
 /* ---------- variety ---------- */
+.pq,.bigfig,.dykc,.afin{clear:both}
 .pq{margin:1.8em 0;padding:6px 0 6px 26px;border-left:5px solid var(--a1);font:800 clamp(22px,2.4vw,28px)/1.35 var(--disp);letter-spacing:-.01em;color:var(--hd);position:relative}
 .pq:before{content:"“";position:absolute;left:18px;top:-28px;font:900 80px/1 Georgia,serif;color:color-mix(in srgb,var(--a1) 30%,transparent)}
 .bigfig{display:flex;align-items:center;gap:18px;margin:1.6em 0;padding:18px 22px;border-radius:20px;background:linear-gradient(120deg,color-mix(in srgb,var(--a1) 14%,var(--sf)),var(--sf));border:1px solid color-mix(in srgb,var(--a1) 25%,transparent)}
