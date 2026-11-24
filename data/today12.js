@@ -77,7 +77,6 @@ window.TODAY=(window.TODAY||[]).concat([
 [4, 27, 2016, "Diwata-1, the first Philippine microsatellite, is released into orbit from the International Space Station.", "philsa"],
 [6, 14, 1956, "Clyde Cowan and Frederick Reines send a telegram announcing the detection of the neutrino.", "neutrinos"],
 [3, 6, 1869, "Dmitri Mendeleev’s periodic table is presented to the Russian Chemical Society.", "periodictable"],
-[11, 24, 1859, "Charles Darwin publishes On the Origin of Species.", "evolution"],
 [4, 1, 2026, "Artemis II launches, carrying four astronauts on a voyage around the Moon.", "artemis"],
 [4, 10, 2026, "The Artemis II crew splashes down in the Pacific Ocean after flying around the Moon.", "artemis"],
 [11, 16, 2022, "NASA launches Artemis I, an uncrewed test flight around the Moon.", "artemis"],

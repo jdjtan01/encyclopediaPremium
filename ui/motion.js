@@ -100,7 +100,7 @@ const fmt=v=>{const s=v.toFixed(dec);return comma?Number(s).toLocaleString("en-U
 const tick=t=>{const f=Math.min(1,(t-t0)/1300),e=1-Math.pow(1-f,3);b.textContent=m[1]+fmt(end*e)+m[3];if(f<1)requestAnimationFrame(tick)};requestAnimationFrame(tick)});
 let raf=0,pageChanged=false;const V=document.getElementById("v");
 const decorate=()=>{raf=0;const home=V.classList.contains("home2");
-if(pageChanged){pageChanged=false;if(!home){V.classList.remove("pg-in");void V.offsetWidth;[...V.children].forEach((c,i)=>c.style.setProperty("--pi",Math.min(i,8)));V.classList.add("pg-in");setTimeout(()=>V.classList.remove("pg-in"),1100)}
+if(pageChanged){pageChanged=false;if(!home&&!document.documentElement.classList.contains("vt-run")){V.classList.remove("pg-in");void V.offsetWidth;[...V.children].forEach((c,i)=>c.style.setProperty("--pi",Math.min(i,8)));V.classList.add("pg-in");setTimeout(()=>V.classList.remove("pg-in"),1100)}
 countUp(V)}
 if(home)return;
 const per=new Map();V.querySelectorAll(SEL).forEach(el=>{if(seen.has(el)||el.closest(".bento,.hx,.mega"))return;seen.add(el);const p=el.parentNode,k=per.get(p)||0;per.set(p,k+1);

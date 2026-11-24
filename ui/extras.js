@@ -1,5 +1,10 @@
 /* Word of the day, flashcards, reading progress and compare view */
 (()=>{
+/* Remove duplicate Today in History events (the same event added from two articles): keep the most detailed one */
+{const T=window.TODAY||[],norm=x=>String(x).toLowerCase().replace(/[^a-z0-9 ]/g," ").split(/\s+/).filter(w=>w.length>3),out=[],by={};
+T.forEach(e=>{const k=e[0]+"/"+e[1]+"/"+e[2],g=by[k]=by[k]||[];const w=norm(e[3]);const hit=g.find(o=>{const a=new Set(o.w);const ov=w.filter(x=>a.has(x)).length/Math.max(1,Math.min(a.size,w.length));return ov>=.6});
+if(!hit){const o={e,w};g.push(o);out.push(o)}else{const better=(e[4]&&!hit.e[4])||((!!e[4]==!!hit.e[4])&&e[3].length>hit.e[3].length);if(better){hit.e=e;hit.w=w}}});
+window.TODAY=out.map(o=>o.e)}
 const css=`.wod b.w{font:800 22px/1.2 var(--disp,system-ui);color:var(--hd);display:block;margin:2px 0 4px}.wod p{margin:.2em 0 .6em}
 .rp .big{font:800 30px/1 var(--disp,system-ui);color:var(--hd)}.rp .bar{height:8px;border-radius:99px;background:var(--sf2);overflow:hidden;margin:8px 0 10px}.rp .bar i{display:block;height:100%;background:var(--g)}
 .rp ul{list-style:none;padding:0;margin:6px 0 8px;font-size:14px}.rp li{display:flex;justify-content:space-between;gap:10px;border-top:1px solid var(--bd);padding:4px 0}
