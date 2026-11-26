@@ -25,6 +25,9 @@ const ART={
 <path d="M60 8c16 12 22 34 18 62l-6 20H48l-6-20c-4-28 2-50 18-62z" fill="${W}"/><path d="M60 8c16 12 22 34 18 62l-6 20h-6c6-30 4-60-6-82z" fill="${S}"/>
 <path d="M42 62l-14 16 2 14 16-8zM78 62l14 16-2 14-16-8z" fill="var(--l)"/><path d="M42 62l-14 16 2 14 16-8z" fill="var(--c)" opacity=".5"/>
 <circle cx="60" cy="42" r="10" fill="var(--c)"/><circle cx="60" cy="42" r="10" fill="none" stroke="${W}" stroke-width="3"/><circle cx="57" cy="39" r="3" fill="${W}" opacity=".7"/></g>`,
+"Prehistoric Life":`<circle class="a-tw" cx="94" cy="24" r="10" fill="${G}"/><g class="a-sway" style="transform-origin:18px 104px"><path d="M18 104c-2-18 2-34 10-44M22 82l-12-6M24 74l-10-10M26 66l-6-12M20 90l14-4M24 78l12-8" stroke="${T}" stroke-width="3.5" stroke-linecap="round" fill="none"/></g>
+<path d="M30 92c8-14 22-22 38-22 8 0 14-6 18-16l6-20c2-6 8-8 12-4 3 3 2 7-1 8l-6 2-6 22c-3 10-6 18-6 26v20h-9V92c-6 2-12 2-17 1v15h-9V93c-8 0-14-1-20-1z" fill="${W}"/>
+<path d="M30 92c8-14 22-22 38-22-14 6-24 14-30 22z" fill="${S}"/><circle cx="100" cy="33" r="1.8" fill="var(--c)"/><path d="M6 108h108" stroke="${T}" stroke-width="3" stroke-linecap="round"/>`,
 "Science and Numbers":`<g class="a-spin" style="transform-origin:60px 60px"><ellipse cx="60" cy="60" rx="48" ry="17" fill="none" stroke="${W}" stroke-width="4"/><ellipse cx="60" cy="60" rx="48" ry="17" fill="none" stroke="${W}" stroke-width="4" transform="rotate(60 60 60)"/><ellipse cx="60" cy="60" rx="48" ry="17" fill="none" stroke="${T}" stroke-width="4" transform="rotate(120 60 60)"/>
 <circle cx="108" cy="60" r="5.5" fill="${G}"/><circle cx="36" cy="18.5" r="5.5" fill="${W}"/><circle cx="36" cy="101.5" r="5.5" fill="${W}"/></g>
 <circle cx="60" cy="60" r="11" fill="${G}"/><circle cx="56" cy="56" r="3.5" fill="${W}" opacity=".8"/>`,

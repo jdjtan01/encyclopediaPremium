@@ -6,18 +6,18 @@ window.SUBJECTS=[
 ["Planet Earth","🌍",["#0f6e5a","#7fd9bf"],"The restless rock we live on",
 "Earth is a living planet: its crust moves, its mountains rise and wear away, and water and weather carry heat around the globe. This subject explores the forces that shape the land, the oceans and rivers, and the great wild places of the world.",
 ["tect","everest","pacific","amazon"],[
-["Restless Earth","Moving plates, volcanoes and earthquakes.","tect volc quake tsunami rift taal mayon pinatubo geysers rocks gems fossils landslides sinkholes ringoffire kanlaon earthlayers"],
+["Restless Earth","Moving plates, volcanoes and earthquakes.","tect volc quake tsunami rift taal mayon pinatubo geysers rocks gems landslides sinkholes ringoffire kanlaon earthlayers"],
 ["Mountains and Canyons","The highest peaks and deepest valleys.","everest himal alps andes canyon apo pulag kilimanjaro fuji rockies waterfalls glaciers plateaus mountainform victoriafalls niagara"],
 ["Water and Weather","Oceans, seas, rivers, tides and climate.","pacific atlantic indocean med reef nile mekong wetlands tides oceancurrents wcycle climate climchange climatedenial phtyph lakes storms monsoon jetstream clouds trench amazonriver yangtze ganges mississippi danube atmosphere weatherforecast elnino thunderstorms rainbows rivers floods droughts snow"],
 ["Lands and Regions","Deserts, ice, forests and islands.","continents desert soil amazon sahara antarc arctic sea iceage caves grasslands fossilfuels pollution deforestation plasticwaste maps timezones sahel patagonia centralasia recycling coasts deltas deadsea tundra serengeti yellowstone"]]],
 
 ["Animal Kingdom","🐘",["#4d7c0f","#c3e97a"],"Every creature, great and small",
 "From the blue whale to the smallest beetle, living things fill every corner of the planet. This subject meets the mammals, birds, sea creatures, reptiles and minibeasts, and how animals behave, grow and live alongside people.",
-["elephant","eagle","wshark","dino"],[
-["Mammals","Furry, warm-blooded animals that feed their young on milk.","elephant rhino hippo tiger lion cheetah wolf bear panda gorilla giraffe camel kangaroo bat tarsier monkeys horses dogs cats rodents pangolins sloths otters hyenas leopards zebras carabao tamaraw seals lemurs hedgehogs bison platypus foxes deer mousedeer cloudrats wartypig mammoth polarbear rabbits pets koalas meerkats armadillos capybaras raccoons beavers wombats reindeer llamas okapis moose jaguars squirrels tapirs cattle skunks porcupines opossums badgers snowleopards redpandas"],
+["elephant","eagle","wshark","octopus"],[
+["Mammals","Furry, warm-blooded animals that feed their young on milk.","elephant rhino hippo tiger lion cheetah wolf bear panda gorilla giraffe camel kangaroo bat tarsier monkeys horses dogs cats rodents pangolins sloths otters hyenas leopards zebras carabao tamaraw seals lemurs hedgehogs bison platypus foxes deer mousedeer cloudrats wartypig polarbear rabbits pets koalas meerkats armadillos capybaras raccoons beavers wombats reindeer llamas okapis moose jaguars squirrels tapirs cattle skunks porcupines opossums badgers snowleopards redpandas"],
 ["Birds","Feathered fliers, hunters, talkers and swimmers.","birds eagle owl parrot crow penguin hummingbird ostrich birdmigr hornbill albatross flamingo vultures pigeons cockatoo swiftlets kingfishers woodpeckers peafowl puffins kiwis pelicans toucans chickens waterfowl storks cassowaries"],
 ["Sea Life","Creatures of the oceans and coral reefs.","whale whaling shark wshark octopus mollusc crustacean seahorse jelly seaturtle tubbataha fishes coral dugongs rays echinoderms eels squid tuna salmon deepsea narwhals lobsters pufferfish cuttlefish"],
-["Reptiles and Amphibians","Scaly hunters, frogs and the dinosaurs.","snake lizard croc frog dino turtle chameleon salamander tuatara komodo seasnakes geckos pythons cobras monitorlizards axolotls iguanas"],
+["Reptiles and Amphibians","Scaly hunters, frogs, turtles and lizards.","snake lizard croc frog turtle chameleon salamander tuatara komodo seasnakes geckos pythons cobras monitorlizards axolotls iguanas"],
 ["Insects and Minibeasts","Insects, spiders, worms and other small creatures.","insect butterfly bee ants termite spider beetle dragonfly mosquito worms locusts fireflies mantises scorpions wasps honeybees ladybugs cicadas tardigrades"],
 ["Animal Lives", "How animals behave, change and live alongside people.", "animalbehavior metamorph domestication"]]],
 ["Plants and Ecosystems","🌿",["#0d7d3f", "#9ef0a0"],"The green world and the webs of life",
@@ -29,6 +29,13 @@ window.SUBJECTS=[
 ["Ecosystems and Conservation", "Webs of life and how people protect them.", "eco foodchains symbiosis phbio extinction conservation trophyhunting zoos"],
 ["How Life Works", "Cells, genes and the story of evolution.", "cell dna genome mendel evo classification"]]],
 
+["Prehistoric Life","🦖",["#6b5b0e","#e8d36a"],"Dinosaurs, deep time and lost worlds",
+"Life on Earth is billions of years old, and most of the creatures that ever lived are gone. This subject travels through deep time, from the first animals of the Cambrian seas to the dinosaurs, the flying and swimming reptiles of their age, and the giant mammals of the Ice Age, with a timeline, a fossil map and a size comparer.",
+["trex","triceratops","megalodon","mammoth"],[
+["Deep Time","Earth’s calendar and the first animals.","geotime cambrian trilobites dunkleosteus dimetrodon fossils paleontology"],
+["Dinosaurs","The giants of the Mesozoic and their feathered descendants.","dino trex triceratops stegosaurus velociraptor brachiosaurus diplodocus spinosaurus ankylosaurus parasaurolophus allosaurus iguanodon argentinosaurus dinobirds archaeopteryx"],
+["Rulers of Sea and Sky","Flying reptiles, sea monsters and the biggest shark.","pterosaurs pteranodon quetzalcoatlus marinereptiles mosasaurus megalodon"],
+["Extinctions and the Ice Age","Great dyings, the asteroid and the giants of the cold.","massext kpgimpact iceagemammals mammoth smilodon humanorigins neanderthals"]]],
 ["Space","🪐",["#312e81","#a5b4fc"],"Our place among the stars",
 "Beyond the sky lie planets, moons, stars and galaxies stretching across billions of light-years. This subject tours the Solar System, explains how stars live and die, and looks out to the galaxies and the edge of the observable universe.",
 ["solar","mars","milky","jupiter"],[
@@ -64,7 +71,7 @@ window.SUBJECTS=[
 ["History","🏛️",["#8a5a1a","#e6bd78"],"Five thousand years of the human story",
 "History is the story of how people built cities, empires and nations, and how ideas, trade and war changed the world. This subject travels from the first civilizations to the world wars and the decades since.",
 ["egypt","rome","renais","ww2"],[
-["Ancient Worlds","The first cities, kingdoms and empires.","mesop egypt kush persia greece rome maya aksum phoenicians celts humanorigins stoneage archaeology pompeii carthage neanderthals babylon minoans olmecs"],
+["Ancient Worlds","The first cities, kingdoms and empires.","mesop egypt kush persia greece rome maya aksum phoenicians celts stoneage archaeology pompeii carthage babylon minoans olmecs"],
 ["Asia Through the Ages","India, China, Japan, Korea and the Mongols.","indus china mongol precol sulu japan korea mughal seaempires khmer opium samurai"],
 ["Middle Ages","Raiders, traders and great empires.","byzant caliphate viking crusades witchhunts inquisition silk mali zimbabwe benin ottoman aztec inca blackdeath medieurope castles magnacarta songhai"],
 ["Discovery and Revolution","New ideas, new lands and new nations.","renais reform explor lapulapu spanph slavetrade colonialism leopold2 trailoftears residentialschools usrev frrev latinind indrev meiji phrev malolos enlightenment secretsocieties uscivilwar africacolon phamwar pirates asante zulu"],

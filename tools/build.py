@@ -111,6 +111,10 @@ for it in items:
     if p == "data/examples.js":
         core += [f"./data/ex/{x}.js" for x in names]
         continue
+    if p == "data/hm/map.js":
+        core.append(it)
+        core += [f"./data/hm/{x}" for x in sorted(os.listdir("data/hm")) if x.startswith("hm-")]
+        continue
     if p in bundled:
         if not done:
             core += ["./" + b for b in bundles]; done = True

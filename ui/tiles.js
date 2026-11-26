@@ -4,7 +4,7 @@
 (()=>{
 const still=matchMedia("(prefers-reduced-motion:reduce)").matches;
 const fine=matchMedia("(hover:hover) and (pointer:fine)").matches;
-const PICS={"Planet Earth":["everest","volc","victoriafalls"],"Animal Kingdom":["elephant","eagle","wshark"],"Plants and Ecosystems":["sunflowers","redwoods","rafflesia"],
+const PICS={"Planet Earth":["everest","volc","victoriafalls"],"Animal Kingdom":["elephant","eagle","wshark"],"Plants and Ecosystems":["sunflowers","redwoods","rafflesia"],"Prehistoric Life":["trex","megalodon","mammoth"],
 "Space":["jupiter","mars","milky"],"Spaceflight":["saturnv","iss","spacewalks"],"Science and Numbers":["plasma","crystals","magnet"],"The Human Body":["heart","brain","vacc"],
 "History":["egypt","rome","renais"],"Countries and Places":["palawan","banaue","manila"],"People":["einstein","gandhi","kahlo"],"Arts and Culture":["davinci","shakes","cinema"],
 "Technology":["flight","steam","renew"],"Computers and Internet":["comp","smartphone","datacenters"],"How We Live":["rice","olymp","money"],"The Modern World":["esports","covid19","megacities"]};
