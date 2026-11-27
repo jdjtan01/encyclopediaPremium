@@ -3,7 +3,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [1,5,1914,"Henry Ford announces a five-dollar, eight-hour workday."],
 [1,6,1912,"Alfred Wegener first presents his theory of continental drift.","tect"],
 [1,7,1610,"Galileo spots the moons of Jupiter.","scope"],
-[1,17,1773,"Captain Cook’s ships first cross the Antarctic Circle.","antarc"],
+[1,17,1773,"Captain Cook’s ships first cross the Antarctic Circle.","jamescook"],
 [1,24,1984,"Apple introduces the Macintosh.","personalcomputers"],
 [1,26,1950,"India becomes a republic."],
 [2,3,1966,"Luna 9 makes the first soft landing on the Moon.","lunaprogram"],

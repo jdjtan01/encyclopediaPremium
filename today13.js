@@ -149,7 +149,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [9,30,2024,"Britain’s last coal power station, Ratcliffe-on-Soar, closes.","coal"],
 [10,26,1985,"Ownership of Uluru is returned to its Aboriginal owners, the Anangu.","uluru"],
 [10,26,2019,"Climbing Uluru is permanently banned.","uluru"],
-[9,7,1936,"The last known thylacine dies in Hobart Zoo, Tasmania.","tasmania"],
+[9,7,1936,"The last known thylacine dies in Hobart Zoo, Tasmania.","thylacine"],
 [11,24,1642,"Abel Tasman reaches the island later named Tasmania.","tasmania"],
 [8,27,1939,"The Heinkel He 178 makes the first flight powered by a jet engine.","jetengine"],
 [5,15,1941,"The Gloster E.28/39 flies with Frank Whittle’s jet engine, Britain’s first jet flight.","jetengine"],
@@ -318,7 +318,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [3,15,1985,"The first .com domain name, symbolics.com, is registered.","ipaddresses"],
 [2,3,2011,"The last blocks of IPv4 internet addresses are handed out.","ipaddresses"],
 [7,1,1991,"The first call on a GSM mobile network is made in Finland.","mobilenetworks"],
-[8,29,1831,"Michael Faraday discovers electromagnetic induction.","generators"],
+[8,29,1831,"Michael Faraday discovers electromagnetic induction.","faraday"],
 [6,15,1844,"Charles Goodyear patents vulcanized rubber.","tires"],
 [1,8,1889,"Herman Hollerith patents his punched-card tabulating machine.","punchcards"],
 [2,29,2012,"The Raspberry Pi computer goes on sale.","microcontrollers"],
@@ -353,5 +353,8 @@ window.TODAY=(window.TODAY||[]).concat([
 [10,14,2012,"Felix Baumgartner parachutes from about 39 kilometers, breaking the sound barrier in free fall.","parachutes"],
 [8,5,2013,"The first lab-grown burger is cooked and tasted in London.","labgrownmeat"],
 [9,7,2001,"Surgeons in New York operate on a patient in France using a robot.","roboticsurgery"],
-[11,26,1966,"The La Rance tidal power station opens in France.","tidalpower"]
+[11,26,1966,"The La Rance tidal power station opens in France.","tidalpower"],
+[6,12,2026,"SpaceX shares begin trading on the Nasdaq after the largest public share sale in history.","spacex"],
+[11,21,2026,"The European–Japanese BepiColombo spacecraft enters orbit around Mercury after an eight-year journey.","bepicolombo"],
+[7,10,2026,"China’s Long March 10B rocket recovers its first stage after an orbital launch, a first for the Long March family.","longmarch"]
 ]);

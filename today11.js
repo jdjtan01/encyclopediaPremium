@@ -87,7 +87,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [5,16,1929,"The first Academy Awards ceremony is held in Hollywood.","cinema"],
 [5,18,1910,"Earth passes through the tail of Halley’s Comet.","comet"],
 [5,19,1898,"Emilio Aguinaldo returns to the Philippines from exile in Hong Kong to resume the revolution.","phrev"],
-[5,21,1881,"Clara Barton founds the American Red Cross."],
+[5,21,1881,"Clara Barton founds the American Red Cross.","clarabarton"],
 [5,23,1618,"Protestant nobles throw imperial officials from a window in the Defenestration of Prague, sparking the Thirty Years’ War."],
 [5,26,1896,"The Dow Jones Industrial Average is published for the first time.","stockm"],
 [5,27,1703,"Tsar Peter the Great founds St. Petersburg."],

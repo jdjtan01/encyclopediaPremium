@@ -45,7 +45,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [10,3,1990,"Germany is reunified.","coldwar"],
 [10,20,1944,"General MacArthur returns to the Philippines at Leyte.","ww2"],
 [10,28,1886,"The Statue of Liberty is dedicated in New York Harbor.","statueofliberty"],
-[10,31,1517,"Martin Luther posts his Ninety-five Theses.","print"],
+[10,31,1517,"Martin Luther posts his Ninety-five Theses.","martinluther"],
 [11,3,1957,"Sputnik 2 carries the dog Laika into orbit.","spaceanimals"],
 [11,7,1917,"The Bolsheviks seize power in Russia."],
 [11,17,1869,"The Suez Canal opens.","suezcanal"],
