@@ -64,7 +64,6 @@ const oc=R.contents;R.contents=function(){oc();const fb=V.querySelector(".frontb
 /* Extra pages that belong to one country, shown on its article and fact file */
 const EXTRA={ph:[["#/phtimeline","Philippine history timeline"],["#/regions","Regions of the Philippines"]]};window.COUNTRY_EXTRA=EXTRA;
 const pa2=R.art;R.art=function(id){pa2(id);
-/* Optional Filipino summary: a switch in the article's More menu */
-const mn=$("#amn");if(mn&&(window.TL||{})[id]){let on=false;try{on=localStorage.getItem("showFil")=="1"}catch(e){}mn.insertAdjacentHTML("beforeend",`<button class="mi" id="mfil" data-i="🌐">${on?"Hide":"Show"} the summary in Filipino</button>`);$("#mfil").onclick=()=>{try{localStorage.setItem("showFil",on?"0":"1")}catch(e){}R.art(id)}}
+
 const x=EXTRA[id];if(!x)return;const fr=V.querySelector("#fr")||V.querySelector(".body");fr&&fr.insertAdjacentHTML("beforebegin",`<p class="cextra">${x.map(l=>`<a class="btn" href="${l[0]}">${esc(l[1])} ›</a>`).join("")}</p>`)};
 })();

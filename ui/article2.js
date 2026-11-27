@@ -107,7 +107,7 @@ if(h){h.classList.remove("jglow");void h.offsetWidth;h.classList.add("jglow")}},
 const btt=document.createElement("button");btt.className="btt";btt.type="button";btt.setAttribute("aria-label","Back to top");const C=2*Math.PI*23;
 btt.innerHTML=`<svg viewBox="0 0 52 52" aria-hidden="true"><circle cx="26" cy="26" r="23" fill="none" stroke="var(--sf2)" stroke-width="4"/><circle class="rg" cx="26" cy="26" r="23" fill="none" stroke-width="4" stroke-linecap="round" stroke-dasharray="${C}" stroke-dashoffset="${C}"/></svg><b>↑</b>`;document.body.appendChild(btt);
 btt.onclick=()=>scrollTo({top:0,behavior:still?"auto":"smooth"});
-const bttScroll=()=>{const art=!!idNow();const h=document.documentElement.scrollHeight-innerHeight;const p=h>0?scrollY/h:0;btt.classList.toggle("on",art&&scrollY>innerHeight*1.2);btt.querySelector(".rg").setAttribute("stroke-dashoffset",(C*(1-p)).toFixed(1));btt.style.setProperty("--a1",getComputedStyle(V).getPropertyValue("--a1"))};
+const bttScroll=()=>{const art=true;const h=document.documentElement.scrollHeight-innerHeight;const p=h>0?scrollY/h:0;btt.classList.toggle("on",art&&scrollY>innerHeight*1.2);btt.querySelector(".rg").setAttribute("stroke-dashoffset",(C*(1-p)).toFixed(1));btt.style.setProperty("--a1",getComputedStyle(V).getPropertyValue("--a1"))};
 
 /* ---------- 7. test yourself ---------- */
 document.addEventListener("click",e=>{const o=e.target.closest&&e.target.closest(".tyi .opt");if(!o)return;setTimeout(()=>{const q=o.closest(".tyq");if(!q)return;

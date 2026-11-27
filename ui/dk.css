@@ -195,10 +195,10 @@ details.tbl{margin-top:6px;font:13px system-ui,sans-serif}details.tbl summary{cu
 @media (max-width:640px){figure.locm{width:auto}}
 
 /* ---------- Filipino summary and pronunciation ---------- */
-.tlbox{margin:4px 0 18px;padding:12px 16px;border-radius:12px;background:linear-gradient(135deg,rgba(0,56,168,.07),rgba(206,17,38,.07));border:1px solid var(--bd);border-left:5px solid #0038a8}
-.tlbox div{display:flex;justify-content:space-between;align-items:center}.tlbox small{font:800 11px var(--disp);letter-spacing:.14em;color:#0038a8}
-:root[data-theme=dark] .tlbox small{color:#8fb0ff}@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .tlbox small{color:#8fb0ff}}
-.tlbox p{margin:.3em 0 0;font-size:16.5px}.tlbox .lk{font:13px system-ui}
+
+
+:root[data-theme=dark] @media (prefers-color-scheme:dark){:root:not([data-theme=light]) }
+
 .pron{font:14px system-ui,sans-serif;margin:-2px 0 8px;color:var(--mu)}.pron b{font:800 11px var(--disp);letter-spacing:.1em;text-transform:uppercase;color:var(--cc);margin-right:4px}.pron span{font-style:italic;color:var(--tx)}
 
 /* ---------- Notes, quizzes, countries, regions, book, search ---------- */
@@ -211,13 +211,13 @@ sup a.nref{font:700 10px system-ui;color:var(--ac);text-decoration:none;margin-l
 .book .bk-cover{min-height:60vh;display:flex;flex-direction:column;justify-content:center;padding:30px;border-radius:16px;background:#111;color:#fff}.book .bk-cover h1{font:800 clamp(40px,8vw,80px)/1 var(--disp);margin:.2em 0}.book .bk-cover p{color:#ccc}.book .bk-cover small{color:var(--g2);font:700 13px var(--disp);letter-spacing:.2em;text-transform:uppercase}
 .bk-toc ol{columns:2 260px;font:14px/1.6 system-ui}.bk-toc small{color:var(--mu)}
 .bk-art{border-top:6px solid var(--cc);margin:30px 0;padding-top:8px}.bk-art h2{font:800 34px/1.1 var(--disp);margin:.1em 0 .3em}.bk-rh{font:800 11px var(--disp);letter-spacing:.16em;text-transform:uppercase;color:var(--cc)}
-.bk-art h3{font:800 18px var(--disp);border-bottom:2px solid var(--cl);margin:1em 0 .2em}.bk-tl{font-style:italic}.bk-kf{border-collapse:collapse;font:13.5px system-ui;margin:6px 0 10px}.bk-kf th{text-align:left;padding:3px 12px 3px 0;color:var(--cc);font-weight:700}.bk-kf td{padding:3px 0}
+.bk-art h3{font:800 18px var(--disp);border-bottom:2px solid var(--cl);margin:1em 0 .2em}.bk-kf{border-collapse:collapse;font:13.5px system-ui;margin:6px 0 10px}.bk-kf th{text-align:left;padding:3px 12px 3px 0;color:var(--cc);font-weight:700}.bk-kf td{padding:3px 0}
 .sug{position:absolute;top:58px;left:200px;right:110px;max-width:640px;background:var(--sf);border:1px solid var(--bd);border-radius:12px;box-shadow:0 12px 30px var(--sh);z-index:10;overflow:hidden}
 .sug a{display:flex;justify-content:space-between;gap:10px;padding:9px 14px;text-decoration:none;color:var(--tx);font:15px system-ui}.sug a:hover,.sug a.on{background:var(--sf2)}.sug small{color:var(--mu)}
 @media (max-width:640px){.sug{left:10px;right:10px;top:100px}}
 .dym{font:16px system-ui;background:var(--f1);color:var(--fx);padding:10px 14px;border-radius:10px}
 @media print{body.printing-book header,body.printing-book nav,body.printing-book .bk-bar,body.printing-book .foot,body.printing-book .edge,body.printing-book .tab{display:none!important}
-.book .bk-cover{min-height:180mm;break-after:page;-webkit-print-color-adjust:exact;print-color-adjust:exact}.bk-toc{break-after:page}.bk-art{break-before:page;columns:2;column-gap:9mm;border-top:none}.bk-art h2,.bk-rh,.bk-art .lead,.bk-tl,.bk-kf{column-span:all}.bk-art h3{break-after:avoid}
+.book .bk-cover{min-height:180mm;break-after:page;-webkit-print-color-adjust:exact;print-color-adjust:exact}.bk-toc{break-after:page}.bk-art{break-before:page;columns:2;column-gap:9mm;border-top:none}.bk-art h2,.bk-rh,.bk-art .lead,.bk-kf{column-span:all}.bk-art h3{break-after:avoid}
 @page{@bottom-center{content:counter(page);font:9pt sans-serif;color:#666}}}
 /* Empire maps */
 .empsvg .sea{fill:var(--sea)}.empsvg .land path{fill:var(--land);stroke:var(--sea)}.empsvg .land path.ef{fill:var(--cc)}.empsvg .land path.ep{fill:url(#epat)}
