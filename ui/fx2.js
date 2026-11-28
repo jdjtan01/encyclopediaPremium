@@ -77,7 +77,7 @@ el.animate([{strokeDasharray:`${L} ${L}`,strokeDashoffset:L},{strokeDasharray:`$
 else if(tag=="path"){k++;el.animate([{opacity:0},{opacity:1}],{duration:600,delay:d,fill:"backwards"})}
 else if(tag=="text"){el.animate([{opacity:0,transform:"translateY(6px)"},{opacity:1,transform:"none"}],{duration:500,delay:Math.min(1600,d+250),easing:ease,fill:"backwards"})}}catch(e){}})};
 const svgIO=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){svgIO.unobserve(e.target);animSvg(e.target)}}),{threshold:.25});
-const countText=(node,dur=1200)=>{const m=node.nodeValue.match(/^(\D*?)(\d[\d,]*\.?\d*)(.*)$/s);if(!m||still)return;const raw=m[2],end=parseFloat(raw.replace(/,/g,""));if(!isFinite(end)||end<2||/^(1[0-9]{3}|20[0-9]{2})$/.test(raw))return;
+const countText=(node,dur=1200)=>{const m=node.nodeValue.match(/^(\D*?)(\d[\d,]*\.?\d*)(.*)$/s);if(!m||still)return;const raw=m[2],end=parseFloat(raw.replace(/,/g,""));if(!isFinite(end)||end<2||/^(1[0-9]{3}|20[0-9]{2})$/.test(raw.replace(/,+$/,""))||/^\d{1,4},\s/.test(m[2]+m[3].slice(0,1)))return;
 const dec=(raw.split(".")[1]||"").length,comma=raw.includes(","),t0=performance.now();const fmt=v=>comma?v.toLocaleString("en-US",{minimumFractionDigits:dec,maximumFractionDigits:dec}):v.toFixed(dec);
 const f=t=>{const p=Math.min(1,(t-t0)/dur),e=1-Math.pow(1-p,3);node.nodeValue=m[1]+fmt(end*e)+m[3];if(p<1)requestAnimationFrame(f)};requestAnimationFrame(f)};
 const keyFacts=()=>{if(still)return;V.querySelectorAll(".hero .co").forEach(col=>{const left=col.classList.contains("l");[...col.querySelectorAll(".cl1")].forEach((c,i)=>{
