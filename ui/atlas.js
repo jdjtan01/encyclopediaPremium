@@ -161,7 +161,7 @@ const measure=()=>{const r=svg.getBoundingClientRect();if(r.width)A=r.height/r.w
 if(window.ResizeObserver){const ro=new ResizeObserver(()=>{if(!svg.isConnected){ro.disconnect();return}const a=A;measure();if(Math.abs(a-A)>.001)apply();else{if(!raf)raf=requestAnimationFrame(()=>{raf=0;layout()})}});ro.observe(wrap)}
 const mo=new MutationObserver(()=>{if(!svg.isConnected){mo.disconnect();return}paint()});mo.observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
 /* ---------- 3D globe view (v179) ---------- */
-const G=(()=>{const cv=$("#agl"),g=cv.getContext("2d");let on=false,W=0,Hh=0,dpr=Math.min(2,devicePixelRatio||1),rot={l:-.2,p:.32},z=1,tgt=null,vel={l:0,p:0},spin=!matchMedia("(prefers-reduced-motion: reduce)").matches,drag=null,moving=0,loopOn=false,cols=[],dark=false,stars=[];
+const G=(()=>{const cv=$("#agl"),g=cv.getContext("2d");let hov=false,on=false,W=0,Hh=0,dpr=Math.min(2,devicePixelRatio||1),rot={l:-.2,p:.32},z=1,tgt=null,vel={l:0,p:0},spin=!matchMedia("(prefers-reduced-motion: reduce)").matches,drag=null,moving=0,loopOn=false,cols=[],dark=false,stars=[];
 const geo=()=>{if(!GLO.lo){GLO.lo=MC.map(c=>window.EPLL?window.EPLL(c[1]||c[2]):[]);GLO.bb=GLO.lo.map(rs=>{let a=9,b=9,c2=-9,d=-9;rs.forEach(r=>{for(let i=0;i<r.length;i+=2){const x=r[i],y=r[i+1];if(x<a)a=x;if(x>c2)c2=x;if(y<b)b=y;if(y>d)d=y}});return[a,b,c2,d]});
   GLO.lp=MC.map((c,i)=>c[4]&&window.EPINV?window.EPINV(c[4][0],c[4][1]):[(GLO.bb[i][0]+GLO.bb[i][2])/2,(GLO.bb[i][1]+GLO.bb[i][3])/2]);GLO.cap=M.CAP.map(c=>window.EPINV(c[1],c[2]));GLO.sea=M.SEAS.map(s=>window.EPINV(s[1],s[2]));
   const idle=window.requestIdleCallback||(f=>setTimeout(f,400));idle(()=>{GLO.hi=MC.map(c=>c[2]&&window.EPLL?window.EPLL(c[2]):null);dirty()})}};
@@ -176,7 +176,7 @@ let last=performance.now();
 function loop(t){if(!on||!cv.isConnected){loopOn=false;return}const dt=Math.min(50,t-last);last=t;let anim=false;
   if(!drag){if(tgt){let dl=((tgt.l-rot.l+Math.PI*3)%(Math.PI*2))-Math.PI;const k=Math.min(1,dt*.0045);rot.l+=dl*k;rot.p+=(tgt.p-rot.p)*k;z+=(tgt.z-z)*k;if(Math.abs(dl)<.001&&Math.abs(tgt.p-rot.p)<.001&&Math.abs(tgt.z-z)<.005)tgt=null;anim=true}
     else if(Math.abs(vel.l)+Math.abs(vel.p)>1e-5){rot.l+=vel.l*dt;rot.p=Math.max(-1.45,Math.min(1.45,rot.p+vel.p*dt));vel.l*=Math.pow(.94,dt/16);vel.p*=Math.pow(.94,dt/16);anim=true}
-    else if(spin&&sel<0&&!document.hidden){rot.l+=dt*.00009;anim="spin"}}
+    else if(spin&&sel<0&&!hov&&!document.hidden){rot.l+=dt*.00009;anim="spin"}}
   if(anim&&anim!=="spin")moving=t;if(tgt){tip.hidden=true;tipI2=-1}if(need||anim){draw(t-moving<220);need=false}
   if(anim||drag||t-moving<260)requestAnimationFrame(loop);else{loopOn=false;draw(false)}}
 function path(r,R,cx,cy){let vis=0;g.beginPath();for(let i=0;i<r.length;i+=2){let q=proj(r[i],r[i+1]);if(q[2]>0)vis++;else{const m=Math.hypot(q[0],q[1])||1;q=[q[0]/m,q[1]/m]}const X=cx+q[0]*R,Y=cy-q[1]*R;i?g.lineTo(X,Y):g.moveTo(X,Y)}return vis}
@@ -214,6 +214,7 @@ function hitAt(sx,sy){const ll=unproj(sx,sy);if(!ll)return -1;const R=Rr();
   const[l,p]=ll;let best=-1;for(let i=0;i<MC.length;i++){if(!live(i))continue;const b=GLO.bb[i];if(!b||l<b[0]-1e-4||l>b[2]+1e-4||p<b[1]-1e-4||p>b[3]+1e-4)continue;let inside=false;for(const r of GLO.lo[i]){for(let a=0,c=r.length-2;a<r.length;c=a,a+=2){const xi=r[a],yi=r[a+1],xj=r[c],yj=r[c+1];if(((yi>p)!=(yj>p))&&(l<(xj-xi)*(p-yi)/(yj-yi)+xi))inside=!inside}}if(inside){best=i;break}}return best}
 function focusOn(i){tip.hidden=true;const lp=GLO.lp[i];if(!lp)return;const b=GLO.bb[i];const span=Math.max((b[2]-b[0])*Math.cos(lp[1]),b[3]-b[1]);const zz=Math.max(1.1,Math.min(10,1.1/(span+.06)));tgt={l:lp[0],p:Math.max(-1.3,Math.min(1.3,lp[1])),z:zz};vel={l:0,p:0};dirty()}
 const pts=new Map();let pinch=null,moved=0,st=null,lastMv=null,tipI2=-1;
+cv.addEventListener("pointerenter",e=>{if(e.pointerType=="mouse"){hov=true}});cv.addEventListener("pointerleave",e=>{if(e.pointerType=="mouse"){hov=false;dirty()}});cv.addEventListener("focus",()=>{hov=true});cv.addEventListener("blur",()=>{hov=false;dirty()});
 cv.addEventListener("pointerdown",e=>{cv.setPointerCapture(e.pointerId);pts.set(e.pointerId,[e.clientX,e.clientY]);tgt=null;vel={l:0,p:0};moved=0;st=[e.clientX,e.clientY];drag={l:rot.l,p:rot.p,x:e.clientX,y:e.clientY};lastMv=[e.clientX,e.clientY,performance.now()];if(pts.size==2){const[a,b]=[...pts.values()];pinch={d:Math.hypot(a[0]-b[0],a[1]-b[1]),z}}tip.hidden=true;cv.classList.add("drag");dirty()});
 cv.addEventListener("pointermove",e=>{const r=cv.getBoundingClientRect();if(!pts.has(e.pointerId)){if(e.pointerType!="mouse")return;const i=hitAt(e.clientX-r.left,e.clientY-r.top);if(i<0){tip.hidden=true;tipI2=-1;marker(-1);return}if(i!=tipI2){tipI2=i;const n=MC[i][0],m=MODES[mode],v=m.cat?(D[n]?D[n].ct:""):(m.f(n)?m.val(m.f(n)):"No data");tip.innerHTML=`${U.flag(n)}<span><b>${esc(U.disp(n))}</b>${v?`<small>${esc(v)}</small>`:""}</span>`;marker(i)}
   tip.hidden=false;const tw=tip.offsetWidth;let x=e.clientX-r.left+14;if(x+tw>r.width-6)x=e.clientX-r.left-tw-14;tip.style.left=x+"px";tip.style.top=(e.clientY-r.top+14)+"px";return}
