@@ -91,7 +91,8 @@ const css=`
 .atl-wrap.isglobe{background:radial-gradient(ellipse at 50% 45%,color-mix(in srgb,#0284c7 10%,var(--sf)),var(--sf) 70%)}
 :root[data-theme=dark] .atl-wrap.isglobe{background:radial-gradient(ellipse at 50% 45%,#0c1530,#05070f 75%)}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .atl-wrap.isglobe{background:radial-gradient(ellipse at 50% 45%,#0c1530,#05070f 75%)}}
-.atl-wrap.isglobe .atl-tip,.atl-wrap.isglobe .atl-scale{z-index:3}
+.atl-tip[hidden]{display:none!important}
+.atl-wrap.isglobe .atl-tip,.atl-wrap.isglobe .atl-scale{z-index:3;pointer-events:none}
 @media (max-width:700px){.atl-tools{flex-wrap:wrap!important}.atl-tools #acq{flex:1 1 100%!important;min-width:0}.aview{order:2}.atl-z{order:3;margin-left:auto}}
 
 .px-atl{--a:#0f766e;--b:#0284c7;--c:#7c3aed;padding-right:250px;min-height:150px}

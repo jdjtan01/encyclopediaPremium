@@ -52,7 +52,7 @@ function makeGlobe(host,sel){build();if(!GEO)return;const wrap=document.createEl
 const cv=document.createElement("canvas");wrap.appendChild(cv);host.prepend(wrap);
 const g=cv.getContext("2d");let W=0,R=0,dpr=Math.min(2,devicePixelRatio||1);const size=()=>{W=wrap.clientWidth;cv.width=W*dpr;cv.height=W*dpr;R=W/2-6};size();
 const selG=GEO.find(c=>c.n==sel);if(selG&&selG.lp)tgt={l:selG.lp[0],p:Math.max(-1,Math.min(1,selG.lp[1]))};
-let drag=null,spin=!still;
+let drag=null,spin=!still,hov=false;wrap.addEventListener("pointerenter",e=>{if(e.pointerType=="mouse")hov=true});wrap.addEventListener("pointerleave",e=>{if(e.pointerType=="mouse")hov=false});
 const proj=(l,p)=>{const cl=Math.cos(rot.p),sl=Math.sin(rot.p),dl=l-rot.l,cp=Math.cos(p),sp=Math.sin(p),cd=Math.cos(dl);const c=sl*sp+cl*cp*cd;return[cp*Math.sin(dl),cl*sp-sl*cp*cd,c]};
 const draw=()=>{g.setTransform(dpr,0,0,dpr,0,0);g.clearRect(0,0,W,W);const c=W/2;
 const glow=g.createRadialGradient(c,c,R*.9,c,c,R*1.12);glow.addColorStop(0,"rgba(120,190,255,.45)");glow.addColorStop(1,"rgba(120,190,255,0)");g.fillStyle=glow;g.beginPath();g.arc(c,c,R*1.12,0,7);g.fill();
@@ -65,8 +65,8 @@ if(vis>1){g.closePath();g.fill();g.stroke()}})});
 const sh=g.createRadialGradient(c-R*.4,c-R*.45,R*.05,c,c,R*1.02);sh.addColorStop(0,"rgba(255,255,255,.35)");sh.addColorStop(.35,"rgba(255,255,255,0)");sh.addColorStop(1,"rgba(0,0,30,.35)");g.fillStyle=sh;g.beginPath();g.arc(c,c,R,0,7);g.fill()};
 let last=performance.now(),alive=true;const loop=t=>{if(!document.body.contains(wrap)){alive=false;return}const dt=Math.min(50,t-last);last=t;
 if(!drag){if(tgt){let dl=((tgt.l-rot.l+Math.PI*3)%(Math.PI*2))-Math.PI;rot.l+=dl*Math.min(1,dt*.004);rot.p+=(tgt.p-rot.p)*Math.min(1,dt*.004);if(Math.abs(dl)<.002&&Math.abs(tgt.p-rot.p)<.002)tgt=null}
-else if(spin)rot.l+=dt*.00025}
-if(!document.hidden)draw();requestAnimationFrame(loop)};requestAnimationFrame(loop);
+else if(spin&&!hov)rot.l+=dt*.00025}
+if(!document.hidden&&vis)draw();requestAnimationFrame(loop)};let vis=true;if("IntersectionObserver" in window){new IntersectionObserver(es=>{vis=es[0].isIntersecting},{rootMargin:"40px"}).observe(wrap)}requestAnimationFrame(loop);
 wrap.addEventListener("pointerdown",e=>{drag={x:e.clientX,y:e.clientY,l:rot.l,p:rot.p};tgt=null;wrap.setPointerCapture(e.pointerId)});
 wrap.addEventListener("pointermove",e=>{if(!drag)return;rot.l=drag.l-(e.clientX-drag.x)/R;rot.p=Math.max(-1.3,Math.min(1.3,drag.p+(e.clientY-drag.y)/R))});
 const up=()=>{drag=null};wrap.addEventListener("pointerup",up);wrap.addEventListener("pointercancel",up);addEventListener("resize",size)}
