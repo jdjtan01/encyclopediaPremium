@@ -1068,11 +1068,18 @@ direwolf:["Mammal (canid)","Large mammals",0.25,0.013,1.6,0.8,68,"cat","About 1.
 ichthyosaurs:["Marine reptile (ichthyosaur)","Fish and squid-like animals",250,94,15,3,0,"shark","Most 2–4 m; Shonisaurus about 15 m (shown)",[["Lyme Regis, England",50.72,-2.94],["Holzmaden, Germany",48.63,9.53],["Berlin–Ichthyosaur State Park, Nevada",38.88,-117.6],["Blue Anchor, Somerset (Ichthyotitan)",51.18,-3.39]]],
 rhamphorhynchus:["Pterosaur","Fish and squid-like animals",151,148,1.8,0.4,0,"ptero","Wingspan up to about 1.8 m",[["Solnhofen, Germany",48.89,10.99]]],
 basilosaurus:["Early whale","Fish, sharks, smaller whales",41.3,33.9,18,2.2,0,"mosa","About 15–20 m long",[["Wadi Al-Hitan, Egypt",29.27,30.04],["Ouachita Parish, Louisiana",32.5,-92.1],["Clarke County, Alabama",31.7,-87.8]]],
-glyptodon:["Mammal (armadillo relative)","Plants",3.2,0.011,3.3,1.5,2000,"ankylo","Up to about 3.5 m long",[["Pampas, Argentina",-35.5,-60.0],["Uruguay",-33.5,-56.5],["Tarija, Bolivia",-21.5,-64.7]]]
+glyptodon:["Mammal (armadillo relative)","Plants",3.2,0.011,3.3,1.5,2000,"ankylo","Up to about 3.5 m long",[["Pampas, Argentina",-35.5,-60.0],["Uruguay",-33.5,-56.5],["Tarija, Bolivia",-21.5,-64.7]]],
+carnotaurus:["Dinosaur (abelisaurid theropod)","Meat",72,69,8,3,1500,"theropod","About 8 m long",[["Bajo de la Carpa, Chubut, Argentina",-43.6,-68.6]]],
+microraptor:["Dinosaur (feathered dromaeosaur)","Small animals and fish",125,120,0.8,0.25,1,"bird","About 80 cm long",[["Jiufotang Formation, Liaoning, China",41.6,120.4]]],
+terrorbirds:["Bird (phorusrhacid)","Meat",60,0.1,2.5,2.5,350,"terror","Up to about 2.5–3 m tall (Kelenken)",[["Patagonia, Argentina",-41.5,-69.0],["Florida",29.6,-82.4],["Texas",30.0,-97.5],["Seymour Island, Antarctica",-64.28,-56.75]]],
+eurypterids:["Arthropod (sea scorpion)","Fish and other animals",467,251.9,2.5,0.5,0,"trilo","Most under 20 cm; Jaekelopterus about 2.5 m (shown)",[["Prüm, Germany",50.2,6.42],["Herkimer County, New York",43.0,-75.0],["Saaremaa, Estonia",58.4,22.5],["Lesmahagow, Scotland",55.64,-3.89]]],
+coelacanth:["Lobe-finned fish","Fish and squid",410,0,2,0.6,90,"shark","Up to about 2 m long (living species)",[["Comoro Islands",-11.7,43.3],["Chalumna River mouth, South Africa",-33.3,27.6],["Manado, Sulawesi, Indonesia",1.5,124.8]]],
+titanoboa:["Reptile (giant snake)","Fish, crocodile relatives, turtles",60,58,13,1,1100,"mosa","About 13 m long",[["Cerrejón, La Guajira, Colombia",11.1,-72.6]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
 window.PRESIL={
+terror:[[0,40,1],[10,36],[24,32],[40,30],[52,32],[60,28],[64,18],[66,8],[72,2],[84,1],[96,4],[100,10,1],[96,12],[98,18,1],[92,15],[84,14],[76,16],[72,24],[70,36],[66,48],[58,56],[52,58],[54,72],[56,94],[64,100,1],[50,100,1],[48,94],[46,74],[42,60],[38,60],[40,76],[42,96],[50,100,1],[36,100,1],[34,96],[32,76],[30,58],[18,54],[8,48]],
 theropod:[[0,40,1],[20,30],[44,13],[60,15],[72,19],[78,9],[90,6],[100,13],[98,24],[82,26],[74,34],[66,46],[69,53],[64,53],[58,56],[55,62],[57,74],[53,92],[61,100,1],[47,100,1],[45,92],[46,76],[40,58],[28,46],[12,43]],
 raptor:[[0,34,1],[22,32],[46,22],[60,24],[70,22],[78,12],[90,10],[100,16],[96,24],[82,24],[74,32],[66,44],[74,52],[70,56],[60,52],[56,60],[58,74],[54,92],[62,100,1],[48,100,1],[46,92],[46,76],[40,56],[28,42],[10,38]],
 sauropod:[[0,62,1],[16,50],[32,34],[46,22],[60,26],[70,30],[80,20],[91,8],[96,5],[100,9],[97,13],[90,15],[82,30],[74,42],[72,60],[72,100,1],[64,100,1],[63,64],[54,64],[50,66],[50,100,1],[41,100,1],[40,62],[32,52],[15,56]],
@@ -1178,10 +1185,10 @@ window.SUBJECTS=[
 ["Prehistoric Life","🦖",["#6b5b0e","#e8d36a"],"Dinosaurs, deep time and lost worlds",
 "Life on Earth is billions of years old, and most of the creatures that ever lived are gone. This subject travels through deep time, from the first animals of the Cambrian seas to the dinosaurs, the flying and swimming reptiles of their age, and the giant mammals of the Ice Age, with a timeline, a fossil map and a size comparer.",
 ["trex","triceratops","megalodon","mammoth"],[
-["Deep Time","Earth’s calendar and the first animals.","geotime cambrian trilobites dunkleosteus dimetrodon fossils paleontology ediacaran anomalocaris tiktaalik meganeura originoflife snowballearth pangaea"],
-["Dinosaurs","The giants of the Mesozoic and their feathered descendants.","dino trex triceratops stegosaurus velociraptor brachiosaurus diplodocus spinosaurus ankylosaurus parasaurolophus allosaurus iguanodon argentinosaurus dinobirds archaeopteryx brontosaurus pachycephalosaurus therizinosaurus dinoeggs"],
+["Deep Time","Earth’s calendar and the first animals.","geotime cambrian trilobites dunkleosteus dimetrodon fossils paleontology ediacaran anomalocaris tiktaalik meganeura originoflife snowballearth pangaea eurypterids coelacanth"],
+["Dinosaurs","The giants of the Mesozoic and their feathered descendants.","dino trex triceratops stegosaurus velociraptor brachiosaurus diplodocus spinosaurus ankylosaurus parasaurolophus allosaurus iguanodon argentinosaurus dinobirds archaeopteryx brontosaurus pachycephalosaurus therizinosaurus dinoeggs carnotaurus microraptor"],
 ["Rulers of Sea and Sky","Flying reptiles, sea monsters and the biggest shark.","pterosaurs pteranodon quetzalcoatlus marinereptiles mosasaurus megalodon ammonites elasmosaurus livyatan ichthyosaurs rhamphorhynchus basilosaurus"],
-["Extinctions and the Ice Age","Great dyings, the asteroid and the giants of the cold.","massext kpgimpact iceagemammals mammoth smilodon humanorigins neanderthals woollyrhino groundsloths direwolf glyptodon dodo thylacine"]]],
+["Extinctions and the Ice Age","Great dyings, the asteroid and the giants that came after.","massext kpgimpact iceagemammals mammoth smilodon humanorigins neanderthals woollyrhino groundsloths direwolf glyptodon dodo thylacine terrorbirds titanoboa"]]],
 ["Space","🪐",["#312e81","#a5b4fc"],"Our place among the stars",
 "Beyond the sky lie planets, moons, stars and galaxies stretching across billions of light-years. This subject tours the Solar System, explains how stars live and die, and looks out to the galaxies and the edge of the observable universe.",
 ["solar","mars","milky","jupiter"],[
@@ -1205,18 +1212,18 @@ window.SUBJECTS=[
 "Science explains everything from falling apples to the light of distant stars, and mathematics gives it a language. This subject covers matter and energy, numbers and shapes, and the great discoveries that changed how we see the world.",
 ["atom","grav","pi","galileo"],[
 ["Matter and Chemistry","What everything is made of.","atom states plasma reactions acid plastics alchemy mixtures metals corrosion carbonchem crystals molecules periodictable catalysts polymers oxygen waterchem nitrogencycle salt"],
-["Forces and Energy","Gravity, motion, light, sound and magnets.","energyphys grav newton fluids thermo waves light sound magnet timephys relat quantum friction machines staticelec circuits calendars earthmagnet mirrors"],
-["Numbers and Shapes","Counting, geometry, algebra and chance.","zero prime pi infin fib alg euclid calc prob stats percent measure graphs trig ciphers shapes negativenumbers fractions topology"],
+["Forces and Energy","Gravity, motion, light, sound and magnets.","energyphys grav newton fluids thermo waves light sound magnet timephys relat quantum friction machines staticelec circuits calendars earthmagnet mirrors temperature entropy"],
+["Numbers and Shapes","Counting, geometry, algebra and chance.","zero prime pi infin fib alg euclid calc prob stats percent measure graphs trig ciphers shapes negativenumbers fractions topology fractals gametheory chaostheory"],
 ["Atoms and Particles","Inside the atom: particles, radiation, fusion and strange states of matter.","particles antimatter radioact fusion superconduct electron standardmodel isotopes accelerators fission neutrinos higgs quarks carbondating"],
 ["Great Discoveries","The ideas and experiments that changed science.","scimeth copern galileo goldage pasteur curie currents penicil hubble xrays doublehelix insulin evolution germtheory nobel keplerlaws nucleusdisc microscopes"]]],
 
 ["The Human Body","🫀",["#b3261e","#f7a8a2"],"The most amazing machine you will ever own",
 "Your body is made of trillions of cells working together, every second of every day. This subject explains how its systems work, how you sense the world, how to stay healthy and how medicine fights disease.",
 ["heart","brain","vacc","nutri"],[
-["Body Systems","Heart, lungs, bones, blood and more.","heart lungs blood digest microbiome kidney bones spine nervous hormone skin liver bloodtypes muscles joints lymphatic hair hiccups"],
+["Body Systems","Heart, lungs, bones, blood and more.","heart lungs blood digest microbiome kidney bones spine nervous hormone skin liver bloodtypes muscles joints lymphatic hair hiccups puberty"],
 ["Brain and Senses","Thinking, remembering, sensing and sleeping.","brain memory mental eye ear smelltaste sleep pain emotions laughter autism psychology dreams habits illusions touch reflexes dyslexia voice balance eyeglasses defibrillators roboticsurgery dnasequencing"],
-["Staying Healthy","Food, water, exercise and good habits.","nutri water exercise hygiene teeth firstaid sanitation aging pregnancy disasterprep foodsafety stress sunsafety myopia vitamins blooddonation yoga soap"],
-["Disease and Medicine","Germs, defenses and the fight against illness.","immune vacc antivax flu commoncold malaria allergy cancer diabetes antibiotics pandemic heartdisease surgery transplant tb cholera dengue hiv medimaging rabies measles stroke alzheimers asthma hypertension leptospirosis anemia fever polio smallpox"]]],
+["Staying Healthy","Food, water, exercise and good habits.","nutri water exercise hygiene teeth firstaid sanitation aging pregnancy disasterprep foodsafety stress sunsafety myopia vitamins blooddonation yoga soap hydration"],
+["Disease and Medicine","Germs, defenses and the fight against illness.","immune vacc antivax flu commoncold malaria allergy cancer diabetes antibiotics pandemic heartdisease surgery transplant tb cholera dengue hiv medimaging rabies measles stroke alzheimers asthma hypertension leptospirosis anemia fever polio smallpox anesthesia placebo"]]],
 
 ["History","🏛️",["#8a5a1a","#e6bd78"],"Five thousand years of the human story",
 "History is the story of how people built cities, empires and nations, and how ideas, trade and war changed the world. This subject travels from the first civilizations to the world wars and the decades since.",
@@ -1253,10 +1260,10 @@ window.SUBJECTS=[
 ["Arts and Culture","🎨",["#6d28d9","#c9b8ff"],"Painting, stories, music and the stage",
 "People have always made art, told stories and played music. This subject explores great painters and sculptors, the books and myths that last for centuries, music from Mozart to hip hop, and theatre, dance and film.",
 ["davinci","shakes","musicw","cinema"],[
-["Art, Architecture and Photography","From cave paintings to masterpieces, great buildings and photographs.","caveart davinci michel impress vangogh picasso gothic architecture photography ukiyoe sculpture mosaic calligraphy baroque romanticism modernart islamicart chineseart africanart streetart weaving ceramics tattoo rembrandt amorsolo bahaynabato stainedglass origami graphicdesign museums libraries dyes"],
+["Art, Architecture and Photography","From cave paintings to masterpieces, great buildings and photographs.","caveart davinci michel impress vangogh picasso gothic architecture photography ukiyoe sculpture mosaic calligraphy baroque romanticism modernart islamicart chineseart africanart streetart weaving ceramics tattoo rembrandt amorsolo bahaynabato stainedglass origami graphicdesign museums libraries dyes surrealism cubism popart"],
 ["Books and Stories","Epics, plays, novels, poems and myths.","homer shakes austen novel encyclopedias fairy gmyth phfolk haikuart phlit comics poetry norsemyth childlit chineselit russianlit africanlit latamlit manga scifi detective"],
-["Music","Music and dance from symphonies to hip hop.","musicw mozart opera jazz blues beatles reggae hiphop electro guitar violin piano opm phdance orchestra drums rockpop kpop indianmusic kundiman kulintang"],
-["Stage and Screen","Theatre, ballet, film, animation and television.","theatre ballet worlddance cinema phcinema anim tv puppetry circus musicals bollywood asiantheatre zarzuela documentary comedy stagemagic filmfestivals"]]],
+["Music","Music and dance from symphonies to hip hop.","musicw mozart opera jazz blues beatles reggae hiphop electro guitar violin piano opm phdance orchestra drums rockpop kpop indianmusic kundiman kulintang folkmusic"],
+["Stage and Screen","Theatre, ballet, film, animation and television.","theatre ballet worlddance cinema phcinema anim tv puppetry circus musicals bollywood asiantheatre zarzuela documentary comedy stagemagic filmfestivals hollywood"]]],
 
 ["Technology","⚙️",["#0e7490","#6fe3f5"],"The inventions that made the modern world",
 "Every machine began as an idea. This subject follows the inventions that changed how we travel, build and power our homes, from the wheel and the printing press to electric cars.",
@@ -1287,10 +1294,10 @@ window.SUBJECTS=[
 ["The Modern World","🌐",["#a21caf","#f0abfc"],"The world we live in today",
 "The 21st century has brought rapid change: billions of people online, new ways of working, earning and paying, a pandemic, breakthroughs in medicine and urgent global challenges such as hunger, water, extreme heat, rising seas and the loss of nature. This subject explains the big trends shaping the world today, from smart cities and influencers to climate action and changing families, and sets out the debates around them.",
 ["sdgs","worldpop","covid19","esports"],[
-["Global Challenges","Problems the whole world is working on together.","sdgs migration foodsecurity waterscarcity energytransition inequality biodivloss extremeheat airpollution sealevel foodwaste ewaste carbonfootprint microplastics"],
-["Changing Societies","How populations, cities and lifestyles are changing.","worldpop megacities agingworld fastfashion housing loneliness urbanfarm verticalfarming labgrownmeat smartcities overtourism plantbased micromobility volunteering firefighters umbrellas weddings whistleblowers conspiracy newspapers"],
-["Work and Money Today","New ways of working, shopping and paying.","gigeconomy remotework ecommerce digitalpay costliving minimumwage startups automation financialliteracy fourdayweek ubi cryptocurrency postal banks retirement consumerrights"],
-["Health and Science Today","Recent breakthroughs and the pandemic that changed the world.","covid19 mrna crispr gmos cloning animaltesting mentalyouth obesity aimedicine amr wearables genetherapy vaping telemedicine hospitals prosthetics pacemakers hearingaids"],
+["Global Challenges","Problems the whole world is working on together.","sdgs migration foodsecurity waterscarcity energytransition inequality biodivloss extremeheat airpollution sealevel foodwaste ewaste carbonfootprint microplastics redcross"],
+["Changing Societies","How populations, cities and lifestyles are changing.","worldpop megacities agingworld fastfashion housing loneliness urbanfarm verticalfarming labgrownmeat smartcities overtourism plantbased micromobility volunteering firefighters umbrellas weddings whistleblowers conspiracy newspapers g20brics"],
+["Work and Money Today","New ways of working, shopping and paying.","gigeconomy remotework ecommerce digitalpay costliving minimumwage startups automation financialliteracy fourdayweek ubi cryptocurrency postal banks retirement consumerrights imfworldbank"],
+["Health and Science Today","Recent breakthroughs and the pandemic that changed the world.","covid19 mrna crispr gmos cloning animaltesting mentalyouth obesity aimedicine amr wearables genetherapy vaping telemedicine hospitals prosthetics pacemakers hearingaids stemcells"],
 ["Pop Culture Today","Global trends in entertainment and play.","anime memes esports kdrama shortvideo superhero influencers podcasts cosplay fandom emoji realitytv themeparks fanfiction livestreaming tradingcards"]]]
 ];
 // Where the old sections went, for old links and for the quick-reference A–Z entries.

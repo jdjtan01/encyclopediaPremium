@@ -42,11 +42,18 @@ direwolf:["Mammal (canid)","Large mammals",0.25,0.013,1.6,0.8,68,"cat","About 1.
 ichthyosaurs:["Marine reptile (ichthyosaur)","Fish and squid-like animals",250,94,15,3,0,"shark","Most 2–4 m; Shonisaurus about 15 m (shown)",[["Lyme Regis, England",50.72,-2.94],["Holzmaden, Germany",48.63,9.53],["Berlin–Ichthyosaur State Park, Nevada",38.88,-117.6],["Blue Anchor, Somerset (Ichthyotitan)",51.18,-3.39]]],
 rhamphorhynchus:["Pterosaur","Fish and squid-like animals",151,148,1.8,0.4,0,"ptero","Wingspan up to about 1.8 m",[["Solnhofen, Germany",48.89,10.99]]],
 basilosaurus:["Early whale","Fish, sharks, smaller whales",41.3,33.9,18,2.2,0,"mosa","About 15–20 m long",[["Wadi Al-Hitan, Egypt",29.27,30.04],["Ouachita Parish, Louisiana",32.5,-92.1],["Clarke County, Alabama",31.7,-87.8]]],
-glyptodon:["Mammal (armadillo relative)","Plants",3.2,0.011,3.3,1.5,2000,"ankylo","Up to about 3.5 m long",[["Pampas, Argentina",-35.5,-60.0],["Uruguay",-33.5,-56.5],["Tarija, Bolivia",-21.5,-64.7]]]
+glyptodon:["Mammal (armadillo relative)","Plants",3.2,0.011,3.3,1.5,2000,"ankylo","Up to about 3.5 m long",[["Pampas, Argentina",-35.5,-60.0],["Uruguay",-33.5,-56.5],["Tarija, Bolivia",-21.5,-64.7]]],
+carnotaurus:["Dinosaur (abelisaurid theropod)","Meat",72,69,8,3,1500,"theropod","About 8 m long",[["Bajo de la Carpa, Chubut, Argentina",-43.6,-68.6]]],
+microraptor:["Dinosaur (feathered dromaeosaur)","Small animals and fish",125,120,0.8,0.25,1,"bird","About 80 cm long",[["Jiufotang Formation, Liaoning, China",41.6,120.4]]],
+terrorbirds:["Bird (phorusrhacid)","Meat",60,0.1,2.5,2.5,350,"terror","Up to about 2.5–3 m tall (Kelenken)",[["Patagonia, Argentina",-41.5,-69.0],["Florida",29.6,-82.4],["Texas",30.0,-97.5],["Seymour Island, Antarctica",-64.28,-56.75]]],
+eurypterids:["Arthropod (sea scorpion)","Fish and other animals",467,251.9,2.5,0.5,0,"trilo","Most under 20 cm; Jaekelopterus about 2.5 m (shown)",[["Prüm, Germany",50.2,6.42],["Herkimer County, New York",43.0,-75.0],["Saaremaa, Estonia",58.4,22.5],["Lesmahagow, Scotland",55.64,-3.89]]],
+coelacanth:["Lobe-finned fish","Fish and squid",410,0,2,0.6,90,"shark","Up to about 2 m long (living species)",[["Comoro Islands",-11.7,43.3],["Chalumna River mouth, South Africa",-33.3,27.6],["Manado, Sulawesi, Indonesia",1.5,124.8]]],
+titanoboa:["Reptile (giant snake)","Fish, crocodile relatives, turtles",60,58,13,1,1100,"mosa","About 13 m long",[["Cerrejón, La Guajira, Colombia",11.1,-72.6]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
 window.PRESIL={
+terror:[[0,40,1],[10,36],[24,32],[40,30],[52,32],[60,28],[64,18],[66,8],[72,2],[84,1],[96,4],[100,10,1],[96,12],[98,18,1],[92,15],[84,14],[76,16],[72,24],[70,36],[66,48],[58,56],[52,58],[54,72],[56,94],[64,100,1],[50,100,1],[48,94],[46,74],[42,60],[38,60],[40,76],[42,96],[50,100,1],[36,100,1],[34,96],[32,76],[30,58],[18,54],[8,48]],
 theropod:[[0,40,1],[20,30],[44,13],[60,15],[72,19],[78,9],[90,6],[100,13],[98,24],[82,26],[74,34],[66,46],[69,53],[64,53],[58,56],[55,62],[57,74],[53,92],[61,100,1],[47,100,1],[45,92],[46,76],[40,58],[28,46],[12,43]],
 raptor:[[0,34,1],[22,32],[46,22],[60,24],[70,22],[78,12],[90,10],[100,16],[96,24],[82,24],[74,32],[66,44],[74,52],[70,56],[60,52],[56,60],[58,74],[54,92],[62,100,1],[48,100,1],[46,92],[46,76],[40,56],[28,42],[10,38]],
 sauropod:[[0,62,1],[16,50],[32,34],[46,22],[60,26],[70,30],[80,20],[91,8],[96,5],[100,9],[97,13],[90,15],[82,30],[74,42],[72,60],[72,100,1],[64,100,1],[63,64],[54,64],[50,66],[50,100,1],[41,100,1],[40,62],[32,52],[15,56]],
