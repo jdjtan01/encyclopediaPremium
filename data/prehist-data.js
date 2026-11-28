@@ -72,11 +72,18 @@ kentrosaurus:["Dinosaur (stegosaur)","Plants",152,150,4.3,1.5,1000,"stego","Abou
 amargasaurus:["Dinosaur (dicraeosaurid sauropod)","Low-growing plants",129,122,10,2.5,2600,"sauropod","About 9–10 m long",[["La Amarga, Neuquén, Argentina",-39.5,-70.0]]],
 pliosaurus:["Reptile (pliosaur, sea reptile)","Fish, squid, sharks, reptiles",200,90,11,1.5,10000,"plesio","Largest about 10–12 m long",[["Kimmeridge, Dorset, England",50.61,-2.12],["Queensland, Australia (Kronosaurus)",-20.8,142.0],["Villa de Leyva, Colombia",5.63,-73.52],["Svalbard, Norway",78.2,15.6]]],
 andrewsarchus:["Mammal (even-toed hoofed mammal)","Probably omnivore",45,42,3.5,1.5,1000,"cat","Body size unknown; about 3.5 m long shown",[["Irdin Manha, Inner Mongolia, China",43.6,111.9]]],
-cavebear:["Mammal (bear)","Mostly plants",0.3,0.024,3,1.7,500,"sloth","About 3 m long; males up to about 500 kg",[["Drachenloch, Switzerland",46.93,9.46],["Bear Cave, Romania",46.57,22.55],["Chauvet Cave, France",44.39,4.42],["Zoolithen Cave, Germany",49.8,11.3]]]
+cavebear:["Mammal (bear)","Mostly plants",0.3,0.024,3,1.7,500,"sloth","About 3 m long; males up to about 500 kg",[["Drachenloch, Switzerland",46.93,9.46],["Bear Cave, Romania",46.57,22.55],["Chauvet Cave, France",44.39,4.42],["Zoolithen Cave, Germany",49.8,11.3]]],
+styracosaurus:["Dinosaur (centrosaurine ceratopsian)","Plants",75.5,75,5.5,1.8,2700,"cerat","About 5.5 m long",[["Dinosaur Provincial Park, Alberta",50.76,-111.5],["Montana",48.5,-112.5]]],
+corythosaurus:["Dinosaur (lambeosaurine hadrosaur)","Plants",77,75,9,2.5,3500,"hadro","About 9 m long",[["Dinosaur Provincial Park, Alberta",50.76,-111.5],["Montana",48.5,-110.5]]],
+mamenchisaurus:["Dinosaur (sauropod)","Plants",160,145,26,5,25000,"sauropod","About 22–35 m long (species vary)",[["Mamenxi, Sichuan, China",30.0,104.9],["Zigong, Sichuan, China",29.34,104.78],["Xinjiang, China",44.0,89.0]]],
+utahraptor:["Dinosaur (dromaeosaur)","Meat",136,134,6.5,1.8,400,"raptor","About 6–7 m long",[["Cedar Mountain Formation, Utah",38.9,-110.1]]],
+hallucigenia:["Lobopodian (velvet worm relative)","Small food particles",510,505,0.03,0.01,0,"trilo","About 1–5 cm long",[["Burgess Shale, British Columbia",51.43,-116.47],["Chengjiang, Yunnan, China",24.67,102.98]]],
+diprotodon:["Marsupial (giant wombat relative)","Plants",1.8,0.04,3.5,1.8,2700,"wombat","About 3–4 m long",[["Lake Callabonna, South Australia",-29.75,140.07],["Wellington Caves, New South Wales",-32.6,148.94],["Darling Downs, Queensland",-27.5,151.5]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
 window.PRESIL={
+wombat:[[0,60,1],[6,40],[20,26],[40,20],[62,22],[78,30],[88,40],[96,46],[100,58,1],[96,66],[88,70],[84,78],[86,100,1],[74,100,1],[70,82],[34,82],[30,100,1],[18,100,1],[16,80],[6,72]],
 paracer:[[0,30,1],[8,22],[30,16],[54,16],[66,18],[74,10],[82,2],[94,0],[100,6,1],[100,14],[92,16],[86,18],[80,26],[74,36],[70,52],[72,100,1],[62,100,1],[60,56],[36,56],[32,100,1],[22,100,1],[20,54],[10,46],[4,36]],
 terror:[[0,40,1],[10,36],[24,32],[40,30],[52,32],[60,28],[64,18],[66,8],[72,2],[84,1],[96,4],[100,10,1],[96,12],[98,18,1],[92,15],[84,14],[76,16],[72,24],[70,36],[66,48],[58,56],[52,58],[54,72],[56,94],[64,100,1],[50,100,1],[48,94],[46,74],[42,60],[38,60],[40,76],[42,96],[50,100,1],[36,100,1],[34,96],[32,76],[30,58],[18,54],[8,48]],
 theropod:[[0,40,1],[20,30],[44,13],[60,15],[72,19],[78,9],[90,6],[100,13],[98,24],[82,26],[74,34],[66,46],[69,53],[64,53],[58,56],[55,62],[57,74],[53,92],[61,100,1],[47,100,1],[45,92],[46,76],[40,58],[28,46],[12,43]],
