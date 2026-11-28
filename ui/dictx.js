@@ -88,6 +88,7 @@ const speak=w=>{try{speechSynthesis.cancel();const u=new SpeechSynthesisUtteranc
 const hl=(t,q)=>{if(!q)return E(t);const i=t.toLowerCase().indexOf(q);if(i<0)return E(t);return E(t.slice(0,i))+"<mark>"+E(t.slice(i,i+q.length))+"</mark>"+E(t.slice(i+q.length))};
 function wod(){const pool=IDX.filter(g=>/^[a-z]{6,}$/.test(g.w)&&g.s.some(s=>s[1].length>40));const d=new Date(),n=d.getFullYear()*372+d.getMonth()*31+d.getDate();let h=n;h=(h*2654435761)>>>0;return pool[h%pool.length]}
 R.dict=function(x){
+  try{if(typeof setCat=="function")setCat(null)}catch(e){}
   const V=document.getElementById("v");
   const st={q:x?String(x):"",mode:"start",pos:"all",off:0,star:false};
   const L="ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
