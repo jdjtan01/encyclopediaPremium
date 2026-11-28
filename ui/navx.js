@@ -5,11 +5,12 @@ if(typeof R=="undefined")return;
 const RM=matchMedia("(prefers-reduced-motion: reduce)"),PH=matchMedia("(max-width:640px)"),FINE=matchMedia("(hover:hover) and (pointer:fine)");
 const enc=encodeURIComponent,catUrl=c=>"#/cat/"+enc(c),subUrl=(c,b)=>"#/cat/"+enc(c)+"/"+enc(b);
 const MORE=[
-["Explore",[["contents","📑","Contents","Every subject and section"],["browse","🗂️","All articles","Filter and sort everything"],["index","🔎","Index","Find any topic by name"],["az","🔤","A–Z","Quick reference list"],["gloss","📘","Glossary","Key terms explained"],["dict","📖","Dictionary","Words and meanings"],["guides","🧭","Reading guides","Paths through big topics"],["@rnd","🎲","Random article","Surprise yourself"]]],
-["Places and time",[["countries","🏳️","Countries","A fact file for every country"],["atlas","🗺️","Atlas","Explore the world map"],["histmap","🏛️","History map","Empires through 5,000 years"],["time","🕰️","Timeline","Events through history"],["deeptime","⏳","Deep time","539 million years of life"],["fossilmap","📍","Fossil map","Where famous fossils were found"]]],
-["Play and learn",[["maze","🧩","Mind Maze quizzes","Test what you know"],["chal","🏙️","Capitals challenge","Name the capital"],["flags","🚩","Flag quiz","Match flags to countries"],["cards","🃏","Flashcards","Learn by flipping"],["sizes","📏","Size line-up","Giants of the past, side by side"],["compare/jupiter~saturn","⚖️","Compare","Two articles side by side"]]],
-["Your library",[["saved","⭐","My Library","Your bookmarks"],["hist","🕘","Reading history","Articles you have opened"],["notes","📝","Research notes","Your saved notes"]]],
-["About",[["cover","📕","Cover","The book’s front cover"],["howto","❓","How to use","Tips and shortcuts"],["book","🖨️","Print the book","A printable edition"],["about","ℹ️","About this edition","Sources and credits"]]]];
+["Explore","🧭","#6366f1","#a855f7",[["contents","📑","Contents","Every subject and section","#6366f1"],["browse","🗂️","All articles","Filter and sort everything","#8b5cf6"],["index","🔎","Index","Find any topic by name","#0ea5e9"],["az","🔤","A–Z","Quick reference list","#14b8a6"],["gloss","📘","Glossary","Key terms explained","#3b82f6"],["dict","📖","Dictionary","Words and meanings","#a855f7"],["guides","🧭","Reading guides","Paths through big topics","#ec4899"]]],
+["Places and time","🌍","#10b981","#0ea5e9",[["countries","🏳️","Countries","A fact file for every country","#10b981"],["atlas","🗺️","Atlas","Explore the world map","#0ea5e9"],["time","🕰️","Timeline","Events through history","#f59e0b"],["deeptime","⏳","Deep time","539 million years of life","#a855f7"],["fossilmap","📍","Fossil map","Where famous fossils were found","#ef4444"]]],
+["Play and learn","🎮","#f97316","#ec4899",[["chal","🏙️","Capitals challenge","Name the capital","#f97316"],["flags","🚩","Flag quiz","Match flags to countries","#ef4444"],["cards","🃏","Flashcards","Learn by flipping","#ec4899"],["sizes","📏","Size line-up","Giants of the past, side by side","#14b8a6"],["compare/jupiter~saturn","⚖️","Compare","Two articles side by side","#8b5cf6"]]],
+["Your library","💛","#eab308","#f97316",[["saved","⭐","My Library","Your bookmarks","#eab308"],["hist","🕘","Reading history","Articles you have opened","#f97316"],["notes","📝","Research notes","Your saved notes","#84cc16"]]],
+["About","📚","#64748b","#6366f1",[["cover","📕","Cover","The book’s front cover","#ef4444"],["howto","❓","How to use","Tips and shortcuts","#6366f1"],["book","🖨️","Print the book","A printable edition","#64748b"],["about","ℹ️","About this edition","Sources and credits","#0ea5e9"]]]];
+const FEAT=[["@rnd","🎲","Random article","Roll the dice and discover something new","#f97316","#ec4899","dice"],["maze","🧩","Mind Maze quizzes","How much do you really know?","#8b5cf6","#06b6d4","quiz"],["histmap","🏛️","History map","Watch 5,000 years of empires rise and fall","#10b981","#f59e0b","map"]];
 const css=`
 .nx-wrap{position:relative}
 .nx-wrap.nx-sticky{position:sticky;top:var(--nxt,0px);z-index:45;transition:transform .35s cubic-bezier(.2,.8,.2,1),opacity .25s}
@@ -72,17 +73,49 @@ const css=`
 .nx-foot{display:flex;gap:6px;flex-wrap:wrap;margin:12px 4px 0;padding-top:12px;border-top:1px solid var(--bd)}
 .nx-foot a{font:600 13px system-ui;color:var(--mu);text-decoration:none;padding:6px 10px;border-radius:8px}.nx-foot a:hover{background:var(--sf2);color:var(--hd)}
 /* More */
-#nx-more{width:min(940px,calc(100vw - 32px));padding:16px}
-.nx-mg{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:6px 14px}
-.nx-mg h4{grid-column:1/-1;margin:10px 6px 2px;font:800 13px var(--disp);color:var(--hd);display:flex;align-items:center;gap:8px}
-.nx-mg h4:after{content:"";flex:1;height:1px;background:var(--bd)}
-.nx-mg h4:first-child{margin-top:0}
-.nx-it{display:flex;align-items:center;gap:11px;padding:8px 10px;border-radius:12px;color:var(--tx);text-decoration:none;transition:background .15s,translate .2s;cursor:pointer;border:0;background:none;text-align:left;font:inherit;width:100%}
-.nx-it i{font-style:normal;flex:none;width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-size:17px;background:var(--sf2);transition:transform .25s cubic-bezier(.3,1.6,.5,1)}
-.nx-it b{display:block;font:700 14px system-ui;color:var(--hd)}
-.nx-it small{display:block;font:500 12px/1.3 system-ui;color:var(--mu)}
-.nx-it:hover,.nx-it:focus-visible{background:var(--sf2);outline:none;translate:2px 0}
-.nx-it:hover i,.nx-it:focus-visible i{transform:scale(1.12) rotate(-8deg)}
+#nx-more{width:min(980px,calc(100vw - 32px));padding:16px;max-height:calc(100vh - 140px);overflow:auto;scrollbar-width:thin}
+.mo-feat{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:14px}
+.mo-fc{position:relative;display:flex;align-items:center;gap:14px;padding:16px 16px!important;border-radius:18px!important;color:#fff!important;text-decoration:none;overflow:hidden;background:linear-gradient(120deg,var(--a),var(--b),var(--a))!important;background-size:220% 100%!important;box-shadow:0 14px 30px -16px var(--a);animation:moPop .55s cubic-bezier(.2,1.4,.4,1) both,moFlow 6s ease-in-out infinite alternate!important;animation-delay:calc(var(--k)*70ms),0s!important;transition:transform .25s cubic-bezier(.3,1.5,.5,1),box-shadow .25s!important}
+button.mo-fc{border:0;font:inherit;text-align:left;cursor:pointer;width:100%}
+.mo-fc:hover,.mo-fc:focus-visible{transform:translateY(-4px) rotate(-.6deg);box-shadow:0 22px 40px -18px var(--a);translate:none!important;outline:none}
+.mo-fc:before{content:"";position:absolute;inset:0;background:linear-gradient(105deg,transparent 35%,rgba(255,255,255,.45) 50%,transparent 65%);transform:translateX(-120%);transition:transform .7s}
+.mo-fc:hover:before{transform:translateX(120%)}
+.mo-fi{position:relative;flex:none;width:54px;height:54px;border-radius:16px;display:grid;place-items:center;font-size:30px;background:rgba(255,255,255,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.5);animation:moBob 3.2s ease-in-out infinite;animation-delay:calc(var(--k)*-1s)}
+.mo-ft b{display:block;font:900 1.08rem/1.15 var(--disp);color:#fff!important;letter-spacing:-.01em}
+.mo-ft small{display:block;margin-top:3px;font:600 12.5px/1.3 system-ui;color:rgba(255,255,255,.88)!important}
+.mo-fx{position:absolute;right:-18px;top:-18px;width:90px;height:90px;border-radius:50%;background:rgba(255,255,255,.14);transition:transform .5s}
+.mo-fc:hover .mo-fx{transform:scale(1.5)}
+.mo-dice:hover .mo-fi{animation:moRoll .7s cubic-bezier(.3,1.4,.5,1)}
+.mo-quiz:hover .mo-fi{animation:moJump .6s cubic-bezier(.3,1.6,.5,1) infinite}
+.mo-map:hover .mo-fi{animation:moSpin 1.6s linear infinite}
+.mo-groups{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.mo-g{position:relative;border-radius:18px;padding:12px 10px 8px;background:linear-gradient(150deg,color-mix(in srgb,var(--a) 12%,var(--sf)),color-mix(in srgb,var(--b) 6%,var(--sf)));border:1px solid color-mix(in srgb,var(--a) 22%,var(--bd));overflow:hidden;animation:moUp .5s cubic-bezier(.2,.9,.3,1.1) both;animation-delay:calc(120ms + var(--gi)*60ms)}
+.mo-g:after{content:"";position:absolute;width:160px;height:160px;border-radius:50%;right:-60px;top:-70px;background:radial-gradient(circle,color-mix(in srgb,var(--b) 28%,transparent),transparent 70%);pointer-events:none}
+.mo-g:nth-child(1){grid-row:span 2}
+.mo-g h4{position:relative;z-index:1;display:flex;align-items:center;gap:9px;margin:0 6px 8px;font:900 14px var(--disp);color:var(--hd)}
+.mo-g h4 span{width:28px;height:28px;border-radius:9px;display:grid;place-items:center;font-size:15px;background:linear-gradient(135deg,var(--a),var(--b));box-shadow:0 6px 14px -6px var(--a)}
+.mo-g h4 em{margin-left:auto;font:700 11px system-ui;font-style:normal;color:var(--a);background:color-mix(in srgb,var(--a) 14%,transparent);padding:3px 8px;border-radius:99px}
+.mo-items{position:relative;z-index:1;display:grid;grid-template-columns:1fr 1fr;gap:2px 6px}
+.mo-g:nth-child(1) .mo-items{grid-template-columns:1fr}
+.mo-it{position:relative;display:flex!important;align-items:center;gap:11px;padding:6px 10px!important;border-radius:12px!important;color:var(--tx);text-decoration:none;animation:moPop .45s cubic-bezier(.2,1.4,.4,1) both!important;animation-delay:calc(200ms + var(--gi,0)*60ms + var(--k)*35ms)!important}
+.mo-it i{font-style:normal;flex:none;width:36px;height:36px;border-radius:11px;display:grid;place-items:center;font-size:18px;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 30%,var(--sf)),color-mix(in srgb,var(--c) 12%,var(--sf)));box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--c) 30%,transparent);transition:transform .3s cubic-bezier(.3,1.6,.5,1),box-shadow .3s,background .3s}
+.mo-it b{display:block;font:700 14px system-ui;color:var(--hd)}
+.mo-it small{display:block;font:500 12px/1.3 system-ui;color:var(--mu)}
+.mo-it s{margin-left:auto;text-decoration:none;font:800 18px system-ui;color:var(--c);opacity:0;transform:translateX(-6px);transition:opacity .2s,transform .25s}
+.mo-it:hover,.mo-it:focus-visible{background:color-mix(in srgb,var(--c) 13%,transparent)!important;outline:none;translate:0!important}
+.mo-it:hover i,.mo-it:focus-visible i{background:linear-gradient(135deg,var(--c),color-mix(in srgb,var(--c) 60%,#fff));box-shadow:0 8px 18px -8px var(--c);animation:moWig .5s ease}
+.mo-it:hover s,.mo-it:focus-visible s{opacity:1;transform:none}
+@keyframes moPop{from{opacity:0;transform:translateY(10px) scale(.9) rotate(-2deg)}}
+@keyframes moUp{from{opacity:0;transform:translateY(14px)}}
+@keyframes moFlow{to{background-position:100% 0}}
+@keyframes moBob{50%{transform:translateY(-4px) rotate(4deg)}}
+@keyframes moRoll{0%{transform:rotate(0) scale(1)}40%{transform:rotate(200deg) scale(1.2)}100%{transform:rotate(360deg) scale(1)}}
+@keyframes moJump{50%{transform:translateY(-8px) scale(1.1)}}
+@keyframes moSpin{to{transform:rotate(360deg)}}
+@keyframes moWig{0%,100%{transform:none}25%{transform:rotate(-12deg) scale(1.12)}50%{transform:rotate(10deg) scale(1.15)}75%{transform:rotate(-5deg) scale(1.1)}}
+@media (max-width:820px){.mo-feat{grid-template-columns:1fr}.mo-groups{grid-template-columns:1fr}.mo-g:nth-child(1){grid-row:auto}.mo-g:nth-child(1) .mo-items{grid-template-columns:1fr 1fr}}
+@media (max-width:640px){.mo-items,.mo-g:nth-child(1) .mo-items{grid-template-columns:1fr}.mo-fc{padding:12px 14px!important}.mo-fi{width:46px;height:46px;font-size:24px}}
+@media (prefers-reduced-motion:reduce){.mo-fc,.mo-fi,.mo-g,.mo-it,.mo-it i{animation:none!important}.mo-fc:before{display:none}}
 .nx-pop a,.nx-pop .nx-it{animation:nxUp .35s cubic-bezier(.2,.8,.2,1) both}
 @keyframes nxUp{from{opacity:0;transform:translateY(6px)}}
 /* Phone bottom sheets */
@@ -152,7 +185,7 @@ nv.addEventListener("pointerleave",()=>{hov.style.opacity="0"});
 // Menus
 const O=ORD();
 document.body.insertAdjacentHTML("beforeend",`<div class="nx-pop" id="nx-cat" role="dialog" aria-label="Subjects" hidden><label class="nx-s"><span aria-hidden="true">🔎</span><input type="search" placeholder="Find a subject or section…" aria-label="Find a subject or section"><kbd>Esc</kbd></label><div class="nx-two"><div class="nx-list" role="listbox" aria-label="Subjects">${O.map((c,i)=>`<button type="button" class="nx-sub" role="option" data-i="${i}" style="--c:${colOf(c)}" aria-selected="${i?"false":"true"}"><i>${SUBJ[c].i}</i>${esc(c)}<small>${countOf(c)}</small></button>`).join("")}</div><div class="nx-pane"></div></div><div class="nx-res"></div><div class="nx-foot"><a href="#/contents">Full contents</a><a href="#/browse">All articles</a><a href="#/az">A–Z</a><a href="#/index">Index</a></div></div>
-<div class="nx-pop" id="nx-more" role="dialog" aria-label="More" hidden><div class="nx-mg">${MORE.map(g=>`<h4>${g[0]}</h4>`+g[1].map(x=>x[0][0]=="@"?`<button type="button" class="nx-it" data-act="${x[0].slice(1)}"><i>${x[1]}</i><span><b>${x[2]}</b><small>${x[3]}</small></span></button>`:`<a class="nx-it" href="#/${x[0]}"><i>${x[1]}</i><span><b>${x[2]}</b><small>${x[3]}</small></span></a>`).join("")).join("")}</div></div>`);
+<div class="nx-pop" id="nx-more" role="dialog" aria-label="More" hidden><div class="mo-feat">${FEAT.map((f,k)=>{const inner=`<span class="mo-fi" aria-hidden="true">${f[1]}</span><span class="mo-ft"><b>${f[2]}</b><small>${f[3]}</small></span><span class="mo-fx" aria-hidden="true"></span>`;return f[0][0]=="@"?`<button type="button" class="nx-it mo-fc mo-${f[6]}" data-act="${f[0].slice(1)}" style="--a:${f[4]};--b:${f[5]};--k:${k}">${inner}</button>`:`<a class="nx-it mo-fc mo-${f[6]}" href="#/${f[0]}" style="--a:${f[4]};--b:${f[5]};--k:${k}">${inner}</a>`}).join("")}</div><div class="mo-groups">${MORE.map((g,gi)=>`<section class="mo-g" style="--a:${g[2]};--b:${g[3]};--gi:${gi}"><h4><span>${g[1]}</span>${g[0]}<em>${g[4].length}</em></h4><div class="mo-items">${g[4].map((x,k)=>`<a class="nx-it mo-it" href="#/${x[0]}" style="--c:${x[4]};--k:${k}"><i>${x[1]}</i><span><b>${x[2]}</b><small>${x[3]}</small></span><s aria-hidden="true">›</s></a>`).join("")}</div></section>`).join("")}</div></div></div>`);
 const cat=document.getElementById("nx-cat"),more=document.getElementById("nx-more"),pane=cat.querySelector(".nx-pane"),subs=[...cat.querySelectorAll(".nx-sub")],inp=cat.querySelector("input"),res=cat.querySelector(".nx-res");
 function showSub(i,anim){curSub=i;const c=O[i],S=SUBJ[c];subs.forEach((b,j)=>b.setAttribute("aria-selected",j==i));cat.style.setProperty("--c",colOf(c));pane.style.setProperty("--c",colOf(c));pane.dataset.i=S.i;
 const feat=(S.feat||[]).map(get).filter(Boolean).slice(0,4);
