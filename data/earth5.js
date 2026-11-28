@@ -9,8 +9,7 @@ s2:[["James Hutton and deep time","In 1785 the Scottish geologist James Hutton a
 sp:["Uluru","Uluru, a huge sandstone rock rising about 348 meters from the flat desert of central Australia, glows red at sunrise and sunset because of iron minerals in its surface. It is sacred to the Anangu, the Aboriginal people of the area. Formed from sediments laid down about 550 million years ago, it was later tilted upright, and most of the rock lies hidden underground. Climbing Uluru was banned in 2019 out of respect for Anangu wishes."],
 g:[["Mineral","A natural solid with a definite chemical makeup and crystal structure"],["Igneous rock","Rock formed from cooled magma or lava"],["Sedimentary rock","Rock formed from layers of sediment"],["Metamorphic rock","Rock changed by heat and pressure"]],
 f:["Marble is limestone changed by heat and pressure.","Pumice can float on water.","The oldest Earth minerals are about 4.4 billion years old."],
-fun:"Pumice, a volcanic rock full of bubbles, can float on water.",
-tl:"Ang bato ay matigas na bagay na binubuo ng mga mineral. Tatlo ang pangunahing uri nito: igneous, sedimentary at metamorphic. Sa loob ng milyon-milyong taon, nagbabago ang bato mula sa isang uri patungo sa iba."});
+fun:"Pumice, a volcanic rock full of bubbles, can float on water."});
 
 ADDART({id:"fossils",t:"Fossils",c:"Geography",i:"🦕",w:"Fossil",r:["dino","evo","rocks","humanorigins","extinction","paleontology","geotime"],
 p:[["Clues from the past","Fossils are preserved remains or traces of ancient living things."],["Written in stone","Most fossils form in sedimentary rocks, layer by layer over millions of years."],["Reading Earth’s history","Fossils show how life has changed over billions of years."]],
@@ -22,8 +21,7 @@ s2:[["Mary Anning","Mary Anning, born in 1799 in Lyme Regis on England’s south
 sp:["Insects in amber","Amber is fossilized tree resin. When sticky resin oozed from ancient trees, it sometimes trapped insects, spiders, flowers and even small lizards and feathers, which were preserved in incredible detail as the resin hardened over millions of years. Amber from Myanmar, about 99 million years old, contains a piece of a feathered dinosaur tail. Amber inspired the story of Jurassic Park, though scientists have not been able to recover dinosaur DNA."],
 g:[["Fossil","Preserved remains or traces of ancient life"],["Paleontology","The study of fossils and ancient life"],["Petrification","Turning organic material into stone"],["Trace fossil","Evidence of activity, such as footprints"]],
 f:["The oldest fossils are about 3.5 billion years old.","Archaeopteryx shows features of both dinosaurs and birds.","A 709,000-year-old butchered rhino was found in Kalinga."],
-fun:"A piece of a feathered dinosaur tail was found trapped in amber.",
-tl:"Ang fossil ay labi o bakas ng sinaunang buhay na napreserba sa bato. Ipinapakita nito kung paano nagbago ang buhay sa Earth. Sa Kalinga, natagpuan ang buto ng rhinoceros na mga 709,000 taon na ang edad."});
+fun:"A piece of a feathered dinosaur tail was found trapped in amber."});
 
 ADDART({id:"fossilfuels",t:"Fossil Fuels",c:"Geography",i:"🛢️",w:"Fossil fuel",r:["climchange","renew","elec","cars","plastics"],
 p:[["Energy from ancient life","Coal, oil and natural gas formed from the remains of living things over millions of years."],["Powering the world","Fossil fuels still supply most of the world’s energy."],["A warming planet","Burning them releases carbon dioxide, the main cause of climate change."]],
@@ -35,8 +33,7 @@ s2:[["Fossil fuels and climate","Burning fossil fuels is the largest source of t
 sp:["Ancient sunlight","The energy in fossil fuels originally came from the Sun. Hundreds of millions of years ago, plants and plankton captured sunlight through photosynthesis and stored its energy in their bodies. When they were buried and transformed into coal, oil and gas, that energy was locked away. When we burn fossil fuels today, we release ancient sunlight, along with the carbon those organisms took from the air long ago."],
 g:[["Fossil fuel","A fuel formed from ancient organisms"],["Petroleum","Crude oil"],["Methane","The main gas in natural gas"],["Greenhouse gas","A gas that traps heat in the atmosphere"]],
 f:["Fossil fuels supply about four-fifths of the world’s energy.","Coal formed from ancient swamp plants.","Burning fossil fuels is the main cause of climate change."],
-fun:"The energy in fossil fuels is ancient sunlight captured by plants millions of years ago.",
-tl:"Ang fossil fuel, gaya ng karbon, langis at natural gas, ay nabuo mula sa labi ng sinaunang buhay sa loob ng milyon-milyong taon. Sila pa rin ang pangunahing pinagkukunan ng enerhiya sa mundo, ngunit ang pagsunog sa kanila ang pangunahing sanhi ng pagbabago ng klima."});
+fun:"The energy in fossil fuels is ancient sunlight captured by plants millions of years ago."});
 
 ADDART({id:"maps",t:"Maps, Latitude and Longitude",c:"Geography",i:"🗺️",w:"Map",r:["gps","continents","explor","timezones","earthplanet"],
 p:[["Pictures of places","A map is a drawing of an area that shows where things are."],["A global grid","Lines of latitude and longitude let us pinpoint any place on Earth."],["From clay to GPS","Maps have evolved from clay tablets to satellite images on phones."]],
@@ -48,8 +45,7 @@ s2:[["Ancient maps","The Babylonian Map of the World, carved on a clay tablet ar
 sp:["The mother of all Philippine maps","The 1734 Murillo Velarde map is so detailed that it is considered the first scientific map of the Philippines. Its borders are decorated with scenes of Filipino life, showing people of different groups, plants, animals and city views. In 2014 a businessman bought a rare copy at auction in London and donated it to the Philippine government. It was presented as evidence in the arbitration case that the Philippines won in 2016 regarding the South China Sea."],
 g:[["Latitude","Distance north or south of the equator, in degrees"],["Longitude","Distance east or west of the prime meridian, in degrees"],["Projection","A method of showing the round Earth on a flat map"],["Scale","The relation between map distance and real distance"]],
 f:["The equator is 0 degrees latitude.","The prime meridian passes through Greenwich, London.","Africa is about 14 times larger than Greenland."],
-fun:"On the Mercator map, Greenland looks as big as Africa, but Africa is about 14 times larger.",
-tl:"Ang mapa ay larawan ng isang lugar na nagpapakita kung nasaan ang mga bagay. Gamit ang latitude at longitude, matutukoy ang anumang lugar sa Earth. Ang mapa ni Murillo Velarde noong 1734 ay tinaguriang ina ng lahat ng mapa ng Pilipinas."});
+fun:"On the Mercator map, Greenland looks as big as Africa, but Africa is about 14 times larger."});
 
 ADDART({id:"timezones",t:"Time Zones",c:"Geography",i:"🕰️",w:"Time zone",r:["timephys","maps","earthplanet","rail","samoacountry"],
 p:[["A world of clocks","Because Earth rotates, it is day in some places and night in others at the same moment."],["Twenty-four zones","The world is divided into time zones, roughly 15 degrees of longitude wide."],["Philippine time","The Philippines uses Philippine Standard Time, eight hours ahead of UTC."]],
@@ -61,5 +57,4 @@ s2:[["The Philippines skips a day","For more than three centuries, the Philippin
 sp:["The day of two noons","On 18 November 1883, railways across the United States and Canada switched to four standard time zones. In many cities, clocks were reset at noon, so people experienced noon twice, once by the old local time and once by the new standard time. The change was organized by the railways, not the government; the United States did not make time zones law until 1918."],
 g:[["Time zone","A region that uses the same standard time"],["UTC","Coordinated Universal Time, the world’s time standard"],["International Date Line","The line where the calendar date changes"],["Daylight saving time","Moving clocks forward in summer"]],
 f:["The world has about 24 main time zones.","The Philippines uses UTC+8.","The Philippines skipped 31 December 1844."],
-fun:"The Philippines skipped 31 December 1844 to match the calendar of its Asian neighbors.",
-tl:"Ang time zone ay rehiyong gumagamit ng iisang oras. Dahil umiikot ang Earth, magkakaiba ang oras sa iba't ibang lugar. Ginagamit ng Pilipinas ang Philippine Standard Time, walong oras na mas maaga kaysa UTC. Nilaktawan ng Pilipinas ang 31 Disyembre 1844."});
+fun:"The Philippines skipped 31 December 1844 to match the calendar of its Asian neighbors."});

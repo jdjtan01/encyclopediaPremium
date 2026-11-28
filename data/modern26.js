@@ -9,8 +9,7 @@ s2:[["Denial, skepticism and debate","Scientists distinguish healthy skepticism,
 sp:["The Keeling Curve","Since 1958, scientists at Mauna Loa Observatory in Hawaii have measured carbon dioxide in the air continuously. The resulting graph, called the Keeling Curve after Charles David Keeling, shows a steady rise with a yearly zigzag as plants in the Northern Hemisphere grow and decay."],
 g:[["Consensus","General agreement among experts"],["Fossil fuels","Coal, oil and gas, formed from ancient life"],["Skepticism","Questioning claims and asking for evidence"],["Emissions","Gases released into the air"]],
 f:["Carbon dioxide levels have risen about 50 percent since pre-industrial times.","Exxon’s own scientists predicted global warming in the late 1970s.","2024 was the first full year more than 1.5 °C above pre-industrial temperatures."],
-fun:"Eunice Foote, an American scientist, showed in 1856 that carbon dioxide traps heat from the Sun, years before the better-known experiments of John Tyndall.",
-tl:"Ang climate change denial ay pagtanggi o pagmamaliit sa ebidensyang siyentipiko tungkol sa pag-init ng mundo. Pinondohan ng ilang kompanya ng fossil fuel ang mga kampanyang nagdududa sa agham, kahit mahigit 97 porsiyento ng mga siyentipiko ang sang-ayon na ang tao ang nagpapainit sa planeta."});
+fun:"Eunice Foote, an American scientist, showed in 1856 that carbon dioxide traps heat from the Sun, years before the better-known experiments of John Tyndall."});
 
 ADDART({id:"cannabis",t:"Cannabis Legalization",c:"Society",i:"🌿",w:"Legality of cannabis",r:["drugtrade","law","mental","tobacco","medicinalplants"],
 p:[["A changing law","Cannabis, or marijuana, is illegal in most countries but legal in a growing number."],["Medical and recreational","Some places allow it only as medicine, others for adult recreational use."],["Health debate","Supporters and opponents disagree about risks, crime and public health."]],
@@ -22,8 +21,7 @@ s2:[["Hemp","Hemp is a variety of cannabis with very little THC. Its strong fibe
 sp:["Amsterdam’s coffee shops","Since 1976, the Netherlands has tolerated the sale of small amounts of cannabis in licensed ‘coffee shops’, even though it remained technically illegal. The policy aimed to separate cannabis users from markets for harder drugs."],
 g:[["THC","The chemical in cannabis that causes a ‘high’"],["CBD","Cannabidiol, a non-intoxicating chemical in cannabis"],["Legalize","To make legal"],["Decriminalize","To stop treating something as a crime, while not fully legalizing it"]],
 f:["Uruguay was the first country to legalize recreational cannabis.","Hemp has been grown for fiber for thousands of years.","Modern cannabis is often much stronger than in the past."],
-fun:"In 2018 Canada became the first G7 country, and the second country in the world, to legalize recreational cannabis nationwide.",
-tl:"Ang cannabis o marijuana ay ilegal sa karamihan ng bansa ngunit ginagawang legal sa dumaraming lugar, gaya ng Uruguay, Canada at Germany. Nagtatalo ang mga tagasuporta at kritiko tungkol sa panganib sa kalusugan, krimen at kapakanan ng publiko."});
+fun:"In 2018 Canada became the first G7 country, and the second country in the world, to legalize recreational cannabis nationwide."});
 
 ADDART({id:"childlabor",t:"Child Labor",c:"Society",i:"🧒",w:"Child labor",r:["hrights","childsoldiers","trafficking","fastfashion","education"],
 p:[["Children at work","Child labor is work that harms children or keeps them from school."],["138 million children","About one in twelve children worldwide were in child labor in 2024."],["Laws and progress","Child labor has fallen sharply but has not been eliminated."]],
@@ -35,8 +33,7 @@ s2:[["Iqbal Masih","Iqbal Masih was sold into bonded labor at a carpet factory i
 sp:["Lewis Hine’s photographs","Lewis Hine, a teacher turned photographer, sometimes disguised himself as a fire inspector or Bible salesman to get into factories. His thousands of photos of children in mills, mines and fields shocked the American public."],
 g:[["Child labor","Work that harms children or stops them going to school"],["Hazardous work","Work that endangers health or safety"],["Bonded labor","Work to pay off a debt, often never-ending"],["Supply chain","The steps in making and delivering a product"]],
 f:["About 138 million children were in child labor in 2024.","Most child laborers work in agriculture.","Child labor has fallen by more than 100 million since 2000."],
-fun:"Kailash Satyarthi, an Indian activist who has freed tens of thousands of children from forced labor, shared the 2014 Nobel Peace Prize with Malala Yousafzai.",
-tl:"Ang child labor ay trabahong nakasasama sa bata o pumipigil sa kaniyang pag-aaral. Mga 138 milyong bata ang nasa child labor noong 2024, at bagaman bumaba ito nang malaki mula 2000, hindi pa ito tuluyang nawawala."});
+fun:"Kailash Satyarthi, an Indian activist who has freed tens of thousands of children from forced labor, shared the 2014 Nobel Peace Prize with Malala Yousafzai."});
 
 ADDART({id:"whaling",t:"Whaling",c:"Nature",i:"🐋",w:"Whaling",r:["whale","conservation","fish","pacific","japancountry"],
 p:[["Hunting whales","Whaling is the hunting of whales for meat, oil and other products."],["Near extinction","Industrial whaling drove many whale species close to extinction."],["A global ban","Commercial whaling was banned in 1986, but Japan, Norway and Iceland still hunt."]],
@@ -48,8 +45,7 @@ s2:[["Whale watching","Whale watching has become a major industry, attracting mi
 sp:["Save the Whales","The ‘Save the Whales’ campaign of the 1970s was one of the first global environmental movements. Activists in small boats placed themselves between harpoons and whales, and recordings of humpback whale songs, released as an album in 1970, helped people see whales as intelligent, singing animals."],
 g:[["Moratorium","A temporary ban"],["Blubber","The thick layer of fat under a whale’s skin"],["Harpoon","A spear-like weapon used to hunt whales"],["Subsistence","Hunting or farming to feed one’s own community"]],
 f:["About 2.9 million large whales were killed in the 20th century.","Commercial whaling has been banned since 1986.","Japan, Norway and Iceland still hunt whales commercially."],
-fun:"The 1970 album Songs of the Humpback Whale sold over 100,000 copies and helped launch the ‘Save the Whales’ movement.",
-tl:"Ang whaling ay pangangaso ng mga balyena para sa karne at langis. Muntik nang maubos ang maraming uri dahil sa industriyal na pangangaso, kaya ipinagbawal ang komersyal na whaling noong 1986, ngunit patuloy pa rin ito sa Japan, Norway at Iceland."});
+fun:"The 1970 album Songs of the Humpback Whale sold over 100,000 copies and helped launch the ‘Save the Whales’ movement."});
 
 ADDART({id:"trophyhunting",t:"Trophy Hunting",c:"Nature",i:"🦁",w:"Trophy hunting",r:["conservation","lion","elephant","whaling","zoos"],
 p:[["Hunting for trophies","Trophy hunting is hunting wild animals and keeping parts of them as trophies."],["Conservation or cruelty?","Supporters say fees fund conservation; opponents call it cruel and harmful."],["Cecil the lion","The killing of a famous lion in 2015 caused worldwide outrage."]],
@@ -61,8 +57,7 @@ s2:[["Canned hunting","In ‘canned hunting’, animals, often lions bred in cap
 sp:["Cecil","Cecil was a black-maned lion in Zimbabwe’s Hwange National Park, wearing a GPS collar for a university study. In July 2015 he was lured out of the park and killed by an American hunter with a bow. The story went viral, and more than 40 airlines banned trophy shipments."],
 g:[["Trophy","A part of an animal kept to remember a hunt"],["Quota","A limit on how many animals may be hunted"],["CITES","The treaty controlling trade in endangered species"],["Conservancy","An area managed by local people to protect wildlife"]],
 f:["Kenya has banned sport hunting since 1977.","Cecil the lion was wearing a research collar when he was killed.","Botswana is home to the world’s largest elephant population."],
-fun:"After Cecil’s death, donations to the Oxford University team that had been studying him passed one million dollars within weeks.",
-tl:"Ang trophy hunting ay pangangaso ng mga hayop at pagtatabi ng bahagi nito bilang tropeo. Sinasabi ng mga tagasuporta na nakatutulong ang bayad sa konserbasyon, habang tinatawag itong malupit ng mga kritiko, lalo na matapos patayin si Cecil the lion noong 2015."});
+fun:"After Cecil’s death, donations to the Oxford University team that had been studying him passed one million dollars within weeks."});
 
 ADDART({id:"taxhavens",t:"Tax Havens",c:"Society",i:"🏝️",w:"Tax haven",r:["taxes","billionaires","organizedcrime","journalism","inequality"],
 p:[["Hiding money offshore","Tax havens are places with very low taxes and strict secrecy."],["Leaks exposed them","The Panama Papers and other leaks revealed how the rich hide wealth."],["A global minimum tax","Many countries agreed in 2021 to a minimum 15 percent tax on large companies."]],
@@ -74,8 +69,7 @@ s2:[["Who loses?","Studies by the IMF and academic economists suggest that devel
 sp:["The Panama Papers investigation","More than 370 journalists from about 80 countries worked in secret for a year on the Panama Papers, using special software to search the 2.6 terabytes of data. It was one of the largest collaborations in journalism history and won a Pulitzer Prize."],
 g:[["Tax haven","A place with very low taxes and financial secrecy"],["Shell company","A company with no real business, often used to hold money"],["Tax avoidance","Legally reducing taxes"],["Tax evasion","Illegally not paying taxes"]],
 f:["The Panama Papers contained 11.5 million documents.","Iceland’s prime minister resigned after the Panama Papers.","More than 130 countries agreed to a 15 percent minimum tax on big companies."],
-fun:"The British Virgin Islands, with about 40,000 residents, has been home to hundreds of thousands of registered companies, many times more companies than people.",
-tl:"Ang tax haven ay lugar na may napakababang buwis at mahigpit na lihim sa pananalapi. Inilantad ng Panama Papers at iba pang tagas kung paano itinatago ng mayayaman ang kanilang yaman, at noong 2021 ay nagkasundo ang mahigit 130 bansa sa minimum na 15 porsiyentong buwis."});
+fun:"The British Virgin Islands, with about 40,000 residents, has been home to hundreds of thousands of registered companies, many times more companies than people."});
 
 ADDART({id:"prisons",t:"Prisons and Mass Incarceration",c:"Society",i:"🔒",w:"Incarceration",r:["law","police","deathpenalty","torture","racism"],
 p:[["Locking people up","Prisons hold people convicted of crimes or awaiting trial."],["Over 11 million prisoners","More than 11 million people are imprisoned worldwide."],["Punishment or rehabilitation?","Countries differ in whether prisons mainly punish or help people change."]],
@@ -87,8 +81,7 @@ s2:[["Alternatives to prison","Alternatives include probation, community service
 sp:["Robben Island","Nelson Mandela spent 18 of his 27 years in prison on Robben Island, off Cape Town, breaking rocks in a limestone quarry. The former prison is now a museum and UNESCO World Heritage Site, where former political prisoners guide visitors."],
 g:[["Incarceration","Imprisonment"],["Rehabilitation","Helping someone change and return to society"],["Recidivism","Reoffending after release"],["Mandatory minimum","A minimum sentence set by law"]],
 f:["More than 11.5 million people are imprisoned worldwide.","The United States has about one in six of the world’s prisoners.","Norway’s prisons are known for low reoffending rates."],
-fun:"Alcatraz, the famous former island prison in San Francisco Bay, operated for only 29 years, from 1934 to 1963, but became one of the best-known prisons in the world.",
-tl:"Ang bilangguan ay lugar kung saan ikinukulong ang mga nahatulan o naghihintay ng paglilitis. Mahigit 11.5 milyong tao ang nakakulong sa buong mundo, at nagtatalo ang mga bansa kung dapat bang parusa o rehabilitasyon ang pangunahing layunin."});
+fun:"Alcatraz, the famous former island prison in San Francisco Bay, operated for only 29 years, from 1934 to 1963, but became one of the best-known prisons in the world."});
 
 ADDART({id:"torture",t:"Torture",c:"Society",i:"⛓️",w:"Torture",r:["hrights","inquisition","prisons","sept11","law"],
 p:[["Deliberate cruelty","Torture is deliberately inflicting severe pain to punish, intimidate or extract information."],["Banned everywhere","International law bans torture in all circumstances."],["Still used","Human rights groups report torture in many countries today."]],
@@ -100,8 +93,7 @@ s2:[["The ticking bomb argument","Some argue torture could be justified if a cap
 sp:["‘The question’","In medieval and early modern Europe, torture was called ‘the question’ because it was used during interrogation. Instruments such as the rack were displayed to frighten prisoners; many confessed at the sight of them."],
 g:[["Torture","Deliberately causing severe pain or suffering"],["Interrogation","Formal questioning, often by police or soldiers"],["Inadmissible","Not allowed to be used as evidence in court"],["Detainee","A person held in custody"]],
 f:["Torture is banned under international law in all circumstances.","Prussia abolished judicial torture in 1754.","About 780 men were held at Guantanamo Bay over the years."],
-fun:"During World War II, the German interrogator Hanns Scharff became famous for getting information from captured pilots through friendly walks, conversation and coffee rather than force.",
-tl:"Ang tortyur ay sinadyang pagpapahirap upang parusahan, takutin o kumuha ng impormasyon. Ipinagbabawal ito ng pandaigdigang batas sa lahat ng pagkakataon, ngunit ginagamit pa rin ito sa maraming bansa."});
+fun:"During World War II, the German interrogator Hanns Scharff became famous for getting information from captured pilots through friendly walks, conversation and coffee rather than force."});
 
 ADDART({id:"pseudoscience",t:"Pseudoscience",c:"Science",i:"🔮",w:"Pseudoscience",r:["scimeth","conspiracy","antivax","scope","illusions"],
 p:[["Not real science","Pseudoscience is a belief or practice that claims to be scientific but is not."],["Common examples","Astrology, homeopathy and phrenology are well-known examples."],["Spotting it","Real science makes testable claims and changes with new evidence."]],
@@ -113,8 +105,7 @@ s2:[["The million-dollar challenge","The magician and skeptic James Randi offere
 sp:["The Barnum effect","People tend to rate vague personality descriptions, such as ‘you have a great deal of unused potential’, as highly accurate for themselves. Named after the showman P. T. Barnum, this effect helps explain why horoscopes and fortune-tellers seem convincing."],
 g:[["Pseudoscience","False science that imitates real science"],["Falsifiable","Able to be shown false by evidence"],["Placebo","A fake treatment that can still make people feel better"],["Confirmation bias","Noticing evidence that supports what we already believe"]],
 f:["Homeopathic remedies are often so diluted that none of the original substance remains.","Phrenology claimed skull bumps revealed character.","No one ever passed James Randi’s paranormal challenge."],
-fun:"In a famous 1948 experiment, psychologist Bertram Forer gave students the same vague personality description, and they rated it as highly accurate for themselves.",
-tl:"Ang pseudoscience ay paniniwala o gawaing nagsasabing siyentipiko ngunit hindi sumusunod sa pamamaraang siyentipiko, gaya ng astrolohiya at homeopathy. Ang tunay na agham ay gumagawa ng mga pahayag na maaaring subukin at nagbabago kapag may bagong ebidensya."});
+fun:"In a famous 1948 experiment, psychologist Bertram Forer gave students the same vague personality description, and they rated it as highly accurate for themselves."});
 
 ADDART({id:"cryptids",t:"Cryptids: Bigfoot, Nessie and Other Mystery Animals",c:"Nature",i:"🦶",w:"Cryptid",r:["pseudoscience","conspiracy","ufos","squid","scimeth"],
 p:[["Legendary creatures","Cryptids are animals whose existence is claimed but not proven, such as Bigfoot and the Loch Ness Monster."],["No solid evidence","Photos and sightings have not been confirmed by scientific proof."],["Real surprises","Some animals once thought mythical, like the giant squid, turned out to be real."]],
@@ -126,8 +117,7 @@ s2:[["Why people see monsters","Logs, waves, otters, swimming deer, boat wakes a
 sp:["The coelacanth","In 1938, museum curator Marjorie Courtenay-Latimer spotted a strange blue fish among a fisherman’s catch in South Africa. It was a coelacanth, a group known only from fossils and believed extinct since the age of dinosaurs. A second species was found in Indonesia in 1997."],
 g:[["Cryptid","An animal whose existence is claimed but not proven"],["Cryptozoology","The search for cryptids"],["Hoax","A deliberate trick"],["Environmental DNA","Traces of DNA left by living things in water or soil"]],
 f:["The famous 1934 photo of Nessie was a toy submarine with a model head.","The coelacanth was thought extinct for 66 million years.","DNA tests on ‘Yeti’ samples found bears and other known animals."],
-fun:"In 2023, the largest organized search for the Loch Ness Monster in 50 years used drones, thermal cameras and an underwater microphone, but found no monster.",
-tl:"Ang cryptid ay hayop na sinasabing umiiral ngunit hindi pa napatutunayan ng agham, gaya ng Bigfoot at Loch Ness Monster. Walang matibay na ebidensya para sa mga ito, ngunit may ilang hayop na dating itinuturing na alamat, tulad ng higanteng pusit, na napatunayang totoo."});
+fun:"In 2023, the largest organized search for the Loch Ness Monster in 50 years used drones, thermal cameras and an underwater microphone, but found no monster."});
 
 ADDART({id:"billionaires",t:"Billionaires and Extreme Wealth",c:"Society",i:"💰",w:"Billionaire",r:["inequality","taxhavens","taxes","capitalism","populism"],
 p:[["Record fortunes","In 2026, Forbes counted a record 3,428 billionaires."],["How fortunes are made","Most billionaires made money through companies, especially technology."],["A heated debate","People disagree about whether extreme wealth is earned reward or a sign of an unfair system."]],
@@ -139,8 +129,7 @@ s2:[["How big is a billion?","If you earned 1,000 dollars a day, it would take a
 sp:["Andrew Carnegie’s gospel","In 1889, the steel tycoon Andrew Carnegie wrote that ‘the man who dies thus rich dies disgraced’, arguing that the wealthy should use their fortunes for the public good. He funded more than 2,500 public libraries around the world."],
 g:[["Billionaire","A person with wealth of at least one billion dollars"],["Philanthropy","Giving money to good causes"],["Wealth tax","A yearly tax on the total value of what a person owns"],["Monopoly","A company that controls an entire market"]],
 f:["Forbes counted a record 3,428 billionaires in 2026.","Andrew Carnegie funded over 2,500 public libraries.","Earning 1,000 dollars a day, it would take about 2,740 years to make a billion."],
-fun:"A million seconds is about 11.5 days, but a billion seconds is about 31.7 years.",
-tl:"Ang bilyonaryo ay taong may yamang hindi bababa sa isang bilyong dolyar. Noong 2026, nagbilang ang Forbes ng rekord na 3,428 bilyonaryo, at pinagtatalunan kung ito ba ay makatarungang gantimpala o tanda ng hindi patas na sistema."});
+fun:"A million seconds is about 11.5 days, but a billion seconds is about 31.7 years."});
 
 ADDART({id:"affirmativeaction",t:"Affirmative Action",c:"Society",i:"⚖️",w:"Affirmative action",r:["racism","segregation","education","universities","feminism"],
 p:[["Correcting inequality","Affirmative action gives preference to disadvantaged groups in jobs or education."],["Used worldwide","India, the United States, Malaysia and South Africa have used such policies."],["Fierce debate","Supporters see fairness; opponents see unfair discrimination."]],
@@ -152,8 +141,7 @@ s2:[["Women and affirmative action","Some countries use quotas to increase women
 sp:["B. R. Ambedkar","Bhimrao Ramji Ambedkar, born into a caste considered ‘untouchable’, overcame discrimination to earn doctorates abroad and chaired the committee that drafted India’s constitution. He championed reservations to give oppressed castes access to education and power."],
 g:[["Affirmative action","Policies giving preference to disadvantaged groups"],["Quota","A fixed number or share reserved for a group"],["Caste","A hereditary social class in South Asia"],["Diversity","Including people of different backgrounds"]],
 f:["India has one of the world’s largest affirmative action systems.","The US Supreme Court ended race-conscious university admissions in 2023.","Malaysia’s policy favors the majority, not a minority."],
-fun:"B. R. Ambedkar, architect of India’s constitution, owned a personal library of tens of thousands of books, one of the largest private collections in Asia in his time.",
-tl:"Ang affirmative action ay mga patakarang nagbibigay ng kagustuhan sa mga grupong dati nang nadiskrimina sa trabaho o edukasyon. Ginamit ito sa India, Estados Unidos, Malaysia at South Africa, at matindi ang debate tungkol dito."});
+fun:"B. R. Ambedkar, architect of India’s constitution, owned a personal library of tens of thousands of books, one of the largest private collections in Asia in his time."});
 
 ADDART({id:"hatespeech",t:"Hate Speech",c:"Society",i:"🗯️",w:"Hate speech",r:["censorship","racism","genocide","antisemitism","hrights"],
 p:[["Attacking identity","Hate speech attacks people because of their race, religion, ethnicity, gender or other identity."],["Different laws","Some countries ban it; others, like the United States, protect most speech."],["Online challenge","Social media has made hate speech spread faster and wider."]],
@@ -165,8 +153,7 @@ s2:[["Counter-speech","Counter-speech means responding to hateful messages with 
 sp:["The Media Case","In the ‘Media Case’ of 2003, the International Criminal Tribunal for Rwanda convicted the founders of RTLM radio and the editor of the newspaper Kangura of genocide and incitement. It was the first international trial since Nuremberg to convict journalists for their role in atrocities."],
 g:[["Hate speech","Expression that attacks people for their identity"],["Incitement","Encouraging others to commit violence or crimes"],["Content moderation","Reviewing and removing posts on platforms"],["Counter-speech","Answering hateful speech with other speech"]],
 f:["There is no single international definition of hate speech.","Rwandan radio broadcasts helped incite the 1994 genocide.","The United States protects most offensive speech under the First Amendment."],
-fun:"Some online games and forums use ‘shadow banning’, in which a person’s hateful posts are hidden from everyone else without them realizing it.",
-tl:"Ang hate speech ay pananalitang umaatake sa tao dahil sa lahi, relihiyon, etnisidad, kasarian o iba pang pagkakakilanlan. Iba-iba ang batas sa bawat bansa, at pinabilis ng social media ang pagkalat nito."});
+fun:"Some online games and forums use ‘shadow banning’, in which a person’s hateful posts are hidden from everyone else without them realizing it."});
 
 ADDART({id:"cloning",t:"Cloning",c:"Science",i:"🐑",w:"Cloning",r:["crispr","gmos","eugenics","dna"],
 p:[["Genetic copies","Cloning creates a genetically identical copy of an organizm or cell."],["Dolly the sheep","In 1996, Dolly became the first mammal cloned from an adult cell."],["Human cloning","Reproductive human cloning is banned or opposed almost everywhere."]],
@@ -178,5 +165,4 @@ s2:[["Therapeutic cloning","Therapeutic cloning would create embryos as a source
 sp:["Why ‘Dolly’?","Dolly was cloned from a cell taken from a sheep’s mammary gland, and the scientists named her after the country singer Dolly Parton, known for her large bust. Parton reportedly took the joke in good humor."],
 g:[["Clone","A genetically identical copy"],["Nucleus","The part of a cell containing its DNA"],["Stem cell","A cell that can develop into many types of cells"],["Embryo","An organizm in its earliest stage of development"]],
 f:["Identical twins are natural clones.","Dolly was the only success out of 277 attempts.","A clone would be a separate person, not a copy of someone’s memories."],
-fun:"The Argentine polo star Adolfo Cambiaso has ridden several clones of his favorite mare, Cuartetera, in top matches.",
-tl:"Ang cloning ay paglikha ng kopyang magkapareho ang genes ng isang organizmo o selula. Noong 1996, si Dolly the sheep ang naging unang mamalyang na-clone mula sa selula ng adulto, ngunit ipinagbabawal o tinututulan sa halos lahat ng bansa ang pag-clone ng tao."});
+fun:"The Argentine polo star Adolfo Cambiaso has ridden several clones of his favorite mare, Cuartetera, in top matches."});

@@ -9,8 +9,7 @@ s2:[["The Panama Canal","The Panama Canal crosses the narrow Isthmus of Panama, 
 sp:["Falkirk Wheel","Some canals lift boats with ingenious machines instead of locks. The Falkirk Wheel in Scotland, opened in 2002, is the world’s only rotating boat lift. Two huge arms carry water-filled gondolas holding boats, turning to raise them about 24 meters between two canals in a few minutes, using about as much energy as boiling a few kettles."],
 g:[["Canal","An artificial waterway"],["Lock","A chamber with gates that raises or lowers boats between water levels"],["Isthmus","A narrow strip of land joining two larger areas"],["Irrigation","Supplying water to land for crops"]],
 f:["China’s Grand Canal is the longest canal in the world.","The Suez Canal opened in 1869 and the Panama Canal in 1914.","The Falkirk Wheel is the world’s only rotating boat lift."],
-fun:"In 2021 a single ship blocked the Suez Canal for six days.",
-tl:"Ang kanal ay daluyang tubig na gawa ng tao para sa transportasyon, irigasyon o pagpapatuyo. Pinaikli ng Suez at Panama Canal ang paglalakbay ng mga barko sa pagitan ng mga karagatan."});
+fun:"In 2021 a single ship blocked the Suez Canal for six days."});
 
 ADDART({id:"videogames",t:"Video Games",c:"Technology",i:"🎮",w:"Video game",r:["comp","chip","ai","anim"],
 p:[["Play on a screen","Video games are interactive games played on computers, consoles, phones and arcade machines."],["A giant industry","Video games earn more money each year than films and recorded music combined."],["Billions of players","More than 3 billion people around the world play video games."]],
@@ -22,8 +21,7 @@ s2:[["How games are made","Making a large game can involve hundreds of people ov
 sp:["Pong","In 1972, Atari placed its first Pong arcade machine in a bar in California. Within days, the owner called to complain that it had stopped working; when an engineer checked, he found the coin box so full of quarters that it had jammed. Pong’s simple game of bouncing a dot between two paddles started a worldwide industry."],
 g:[["Console","A machine designed for playing video games"],["Arcade","A place with coin-operated game machines"],["Esports","Competitive professional video gaming"],["Game engine","Software used to build video games"]],
 f:["More than 3 billion people play video games.","Pong, released in 1972, launched the video game industry.","Minecraft has sold more than 300 million copies."],
-fun:"The first Pong machine stopped working because its coin box was too full.",
-tl:"Ang video game ay larong elektroniko na nilalaro sa kompyuter, console o telepono. Mahigit 3 bilyong tao ang naglalaro nito, at isa itong napakalaking industriya at maging isport na tinatawag na esports."});
+fun:"The first Pong machine stopped working because its coin box was too full."});
 
 ADDART({id:"cybersecurity",t:"Cybersecurity",c:"Technology",i:"🔐",w:"Computer security",r:["comp","chip","crypto","ai","smartphone"],
 p:[["Protecting the digital world","Cybersecurity is the protection of computers, networks, phones and data from attacks and theft."],["Many threats","Threats include viruses, scams, hackers, ransomware and data breaches."],["Everyone’s job","Strong passwords, software updates and caution online help keep people safe."]],
@@ -35,5 +33,4 @@ s2:[["Staying safe online","Experts recommend using long, unique passwords or a 
 sp:["The ILOVEYOU worm","In May 2000, millions of people received an email with the subject line ILOVEYOU and an attachment called LOVE-LETTER-FOR-YOU. Opening it released a worm that overwrote files and emailed itself to everyone in the victim’s address book. It spread around the world in hours, infecting tens of millions of computers and causing billions of dollars in damage. It was traced to a student in the Philippines; at the time the country had no law against it, and soon passed one."],
 g:[["Malware","Software designed to harm or exploit computers"],["Phishing","Tricking people into revealing information through fake messages"],["Ransomware","Malware that locks files and demands payment"],["Multi-factor authentication","Logging in with more than one proof of identity"]],
 f:["Phishing is one of the most common ways cyberattacks begin.","WannaCry hit computers in about 150 countries in 2017.","Encryption protects online banking and messages."],
-fun:"The ILOVEYOU worm of 2000 led the Philippines to pass a law against computer crime.",
-tl:"Ang cybersecurity ay pagprotekta sa mga kompyuter, network at datos laban sa pag-atake at pagnanakaw. Kabilang sa mga banta ang virus, phishing at ransomware, at nakatutulong ang matitibay na password at pag-update ng software."});
+fun:"The ILOVEYOU worm of 2000 led the Philippines to pass a law against computer crime."});

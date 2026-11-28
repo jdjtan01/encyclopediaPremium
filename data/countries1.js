@@ -11,5 +11,4 @@ s2:[["Samurai and shoguns","From the late 1100s, military rulers called shoguns 
 sp:["The Shinkansen","In October 1964, just before the Tokyo Olympics, Japan opened the Tokaido Shinkansen between Tokyo and Osaka, the world’s first high-speed railway. Its trains ran at 210 km/h and cut the journey from about six and a half hours to four. The network has since grown to thousands of kilometers, and its trains are famous for their punctuality and safety. The Shinkansen inspired high-speed rail systems in France, China and many other countries."],
 g:[["Archipelago","A group or chain of islands"],["Shogun","A military ruler of Japan before 1868"],["Samurai","A warrior of old Japan"],["Shinto","Japan’s native religion, which honors spirits called kami"],["Tsunami","A giant sea wave caused by an earthquake or eruption"],["Kanji","Chinese characters used to write Japanese"]],
 f:["Japan has more than 100 active volcanoes.","Vending machines in Japan sell everything from hot drinks to umbrellas.","The Japanese name for the country, Nihon or Nippon, means origin of the sun."],
-fun:"Japan is made up of about 6,800 islands.",
-tl:"Ang Hapon ay bansang pulo sa Silangang Asya na may halos 6,800 pulo. Kilala ito sa Tokyo, sa Bundok Fuji, sa mga bullet train at sa pinagsamang tradisyon at makabagong teknolohiya."});
+fun:"Japan is made up of about 6,800 islands."});

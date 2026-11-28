@@ -12,8 +12,7 @@ s2:[["Dubai","Dubai grew from a small trading port into a global city of skyscra
 sp:["The world’s tallest building","When construction of the Burj Khalifa began in Dubai in 2004, it was designed to rise higher than any building before it. Its Y-shaped tower, inspired partly by a desert flower, steps back as it rises to reduce wind forces. Thousands of workers, many from South Asia and the Philippines, built it over six years. When it opened on 4 January 2010, it stood about 828 meters tall, with more than 160 floors, and its spire can be seen from almost 100 kilometers away. From its observation decks, visitors watch the sun set twice: once at the base and again higher up, as the sun dips below the horizon later at greater heights."],
 g:[["Emirate","A territory ruled by an emir or sheikh"],["Federation","A union of states under a central government"],["Trucial States","The name for the coastal sheikhdoms under British treaties"],["Expatriate","A person living outside their home country"],["Falconry","Hunting with trained falcons"]],
 f:["The UAE has seven emirates.","It was founded on 2 December 1971.","The Burj Khalifa is the world’s tallest building."],
-fun:"From the Burj Khalifa, people can watch the sun set twice on the same evening.",
-tl:"Ang United Arab Emirates ay pederasyon ng pitong emirato sa Arabian Peninsula. Itinatag ito noong 1971 at yumaman dahil sa langis. Daan-daang libong Pilipino ang nagtatrabaho rito, lalo na sa Dubai at Abu Dhabi."});
+fun:"From the Burj Khalifa, people can watch the sun set twice on the same evening."});
 
 ADDART({id:"iraqcountry",t:"Iraq",c:"Countries and Places",i:"🏺",w:"Iraq",r:["mesop","persia","caliphate","middleeast","terrorism","irancountry"],
 p:[["Cradle of civilization","Iraq lies in Mesopotamia, where the world’s first cities and writing appeared."],["Two great rivers","The Tigris and Euphrates rivers flow through Iraq."],["A troubled modern history","Iraq has suffered wars, dictatorship and conflict but is rebuilding."]],
@@ -25,8 +24,7 @@ s2:[["Wars and dictatorship","Under Saddam Hussein, Iraq fought a long war with 
 sp:["The House of Wisdom","In the 800s, the Abbasid caliphs of Baghdad supported a great center of learning known as the House of Wisdom. Scholars of many faiths and backgrounds, Muslims, Christians, Jews and others, gathered there to translate works from Greek, Persian, Sanskrit and Syriac into Arabic and to make new discoveries. The mathematician al-Khwarizmi worked in Baghdad, writing books that gave us the words algebra and algorithm. Paper, newly introduced from China, made books cheaper. When the Mongols sacked Baghdad in 1258, legend says the Tigris ran black with the ink of books thrown into the river."],
 g:[["Mesopotamia","The land between the Tigris and Euphrates rivers"],["Cuneiform","The wedge-shaped writing of ancient Mesopotamia"],["Caliphate","An Islamic state led by a caliph"],["Sectarian","Related to conflict between religious groups"],["Autonomous region","An area with its own government within a country"]],
 f:["Writing was invented in ancient Mesopotamia.","Baghdad was founded in 762.","The Kurdistan Region has its own government."],
-fun:"The words algebra and algorithm come from a scholar who worked in Baghdad.",
-tl:"Ang Iraq ay bansa sa kanlurang Asya na nasa Mesopotamia, kung saan lumitaw ang mga unang lungsod at pagsulat. Dumaan ito sa digmaan at diktadura ngunit muling bumabangon. Baghdad ang kabisera nito."});
+fun:"The words algebra and algorithm come from a scholar who worked in Baghdad."});
 
 ADDART({id:"jordancountry",t:"Jordan",c:"Countries and Places",i:"🏜️",w:"Jordan",r:["middleeast","israelcountry","saudicountry","iraqcountry","islam","rome"],
 p:[["The rose-red city","Jordan is home to Petra, an ancient city carved into rock."],["The lowest place on land","The shores of the Dead Sea are the lowest land on Earth."],["A welcoming country","Jordan has taken in millions of refugees from neighboring countries."]],
@@ -38,8 +36,7 @@ s2:[["Petra","Petra, carved into rose-red sandstone cliffs, was the Nabataean ca
 sp:["The rediscovery of Petra","For centuries, Petra was known only to the local Bedouin. In 1812 a young Swiss explorer, Johann Ludwig Burckhardt, traveling disguised as an Arab scholar named Sheikh Ibrahim, heard rumors of a lost city in the mountains. Pretending he wanted to sacrifice a goat at the nearby tomb of the prophet Aaron, he persuaded a guide to lead him through the narrow Siq. He glimpsed the Treasury and other monuments but dared not stay long or take notes openly, fearing suspicion. His account introduced Petra to the Western world."],
 g:[["Nabataeans","Ancient Arab traders who built Petra"],["Hashemite","The royal family of Jordan, descended from Sharif Hussein"],["Siq","The narrow gorge leading into Petra"],["Constitutional monarchy","A monarchy limited by a constitution"],["Mansaf","Jordan’s national dish of lamb, yogurt sauce and rice"]],
 f:["Petra was carved into sandstone cliffs.","The Dead Sea shore is the lowest land on Earth.","Jordan became independent in 1946."],
-fun:"People float easily in the Dead Sea because it is so salty.",
-tl:"Ang Jordan ay kaharian sa Gitnang Silangan. Kilala ito sa Petra, sinaunang lungsod na inukit sa bato, at sa Dead Sea, ang pinakamababang lupa sa mundo. Tumanggap ito ng milyun-milyong refugee."});
+fun:"People float easily in the Dead Sea because it is so salty."});
 
 ADDART({id:"rwandacountry",t:"Rwanda",c:"Countries and Places",i:"⛰️",w:"Rwanda",r:["ugandacountry","drccountry","tanzaniacountry","gorilla","hrights","africacolon"],
 p:[["Land of a thousand hills","Rwanda is a small, green country of hills and mountains in central Africa."],["Genocide and recovery","In 1994 about 800,000 people were killed in a genocide; Rwanda has since rebuilt."],["Women leaders","Rwanda has the highest share of women in parliament in the world."]],
@@ -51,8 +48,7 @@ s2:[["Justice and reconciliation","After the genocide, Rwanda faced the task of 
 sp:["Umuganda","On the last Saturday morning of every month, life in Rwanda pauses for umuganda, a word that means coming together in common purpose. Businesses close, traffic stops and citizens aged 18 to 65, including the president, join their neighbors in community work: sweeping streets, planting trees, building homes for poor families, repairing roads or clearing drains. Afterwards, communities hold meetings to discuss local issues. The practice has roots in Rwandan tradition and was revived after the genocide as a way of rebuilding the country and bringing people together."],
 g:[["Genocide","The deliberate killing of a people because of their identity"],["Gacaca","Community courts that tried genocide cases in Rwanda"],["Umuganda","Monthly community work in Rwanda"],["Mwami","The traditional king of Rwanda"],["Reconciliation","Restoring friendly relations after conflict"]],
 f:["Rwanda is called the land of a thousand hills.","About 800,000 people were killed in the 1994 genocide.","Women hold a majority of seats in Rwanda’s parliament."],
-fun:"Rwanda names its baby gorillas in a yearly national ceremony.",
-tl:"Ang Rwanda ay maliit na bansa sa gitnang Aprika na tinatawag na lupain ng sanlibong burol. Noong 1994, mga 800,000 tao ang pinatay sa genocide. Mula noon, muling bumangon ang bansa, at karamihan sa parlamento ay kababaihan."});
+fun:"Rwanda names its baby gorillas in a yearly national ceremony."});
 
 ADDART({id:"mozambiquecountry",t:"Mozambique",c:"Countries and Places",i:"🏝️",w:"Mozambique",r:["africacolon","portugalcountry","southafricacountry","zimbabwecountry","tanzaniacountry","angolacountry"],
 p:[["A long coastline","Mozambique has one of the longest coastlines in Africa, on the Indian Ocean."],["Portuguese heritage","It was a Portuguese colony for centuries, and Portuguese is its official language."],["Wildlife returns","Gorongosa National Park has been restored after a long civil war."]],
@@ -64,8 +60,7 @@ s2:[["Gorongosa","Gorongosa National Park lost most of its large animals during 
 sp:["The return of Gorongosa","By the end of Mozambique’s civil war in 1992, Gorongosa National Park, once famous for its huge herds, had lost more than 90 percent of its large animals to war and hunting. In the 2000s, the Mozambican government and the American philanthropist Greg Carr formed a partnership to restore it. Rangers, many recruited from nearby villages, protected the animals, and species were brought back from other parks. Elephant, buffalo and antelope numbers grew, and lions recovered. The park also built schools and clinics. Gorongosa showed that even a devastated ecosystem can recover with people’s help."],
 g:[["FRELIMO","The movement that led Mozambique to independence"],["RENAMO","The rebel movement in Mozambique’s civil war"],["Insurgency","An armed rebellion against a government"],["Marrabenta","A popular dance music from Maputo"],["Cyclone","A powerful tropical storm, like a typhoon"]],
 f:["Mozambique became independent in 1975.","Its civil war ended in 1992.","Its flag shows an AK-47 rifle."],
-fun:"Mozambique is the only country with a modern rifle on its flag.",
-tl:"Ang Mozambique ay bansa sa timog-silangang Aprika na may mahabang baybayin sa Indian Ocean. Dati itong kolonya ng Portugal at naging malaya noong 1975. Muling sumigla ang mga hayop sa Gorongosa National Park."});
+fun:"Mozambique is the only country with a modern rifle on its flag."});
 
 ADDART({id:"camerooncountry",t:"Cameroon",c:"Countries and Places",i:"🌋",w:"Cameroon",r:["nigeriacountry","africacolon","french","soccer","volc","drccountry"],
 p:[["Africa in miniature","Cameroon has deserts, savannas, rainforests, mountains and beaches."],["Two official languages","Both French and English are official languages."],["The Indomitable Lions","Cameroon’s football team was the first African side to reach a World Cup quarter-final."]],
@@ -77,8 +72,7 @@ s2:[["The Anglophone crisis","Since 2016, protests by lawyers and teachers in th
 sp:["King Njoya’s alphabet","Around 1896, Ibrahim Njoya, king of the Bamum people in western Cameroon, created a writing system for his language after a dream, it is said, and refined it over the following years with his court. Starting as picture-like symbols, it gradually became a syllabic script. Njoya founded schools, wrote a history of his people and a book of laws, designed a calendar and even a map of his kingdom. Under colonial rule, his schools were closed, but the Bamum script survived and is now included in international computer standards, so it can be used on phones and computers."],
 g:[["Anglophone","English-speaking"],["Francophone","French-speaking"],["Unitary state","A country governed as a single unit"],["Makossa","A popular dance music from Douala"],["Crater lake","A lake formed in a volcanic crater"]],
 f:["Cameroon has both French and English as official languages.","Its name comes from the Portuguese word for shrimps.","The goliath frog lives in Cameroon."],
-fun:"Cameroon is named after shrimps seen by Portuguese sailors in 1472.",
-tl:"Ang Cameroon ay bansa sa Gitnang Aprika na tinatawag na Africa in miniature dahil sa iba-ibang tanawin. Opisyal na wika ang Pranses at Ingles. Kilala ang koponang pang-football nitong Indomitable Lions."});
+fun:"Cameroon is named after shrimps seen by Portuguese sailors in 1472."});
 
 ADDART({id:"cotedivoirecountry",t:"Côte d’Ivoire",c:"Countries and Places",i:"🍫",w:"Ivory Coast",r:["ghanacountry","choco","africacolon","french","soccer","senegalcountry"],
 p:[["Cocoa giant","Côte d’Ivoire grows more cocoa than any other country."],["Two capitals","Yamoussoukro is the official capital, while Abidjan is the largest city."],["Football and peace","Its football stars once helped call for an end to civil war."]],
@@ -90,8 +84,7 @@ s2:[["Cocoa","Côte d’Ivoire produces around two-fifths of the world’s cocoa
 sp:["The captain who asked for peace","On 8 October 2005, Côte d’Ivoire beat Sudan and qualified for the World Cup for the first time, while the country was split by civil war. In the dressing room, as television cameras filmed the celebrations, the captain, Didier Drogba, asked for a microphone. Surrounded by his teammates, he knelt and said that the people of Côte d’Ivoire had proved they could live together and play together, and he begged the warring sides to lay down their weapons and hold elections. The appeal was broadcast across the country. A ceasefire followed in 2007, and many Ivorians credit the team with helping bring the country together."],
 g:[["Cocoa","Seeds of the cacao tree, used to make chocolate"],["Lagoon","A shallow body of water separated from the sea"],["Attiéké","Fermented cassava couscous"],["Coup","The sudden seizure of power, often by the military"],["Basilica","A large, important church"]],
 f:["Côte d’Ivoire is the world’s largest cocoa producer.","Yamoussoukro is the official capital.","Its football team won the 2024 Africa Cup of Nations."],
-fun:"A football captain’s televised plea helped encourage peace in Côte d’Ivoire.",
-tl:"Ang Côte d’Ivoire o Ivory Coast ay bansa sa Kanlurang Aprika at pinakamalaking prodyuser ng kakaw sa mundo. Yamoussoukro ang opisyal na kabisera, ngunit Abidjan ang pinakamalaking lungsod."});
+fun:"A football captain’s televised plea helped encourage peace in Côte d’Ivoire."});
 
 ADDART({id:"tunisiacountry",t:"Tunisia",c:"Countries and Places",i:"🏛️",w:"Tunisia",r:["phoenicians","rome","algeriacountry","middleeast","islam","sahara"],
 p:[["Ancient Carthage","Tunisia was home to Carthage, the great rival of ancient Rome."],["Where the Arab Spring began","Protests in Tunisia in 2010–2011 sparked uprisings across the Arab world."],["A Nobel for dialogue","Tunisian civil society groups won the Nobel Peace Prize in 2015."]],
@@ -103,5 +96,4 @@ s2:[["The revolution","On 17 December 2010, Mohamed Bouazizi, a young street ven
 sp:["Elephants over the Alps","In 218 BCE, during the Second Punic War between Carthage and Rome, the Carthaginian general Hannibal Barca set out from Spain with tens of thousands of soldiers, horses and around 37 war elephants. Instead of attacking Rome by sea, he marched across the Pyrenees and then over the snowy Alps into Italy, a journey few thought possible. Many soldiers and most elephants died from cold and hardship, but Hannibal won stunning victories, including at Cannae in 216 BCE. Although Carthage eventually lost the war, Hannibal is remembered as one of history’s greatest military leaders."],
 g:[["Carthage","An ancient city-state in Tunisia, rival of Rome"],["Punic Wars","Three wars between Carthage and Rome"],["Protectorate","A territory controlled by a foreign power"],["Arab Spring","Uprisings across the Arab world from 2010–2011"],["Medina","The old walled part of a North African city"]],
 f:["Carthage was in present-day Tunisia.","Tunisia’s 2011 revolution sparked the Arab Spring.","Tunisian groups won the 2015 Nobel Peace Prize."],
-fun:"Star Wars scenes of the desert planet Tatooine were filmed in Tunisia.",
-tl:"Ang Tunisia ay bansa sa hilagang Aprika sa Dagat Mediterranean. Dito matatagpuan ang sinaunang Carthage. Nagsimula rito ang Arab Spring noong 2010–2011, at nanalo ng Nobel Peace Prize ang mga grupo nito noong 2015."});
+fun:"Star Wars scenes of the desert planet Tatooine were filmed in Tunisia."});

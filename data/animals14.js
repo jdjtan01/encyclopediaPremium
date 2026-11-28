@@ -9,8 +9,7 @@ s2:[["Crown-of-thorns starfish","The crown-of-thorns starfish is covered in veno
 sp:["The stomach that leaves the body","A starfish attacking a mussel is a slow but remarkable sight. It wraps its arms around the shell and grips with hundreds of tube feet, pulling steadily for hours. Eventually the mussel tires and its shell opens by just a fraction of a millimeter. That is enough: the starfish pushes its stomach out through its mouth and into the gap, releasing digestive juices that turn the mussel’s soft body into soup. When the meal is finished, it pulls its stomach back inside. This method allows starfish to eat prey much larger than their mouths."],
 g:[["Echinoderm","A spiny-skinned sea animal such as a starfish or sea urchin"],["Tube feet","Small, water-powered feet used for moving and feeding"],["Five-fold symmetry","A body arranged in five parts around a center"],["Regeneration","Regrowing lost body parts"]],
 f:["Starfish are not fish.","Most echinoderms have five-part bodies.","Some starfish can regrow lost arms."],
-fun:"Starfish have no brain and no blood; seawater pumped through their bodies does much of the work.",
-tl:"Ang echinoderm ay grupo ng hayop-dagat tulad ng starfish, sea urchin at balatan. Karamihan ay may katawang nahahati sa limang bahagi. Kaya ng maraming starfish na palakihin muli ang naputol na braso."});
+fun:"Starfish have no brain and no blood; seawater pumped through their bodies does much of the work."});
 
 ADDART({id:"eels",t:"Eels",c:"Sea Life",i:"🐍",w:"Eel",r:["fishes","sea","coral","birdmigr","phfood"],
 p:[["Snake-like fish","Eels are long, slender fish that look like snakes."],["Mysterious journeys","Freshwater eels travel thousands of kilometers to breed in the open ocean."],["Reef hiders","Moray eels hide in reef crevices with a second set of jaws in their throats."]],
@@ -22,8 +21,7 @@ s2:[["The mystery of the eel","For over 2,000 years, people wondered where eels 
 sp:["The long journey to the Sargasso Sea","When a European eel is about 10 or 20 years old, something changes. Its eyes grow larger, its belly turns silver and it stops eating. On dark, rainy autumn nights it slips downstream from rivers across Europe, and some even cross wet fields, heading for the sea. Then it swims thousands of kilometers across the Atlantic to the Sargasso Sea, a calm region near Bermuda, where it is thought to spawn and die. The eggs hatch into leaf-shaped larvae that drift with the Gulf Stream back toward Europe. Even today, no one has ever directly observed eels spawning in the wild."],
 g:[["Eel","A long, snake-shaped fish"],["Glass eel","A young, transparent eel entering rivers"],["Sargasso Sea","A region of the Atlantic where European and American eels breed"],["Moray","A reef-dwelling eel with throat jaws"]],
 f:["Electric eels are not true eels.","European eels breed in the Sargasso Sea.","Moray eels have a second set of jaws."],
-fun:"No one has ever directly observed freshwater eels spawning in the wild ocean.",
-tl:"Ang igat ay mahaba at payat na isdang mukhang ahas. Naglalakbay ang ilang igat ng libu-libong kilometro patungo sa dagat upang mangitlog. Kinakain ito sa Pilipinas, gaya ng adobong igat."});
+fun:"No one has ever directly observed freshwater eels spawning in the wild ocean."});
 
 ADDART({id:"geckos",t:"Geckos",c:"Reptiles",i:"🦎",w:"Gecko",r:["lizard","chameleon","insect","phbio","animalbehavior"],
 p:[["Sticky-footed lizards","Geckos are small lizards famous for climbing walls and ceilings."],["Noisy lizards","Unlike most lizards, many geckos make calls."],["A famous call","The tokay gecko, or tuko, is known in the Philippines for its loud call."]],
@@ -35,8 +33,7 @@ s2:[["The tuko","The tokay gecko is one of the largest geckos, growing up to abo
 sp:["Counting the tuko’s calls","On a quiet night in a Philippine province, a deep, croaking call rings out: tu-ko, tu-ko, tu-ko. Families may pause and count. In some traditions, an odd or even number of calls is said to bring good or bad luck, or to answer a question. Scientists explain that the tokay gecko is simply calling to defend its territory or attract a mate. Whether or not people believe the old sayings, the tuko’s call is one of the most familiar night sounds in many Filipino homes, and the gecko itself helps control insects around the house."],
 g:[["Gecko","A small lizard, often able to climb walls"],["Setae","Tiny hairs on gecko toes that help them stick"],["Van der Waals forces","Weak attractions between molecules"],["Butiki","The Filipino name for small house geckos"]],
 f:["Geckos can climb glass and ceilings.","Many geckos lick their eyes clean.","The tuko is named after its call."],
-fun:"A gecko can hang from a ceiling by a single toe.",
-tl:"Ang butiki at tuko ay mga uri ng gecko na kayang umakyat sa pader at kisame. May milyon-milyong maliliit na buhok sa kanilang paa na tumutulong sa kanilang kumapit. Kilala ang tuko sa malakas nitong huni sa gabi."});
+fun:"A gecko can hang from a ceiling by a single toe."});
 
 ADDART({id:"mantises",t:"Praying Mantises",c:"Insects",i:"🦗",w:"Mantis",r:["insect","beetle","animalbehavior","flower","butterfly"],
 p:[["Praying posture","Mantises hold their front legs folded as if praying."],["Ambush hunters","They wait motionless and strike prey with lightning-fast front legs."],["Masters of disguise","Many mantises look like leaves, sticks or flowers."]],
@@ -48,5 +45,4 @@ s2:[["Mantises in the Philippines","The Philippines has many mantis species, inc
 sp:["Tiny glasses for a mantis","How do you test whether an insect sees in three dimensions? In 2016 scientists at Newcastle University in England glued tiny 3D glasses, with one blue lens and one green lens, onto praying mantises using beeswax. They then showed the mantises 3D films of buzzing prey on a screen, like those in a 3D cinema. When the images were made to appear within striking distance, the mantises lunged at them, showing that they combine views from both eyes to judge depth. It was the first proof of stereo vision in an insect, and the research may help design simple 3D vision systems for robots."],
 g:[["Mantis","A predatory insect that holds its front legs as if praying"],["Ambush","Waiting hidden to attack by surprise"],["Ootheca","A hardened egg case laid by mantises"],["Nymph","A young insect that looks like a small adult"]],
 f:["There are about 2,400 mantis species.","Mantises can turn their heads to look behind them.","Mantises see in 3D."],
-fun:"Scientists once fitted praying mantises with tiny 3D glasses to prove they see in three dimensions.",
-tl:"Ang praying mantis o sasamba ay insektong nakatiklop ang harapang mga paa na parang nagdarasal. Naghihintay ito nang tahimik at mabilis na sinusunggaban ang biktima. Maraming uri nito ang mukhang dahon, sanga o bulaklak."});
+fun:"Scientists once fitted praying mantises with tiny 3D glasses to prove they see in three dimensions."});

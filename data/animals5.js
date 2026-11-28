@@ -9,8 +9,7 @@ s2:[["The monarch migration","Every autumn, millions of monarch butterflies in N
 sp:["Planting for butterflies","Anyone can help butterflies by growing the plants they need. Caterpillars need particular food plants, such as citrus for many swallowtails and milkweed for monarchs and their relatives, while adults need flowers rich in nectar, such as lantana and santan. Avoiding pesticides lets caterpillars grow safely."],
 g:[["Lepidoptera","The insect group of butterflies and moths"],["Chrysalis","The pupa of a butterfly"],["Proboscis","A long, tube-shaped mouthpart for sipping"],["Metamorphosis","A complete change of body form during growth"]],
 f:["Butterflies taste with their feet.","A silkworm’s cocoon can be one thread up to about 900 meters long.","Monarch butterflies migrate up to about 4,000 kilometers."],
-fun:"Butterflies taste their food with sensors on their feet.",
-tl:"Ang paruparo at gamugamo ay mga insektong may pakpak na natatakpan ng maliliit na kaliskis. Dumaraan sila sa apat na yugto, mula itlog, uod, pupa hanggang sa may pakpak na adulto, at tumutulong sa polinasyon ng mga bulaklak."});
+fun:"Butterflies taste their food with sensors on their feet."});
 
 ADDART({id:"bee",t:"Bees",i:"🐝",w:"Western honey bee",r:["insect","butterfly","agri"],
 p:[["Busy pollinators","Bees carry pollen from flower to flower, helping plants make fruit and seeds."],["Honey makers","Honeybees turn flower nectar into honey and store it in wax combs."],["Many kinds","There are about 20,000 species of bee, and most live alone rather than in hives."]],
@@ -22,8 +21,7 @@ s2:[["Solitary bees","Most bees do not live in hives. Solitary bees, such as mas
 sp:["The giant honeybee","The giant honeybee builds a single open comb that can be more than a meter wide, hanging from a high branch or cliff. When threatened, thousands of bees on the comb flip their bodies in a rippling wave, called shimmering, to scare off hornets. In Nepal and parts of Southeast Asia, honey hunters still climb cliffs and trees to harvest these combs."],
 g:[["Pollination","Moving pollen so plants can make seeds"],["Colony","A large group of insects living together"],["Nectar","A sugary liquid made by flowers"],["Drone","A male honeybee"]],
 f:["A honeybee makes only about a twelfth of a teaspoon of honey in her life.","Only female bees can sting.","Bees tell each other where flowers are by dancing."],
-fun:"Honeybees tell each other where to find flowers by dancing.",
-tl:"Ang bubuyog ay insektong kumukuha ng nektar at pollen sa mga bulaklak at tumutulong sa polinasyon ng maraming pananim. Ang mga pukyutan ay gumagawa ng pulot, at may mga katutubong bubuyog sa Pilipinas gaya ng kiwot."});
+fun:"Honeybees tell each other where to find flowers by dancing."});
 
 ADDART({id:"spider",t:"Spiders",i:"🕷️",w:"Spider",r:["insect","bee","eco"],
 p:[["Not insects","Spiders are arachnids. They have eight legs and two body parts, while insects have six legs and three parts."],["Silk spinners","All spiders make silk, which they use for webs, nests, egg sacs and safety lines."],["Pest controllers","Spiders eat huge numbers of insects, including mosquitoes and crop pests."]],
@@ -35,10 +33,9 @@ s2:[["Jumping spiders","Jumping spiders have two large front eyes that give them
 sp:["Darwin’s bark spider","Darwin’s bark spider of Madagascar spins the largest known orb webs, stretched across rivers and lakes on anchor lines up to about 25 meters long. Its silk is the toughest biological material ever tested, about ten times tougher than Kevlar, the material used in bulletproof vests. It was described by scientists in 2010."],
 g:[["Arachnid","An eight-legged animal such as a spider or scorpion"],["Spinneret","The organ a spider uses to spin silk"],["Orb web","A round, wheel-shaped web"],["Ballooning","Floating through the air on silk threads"]],
 f:["Spider silk is stronger than steel of the same weight.","Spiders flew to space on Skylab in 1973.","Spiders may eat as much prey each year as all people eat meat and fish."],
-fun:"Two spiders spun webs in space aboard Skylab in 1973.",
-tl:"Ang gagamba ay arachnid na may walong paa at gumagawa ng sutla para sa sapot nito. Kumakain ito ng maraming insekto, at kaunti lamang sa mga 50,000 uri nito ang mapanganib sa tao."});
+fun:"Two spiders spun webs in space aboard Skylab in 1973."});
 
-ADDART({id:"trees",t:"Trees and Forests",i:"🌳",w:"Tree",r:["photo","eco","amazon"],
+ADDART({id:"trees",t:"Trees and Forests",i:"🌳",w:"Tree",r:["photo","eco","amazon","mycorrhiza"],
 p:[["Giants of the plant world","Trees are the largest and oldest living things on Earth."],["Lungs of the planet","Through photosynthesis, trees take in carbon dioxide and give out oxygen."],["Homes for life","Forests shelter more than half of all land animals and plants."]],
 l:"Trees are tall, long-lived plants with woody trunks that hold their leaves high toward the Sun. Together they form forests that cover nearly a third of Earth’s land, store huge amounts of carbon, protect soil and water and shelter most of the world’s land species. People depend on trees for wood, food, medicine and clean air.",
 s:[["How a tree works","A tree’s roots take up water and minerals from the soil. Tubes in the wood carry them up to the leaves, where photosynthesis turns sunlight, water and carbon dioxide into sugar and oxygen. Other tubes just under the bark carry the sugar to every part of the tree."],["Growth rings","Each year, many trees add a new layer of wood under the bark. In places with seasons, this makes a ring that is light in the growing season and darker later. Counting rings tells a tree’s age, and their widths record past rainfall and temperature, a science called dendrochronology."],["Kinds of trees","Broadleaf trees, such as narra, mahogany and oak, have flat leaves and flowers. Conifers, such as pines, have needles and cones. Many broadleaf trees in cold places drop their leaves in autumn, while most tropical trees and conifers stay green all year. Palms and tree ferns look like trees but grow differently."],["Forests of the world","Tropical rainforests near the equator have the most species. Temperate forests grow in milder climates, and vast boreal forests of conifers stretch across Canada, Scandinavia and Russia. Mangrove forests grow along tropical coasts, with roots that stand in salty water."]],
@@ -48,5 +45,4 @@ s2:[["Record breakers","The tallest known tree is Hyperion, a coast redwood in C
 sp:["Wangari Maathai","In 1977 Kenyan scientist Wangari Maathai founded the Green Belt Movement, which helped women plant trees to restore damaged land, provide firewood and protect water supplies. The movement has planted tens of millions of trees. In 2004 she became the first African woman to win the Nobel Peace Prize."],
 g:[["Dendrochronology","Dating events using tree rings"],["Conifer","A tree with needles and cones"],["Dipterocarp","A family of tall tropical trees common in Southeast Asian rainforests"],["Mangrove","A tree that grows in salty coastal water"]],
 f:["There are about 3 trillion trees on Earth.","The tallest known tree is about 116 meters tall.","Some bristlecone pines are more than 4,800 years old."],
-fun:"There are about 3 trillion trees on Earth, roughly 400 for every person.",
-tl:"Ang puno ang pinakamalaki at pinakamatandang buhay na bagay sa mundo. Nagbibigay ito ng oxygen, tirahan ng mga hayop at kahoy, at ang narra ang pambansang puno ng Pilipinas mula 1934."});
+fun:"There are about 3 trillion trees on Earth, roughly 400 for every person."});

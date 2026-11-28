@@ -12,8 +12,7 @@ s2:[["The civil war","From 1960 to 1996, government forces fought leftist guerri
 sp:["Tikal in the rainforest","Deep in the rainforest of northern Guatemala, the temples of Tikal rise above the treetops, some more than 60 meters tall. At its height, around 700 CE, Tikal may have been home to tens of thousands of people, with plazas, palaces, reservoirs and ball courts. After its decline, the jungle swallowed it for centuries. In recent years, scientists using lidar, laser scanning from aircraft, revealed thousands of previously hidden Maya structures, roads and farms beneath the forest around Tikal, showing that the Maya world was far larger and more connected than once thought."],
 g:[["Maya","An Indigenous people and ancient civilization of Central America"],["Huipil","A traditional woven Maya blouse"],["Quetzal","A brilliantly colored bird and Guatemala’s currency"],["Peace accords","Agreements that end a war"],["Lidar","Laser scanning used to map land, even under forests"]],
 f:["Guatemala was a heartland of the Maya.","Its civil war lasted from 1960 to 1996.","Rigoberta Menchú won the Nobel Peace Prize in 1992."],
-fun:"Lasers from aircraft have revealed thousands of hidden Maya structures in Guatemala’s forests.",
-tl:"Ang Guatemala ay bansa sa Gitnang Amerika at puso ng sinaunang sibilisasyong Maya. Mga dalawa sa bawat lima nitong mamamayan ay katutubong Maya. Dumaan ito sa mahabang digmaang sibil mula 1960 hanggang 1996."});
+fun:"Lasers from aircraft have revealed thousands of hidden Maya structures in Guatemala’s forests."});
 
 ADDART({id:"costaricacountry",t:"Costa Rica",c:"Countries and Places",i:"🦥",w:"Costa Rica",r:["conservation","renew","deforestation","coffee","panamacountry","tourism"],
 p:[["A country without an army","Costa Rica abolished its army in 1948."],["Rich in nature","It holds a large share of the world’s species in a small area."],["Pura vida","Costa Ricans’ motto, pura vida, means pure life."]],
@@ -25,8 +24,7 @@ s2:[["Biodiversity","Though it covers only a tiny fraction of the Earth’s land
 sp:["The hammer that ended an army","On 1 December 1948, after winning a brief civil war, José Figueres Ferrer, head of Costa Rica’s provisional government, stood at the Bellavista military barracks in San José and struck a wall with a sledgehammer, announcing the abolition of the army. He handed the keys of the barracks to the education minister. The building became the National Museum of Costa Rica. Since then, Costa Rica has had no army, relying on its police and international law for security, and 1 December is celebrated as the Day of the Abolition of the Army."],
 g:[["Biodiversity","The variety of living things in an area"],["Ecotourism","Travel to natural areas that supports conservation"],["Cloud forest","A mountain forest often covered in mist"],["Ticos","A nickname for Costa Ricans"],["Pura vida","A Costa Rican saying meaning pure life"]],
 f:["Costa Rica abolished its army in 1948.","It has about 5 percent of the world’s species.","Almost all its electricity is renewable."],
-fun:"Costa Rica’s former army headquarters is now the National Museum.",
-tl:"Ang Costa Rica ay maliit na bansa sa Gitnang Amerika na nag-alis ng hukbong sandatahan noong 1948. Mayaman ito sa likas na yaman at halos lahat ng kuryente nito ay mula sa renewable na enerhiya. Pura vida ang kanilang kasabihan."});
+fun:"Costa Rica’s former army headquarters is now the National Museum."});
 
 ADDART({id:"panamacountry",t:"Panama",c:"Countries and Places",i:"🚢",w:"Panama",r:["canals","colombiacountry","costaricacountry","usacountry","ships","trade"],
 p:[["Between two oceans","The Panama Canal links the Atlantic and Pacific oceans."],["Joining the Americas","Panama connects North and South America."],["Crossroads of the world","Ships, goods and people from around the world pass through Panama."]],
@@ -38,8 +36,7 @@ s2:[["The Panama Canal","The Panama Canal, about 80 kilometers long, opened on 1
 sp:["The ship that opened the canal","On 15 August 1914, the cargo and passenger ship SS Ancon made the first official passage through the Panama Canal, traveling from the Atlantic to the Pacific in about nine hours. The opening received less attention than planned because World War I had broken out in Europe just days earlier. Yet the canal transformed world shipping. Today, roughly 13,000 to 14,000 ships pass through it in a typical year, paying tolls based on their size. The highest tolls have been hundreds of thousands of dollars for large cruise ships, while the lowest ever was 36 cents, paid in 1928 by the adventurer Richard Halliburton, who swam the canal."],
 g:[["Isthmus","A narrow strip of land connecting two larger areas"],["Lock","A water-filled chamber that raises or lowers ships"],["Canal Zone","The strip of land around the canal once controlled by the US"],["Mola","A colorful layered textile made by Guna women"],["Autonomy","Self-government"]],
 f:["The Panama Canal opened in 1914.","Panama took control of the canal in 1999.","The isthmus joins North and South America."],
-fun:"A man paid just 36 cents to swim through the Panama Canal in 1928.",
-tl:"Ang Panama ay bansa sa makitid na lupang nag-uugnay sa Hilaga at Timog Amerika. Kilala ito sa Panama Canal na nag-uugnay sa Atlantiko at Pasipiko. Napasakamay ng Panama ang kanal noong 1999."});
+fun:"A man paid just 36 cents to swim through the Panama Canal in 1928."});
 
 ADDART({id:"haiticountry",t:"Haiti",c:"Countries and Places",i:"🏰",w:"Haiti",r:["toussaint","slavetrade","frrev","cubacountry","quake","francecountry"],
 p:[["The first free Black republic","Haiti won independence in 1804 after a revolution by enslaved people."],["A proud culture","Haiti is famous for its art, music, food and Creole language."],["Facing hardship","Haiti has faced disasters, poverty and political crises."]],
@@ -51,8 +48,7 @@ s2:[["The 2010 earthquake","On 12 January 2010, a magnitude 7.0 earthquake struc
 sp:["Soup joumou, the soup of freedom","In colonial Saint-Domingue, soup made with joumou, a kind of squash or pumpkin, was a delicacy enjoyed by French slave owners, and enslaved people who cooked it were forbidden to eat it. After Haiti won its independence on 1 January 1804, Haitians began eating soup joumou on New Year’s Day to celebrate their freedom. The tradition continues in Haitian homes around the world, with families sharing the soup, rich with beef, vegetables and pasta, every 1 January. In 2021 UNESCO added soup joumou to its list of intangible cultural heritage."],
 g:[["Hispaniola","The Caribbean island shared by Haiti and the Dominican Republic"],["Haitian Creole","The language spoken by nearly all Haitians"],["Indemnity","A payment demanded as compensation"],["Vodou","A Haitian religion blending African and Catholic traditions"],["Kompa","A popular Haitian dance music"]],
 f:["Haiti became independent in 1804.","It was founded by formerly enslaved people.","Soup joumou is eaten on Independence Day."],
-fun:"Haitians eat pumpkin soup every 1 January to celebrate their freedom.",
-tl:"Ang Haiti ay bansa sa isla ng Hispaniola sa Caribbean. Naging malaya ito noong 1804 matapos ang rebolusyon ng mga inaliping Aprikano, ang unang malayang republika ng mga dating alipin. Dumanas ito ng lindol at krisis pampulitika."});
+fun:"Haitians eat pumpkin soup every 1 January to celebrate their freedom."});
 
 ADDART({id:"uruguaycountry",t:"Uruguay",c:"Countries and Places",i:"🧉",w:"Uruguay",r:["argentinacountry","brazilcountry","soccer","democ","renew","wind"],
 p:[["A small, stable country","Uruguay is known for its democracy, social policies and quality of life."],["World Cup history","Uruguay hosted and won the first football World Cup in 1930."],["Mate culture","Uruguayans drink more mate tea per person than almost anyone."]],
@@ -64,8 +60,7 @@ s2:[["Football","In 1930 Uruguay hosted and won the first FIFA World Cup, beatin
 sp:["The Maracanazo","On 16 July 1950, almost 200,000 people packed the Maracanã Stadium in Rio de Janeiro for the final match of the World Cup between Brazil and Uruguay. Brazil needed only a draw to win, and newspapers had already printed headlines celebrating Brazil as champions. Brazil scored first, but Uruguay equalized, and with 11 minutes left Alcides Ghiggia scored again for Uruguay. The huge crowd fell silent. Uruguay won 2–1. The defeat became known in Brazil as the Maracanazo, and Ghiggia later said that only three people had ever silenced the Maracanã: Frank Sinatra, the Pope and himself."],
 g:[["Pampas","Grassy plains of South America"],["Welfare state","A state that provides social services and protections"],["Mate","A herbal tea popular in South America"],["Candombe","An Afro-Uruguayan drumming tradition"],["Estuary","Where a river meets the sea"]],
 f:["Uruguay won the first World Cup in 1930.","It has more cattle than people.","Most of its electricity comes from renewable sources."],
-fun:"Uruguay silenced nearly 200,000 Brazilian fans by winning the 1950 World Cup decider.",
-tl:"Ang Uruguay ay maliit na bansa sa Timog Amerika na kilala sa matatag na demokrasya at mataas na kalidad ng buhay. Ito ang nagwagi sa unang World Cup noong 1930. Karamihan ng kuryente nito ay mula sa renewable na enerhiya."});
+fun:"Uruguay silenced nearly 200,000 Brazilian fans by winning the 1950 World Cup decider."});
 
 ADDART({id:"irelandcountry",t:"Ireland",c:"Countries and Places",i:"☘️",w:"Republic of Ireland",r:["ukcountry","celts","christ","eu","poetry","potato"],
 p:[["The Emerald Isle","Ireland is famous for its green landscapes, castles and coast."],["Great writers","Ireland has produced many celebrated writers and four Nobel laureates in literature."],["From famine to prosperity","Once devastated by famine, Ireland is now one of Europe’s richest countries."]],
@@ -77,8 +72,7 @@ s2:[["The Great Famine","From 1845 to 1852, a disease called potato blight destr
 sp:["The midwinter sunrise at Newgrange","Newgrange, a great mound of stone and earth in the Boyne Valley, was built around 3200 BCE by Stone Age farmers. Above its entrance is a small opening called a roof box. For a few days around the winter solstice, the shortest day of the year, the rising sun shines through the roof box and along a passage about 19 meters long, lighting up the inner chamber for about 17 minutes. The builders aligned it precisely more than 5,000 years ago. Today so many people want to witness the event that places inside are given out by lottery."],
 g:[["Celtic","Relating to the Celts, an ancient people of Europe"],["Passage tomb","An ancient tomb with a stone passage leading to a chamber"],["Potato blight","A plant disease that destroyed potato crops"],["Troubles","The conflict in Northern Ireland from the late 1960s to 1998"],["Gaeltacht","Irish-speaking areas of Ireland"]],
 f:["Newgrange is older than the pyramids of Giza.","The Great Famine killed about a million people.","Ireland approved same-sex marriage by popular vote in 2015."],
-fun:"The midwinter sun lights up the inside of Newgrange, a tomb built over 5,000 years ago.",
-tl:"Ang Ireland ay bansa sa hilagang-kanlurang Europa na tinatawag na Emerald Isle dahil sa luntiang lupain. Dumanas ito ng Malaking Taggutom noong 1840s. Naging malaya ito noong 1922 at kilala sa mga manunulat at musika."});
+fun:"The midwinter sun lights up the inside of Newgrange, a tomb built over 5,000 years ago."});
 
 ADDART({id:"austriacountry",t:"Austria",c:"Countries and Places",i:"🎻",w:"Austria",r:["alps","mozart","beethoven","germanycountry","danube","eu"],
 p:[["Land of music","Austria was home to Mozart, Haydn, Schubert and the Strauss waltzes."],["The Habsburg Empire","For centuries, Vienna was the capital of a great European empire."],["Alpine country","The Alps cover most of Austria."]],
@@ -90,8 +84,7 @@ s2:[["Music","Vienna is often called the city of music. Haydn, Mozart, Beethoven
 sp:["The Blue Danube","In 1866 Austria suffered a painful defeat in a war with Prussia, and the mood in Vienna was gloomy. The next year, the composer Johann Strauss II wrote a waltz for a choral society, originally with words, called On the Beautiful Blue Danube. At first it was only modestly successful, but in its instrumental version it soon became a worldwide hit and an unofficial anthem of Austria. Every New Year’s Day, the Vienna Philharmonic plays it as an encore at its famous concert. In the 1968 film 2001: A Space Odyssey, it accompanied spaceships gliding through space."],
 g:[["Habsburg","The royal family that ruled Austria for centuries"],["Anschluss","The annexation of Austria by Nazi Germany in 1938"],["Neutrality","Not taking sides in wars"],["Waltz","A ballroom dance in three-four time"],["Alps","A mountain range in central Europe"]],
 f:["The Habsburgs ruled Austria from 1278 to 1918.","Mozart was born in Salzburg.","Austria declared neutrality in 1955."],
-fun:"The Blue Danube waltz accompanied spaceships in the film 2001: A Space Odyssey.",
-tl:"Ang Austria ay bansa sa gitnang Europa na sakop ng Alps. Dati itong puso ng imperyong Habsburg, at sa Vienna nanirahan sina Mozart at Beethoven. Naging neutral na bansa ito mula 1955."});
+fun:"The Blue Danube waltz accompanied spaceships in the film 2001: A Space Odyssey."});
 
 ADDART({id:"finlandcountry",t:"Finland",c:"Countries and Places",i:"🌲",w:"Finland",r:["swedencountry","norwaycountry","russiacountry","arctic","education","eu"],
 p:[["Land of lakes","Finland has around 188,000 lakes and vast forests."],["Happiest country","Finland has repeatedly been ranked the happiest country in the world."],["Sauna nation","Finland has millions of saunas, a central part of its culture."]],
@@ -103,5 +96,4 @@ s2:[["Education","Finland’s schools are admired worldwide. Children start form
 sp:["The Winter War","On 30 November 1939, the Soviet Union, with a far larger army, invaded Finland after the Finns refused to give up territory. Many expected Finland to fall within weeks. Instead, Finnish soldiers, dressed in white and moving swiftly on skis through snowy forests in temperatures as low as −40 °C, fought fiercely, defeating Soviet columns many times their size. Although Finland eventually had to give up about a tenth of its territory in the peace treaty of March 1940, it kept its independence. The Winter War became a symbol of Finnish sisu, a word meaning determination and courage in the face of hardship."],
 g:[["Lapland","The far northern region of Finland"],["Grand Duchy","A territory ruled by a grand duke"],["Sauna","A small room or building for hot-air or steam bathing"],["Sisu","A Finnish word for determination and resilience"],["Kalevala","Finland’s national epic poem"]],
 f:["Finland has around 188,000 lakes.","Finnish women were the first in the world allowed to stand for parliament.","Finland joined NATO in 2023."],
-fun:"Finland has around three million saunas for 5.6 million people.",
-tl:"Ang Finland ay bansa sa hilagang Europa na may humigit-kumulang 188,000 lawa. Naging malaya ito noong 1917. Kilala ito sa mahusay na sistema ng edukasyon, sauna, at sa pagiging pinakamasayang bansa sa mundo sa maraming taon."});
+fun:"Finland has around three million saunas for 5.6 million people."});

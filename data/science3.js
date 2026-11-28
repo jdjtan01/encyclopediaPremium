@@ -9,8 +9,7 @@ s2:[["Filtering and evaporation","Filtering separates solid particles from a liq
 sp:["Why oil and water don’t mix","Water molecules have a slight electric charge at each end, so they stick strongly to each other. Oil molecules have no such charges, so water pulls itself together and pushes oil out of the way. Soap and detergents work because their molecules have one end that attracts water and another that attracts oil, so they can surround grease and carry it away when you rinse."],
 g:[["Solute","A substance dissolved in a solution"],["Solvent","The substance that does the dissolving"],["Colloid","A mixture of tiny particles that do not settle"],["Distillation","Separating liquids by boiling and condensing"]],
 f:["Air is a mixture of gases.","Water is called the universal solvent.","Chromatography can separate the colors in ink."],
-fun:"Soap works because its molecules grab water at one end and oil at the other.",
-tl:"Ang mixture ay pinagsamang dalawa o higit pang sangkap na hindi nagkakabit nang kemikal. Ang solution, gaya ng tubig-alat, ay mixture na pantay ang pagkakahalo. Maaaring paghiwalayin ang mga ito sa pagsala, pagsingaw at distilasyon."});
+fun:"Soap works because its molecules grab water at one end and oil at the other."});
 
 ADDART({id:"metals",t:"Metals",c:"Science",i:"🔩",w:"Metal",r:["atom","magnet","chip","goldage"],
 p:[["Shiny and strong","Metals are elements that are usually shiny, strong and good at carrying heat and electricity."],["Most elements are metals","More than three-quarters of the known chemical elements are metals."],["Shaping history","Copper, bronze and iron gave their names to whole ages of human history."]],
@@ -22,8 +21,7 @@ s2:[["Iron and steel","Iron makes up much of Earth’s core and is the fourth mo
 sp:["The ice maiden of metals","Gallium is a soft, silvery metal that melts at about 30°C, so it can melt in your hand. Chemists sometimes play a trick with spoons made of gallium, which melt when used to stir a hot drink. Gallium is useful too: compounds such as gallium nitride are used in blue LEDs, laser diodes and fast phone chargers."],
 g:[["Alloy","A mixture of a metal with other elements"],["Ore","A rock from which metal can be extracted"],["Smelting","Heating ore to extract metal"],["Conductor","A material that lets heat or electricity flow easily"]],
 f:["Most elements are metals.","Steel is iron mixed with a little carbon.","Mercury is liquid at room temperature."],
-fun:"Aluminum was once more precious than gold.",
-tl:"Ang metal ay mga elementong karaniwang makintab, matibay at mahusay maghatid ng init at kuryente. Higit sa 90 sa 118 elemento ay metal. Ang tanso, bronse at bakal ay nagbigay-pangalan sa mga panahon ng kasaysayan."});
+fun:"Aluminum was once more precious than gold."});
 
 ADDART({id:"carbonchem",t:"Carbon and Organic Chemistry",c:"Science",i:"💎",w:"Organic chemistry",r:["atom","plastics","cell","climchange","rfranklin"],
 p:[["The element of life","Carbon is the basis of all known life, found in every living thing."],["Endless combinations","Carbon atoms link into chains and rings, forming millions of different compounds."],["Diamonds and pencils","Pure carbon can be soft graphite or diamond, the hardest natural material."]],
@@ -35,8 +33,7 @@ s2:[["The birth of organic chemistry","People once believed that the chemicals o
 sp:["Made in stars","All the carbon in your body was made inside stars. In the cores of old stars, three helium nuclei can fuse to form one carbon nucleus, in what is called the triple-alpha process. When those stars died, they scattered carbon into space, where it became part of new stars, planets and, eventually, living things. Carbon is the fourth most abundant element in the universe."],
 g:[["Organic chemistry","The study of carbon compounds"],["Hydrocarbon","A compound of only carbon and hydrogen"],["Allotrope","A different form of the same element"],["Graphene","A single layer of carbon atoms"]],
 f:["Diamond and pencil graphite are both pure carbon.","Carbon atoms can form four bonds.","Carbon-14 dating works up to about 50,000 years."],
-fun:"The carbon in your body was made inside ancient stars.",
-tl:"Ang carbon ang batayan ng lahat ng buhay. Kaya ng mga atom nito na bumuo ng mahahabang kadena at singsing, kaya napakarami ng compound nito. Ang diyamante at graphite ay parehong purong carbon."});
+fun:"The carbon in your body was made inside ancient stars."});
 
 ADDART({id:"crystals",t:"Crystals",c:"Science",i:"❄️",w:"Crystal",r:["states","atom","rfranklin","chip","iceage"],
 p:[["Order in nature","A crystal is a solid whose atoms are arranged in a neat, repeating pattern."],["Everywhere around us","Salt, sugar, snowflakes, quartz, diamonds and even metals are made of crystals."],["Crystals in technology","Crystals keep time in watches and form the silicon chips inside computers."]],
@@ -48,5 +45,4 @@ s2:[["Dorothy Hodgkin","The British chemist Dorothy Crowfoot Hodgkin used X-ray 
 sp:["Grow your own crystals","You can grow crystals at home. Stir as much salt, sugar or alum as will dissolve into a jar of hot water, with an adult’s help. Hang a string in the jar and leave it somewhere undisturbed. Over several days, as the water cools and evaporates, crystals will grow on the string. Sugar crystals grown this way are called rock candy. The slower they grow, the larger and more perfect the crystals."],
 g:[["Crystal","A solid with a regularly repeating arrangement of atoms"],["Lattice","The repeating pattern of points in a crystal"],["Piezoelectricity","Electricity produced when some crystals are squeezed"],["Crystallography","The study of crystal structures"]],
 f:["Snowflakes are six-sided crystals of ice.","Salt crystals are shaped like cubes.","Quartz watches use vibrating crystals to keep time."],
-fun:"The quartz crystal in a watch vibrates 32,768 times every second.",
-tl:"Ang kristal ay solidong may maayos at paulit-ulit na pagkakaayos ng mga atom. Kabilang dito ang asin, asukal, snowflake at diyamante. Ginagamit din ang mga kristal sa relo at sa mga computer chip."});
+fun:"The quartz crystal in a watch vibrates 32,768 times every second."});

@@ -9,8 +9,7 @@ s2:[["The solar wind","The Sun constantly blows out a stream of charged particle
 sp:["The Sun on flags","The Sun is one of the most popular symbols on national flags. Japan’s flag is a red sun on a white field, and the country is called the land of the rising sun. The Sun of May shines on the flags of Argentina and Uruguay, a golden sun with an eagle flies on Kazakhstan’s flag, and suns also appear on the flags of Kyrgyzstan, Malawi, Namibia, Nepal, the Philippines, Rwanda and Taiwan."],
 g:[["Nuclear fusion","Joining atomic nuclei together, releasing energy"],["Corona","The Sun’s hot outer atmosphere"],["Solar wind","A stream of charged particles flowing from the Sun"],["Sunspot","A cooler, darker patch on the Sun"]],
 f:["The Sun holds more than 99.8 percent of the Solar System’s mass.","Sunlight takes about 8 minutes to reach Earth.","Helium was found in the Sun before it was found on Earth."],
-fun:"Helium was discovered in sunlight in 1868, decades before it was found on Earth.",
-tl:"Ang Araw ay isang bituin na nasa gitna ng Solar System. Nagmumula ang liwanag at init nito sa nuclear fusion, at ito ang nagbibigay-buhay sa halos lahat ng nilalang sa Daigdig."});
+fun:"Helium was discovered in sunlight in 1868, decades before it was found on Earth."});
 
 ADDART({id:"mercury",t:"Mercury",c:"Space and Astronomy",i:"☿️",w:"Mercury (planet)",r:["solar","venus","sun"],
 p:[["Closest to the Sun","Mercury is the planet closest to the Sun and the smallest planet in the Solar System."],["The fastest planet","It races around the Sun in just 88 Earth days."],["Fire and ice","Its surface swings between scorching heat and bitter cold."]],
@@ -22,8 +21,7 @@ s2:[["Craters","Mercury’s surface is covered in craters from billions of years
 sp:["A day longer than a year","On Mercury, one full day from sunrise to sunrise lasts about 176 Earth days, while one year lasts only 88. So a Mercury day is twice as long as its year. Venus is even stranger: it spins backward so slowly that its day is longer than its year too."],
 g:[["Orbit","The path of a planet around the Sun"],["Transit","When a planet passes in front of the Sun as seen from Earth"],["Exosphere","A very thin outer layer of atoms around a planet"],["Crater","A bowl-shaped hole made by an impact"]],
 f:["Mercury has no moons.","A day on Mercury lasts two of its years.","There is water ice in Mercury’s polar craters."],
-fun:"Mercury is the closest planet to the Sun, yet it has ice in its polar craters.",
-tl:"Ang Mercury ang pinakamaliit na planeta at pinakamalapit sa Araw. Umiikot ito sa Araw sa loob lamang ng 88 araw, at napakainit nito sa araw at napakalamig sa gabi."});
+fun:"Mercury is the closest planet to the Sun, yet it has ice in its polar craters."});
 
 ADDART({id:"venus",t:"Venus",c:"Space and Astronomy",i:"🌕",w:"Venus",r:["solar","mercury","climate"],
 p:[["Earth’s twin?","Venus is almost the same size as Earth, but it is a very different world."],["The hottest planet","Its thick atmosphere traps heat, making it hotter than Mercury."],["Morning and evening star","Venus is the brightest planet in our sky."]],
@@ -35,8 +33,7 @@ s2:[["Galileo’s clue","In 1610 Galileo saw through his telescope that Venus sh
 sp:["A day on Venus","Venus turns so slowly, and in the opposite direction from Earth, that its day is longer than its year. If you could stand on its surface, the Sun would rise in the west and set in the east, but you would never see it through the thick clouds. Combined with the planet’s orbit, one sunrise to the next takes about 117 Earth days."],
 g:[["Greenhouse effect","The trapping of heat by gases in an atmosphere"],["Phases","The changing shapes of a lit world as seen from Earth"],["Radar","Using radio waves to detect and map objects"],["Atmospheric pressure","The weight of air pressing down on a surface"]],
 f:["Venus is hotter than Mercury.","On Venus the Sun rises in the west.","A day on Venus is longer than its year."],
-fun:"Venus is the only planet where the Sun rises in the west and sets in the east.",
-tl:"Ang Venus ang ikalawang planeta mula sa Araw at halos kasinlaki ng Daigdig. Ito ang pinakamainit na planeta dahil sa makapal na hanging carbon dioxide, at ito ang pinakamaliwanag na planeta sa ating kalangitan."});
+fun:"Venus is the only planet where the Sun rises in the west and sets in the east."});
 
 ADDART({id:"uranep",t:"Uranus and Neptune",c:"Space and Astronomy",i:"🔵",w:"Neptune",r:["solar","saturn","jupiter"],
 p:[["The ice giants","Uranus and Neptune are the two outermost planets, called ice giants."],["Found with telescopes","They were the first planets discovered with telescopes, in 1781 and 1846."],["One visitor","Only one spacecraft, Voyager 2, has ever flown past them."]],
@@ -48,8 +45,7 @@ s2:[["Discovering Uranus","On 13 March 1781, the astronomer William Herschel, ob
 sp:["The planet found on paper","Neptune is the only planet found by mathematics before it was seen. Le Verrier sent his prediction to Johann Galle at the Berlin Observatory, who found Neptune on the very night the letter arrived, 23 September 1846. In fact, Galileo had seen Neptune in 1612 and 1613 but thought it was a star."],
 g:[["Ice giant","A giant planet made largely of water, ammonia and methane ices"],["Axial tilt","How far a planet is tipped over"],["Geyser","A fountain of liquid or gas bursting from the ground"],["Interstellar space","The space between the stars, beyond the Sun’s influence"]],
 f:["Uranus spins on its side.","Neptune was found by mathematics before it was seen.","Neptune’s winds reach about 2,000 km/h."],
-fun:"Galileo saw Neptune in 1612 but thought it was a star.",
-tl:"Ang Uranus at Neptune ang dalawang pinakamalayong planeta, na tinatawag na ice giants. Nakatagilid ang Uranus habang umiikot, at nasa Neptune ang pinakamabibilis na hangin sa Solar System."});
+fun:"Galileo saw Neptune in 1612 but thought it was a star."});
 
 ADDART({id:"pluto",t:"Pluto and the Dwarf Planets",c:"Space and Astronomy",i:"🪐",w:"Pluto",r:["solar","comet","uranep","dwarfplanets"],
 p:[["From planet to dwarf planet","Pluto was called the ninth planet from 1930 until 2006, when it was reclassified as a dwarf planet."],["A heart of ice","In 2015 the New Horizons spacecraft revealed a huge heart-shaped plain on Pluto."],["Many small worlds","Ceres, Eris, Haumea and Makemake are also dwarf planets."]],
@@ -61,8 +57,7 @@ s2:[["New Horizons","NASA’s New Horizons spacecraft launched in 2006 and flew 
 sp:["Named by a schoolgirl","In March 1930, 11-year-old Venetia Burney of Oxford, England, heard about the new planet at breakfast and suggested the name Pluto, after the god of the underworld, because it was so dark and cold. Her grandfather passed the idea to an astronomer, and Lowell Observatory chose it. A dust counter on New Horizons is named after her."],
 g:[["Dwarf planet","A round world orbiting the Sun that has not cleared its orbit"],["Kuiper Belt","A ring of icy bodies beyond Neptune"],["Glacier","A slowly flowing mass of ice"],["Reclassify","To place in a different group"]],
 f:["Pluto is smaller than Earth’s Moon.","Pluto was named by an 11-year-old girl.","Some of Pluto’s discoverer’s ashes flew past it on New Horizons."],
-fun:"Pluto was named by Venetia Burney, an 11-year-old girl in England.",
-tl:"Ang Pluto ay maliit at nagyeyelong mundo sa kabila ng Neptune. Itinuring itong ikasiyam na planeta mula 1930 hanggang 2006, nang gawing dwarf planet, at may hugis-pusong kapatagan ito."});
+fun:"Pluto was named by Venetia Burney, an 11-year-old girl in England."});
 
 ADDART({id:"apollo",t:"The Apollo Moon Landings",c:"Space and Astronomy",i:"👨‍🚀",w:"Apollo program",r:["moon","space","armstrong"],
 p:[["To the Moon","NASA’s Apollo program landed 12 astronauts on the Moon between 1969 and 1972."],["One giant leap","On 20 July 1969, Neil Armstrong became the first person to walk on the Moon."],["Rocks and knowledge","Astronauts brought back 382 kilograms of Moon rock, transforming our understanding of the Moon."]],
@@ -74,5 +69,4 @@ s2:[["Apollo 1","On 27 January 1967, during a launch rehearsal, a fire broke out
 sp:["Did they really go?","Some people claim the Moon landings were faked. The evidence that they happened is overwhelming: hundreds of kilograms of Moon rock studied by scientists worldwide, mirrors on the Moon still used today, independent tracking of the spacecraft by other countries, including the Soviet Union, and photographs of the landing sites taken by later orbiting spacecraft."],
 g:[["Lunar module","The spacecraft that landed astronauts on the Moon"],["Command module","The capsule in which Apollo astronauts traveled and returned to Earth"],["Mission control","The team on the ground that guides a space mission"],["Space race","The Cold War rivalry between the US and the Soviet Union in space"]],
 f:["Twelve people have walked on the Moon.","Apollo astronauts brought back 382 kg of Moon rock.","Mirrors left by Apollo astronauts are still used to measure the Moon’s distance."],
-fun:"Only 12 people have ever walked on the Moon, all between 1969 and 1972.",
-tl:"Ang Apollo program ng Estados Unidos ay nagdala ng 12 astronaut sa Buwan mula 1969 hanggang 1972. Si Neil Armstrong ang unang taong lumakad sa Buwan noong 20 Hulyo 1969."});
+fun:"Only 12 people have ever walked on the Moon, all between 1969 and 1972."});

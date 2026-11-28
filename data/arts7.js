@@ -9,8 +9,7 @@ s2:[["Lola Basyang","In 1925 the Filipino writer Severino Reyes began publishing
 sp:["Alice in Wonderland","On 4 July 1862, the mathematician Charles Dodgson took three young sisters, including ten-year-old Alice Liddell, on a boat trip near Oxford and made up a story about a girl who fell down a rabbit hole. Alice asked him to write it down. Published in 1865 under the pen name Lewis Carroll as Alice’s Adventures in Wonderland, it was full of nonsense, wordplay and memorable characters such as the Mad Hatter and the Cheshire Cat, and it became one of the most famous children’s books ever written."],
 g:[["Picture book","A book that tells a story with words and pictures"],["Fable","A short story with a moral, often with animals"],["Young adult literature","Books written for teenagers"],["Illustrator","An artist who creates pictures for books"]],
 f:["Orbis Pictus of 1658 is often called the first picture book.","The Little Prince is one of the most translated books.","Lola Basyang stories began in 1925."],
-fun:"Alice in Wonderland began as a story told on a boat trip in 1862.",
-tl:"Ang panitikang pambata ay binubuo ng mga aklat, kuwento at tula para sa mga bata. Kilala sa buong mundo ang Alice in Wonderland at Harry Potter. Sa Pilipinas, tanyag ang mga kuwento ni Lola Basyang at mga aklat ng Adarna House."});
+fun:"Alice in Wonderland began as a story told on a boat trip in 1862."});
 
 ADDART({id:"chineselit",t:"Chinese Literature",c:"Arts and Literature",i:"🐒",w:"Chinese literature",r:["chinesephil","calligraphy","poetry","china","chineseart"],
 p:[["Three thousand years","Chinese literature has a written history of about 3,000 years."],["Great poets","Tang dynasty poets such as Li Bai and Du Fu are among the greatest in the world."],["Four classic novels","Journey to the West, with the Monkey King, is one of four great classical novels."]],
@@ -22,8 +21,7 @@ s2:[["The Monkey King","Journey to the West, attributed to Wu Cheng’en in the 
 sp:["Quiet Night Thought","Li Bai’s four-line poem Quiet Night Thought is perhaps the most famous poem in the Chinese language. In it, the poet sees bright moonlight before his bed and thinks for a moment that it is frost on the ground. He raises his head to gaze at the moon, then lowers it, thinking of his distant home. Its simple words and feeling of homesickness have made it beloved for over 1,200 years, and Chinese children learn it by heart."],
 g:[["Classical Chinese","The old written form of Chinese used for literature"],["Vernacular","Everyday spoken language"],["Tang dynasty","A Chinese dynasty from 618 to 907"],["Redology","The study of Dream of the Red Chamber"]],
 f:["Tang poetry is the golden age of Chinese verse.","The Monkey King appears in Journey to the West.","Mo Yan won the Nobel Prize in 2012."],
-fun:"Dream of the Red Chamber is so studied that its research field has its own name, redology.",
-tl:"Ang panitikang Tsino ay may halos 3,000 taong kasaysayan. Kabilang dito ang tula ng dinastiyang Tang nina Li Bai at Du Fu at ang apat na klasikong nobela, gaya ng Journey to the West na kinatatampukan ng Monkey King."});
+fun:"Dream of the Red Chamber is so studied that its research field has its own name, redology."});
 
 ADDART({id:"russianlit",t:"Russian Literature",c:"Arts and Literature",i:"📖",w:"Russian literature",r:["novel","russiacountry","russrev","existentialism","poetry"],
 p:[["Great novels","Russian literature produced some of the world’s greatest novels, such as War and Peace and Crime and Punishment."],["The golden age","The 1800s were the golden age, with Pushkin, Gogol, Tolstoy, Dostoevsky and Chekhov."],["Writing under pressure","In the Soviet era, many writers faced censorship, exile or prison."]],
@@ -35,8 +33,7 @@ s2:[["Writing under the Soviets","After the Russian Revolution, Soviet authoriti
 sp:["Dostoevsky before the firing squad","In 1849 the young writer Fyodor Dostoevsky was arrested for belonging to a group that discussed banned political ideas. He and others were taken to a square in St Petersburg, dressed in white shirts and tied to posts before a firing squad. At the last moment, a messenger arrived with the news that the tsar had commuted their sentences. It had been a staged mock execution. Dostoevsky was sent to a prison camp in Siberia, an experience that deeply shaped his later novels."],
 g:[["Golden age","A period of great achievement"],["Socialist realism","The official Soviet style of art and literature"],["Samizdat","Secretly copied and circulated banned writing"],["Gulag","The Soviet system of forced labor camps"]],
 f:["Pushkin is Russia’s national poet.","Tolstoy wrote War and Peace.","Solzhenitsyn won the Nobel Prize in 1970."],
-fun:"Dostoevsky faced a mock execution before being sent to Siberia.",
-tl:"Kilala sa buong mundo ang panitikang Ruso, lalo na ang mga nobela gaya ng War and Peace at Crime and Punishment. Ang 1800s ang ginintuang panahon nito, kasama sina Pushkin, Tolstoy, Dostoevsky at Chekhov."});
+fun:"Dostoevsky faced a mock execution before being sent to Siberia."});
 
 ADDART({id:"africanlit",t:"African Literature",c:"Arts and Literature",i:"🪘",w:"African literature",r:["achebe","africacolon","nigeriacountry","kenyacountry","poetry"],
 p:[["Oral and written","African literature includes ancient oral epics, songs and proverbs as well as written works in many languages."],["Modern classics","Novels such as Chinua Achebe’s Things Fall Apart are read around the world."],["Nobel winners","African writers such as Wole Soyinka and Naguib Mahfouz have won the Nobel Prize."]],
@@ -48,8 +45,7 @@ s2:[["Things Fall Apart","Chinua Achebe’s Things Fall Apart tells the story of
 sp:["Saving the manuscripts of Timbuktu","In 2012 armed groups occupied Timbuktu in northern Mali and began destroying historic shrines. Fearing for the city’s ancient manuscripts, librarians led by Abdel Kader Haidara organized a secret operation. Volunteers packed hundreds of thousands of manuscripts into metal trunks and smuggled them out on donkey carts, boats and cars to the capital, Bamako. Although some manuscripts were burned, most were saved, preserving centuries of African scholarship."],
 g:[["Griot","A West African storyteller, poet and musician who preserves history"],["Oral literature","Literature passed down by speaking and singing"],["Négritude","A movement celebrating African identity"],["Trickster","A clever character who uses tricks, such as Anansi"]],
 f:["Wole Soyinka was the first African Nobel laureate in literature.","Things Fall Apart was published in 1958.","Griots preserve history through song and story."],
-fun:"Ngũgĩ wa Thiong’o wrote a novel on prison toilet paper.",
-tl:"Kasama sa panitikang Aprikano ang sinaunang epiko, awit at salawikain at ang mga akdang nakasulat sa maraming wika. Kilala ang Things Fall Apart ni Chinua Achebe. Nanalo ng Nobel Prize ang mga manunulat na Aprikano gaya ni Wole Soyinka."});
+fun:"Ngũgĩ wa Thiong’o wrote a novel on prison toilet paper."});
 
 ADDART({id:"latamlit",t:"Latin American Literature",c:"Arts and Literature",i:"🦋",w:"Latin American literature",r:["garciamarquez","novel","poetry","spanish","phlit"],
 p:[["The fantastic and the everyday","Latin American writers became famous for magical realism, blending everyday life with the fantastic."],["World fame","In the 1960s, the Latin American Boom brought novels such as One Hundred Years of Solitude to the world."],["Nobel poets","Gabriela Mistral and Pablo Neruda of Chile won the Nobel Prize."]],
@@ -61,5 +57,4 @@ s2:[["Jorge Luis Borges","The Argentine writer Jorge Luis Borges wrote short sto
 sp:["One Hundred Years of Solitude","Gabriel García Márquez spent about 18 months writing One Hundred Years of Solitude, selling his car and pawning household items to support his family. Published in Buenos Aires in 1967, it tells the story of seven generations of the Buendía family in the fictional town of Macondo, where yellow butterflies follow a lovesick man and it rains for nearly five years. It has sold tens of millions of copies in dozens of languages and was adapted as a television series in 2024."],
 g:[["Magical realism","A style blending realistic narrative with magical events"],["Modernismo","A Latin American poetry movement of the late 1800s"],["The Boom","The 1960s rise of Latin American novelists to world fame"],["Popol Vuh","A sacred K’iche’ Maya book"]],
 f:["Gabriela Mistral was the first Latin American Nobel laureate in literature.","One Hundred Years of Solitude was published in 1967.","Rubén Darío launched modernismo in 1888."],
-fun:"García Márquez sold his car to support his family while writing One Hundred Years of Solitude.",
-tl:"Ang panitikang Latin Amerikano ay nakasulat karamihan sa Espanyol at Portuges. Kilala ito sa magical realism, gaya ng One Hundred Years of Solitude ni García Márquez. Nanalo ng Nobel Prize sina Gabriela Mistral at Pablo Neruda."});
+fun:"García Márquez sold his car to support his family while writing One Hundred Years of Solitude."});

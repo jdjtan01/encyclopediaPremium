@@ -9,8 +9,7 @@ s2:[["Surface tension","Water molecules at the surface are pulled inward and sid
 sp:["Why lakes freeze from the top","Imagine a lake in a cold country as winter arrives. As the surface water cools, it becomes denser and sinks, letting warmer water rise. But when the water cools below about 4 degrees Celsius, it starts to expand and become lighter, so the coldest water stays at the top and eventually freezes. The layer of ice then insulates the water below, which stays around 4 degrees. Fish, frogs and plants survive the winter in the liquid water beneath. If ice were denser than water, like most solids, lakes would freeze from the bottom up and many would become solid ice, making life in them nearly impossible."],
 g:[["Polar molecule","A molecule with positive and negative ends"],["Hydrogen bond","An attraction between water molecules"],["Surface tension","The skin-like effect at a liquid’s surface"],["Solvent","A substance that dissolves others"]],
 f:["Ice floats because it is less dense than water.","Water is densest at about 4 °C.","Water dissolves many substances."],
-fun:"Hot water can sometimes freeze faster than cold water, a puzzling effect called the Mpemba effect, though scientists still debate when and why it happens.",
-tl:"Ang tubig ay binubuo ng dalawang atom ng hydrogen at isang atom ng oxygen. Lumulutang ang yelo dahil mas magaan ito kaysa sa likidong tubig. Natutunaw sa tubig ang napakaraming sangkap, kaya mahalaga ito sa buhay."});
+fun:"Hot water can sometimes freeze faster than cold water, a puzzling effect called the Mpemba effect, though scientists still debate when and why it happens."});
 
 ADDART({id:"staticelec",t:"Static Electricity",c:"Physics",i:"⚡",w:"Static electricity",r:["elec","electron","atom","magnet","storms"],
 p:[["Electric charges","Static electricity is a buildup of electric charge on a surface."],["Sparks and shocks","It causes small shocks when you touch a doorknob."],["Nature’s biggest spark","Lightning is a giant spark of static electricity."]],
@@ -22,8 +21,7 @@ s2:[["Where the word came from","The ancient Greeks noticed that amber, a fossil
 sp:["The Leyden jar shock","In 1745 and 1746, experimenters in Germany and the Netherlands discovered they could store static charge in a glass jar lined with metal foil, later called the Leyden jar. When the Dutch scientist Pieter van Musschenbroek touched one, the shock was so strong that he wrote he would not repeat it for the whole kingdom of France. Soon, showmen across Europe used Leyden jars to amaze audiences. In one famous demonstration in France, a long line of monks holding hands or wires jumped together as a shock passed through them all. These experiments led to deeper understanding of electricity and, eventually, to modern capacitors used in electronics."],
 g:[["Static electricity","A buildup of electric charge on a surface"],["Electron","A tiny negatively charged particle"],["Conductor","A material that lets charge flow"],["Insulator","A material that blocks the flow of charge"]],
 f:["Static shocks are more common in dry weather.","Lightning is a giant electric spark.","The word electricity comes from the Greek word for amber."],
-fun:"A lightning bolt can heat the air to around five times hotter than the Sun’s surface.",
-tl:"Ang static electricity ay pag-ipon ng kargang elektrikal sa ibabaw ng isang bagay. Ito ang dahilan kung bakit dumidikit ang lobo sa pader pagkatapos ikiskis sa buhok. Ang kidlat ay napakalaking siklab ng static electricity."});
+fun:"A lightning bolt can heat the air to around five times hotter than the Sun’s surface."});
 
 ADDART({id:"circuits",t:"Electric Circuits",c:"Physics",i:"🔌",w:"Electrical network",r:["elec","battery","lightbulb","chip","currents"],
 p:[["A complete loop","Electricity flows only around a complete path called a circuit."],["Voltage, current, resistance","Three key ideas describe how circuits work."],["Everywhere","Circuits power everything from flashlights to computers."]],
@@ -35,8 +33,7 @@ s2:[["Direct and alternating current","Batteries provide direct current, which f
 sp:["Ohm’s doubted discovery","In the 1820s, Georg Ohm, a German schoolteacher, carried out careful experiments with wires of different lengths and thicknesses. He found a simple relationship: the current through a wire is proportional to the voltage across it and inversely proportional to its resistance. When he published his work in 1827, many scientists in Germany dismissed it, and Ohm struggled to find a university post. Recognition came years later, when the Royal Society in London awarded him its Copley Medal in 1841. Today the unit of resistance, the ohm, is named after him, and Ohm’s law is taught to students around the world."],
 g:[["Circuit","A closed path for electric current"],["Voltage","The push that drives current"],["Current","The flow of electric charge"],["Resistance","Opposition to the flow of current"]],
 f:["A circuit must be complete for current to flow.","Homes are wired in parallel.","Ohm’s law links voltage, current and resistance."],
-fun:"A modern microchip can hold billions of tiny circuit switches called transistors.",
-tl:"Ang electric circuit ay saradong daanan ng kuryente. Kailangang buo ito upang dumaloy ang kuryente. Inilalarawan ito ng voltage, current at resistance, na pinag-uugnay ng batas ni Ohm."});
+fun:"A modern microchip can hold billions of tiny circuit switches called transistors."});
 
 ADDART({id:"keplerlaws",t:"Kepler’s Laws of Planetary Motion",c:"Astronomy",i:"🪐",w:"Kepler's laws of planetary motion",r:["copern","galileo","grav","solar","newton"],
 p:[["Ellipses","Planets move in oval-shaped paths called ellipses."],["Faster when closer","Planets speed up when they are nearer the Sun."],["A mathematical pattern","Kepler found a rule linking a planet’s distance and its year."]],
@@ -48,8 +45,7 @@ s2:[["Breaking with circles","For about 2,000 years, astronomers assumed that he
 sp:["The war with Mars","When Kepler began studying the orbit of Mars, he expected to solve it in eight days. It took him about six years. He tried circle after circle, adjusting their positions, but his best model still disagreed with Brahe’s observations by about 8 minutes of arc, a tiny fraction of a degree. Kepler trusted Brahe’s data and refused to ignore the difference. He later wrote that those 8 minutes led to a reform of all astronomy. Finally, he tried an ellipse, and it fit perfectly. Kepler called his long struggle his war with Mars, and his victory changed how humanity understood the solar system."],
 g:[["Ellipse","An oval-shaped curve"],["Orbit","The path of an object around another"],["Orbital period","The time to complete one orbit"],["Focus","One of two special points inside an ellipse"]],
 f:["Planets move in ellipses.","Planets move faster when closer to the Sun.","Kepler used Tycho Brahe’s observations."],
-fun:"Earth is closest to the Sun in early January, during the Northern Hemisphere’s winter.",
-tl:"Ang mga batas ni Kepler ay naglalarawan kung paano umiikot ang mga planeta sa Araw. Gumagalaw ang mga planeta sa hugis-itlog na landas na tinatawag na ellipse. Mas mabilis sila kapag malapit sa Araw."});
+fun:"Earth is closest to the Sun in early January, during the Northern Hemisphere’s winter."});
 
 ADDART({id:"nucleusdisc",t:"Discovering the Atomic Nucleus",c:"History of Science",i:"⚛️",w:"Geiger–Marsden experiments",r:["atom","electron","radioact","quarks","curie"],
 p:[["A tiny center","Almost all of an atom’s mass is packed into a tiny nucleus."],["The gold foil experiment","Rutherford’s team fired particles at thin gold foil."],["A big surprise","A few particles bounced back, revealing the nucleus."]],
@@ -61,5 +57,4 @@ s2:[["Rutherford the experimenter","Ernest Rutherford, born on a farm in New Zea
 sp:["Like a shell bouncing off tissue paper","Rutherford later described his amazement at the results of the gold foil experiment. He said it was almost as incredible as if you fired a large artillery shell at a piece of tissue paper and it came back and hit you. According to the plum pudding model, alpha particles should have passed through the foil with only slight nudges. Yet some were bounced right back. Rutherford spent months working out the mathematics before announcing in 1911 that the atom must have a tiny, massive nucleus. A careful look at a few unexpected flashes of light had revealed the heart of the atom."],
 g:[["Nucleus","The tiny, dense center of an atom"],["Alpha particle","A positively charged particle given off by some radioactive materials"],["Plum pudding model","An early model of the atom"],["Neutron","A neutral particle in the nucleus"]],
 f:["Most alpha particles passed straight through the gold foil.","The nucleus holds nearly all of an atom’s mass.","The neutron was discovered in 1932."],
-fun:"If an atom were the size of a sports stadium, its nucleus would be about the size of a marble.",
-tl:"Natuklasan ni Ernest Rutherford noong 1911 ang nucleus ng atom. Pinatamaan ng kanyang koponan ng maliliit na partikulo ang manipis na gintong foil. Ipinakita nito na halos lahat ng masa ng atom ay nasa maliit na gitna nito."});
+fun:"If an atom were the size of a sports stadium, its nucleus would be about the size of a marble."});

@@ -12,8 +12,7 @@ s2:[["Bangkok","Bangkok, called Krung Thep by Thais, has a ceremonial name that 
 sp:["Ayutthaya","For over four centuries, Ayutthaya was one of the largest and richest cities in Asia, built on an island in the Chao Phraya River and crisscrossed by canals. Merchants came from China, Japan, Persia, Portugal, the Netherlands and France. In 1767 Burmese armies captured and burned the city. Its ruins of temples, headless Buddha statues and a Buddha head entwined in tree roots are now a UNESCO World Heritage Site."],
 g:[["Siam","The former name of Thailand"],["Theravada","The main form of Buddhism in Thailand and mainland Southeast Asia"],["Wat","A Buddhist temple in Thailand"],["Muay Thai","Thai boxing"],["Chakri dynasty","Thailand’s royal family since 1782"]],
 f:["Thailand was never colonized by Europeans.","ASEAN was founded in Bangkok in 1967.","Muay Thai is called the art of eight limbs."],
-fun:"Bangkok’s full ceremonial name is one of the longest place names in the world.",
-tl:"Ang Thailand ay kaharian sa Timog-silangang Asya na kilala sa mga templo, pagkain at magiliw na mamamayan. Ito lamang ang bansa sa rehiyon na hindi nasakop ng Europeo. Itinatag ang ASEAN sa Bangkok noong 1967."});
+fun:"Bangkok’s full ceremonial name is one of the longest place names in the world."});
 
 ADDART({id:"malaysiacountry",t:"Malaysia",c:"Countries and Places",i:"🌺",w:"Malaysia",r:["borneo","asean","islam","spice","sea","indonesiacountry"],
 p:[["Two lands, one nation","Malaysia is made up of the Malay Peninsula and the states of Sabah and Sarawak on the island of Borneo."],["Many cultures","Malays, Chinese, Indians and Indigenous peoples live together, sharing festivals and food."],["Twin towers","Kuala Lumpur’s Petronas Towers were the tallest buildings in the world from 1998 to 2004."]],
@@ -25,8 +24,7 @@ s2:[["The Petronas Towers","The Petronas Twin Towers in Kuala Lumpur, 452 meters
 sp:["The Strait of Malacca","The Strait of Malacca, between the Malay Peninsula and Sumatra, is one of the most important shipping lanes in the world, carrying a large share of global trade, including oil for China, Japan and South Korea. For centuries, whoever controlled the strait could grow rich from trade, which is why Malacca, Srivijaya and later European powers fought for it. Today Malaysia, Indonesia and Singapore cooperate to keep it safe from piracy."],
 g:[["Federation","A union of states with a central government"],["Bumiputera","Malays and other Indigenous peoples of Malaysia"],["Yang di-Pertuan Agong","The king of Malaysia"],["Hawker","A seller of street food"],["Strait","A narrow sea passage between two lands"]],
 f:["Malaysia’s king is chosen every five years.","The Petronas Towers are 452 meters tall.","Taman Negara is one of the world’s oldest rainforests."],
-fun:"Malaysia’s king is elected from among nine hereditary state rulers.",
-tl:"Ang Malaysia ay pederasyon sa Timog-silangang Asya na binubuo ng Malay Peninsula at ng Sabah at Sarawak sa Borneo. Maraming kultura ang magkakasama rito. Kilala ang Petronas Towers sa Kuala Lumpur."});
+fun:"Malaysia’s king is elected from among nine hereditary state rulers."});
 
 ADDART({id:"singaporecountry",t:"Singapore",c:"Countries and Places",i:"🦁",w:"Singapore",r:["asean","malaysiacountry","trade","urban","ships","ofw"],
 p:[["A city-state","Singapore is an island country that is also a single city, at the southern tip of the Malay Peninsula."],["From port to powerhouse","It grew from a small trading post into one of the world’s richest and busiest ports."],["Garden city","Despite its density, Singapore is famous for its greenery, gardens and clean streets."]],
@@ -38,8 +36,7 @@ s2:[["Lee Kuan Yew","Lee Kuan Yew was Singapore’s first prime minister, from 1
 sp:["How Singapore got its name","According to the Malay Annals, a prince from Sumatra named Sang Nila Utama landed on the island in the 1200s or 1300s and saw a strange animal he believed was a lion. He named the place Singapura, from Sanskrit words meaning lion city. Lions have never lived in Singapore, so the animal may have been a tiger. The name stuck, and the lion became the country’s symbol."],
 g:[["City-state","A city that is also an independent country"],["Land reclamation","Creating new land from the sea"],["Hawker center","An open-air complex of food stalls"],["Singlish","A colloquial English spoken in Singapore"],["Free port","A port where goods can be traded without customs duties"]],
 f:["Singapore became independent in 1965.","About a quarter of Singapore’s land was reclaimed from the sea.","Singapore has four official languages."],
-fun:"Singapore means lion city, though lions never lived there.",
-tl:"Ang Singapore ay lungsod-estado sa dulo ng Malay Peninsula. Mula sa maliit na daungan, naging isa ito sa pinakamayamang bansa sa mundo. Mga 200,000 Pilipino ang naninirahan at nagtatrabaho rito."});
+fun:"Singapore means lion city, though lions never lived there."});
 
 ADDART({id:"myanmarcountry",t:"Myanmar",c:"Countries and Places",i:"🛕",w:"Myanmar",r:["asean","buddh","bangladeshcountry","thailandcountry","hrights","sea"],
 p:[["Land of pagodas","Myanmar, also called Burma, is famous for thousands of Buddhist temples and golden pagodas."],["A land of many nations","It is home to more than 100 ethnic groups, including the Bamar, Shan, Karen, Rakhine and Kachin."],["A troubled path","Myanmar has struggled with military rule and long civil conflicts since independence in 1948."]],
@@ -51,8 +48,7 @@ s2:[["Bagan","On a plain beside the Irrawaddy River, more than 2,000 Buddhist te
 sp:["Aung San Suu Kyi","Aung San Suu Kyi, the daughter of independence hero Aung San, returned to Burma in 1988 to care for her mother and became a leader of the democracy movement. She spent about 15 of the next 21 years under house arrest, becoming a world symbol of peaceful resistance and winning the 1991 Nobel Peace Prize. After her party won elections, she led the government from 2016, but her international reputation suffered when she defended Myanmar against genocide accusations over the Rohingya. After the 2021 coup, she was detained again and sentenced to many years in prison."],
 g:[["Pagoda","A tiered Buddhist tower, often holding relics"],["Coup","A sudden, illegal seizure of power"],["Junta","A military government"],["Longyi","A wrap-around cloth worn in Myanmar"],["Thanaka","A cosmetic paste made from tree bark"]],
 f:["Bagan has more than 2,000 ancient temples.","Myanmar became independent in 1948.","Aung San Suu Kyi won the Nobel Peace Prize in 1991."],
-fun:"Many people in Myanmar wear thanaka paste, made from tree bark, as natural sunscreen.",
-tl:"Ang Myanmar, o Burma, ay bansang Budista sa Timog-silangang Asya na kilala sa libu-libong templo at pagoda. Mahigit 100 pangkat-etniko ang naninirahan dito. Dumanas ito ng mahabang pamumuno ng militar at mga digmaang sibil."});
+fun:"Many people in Myanmar wear thanaka paste, made from tree bark, as natural sunscreen."});
 
 ADDART({id:"cambodiacountry",t:"Cambodia",c:"Countries and Places",i:"🛕",w:"Cambodia",r:["khmer","angkor","asean","mekong","buddh","vietnam"],
 p:[["Kingdom of Angkor","Cambodia is the heir of the Khmer Empire, whose temple of Angkor Wat appears on the national flag."],["A tragic past","Under the Khmer Rouge from 1975 to 1979, perhaps a quarter of the population died."],["A new start","Since the 1990s, Cambodia has rebuilt its economy, and tourism and garment industries have grown."]],
@@ -64,8 +60,7 @@ s2:[["Remembering the genocide","The Tuol Sleng Genocide Museum in Phnom Penh, a
 sp:["The river that flows backward","Most of the year, the Tonlé Sap River carries water from the great Tonlé Sap lake into the Mekong. But during the monsoon, from about June to October, the Mekong rises so high that it pushes water back up the Tonlé Sap River into the lake, which can grow from about 2,500 to more than 10,000 square kilometers. Flooded forests become nurseries for fish. When the waters fall, the river flows back again, and fishermen gather a huge harvest."],
 g:[["Khmer Rouge","The radical regime that ruled Cambodia from 1975 to 1979"],["Genocide","The deliberate destruction of a group of people"],["Protectorate","A territory controlled and protected by another country"],["Floating village","A community of houses on boats or stilts"],["Landmine","A hidden explosive device placed in the ground"]],
 f:["Angkor Wat appears on Cambodia’s flag.","The Tonlé Sap River reverses direction each year.","Rats are trained to detect landmines in Cambodia."],
-fun:"Trained giant rats help find landmines in Cambodia.",
-tl:"Ang Cambodia ay tagapagmana ng Imperyong Khmer na nagtayo ng Angkor Wat. Dumanas ito ng trahedya sa ilalim ng Khmer Rouge mula 1975 hanggang 1979. Mula 1990s, muling bumangon ang bansa."});
+fun:"Trained giant rats help find landmines in Cambodia."});
 
 ADDART({id:"laoscountry",t:"Laos",c:"Countries and Places",i:"🐘",w:"Laos",r:["mekong","asean","buddh","vietnam","hydropower","sea"],
 p:[["Land of a million elephants","Laos was once the kingdom of Lan Xang, meaning a million elephants."],["Landlocked","It is the only landlocked country in Southeast Asia, with the Mekong River as its lifeline."],["A heavy legacy","Laos is the most heavily bombed country per person in history, from the Vietnam War era."]],
@@ -77,8 +72,7 @@ s2:[["The secret war","During the Vietnam War, the United States conducted a sec
 sp:["Morning alms in Luang Prabang","Before sunrise in Luang Prabang, hundreds of Buddhist monks in orange robes walk silently in long lines through the streets. Local people kneel along the sidewalks and place small balls of sticky rice and other food into the monks’ bowls. The ritual is a way of making merit, and the monks bless the givers. Visitors are welcome to watch respectfully, without flash photography or getting in the way."],
 g:[["Landlocked","Having no coastline"],["Lan Xang","The ancient kingdom of a million elephants"],["Sticky rice","A rice that becomes sticky when cooked, the Lao staple"],["Unexploded ordnance","Bombs and shells that did not explode"],["Alms","Gifts of food or money to monks or the poor"]],
 f:["Laos is the only landlocked country in Southeast Asia.","Laos is the most heavily bombed country per person.","Lan Xang means a million elephants."],
-fun:"Sticky rice is so important in Laos that Lao people sometimes call themselves children of sticky rice.",
-tl:"Ang Laos ay bansang walang dagat sa Timog-silangang Asya. Dati itong kaharian ng Lan Xang, ang lupain ng isang milyong elepante. Ito ang pinakamaraming binomba bawat tao sa kasaysayan noong panahon ng Digmaang Vietnam."});
+fun:"Sticky rice is so important in Laos that Lao people sometimes call themselves children of sticky rice."});
 
 ADDART({id:"bruneicountry",t:"Brunei",c:"Countries and Places",i:"🕌",w:"Brunei",r:["borneo","asean","islam","malaysiacountry","precol","sulu"],
 p:[["A small sultanate","Brunei Darussalam is a small, oil-rich sultanate on the northern coast of Borneo."],["Rainforest nation","Most of the country is still covered in tropical rainforest."],["An old kingdom","In the 1500s, Brunei’s sultans had influence across Borneo and as far as the Philippines."]],
@@ -90,8 +84,7 @@ s2:[["Kampong Ayer","Kampong Ayer, a water village on stilts over the Brunei Riv
 sp:["A water village capital","Kampong Ayer has been described by visitors for over 500 years. When the expedition of Ferdinand Magellan reached Brunei in 1521, after Magellan’s death in the Philippines, the chronicler Antonio Pigafetta described a great city built over water, with tens of thousands of houses on stilts. Today the village has modern amenities, including electricity, piped water and even fire stations, but keeps its traditional way of life on the water."],
 g:[["Sultanate","A state ruled by a sultan"],["Absolute monarchy","A monarchy in which the ruler has full power"],["Protectorate","A territory protected and partly controlled by another country"],["Stilt house","A house raised on posts above water or ground"],["Diversify","To develop a wider range of industries"]],
 f:["Brunei has no personal income tax.","Kampong Ayer is a village built on stilts over water.","Brunei became independent in 1984."],
-fun:"Pigafetta, Magellan’s chronicler, described Brunei’s water village in 1521.",
-tl:"Ang Brunei ay maliit na sultanato sa hilagang baybayin ng Borneo na mayaman sa langis. Karamihan nito ay natatakpan pa ng gubat. Noong 1500s, umabot ang impluwensiya ng sultan ng Brunei hanggang sa Pilipinas."});
+fun:"Pigafetta, Magellan’s chronicler, described Brunei’s water village in 1521."});
 
 ADDART({id:"timorlestecountry",t:"Timor-Leste",c:"Countries and Places",i:"🕊️",w:"Timor-Leste",r:["asean","indonesiacountry","christ","decol","hrights","australiacountry"],
 p:[["A young nation","Timor-Leste, or East Timor, became independent in 2002, one of the world’s newest countries."],["Hard-won freedom","Its people endured a long struggle under Indonesian occupation before voting for independence in 1999."],["ASEAN’s newest member","In 2025 Timor-Leste became the 11th member of ASEAN."]],
@@ -103,5 +96,4 @@ s2:[["Nobel Peace Prize","In 1996 Bishop Carlos Filipe Ximenes Belo and José Ra
 sp:["Two Catholic nations of Asia","Timor-Leste and the Philippines are the only two predominantly Catholic countries in Asia, and both received their faith through Iberian colonizers, Portugal and Spain. During Timor-Leste’s struggle, the Catholic Church became a refuge and a voice for its people. Pope Francis visited Timor-Leste in 2024, where an outdoor Mass drew about 600,000 people, almost half the country’s population."],
 g:[["Referendum","A vote by all citizens on a single question"],["Occupation","Control of a territory by a foreign military"],["Tetum","An official language of Timor-Leste"],["Peacekeeping force","International troops sent to keep peace"],["Truth commission","A body that investigates past abuses"]],
 f:["Timor-Leste became independent in 2002.","Its official languages are Tetum and Portuguese.","Timor-Leste joined ASEAN in 2025."],
-fun:"A papal Mass in Timor-Leste in 2024 drew nearly half the country’s population.",
-tl:"Ang Timor-Leste ay batang bansa na naging malaya noong 2002 matapos ang mahabang pakikibaka. Tulad ng Pilipinas, karamihan ng mamamayan nito ay Katoliko. Noong 2025, naging ika-11 miyembro ito ng ASEAN."});
+fun:"A papal Mass in Timor-Leste in 2024 drew nearly half the country’s population."});

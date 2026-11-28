@@ -7,4 +7,4 @@ window.ADDART=a=>{const M=window.MORE=window.MORE||[],D=window.DEEP=window.DEEP|
 window.TL=window.TL||{};window.WIKI=window.WIKI||{};window.FUN=window.FUN||{};window.CONS_NEW=window.CONS_NEW||{};
 M.push({id:a.id,t:a.t,c:a.c||"Animals and Nature",i:a.i,p:a.p,r:a.r||[]});
 D[a.id]={l:a.l,s:a.s,k:a.k,d:a.d};D2[a.id]={s:a.s2,sp:a.sp,g:a.g,f:a.f};
-if(a.tl)TL[a.id]=a.tl;if(a.w)WIKI[a.id]=a.w;if(a.fun)FUN[a.id]=a.fun;if(a.cons)CONS_NEW[a.id]=a.cons};
+if(a.w)WIKI[a.id]=a.w;if(a.fun)FUN[a.id]=a.fun;if(a.cons)CONS_NEW[a.id]=a.cons};

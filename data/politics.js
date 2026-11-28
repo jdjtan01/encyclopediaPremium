@@ -10,8 +10,7 @@ s2:[["Arguments of supporters","Supporters argue that capitalism encourages inno
 sp:["The invisible hand","Adam Smith wrote that it is not from the benevolence of the butcher, the brewer or the baker that we expect our dinner, but from their regard to their own interest. Each person seeking their own gain is led, as if by an invisible hand, to serve the needs of others. Smith also warned about monopolies and believed that businesses would conspire against the public if not checked, and he supported education for workers. His ideas are often simplified in modern debates."],
 g:[["Capital","Money, machines and buildings used to produce goods"],["Market","A system where buyers and sellers trade"],["Profit","Money earned after costs are paid"],["Mixed economy","An economy combining markets and government roles"]],
 f:["Adam Smith wrote The Wealth of Nations in 1776.","Most countries today have mixed economies.","Capitalism has both strong supporters and critics."],
-fun:"Adam Smith, often seen as the father of capitalism, also warned about the dangers of monopolies.",
-tl:"Ang kapitalismo ay sistemang pang-ekonomiya kung saan pribado ang pagmamay-ari ng mga negosyo at nagpapalitan ng kalakal sa merkado. Sinasabi ng mga tagasuporta na nagdudulot ito ng pag-unlad, habang itinuturo ng mga kritiko ang hindi pagkakapantay-pantay."});
+fun:"Adam Smith, often seen as the father of capitalism, also warned about the dangers of monopolies."});
 
 ADDART({id:"socialism",t:"Socialism and Communism",c:"Economics and Society",i:"🚩",w:"Socialism",r:["capitalism","russrev","coldwar","modernchina","labor"],
 p:[["Sharing ownership","Socialism is a family of ideas favoring social or collective ownership and greater economic equality."],["Communism","Communism, developed by Karl Marx, envisioned a classless society without private ownership of the means of production."],["Many forms","Socialist ideas range from democratic welfare policies to one-party communist states."]],
@@ -23,8 +22,7 @@ s2:[["Arguments of supporters","Supporters argue that socialism can reduce pover
 sp:["Workers of the world, unite","The Communist Manifesto, a short pamphlet written by Marx and Engels in 1848, opens with the line: a specter is haunting Europe, the specter of communism. It ends with the famous call, workers of the world, unite! It was published as revolutions swept across Europe that year. Though little noticed at first, it became one of the most influential political documents in history, translated into more than 100 languages and inspiring movements around the world."],
 g:[["Means of production","Factories, land, machines and resources used to make goods"],["Proletariat","In Marxist theory, the working class"],["Planned economy","An economy directed by the government"],["Social democracy","A system combining markets with strong welfare policies"]],
 f:["Marx and Engels wrote The Communist Manifesto in 1848.","The Soviet Union dissolved in 1991.","Five countries today are ruled by communist parties."],
-fun:"The Communist Manifesto has been translated into more than 100 languages.",
-tl:"Ang sosyalismo ay grupo ng mga ideya na pumapabor sa sama-samang pagmamay-ari at higit na pagkakapantay-pantay sa ekonomiya. Ang komunismo, mula kay Karl Marx, ay nag-isip ng lipunang walang uri. Iba-iba ang anyo nito, mula sa demokratikong welfare hanggang sa estadong may iisang partido."});
+fun:"The Communist Manifesto has been translated into more than 100 languages."});
 
 ADDART({id:"liberalism",t:"Liberalism",c:"Economics and Society",i:"🗽",w:"Liberalism",r:["enlightenment","democ","hrights","constitution","capitalism"],
 p:[["Liberty first","Liberalism is a political philosophy that emphasizes individual freedom, rights and equality before the law."],["Limited government","It holds that government should rest on the consent of the governed and be limited by law."],["Many meanings","The word liberal means different things in different countries."]],
@@ -36,8 +34,7 @@ s2:[["What does liberal mean?","The word has different meanings in different pla
 sp:["Mill’s harm principle","In On Liberty, John Stuart Mill argued that the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. A person’s own good is not enough reason to force them to act. Mill also defended free speech strongly, arguing that even false opinions should be heard, because debate helps people understand the truth better. His ideas remain central to debates about freedom."],
 g:[["Liberty","Freedom from unjust control"],["Rule of law","The principle that everyone is subject to the law"],["Consent of the governed","The idea that government power comes from the people"],["Liberal democracy","Democracy with protected rights and freedoms"]],
 f:["John Locke argued for natural rights.","Mill wrote On Liberty in 1859.","The word liberal means different things in different countries."],
-fun:"In the United States liberal usually means center-left, but in Australia the Liberal Party is center-right.",
-tl:"Ang liberalismo ay pilosopiyang pampolitika na nagbibigay-diin sa kalayaan ng bawat tao, mga karapatan at pagkakapantay-pantay sa harap ng batas. Iba-iba ang kahulugan ng salitang liberal sa iba't ibang bansa."});
+fun:"In the United States liberal usually means center-left, but in Australia the Liberal Party is center-right."});
 
 ADDART({id:"nationalism",t:"Nationalism",c:"Economics and Society",i:"🎌",w:"Nationalism",r:["phrev","decol","frrev","fascism","rizal"],
 p:[["Loyalty to the nation","Nationalism is the belief that people who share a national identity should have their own state and govern themselves."],["Building nations","It inspired the unification of countries and movements for independence from empires."],["Two faces","Nationalism can unite people and inspire freedom, but extreme forms have fueled hatred and war."]],
@@ -49,8 +46,7 @@ s2:[["Filipino nationalism","José Rizal’s novels Noli Me Tángere and El Fili
 sp:["Imagined communities","In 1983 the Irish-born scholar Benedict Anderson, a specialist in Southeast Asia, published Imagined Communities. He argued that the spread of printed books and newspapers in shared languages allowed people who would never meet to imagine themselves as members of the same nation. Anderson knew the Philippines well; he wrote a book about how José Rizal and other Filipino patriots were connected to anarchists and anti-colonial movements around the world in the 1890s."],
 g:[["Nation","A people sharing a common identity"],["State","A political unit with government and territory"],["Self-determination","The right of a people to choose their government"],["Sovereignty","Supreme authority over a territory"]],
 f:["Italy was unified in 1861 and Germany in 1871.","Filipino nationalism was among the earliest in Asia.","Benedict Anderson called nations imagined communities."],
-fun:"Benedict Anderson, famous for his book on nationalism, also wrote about José Rizal.",
-tl:"Ang nasyonalismo ay paniniwala na ang mga taong may iisang pambansang pagkakakilanlan ay dapat magkaroon ng sariling estado. Naging inspirasyon ito ng kalayaan ng Pilipinas, ngunit ang labis na anyo nito ay nagdulot din ng digmaan."});
+fun:"Benedict Anderson, famous for his book on nationalism, also wrote about José Rizal."});
 
 ADDART({id:"feminism",t:"Feminism",c:"Economics and Society",i:"♀️",w:"Feminism",r:["hrights","elections","enlightenment","malala","existentialism"],
 p:[["Equal rights for women","Feminism is a range of movements and ideas seeking equal rights and opportunities for women."],["Waves of change","Feminist movements won women the right to vote, to education, to work and to equal treatment under the law."],["Many voices","Feminists hold different views on causes and solutions, and the movement has critics."]],
@@ -62,5 +58,4 @@ s2:[["Feminism in the Philippines","In 1905 Concepción Felix founded the Asocia
 sp:["International Women’s Day","International Women’s Day grew out of labor and socialist movements in the early 1900s in North America and Europe. In 1917, on 8 March by the Western calendar, women workers in Petrograd, Russia, went on strike for bread and peace, helping spark the Russian Revolution. The United Nations began celebrating International Women’s Day on 8 March in 1975. In the Philippines, March is National Women’s Month."],
 g:[["Feminism","Movements for equal rights for women"],["Suffrage","The right to vote"],["Intersectionality","How different kinds of discrimination overlap"],["Patriarchy","A social system dominated by men"]],
 f:["New Zealand women won the vote in 1893.","The Asociación Feminista Filipina was founded in 1905.","International Women’s Day is on 8 March."],
-fun:"A women’s strike on International Women’s Day in 1917 helped spark the Russian Revolution.",
-tl:"Ang peminismo ay mga kilusan at ideya na naghahangad ng pantay na karapatan at oportunidad para sa kababaihan. Nagtagumpay ito sa pagkamit ng karapatang bumoto at mag-aral. Itinatag ang Asociación Feminista Filipina noong 1905."});
+fun:"A women’s strike on International Women’s Day in 1917 helped spark the Russian Revolution."});

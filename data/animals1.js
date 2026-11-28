@@ -9,8 +9,7 @@ s2:[["Cubs","A lioness gives birth to two to four cubs after a pregnancy of abou
 sp:["The lion dance","At Chinese New Year, in China and in Chinatowns around the world, performers dance inside colorful lion costumes to drums, gongs and cymbals. The lion is believed to scare away bad luck and bring good fortune. Two dancers work together, one as the head and one as the body and tail."],
 g:[["Pride","A family group of lions"],["Mane","The long hair around a male lion’s head and neck"],["Ambush","A surprise attack from a hiding place"],["Territory","An area an animal defends against others"]],
 f:["Lions can sleep up to 20 hours a day.","A lion’s roar can be heard about 8 kilometers away.","Lionesses do most of a pride’s hunting."],
-fun:"Lions are the only big cats that live in family groups.",
-tl:"Ang leon ay malaking pusa na nakatira sa mga grupong tinatawag na pride sa mga damuhan ng Aprika. Ang mga babaeng leon ang kadalasang nangangaso, at may makapal na buhok o mane sa leeg ang mga lalaki."});
+fun:"Lions are the only big cats that live in family groups."});
 
 ADDART({id:"gorilla",t:"Gorillas and Great Apes",i:"🦍",w:"Gorilla",r:["evo","dna","elephant"],cons:["CR","Western gorilla"],
 p:[["Largest primates","Gorillas are the biggest of all primates. Adult males, called silverbacks, can weigh more than 160 kg."],["Gentle giants","Despite their size, gorillas are shy plant eaters that live quietly in family groups in the forests of central Africa."],["Our close cousins","Gorillas, chimpanzees, bonobos and orangutans are the great apes, the closest living relatives of humans."]],
@@ -22,8 +21,7 @@ s2:[["Great apes","The great apes are gorillas, chimpanzees, bonobos and orangut
 sp:["Dian Fossey","The American scientist Dian Fossey spent 18 years living among mountain gorillas in Rwanda. She learned to recognize each animal by its nose print and won their trust by copying their sounds and behavior. Her book Gorillas in the Mist made the world aware of the threats they faced. She was killed at her camp in 1985."],
 g:[["Primate","A mammal group that includes monkeys, apes and humans"],["Silverback","An adult male gorilla with silver hair on his back"],["Troop","A family group of gorillas"],["Bushmeat","Meat from wild animals hunted for food"]],
 f:["Gorillas build a new sleeping nest every night.","Each gorilla has a unique nose print.","Humans share about 98 percent of their DNA with gorillas."],
-fun:"Every gorilla has a unique nose print, like a human fingerprint.",
-tl:"Ang gorilya ang pinakamalaking unggoy o primate sa mundo at nakatira sa mga gubat ng gitnang Aprika. Kumakain ito ng dahon at prutas, at malapit na kamag-anak ng tao kasama ang chimpanzee at orangutan."});
+fun:"Every gorilla has a unique nose print, like a human fingerprint."});
 
 ADDART({id:"bear",t:"Bears",i:"🐻",w:"Brown bear",r:["arctic","wolf","eco"],cons:["VU","Polar bear"],
 p:[["Eight species","There are eight kinds of bear: brown, American black, Asiatic black, polar, sun, sloth and spectacled bears, and the giant panda."],["Big and strong","Bears have heavy bodies, short tails, strong claws and an excellent sense of smell."],["Most eat plants too","Except for the polar bear, most bears eat a mix of plants, insects, fish and meat."]],
@@ -35,8 +33,7 @@ s2:[["Polar bears","Polar bears are the largest land carnivores. They hunt seals
 sp:["How the teddy bear got its name","In 1902 US President Theodore Roosevelt, on a hunting trip in Mississippi, refused to shoot a bear that had been tied to a tree. A newspaper cartoon showed the scene, and a toy shop owner in New York made a stuffed bear and called it Teddy’s bear. The toy became popular around the world."],
 g:[["Carnivore","An animal that eats mainly meat"],["Den","A sheltered home where an animal rests or gives birth"],["Hibernation","A long, deep winter rest"],["Omnivore","An animal that eats both plants and animals"]],
 f:["A polar bear’s skin is black under its fur.","A newborn giant panda weighs only about 100 grams.","The sun bear has the longest tongue of any bear."],
-fun:"Under its thick white-looking fur, a polar bear has black skin.",
-tl:"Ang oso ay malaking mamalya na may makapal na balahibo, matitibay na kuko at matalas na pang-amoy. May walong uri nito, kabilang ang polar bear at ang giant panda, ngunit walang katutubong oso sa Pilipinas."});
+fun:"Under its thick white-looking fur, a polar bear has black skin."});
 
 ADDART({id:"giraffe",t:"Giraffes",i:"🦒",w:"Giraffe",r:["elephant","lion","rift"],cons:["VU","Giraffe"],
 p:[["The tallest animal","Giraffes are the tallest animals on Earth. A large male can stand about 5.5 meters, taller than a two-story house."],["Long necks","A giraffe’s neck can be nearly 2 meters long, yet it has only seven bones, the same number as a human neck."],["Leaf eaters","Giraffes use their height and long tongues to reach leaves at the tops of acacia trees on the African savanna."]],
@@ -48,5 +45,4 @@ s2:[["Babies that fall","A giraffe mother gives birth standing up, so the calf d
 sp:["The giraffe that came to China","In 1414 a giraffe from Malindi, in present-day Kenya, arrived at the court of the Yongle Emperor in China on one of Admiral Zheng He’s voyages. Officials said it was a qilin, a magical creature that brings good luck, and court artists painted it. The voyage shows how far trade routes stretched across the Indian Ocean."],
 g:[["Browser","An animal that eats leaves, shoots and twigs"],["Ossicones","The skin-covered horns on a giraffe’s head"],["Necking","Fighting by swinging the neck"],["Subspecies","A group within a species that looks a little different"]],
 f:["A giraffe’s neck has only seven bones, like ours.","A newborn giraffe falls about 2 meters at birth.","Giraffes often sleep less than an hour a day."],
-fun:"A giraffe’s neck has the same number of bones as yours: seven.",
-tl:"Ang dyirap ang pinakamatangkad na hayop sa mundo, na umaabot sa mga 5.5 metro. Gamit ang mahabang leeg at dila, kumakain ito ng mga dahon sa tuktok ng mga puno sa Aprika."});
+fun:"A giraffe’s neck has the same number of bones as yours: seven."});

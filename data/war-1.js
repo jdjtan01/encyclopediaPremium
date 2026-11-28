@@ -9,8 +9,7 @@ s2:[["The Christmas Truce","At Christmas 1914, along parts of the front, British
 sp:["In Flanders Fields","In May 1915, after the death of a friend, the Canadian doctor John McCrae wrote the poem In Flanders Fields, describing poppies blowing between the crosses of soldiers’ graves. The poem became one of the most famous of the war and inspired the use of red poppies to remember those who died in war, a tradition still followed on Remembrance Day in many countries."],
 g:[["Trench","A long, narrow ditch dug to protect soldiers"],["No man’s land","The ground between opposing trenches"],["Stalemate","A situation in which neither side can win"],["Armistice","An agreement to stop fighting"]],
 f:["The Western Front stretched about 700 kilometers.","The first day of the Somme was the bloodiest day in British military history.","Soldiers held a Christmas Truce in 1914."],
-fun:"Buglers have played the Last Post at the Menin Gate in Ypres almost every evening since 1928.",
-tl:"Ang Western Front ay linya ng mga trinsera sa kanlurang Europa noong Unang Digmaang Pandaigdig. Sa loob ng halos apat na taon, milyon-milyong sundalo ang namatay sa mga labanang gaya ng Verdun at Somme."});
+fun:"Buglers have played the Last Post at the Menin Gate in Ypres almost every evening since 1928."});
 
 ADDART({id:"versailles",t:"The Treaty of Versailles",c:"History",i:"📜",w:"Treaty of Versailles",r:["wwi","ww2","germanycountry","fascism","un"],
 p:[["Ending World War I","The Treaty of Versailles, signed on 28 June 1919, formally ended the war between Germany and the Allied Powers."],["Harsh terms","Germany lost territory, its colonies and most of its military, accepted blame for the war and was ordered to pay reparations."],["A troubled peace","Many historians see the treaty’s terms and their effects as one of the causes of World War II."]],
@@ -22,8 +21,7 @@ s2:[["Wilson’s Fourteen Points","In January 1918, President Wilson set out Fou
 sp:["The Hall of Mirrors","The treaty was signed in the Hall of Mirrors at Versailles, the same room where, in 1871, the German Empire had been proclaimed after France’s defeat in the Franco-Prussian War. The French deliberately chose the location to reverse that humiliation. In 1940, Hitler in turn insisted that France sign its surrender in the same railway carriage used for the 1918 armistice."],
 g:[["Reparations","Payments for damage caused by war"],["Mandate","A territory placed under another country’s administration by the League of Nations"],["Self-determination","The right of a people to choose their own government"],["Demilitarized","Without military forces or fortifications"]],
 f:["The treaty was signed five years to the day after Franz Ferdinand’s assassination.","The United States never joined the League of Nations.","Germany’s army was limited to 100,000 men."],
-fun:"Germany made its final payment on bonds connected with World War I reparations in 2010.",
-tl:"Ang Kasunduan sa Versailles noong 1919 ang pormal na nagwakas sa Unang Digmaang Pandaigdig. Mabigat ang mga kondisyon nito sa Alemanya, at itinuturing ito ng maraming historyador na isa sa mga sanhi ng Ikalawang Digmaang Pandaigdig."});
+fun:"Germany made its final payment on bonds connected with World War I reparations in 2010."});
 
 ADDART({id:"fascism",t:"The Rise of Fascism",c:"History",i:"⚠️",w:"Fascism",r:["ww2","holocaust","versailles","depression","democ"],
 p:[["A dangerous ideology","Fascism is a far-right political movement that glorifies the nation, rejects democracy and demands obedience to a single leader."],["Italy and Germany","Benito Mussolini took power in Italy in 1922, and Adolf Hitler’s Nazi Party in Germany in 1933."],["Road to war","Fascist expansion and aggression in the 1930s led to World War II and the Holocaust."]],
@@ -35,5 +33,4 @@ s2:[["Aggression in the 1930s","Fascist states pursued expansion by force. Italy
 sp:["The word fascism","The word fascism comes from the Italian fascio, meaning a bundle, and from the ancient Roman fasces, a bundle of rods tied around an axe carried before Roman officials as a symbol of authority. Mussolini adopted the fasces as the symbol of his movement to suggest strength through unity and to link his rule to the glory of ancient Rome."],
 g:[["Fascism","A far-right movement that rejects democracy and demands obedience to a leader"],["Dictatorship","Rule by one person or group with unlimited power"],["Appeasement","Giving in to an aggressor’s demands to avoid conflict"],["Propaganda","Information used to spread a particular political message"]],
 f:["Mussolini came to power in Italy in 1922.","Hitler became chancellor of Germany on 30 January 1933.","The word fascism comes from the Roman fasces."],
-fun:"The word fascism comes from the fasces, a bundle of rods carried by officials in ancient Rome.",
-tl:"Ang pasismo ay kilusang pampulitika na sumasamba sa bansa, tumatanggi sa demokrasya at humihingi ng ganap na pagsunod sa isang lider. Umakyat sa kapangyarihan si Mussolini sa Italya at si Hitler sa Alemanya, at humantong ito sa Ikalawang Digmaang Pandaigdig."});
+fun:"The word fascism comes from the fasces, a bundle of rods carried by officials in ancient Rome."});

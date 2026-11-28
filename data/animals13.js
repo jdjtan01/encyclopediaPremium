@@ -9,8 +9,7 @@ s2:[["Black with white stripes?","Scientists studying zebra embryos and skin hav
 sp:["African animals on a Philippine island","On Calauit Island in northern Palawan, visitors are sometimes surprised to see zebras grazing and giraffes browsing among Philippine trees. In 1977 a shipment of African animals arrived from Kenya, and the island was turned into a game reserve. Over the decades, the zebras and giraffes adapted and multiplied, while rangers also cared for endangered native species such as the Calamian deer and the Philippine mouse-deer. Today the park is an unusual blend of African savanna and Philippine island, though its history, including the relocation of residents, remains debated."],
 g:[["Zebra","A striped wild member of the horse family"],["Herd","A group of grazing animals"],["Migration","A seasonal journey of animals"],["Quagga","An extinct type of zebra"]],
 f:["There are three zebra species.","Each zebra has unique stripes.","Zebras live on Calauit Island in Palawan."],
-fun:"Zebra crossings on roads are named after the animal’s black-and-white stripes.",
-tl:"Ang zebra ay ligaw na kamag-anak ng kabayo sa Africa na may itim at puting guhit. Natatangi ang guhit ng bawat zebra. May mga zebra rin sa Calauit Island sa Palawan na dinala mula sa Kenya noong 1977."});
+fun:"Zebra crossings on roads are named after the animal’s black-and-white stripes."});
 
 ADDART({id:"carabao",t:"The Carabao",c:"Mammals",i:"🐃",w:"Carabao",r:["rice","domestication","horses","tamaraw","phfood"],
 p:[["The farmer’s friend","The carabao is a domestic water buffalo that has long worked Philippine rice fields."],["Strong and patient","It pulls plows and carts and loves wallowing in mud."],["More than a work animal","Today it is also raised for milk, cheese and meat."]],
@@ -22,8 +21,7 @@ s2:[["Symbol of hard work","The carabao is often used as a symbol of the patient
 sp:["Kesong puti from the farm","Early in the morning in towns of Laguna, Bulacan and Cebu, vendors sell small blocks of soft, white cheese wrapped in banana leaves. This is kesong puti, made from fresh carabao milk curdled with vinegar or rennet and salted lightly. It is often eaten for breakfast with warm pandesal. For many dairy farmers, selling milk and cheese has become an important source of income, giving the carabao a new role beyond the rice field. Programs by the Philippine Carabao Center have helped farming cooperatives produce and sell carabao milk products across the country."],
 g:[["Carabao","A domestic swamp buffalo of the Philippines"],["Wallowing","Rolling or lying in mud or water to cool off"],["Kesong puti","A soft white cheese made from carabao milk"],["Artificial insemination","A breeding method used to improve livestock"]],
 f:["The carabao is widely regarded as the national animal.","Carabaos cool off in mud.","Carabao milk is used to make kesong puti."],
-fun:"Carabao milk has more fat than cow’s milk, making it ideal for rich cheeses and sweets like pastillas.",
-tl:"Ang kalabaw ay alagang hayop na matagal nang katuwang ng magsasakang Pilipino sa pag-aararo ng palayan. Nagpapalamig ito sa putik dahil kaunti ang glandula nito ng pawis. Ngayon, inaalagaan din ito para sa gatas, keso at karne."});
+fun:"Carabao milk has more fat than cow’s milk, making it ideal for rich cheeses and sweets like pastillas."});
 
 ADDART({id:"tamaraw",t:"The Tamaraw",c:"Mammals",i:"🐂",w:"Tamaraw",r:["carabao","phbio","conservation","extinction","eagle"],
 p:[["Mindoro’s wild buffalo","The tamaraw is a small wild buffalo found only on the island of Mindoro."],["Critically endangered","Only a few hundred remain in the wild."],["A national treasure","It is protected by law and is a symbol of Philippine wildlife."]],
@@ -35,8 +33,7 @@ s2:[["Protecting the tamaraw","The tamaraw has been protected by law since the 1
 sp:["The count on the mountain","Every April or May, teams of rangers, scientists, students and volunteers hike into the grasslands of Mounts Iglit–Baco Natural Park in Mindoro. They spread out to dozens of vantage points on ridges and hilltops and, at the same time over several days, scan the slopes with binoculars, recording each tamaraw they see, its sex, age and markings, so the same animal is not counted twice. It is hot, tiring work, often in rugged terrain. When the results are announced, conservationists across the country watch for good news. In 2026 the count reached 425, a record that encouraged everyone working to save Mindoro’s wild buffalo."],
 g:[["Tamaraw","A small wild buffalo found only on Mindoro"],["Endemic","Found naturally in only one place"],["Critically endangered","Facing an extremely high risk of extinction"],["Natural park","A protected area for wildlife and nature"]],
 f:["The tamaraw lives only on Mindoro.","It is critically endangered.","The 2026 count in Mts. Iglit–Baco found 425."],
-fun:"The tamaraw’s horns grow upward in a V shape, unlike the wide, curving horns of the carabao.",
-tl:"Ang tamaraw ay maliit na ligaw na kalabaw na matatagpuan lamang sa Mindoro. Lubha itong nanganganib maubos. Sa bilang noong 2026, 425 tamaraw ang naitala sa Mounts Iglit–Baco Natural Park."});
+fun:"The tamaraw’s horns grow upward in a V shape, unlike the wide, curving horns of the carabao."});
 
 ADDART({id:"vultures",t:"Vultures",c:"Birds",i:"🦅",w:"Vulture",r:["eagle","birds","grasslands","extinction","conservation"],
 p:[["Nature’s cleaners","Vultures are large birds that feed mainly on the bodies of dead animals."],["Soaring giants","They soar for hours on warm air currents searching for food."],["In danger","Many vulture species have declined sharply because of poisoning."]],
@@ -48,8 +45,7 @@ s2:[["The Asian vulture crisis","In the 1990s, the populations of several vultur
 sp:["The bone breaker of the mountains","High in the mountains of the Himalayas, the Alps and East Africa lives a remarkable bird: the bearded vulture. With feathers often stained a rusty orange from bathing in iron-rich mud, it looks fierce, yet it lives mainly on bones. When a bone is too big to swallow, the bird carries it high into the air and drops it onto rocks below, breaking it into pieces. Its stomach acid is strong enough to dissolve bone within a day. In the Alps, the species was wiped out in the early 1900s, but a reintroduction program begun in the 1980s has brought bearded vultures back to the skies."],
 g:[["Vulture","A large bird that feeds mainly on dead animals"],["Carrion","The flesh of dead animals"],["Thermal","A column of rising warm air"],["Convergent evolution","When unrelated animals evolve similar features"]],
 f:["Vultures eat mostly dead animals.","Old and New World vultures evolved separately.","The Philippines has no native vultures."],
-fun:"Vultures’ stomach acid is so strong it can kill the bacteria that cause anthrax.",
-tl:"Ang buwitre ay malalaking ibong kumakain ng patay na hayop at tumutulong linisin ang kalikasan. Lumilipad ito nang matagal sa mainit na hangin. Maraming uri nito ang nanganganib dahil sa pagkalason."});
+fun:"Vultures’ stomach acid is so strong it can kill the bacteria that cause anthrax."});
 
 ADDART({id:"pigeons",t:"Pigeons and Doves",c:"Birds",i:"🕊️",w:"Columbidae",r:["birds","birdmigr","domestication","extinction","phbio"],
 p:[["Familiar birds","Pigeons and doves are a large family of plump birds found worldwide."],["Amazing navigators","Homing pigeons can find their way home from hundreds of kilometers away."],["Philippine species","The Philippines has many beautiful native doves, including the Luzon bleeding-heart."]],
@@ -61,8 +57,7 @@ s2:[["The passenger pigeon","In the 1800s, passenger pigeons may have been the m
 sp:["Cher Ami’s flight","In October 1918, during the First World War, a group of American soldiers known as the Lost Battalion was trapped behind enemy lines in the Argonne Forest in France. To make matters worse, their own artillery was mistakenly shelling them. Their commander released their last carrier pigeon, Cher Ami, with a note giving their location and pleading for the shelling to stop. Despite being shot, losing an eye and nearly losing a leg, Cher Ami flew about 40 kilometers back to headquarters in less than half an hour. The shelling stopped, and nearly 200 men were rescued. The brave pigeon was awarded a French medal and is preserved in a museum in Washington, DC."],
 g:[["Columbidae","The bird family of pigeons and doves"],["Homing pigeon","A pigeon trained to return home from far away"],["Crop milk","A food made in a pigeon’s throat to feed its chicks"],["Feral","Living wild after being domesticated"]],
 f:["There are more than 300 species of pigeons and doves.","The dodo was a relative of pigeons.","Martha, the last passenger pigeon, died in 1914."],
-fun:"Pigeons have been trained to tell the difference between paintings by Monet and Picasso.",
-tl:"Ang kalapati ay pamilya ng ibong matatagpuan sa buong mundo. Kayang umuwi ng homing pigeon mula sa daan-daang kilometro ang layo. May mga katutubong kalapati sa Pilipinas tulad ng Luzon bleeding-heart."});
+fun:"Pigeons have been trained to tell the difference between paintings by Monet and Picasso."});
 
 ADDART({id:"rays",t:"Rays and Mantas",c:"Sea Life",i:"🐟",w:"Batoidea",r:["shark","fishes","wshark","coral","sea"],
 p:[["Flat fish","Rays are flat-bodied fish related to sharks."],["Gentle giants","Manta rays are among the largest fish, gliding with wing-like fins."],["Spiny tails","Stingrays have a sharp spine on their tail for defense."]],
@@ -74,5 +69,4 @@ s2:[["Rays in the Philippines","Philippine waters are home to manta rays, mobula
 sp:["Flying underwater","Divers who see a manta ray for the first time often describe the experience as magical. The huge, dark shape appears out of the blue, glides overhead with slow beats of its wide fins, and turns gracefully to look at the swimmers before disappearing. Sometimes mantas leap entirely out of the water, crashing back with a loud splash, behavior scientists are still trying to explain. Each manta has a unique pattern of spots on its belly, which researchers use to identify individuals in photographs and track their movements over many years."],
 g:[["Ray","A flat-bodied fish related to sharks"],["Cartilage","Flexible tissue that forms the skeleton of sharks and rays"],["Spiracle","An opening behind the eyes used for breathing"],["Plankton","Tiny organisms that drift in water"]],
 f:["Rays are related to sharks.","Manta rays can be about 7 meters wide.","Stingrays use their spines only for defense."],
-fun:"Each manta ray has a unique pattern of spots on its belly, like a fingerprint.",
-tl:"Ang pagi ay isdang patag ang katawan at kamag-anak ng pating. Ang manta ray ay isa sa pinakamalalaking isda. May mga pook sa Pilipinas, gaya ng Ticao Pass, na kilala sa manta at mobula ray."});
+fun:"Each manta ray has a unique pattern of spots on its belly, like a fingerprint."});

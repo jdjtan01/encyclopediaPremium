@@ -11,8 +11,7 @@ s2:[["The Golden Pavilion","Kinkaku-ji, the Golden Pavilion, was built in 1397 a
 sp:["The Kyoto Protocol","In December 1997, countries meeting in Kyoto agreed the Kyoto Protocol, the first international treaty in which developed countries committed to cut their greenhouse gas emissions. It came into force in 2005 and was later followed by the Paris Agreement of 2015."],
 g:[["Torii","A gate marking the entrance to a Shinto shrine"],["Maiko","An apprentice geisha in Kyoto"],["Zen","A school of Buddhism focused on meditation"],["Heian","The period of Japanese history from 794 to 1185"]],
 f:["Kyoto was Japan’s capital for over 1,000 years.","Kyoto has around 1,600 Buddhist temples.","The Golden Pavilion was rebuilt after being burned in 1950."],
-fun:"The name Kyoto simply means ‘capital city’; Tokyo means ‘eastern capital’.",
-tl:"Ang Kyoto ang dating kabisera ng Hapon at tahanan ng mga emperador nang mahigit isang libong taon. May mga 1,600 templong Budista at 400 dambanang Shinto ito, at buhay pa rito ang mga lumang tradisyon."});
+fun:"The name Kyoto simply means ‘capital city’; Tokyo means ‘eastern capital’."});
 
 ADDART({id:"hongkong",t:"Hong Kong",c:"Countries and Places",i:"🌃",w:"Hong Kong",r:["chinacountry","opium","modernchina","skyscrapers","trade"],
 p:[["A harbor city","Hong Kong is a dense, mountainous city around one of the world’s finest natural harbors."],["British and Chinese","It was a British colony for over 150 years before returning to China in 1997."],["A financial center","It is one of Asia’s leading centers of finance and trade."]],
@@ -24,8 +23,7 @@ s2:[["The Star Ferry","Since 1888, the green-and-white Star Ferry boats have car
 sp:["Dim sum","Dim sum, meaning ‘touch the heart’, are small dishes such as dumplings, buns and rice rolls, served in bamboo steamers with tea. Going for ‘yum cha’, or drinking tea, with family on weekend mornings is a Hong Kong tradition."],
 g:[["Special administrative region","A region of China with its own government and laws"],["Colony","A territory ruled by another country"],["Lease","An agreement to use land for a set time"],["Cantonese","A Chinese language spoken in Hong Kong and southern China"]],
 f:["Hong Kong means ‘fragrant harbor’.","It has over 260 islands.","The Star Ferry has crossed Victoria Harbour since 1888."],
-fun:"Hong Kong’s Central–Mid-Levels escalator is the world’s longest outdoor covered escalator system, about 800 meters long.",
-tl:"Ang Hong Kong ay masikip at bulubunduking lungsod sa paligid ng isang mahusay na daungan. Naging kolonya ito ng Britanya nang mahigit 150 taon bago ibinalik sa Tsina noong 1997, at isa itong sentro ng pananalapi sa Asya."});
+fun:"Hong Kong’s Central–Mid-Levels escalator is the world’s longest outdoor covered escalator system, about 800 meters long."});
 
 ADDART({id:"bangkok",t:"Bangkok",c:"Countries and Places",i:"🛕",w:"Bangkok",r:["thailandcountry","buddh","megacities","rivers","tourism"],
 p:[["Thailand’s capital","Bangkok is the capital and largest city of Thailand, on the Chao Phraya River."],["Temples and palaces","Its golden temples and the Grand Palace attract millions of visitors."],["The longest name","Its full ceremonial name is one of the longest place names in the world."]],
@@ -37,8 +35,7 @@ s2:[["A very long name","Bangkok’s full ceremonial name in Thai is a long poet
 sp:["The Emerald Buddha","The Emerald Buddha is a small statue, about 66 centimeters tall, carved from a single piece of green jade. Thailand’s king changes its golden costume three times a year, for the hot, rainy and cool seasons, in a royal ceremony."],
 g:[["Wat","A Buddhist temple in Thailand"],["Khlong","A canal in Thailand"],["Chakri dynasty","The royal family that has ruled Thailand since 1782"],["Tuk-tuk","A motorized three-wheeled taxi"]],
 f:["Bangkok’s Thai name, Krung Thep, means ‘city of angels’.","Wat Pho’s reclining Buddha is 46 meters long.","Bangkok has been Thailand’s capital since 1782."],
-fun:"The name Bangkok probably comes from an old village whose name referred to a kind of olive or plum tree.",
-tl:"Ang Bangkok ang kabisera at pinakamalaking lungsod ng Thailand, sa tabi ng Ilog Chao Phraya. Tanyag ang mga ginintuang templo at ang Grand Palace nito, at isa sa pinakamahahabang pangalan ng lugar sa mundo ang buong pangalang seremonyal nito."});
+fun:"The name Bangkok probably comes from an old village whose name referred to a kind of olive or plum tree."});
 
 ADDART({id:"toronto",t:"Toronto",c:"Countries and Places",i:"🍁",w:"Toronto",r:["canadacountry","megacities","migration","skyscrapers","bball"],
 p:[["Canada’s biggest city","Toronto is the largest city in Canada, on the shore of Lake Ontario."],["A city of newcomers","Nearly half its residents were born outside Canada."],["The CN Tower","Its famous tower was the world’s tallest freestanding structure for over 30 years."]],
@@ -50,8 +47,7 @@ s2:[["The CN Tower","The CN Tower, completed in 1976, is 553 meters tall. Built 
 sp:["Niagara Falls nearby","About 130 kilometers from Toronto, on the border between Canada and the United States, lie Niagara Falls, where the Niagara River plunges over a cliff. The Horseshoe Falls, on the Canadian side, are the most powerful waterfall in North America by volume of water."],
 g:[["Multicultural","Made up of many different cultures"],["Province","A large region with its own government in Canada"],["Freestanding","Standing on its own without support cables"],["Indigenous","The original inhabitants of a place"]],
 f:["Nearly half of Toronto’s residents were born outside Canada.","The CN Tower is 553 meters tall.","Toronto was called York until 1834."],
-fun:"The CN Tower is struck by lightning dozens of times a year, but its lightning rods keep it safe.",
-tl:"Ang Toronto ang pinakamalaking lungsod sa Canada, sa pampang ng Lawa ng Ontario. Halos kalahati ng mga residente nito ay isinilang sa ibang bansa, at ang CN Tower nito ang pinakamataas na nakatayong istruktura sa mundo nang mahigit 30 taon."});
+fun:"The CN Tower is struck by lightning dozens of times a year, but its lightning rods keep it safe."});
 
 ADDART({id:"jerusalem",t:"Jerusalem",c:"Countries and Places",i:"🕍",w:"Jerusalem",r:["judaism","christ","islam","crusades","middleeast"],
 p:[["A holy city","Jerusalem is sacred to Judaism, Christianity and Islam."],["Thousands of years old","It has been fought over, destroyed and rebuilt many times."],["A disputed city","Its status is one of the most contested issues in the Israeli–Palestinian conflict."]],
@@ -63,8 +59,7 @@ s2:[["The four quarters","The Old City is traditionally divided into four quarte
 sp:["The Dome of the Rock","The Dome of the Rock, with its gleaming golden dome and blue tiles, is one of the oldest surviving Islamic buildings, completed in 691–692. It covers a rock sacred to both Muslims, who believe Muhammad ascended to heaven from there, and Jews, who associate it with the site of the ancient Temple."],
 g:[["Temple Mount","The hill where the Jewish Temples stood, called Haram al-Sharif by Muslims"],["Pilgrimage","A journey to a holy place"],["Old City","The walled historic center of Jerusalem"],["Mandate","Authority given to a country to govern a territory"]],
 f:["Jerusalem’s Old City is less than one square kilometer.","The Old City walls were built by the Ottoman sultan Suleiman the Magnificent.","Jerusalem is holy to three major religions."],
-fun:"Jerusalem’s buildings are, by law, faced with local pale limestone, called Jerusalem stone, which glows golden in the sunset.",
-tl:"Ang Jerusalem ay banal na lungsod para sa Hudaismo, Kristiyanismo at Islam. Ilang ulit itong pinag-agawan, winasak at muling itinayo, at hanggang ngayon ay pinagtatalunan ang katayuan nito."});
+fun:"Jerusalem’s buildings are, by law, faced with local pale limestone, called Jerusalem stone, which glows golden in the sunset."});
 
 ADDART({id:"magnacarta",t:"Magna Carta",c:"History",i:"📜",w:"Magna Carta",r:["law","democ","hrights","medieurope","ukcountry"],
 p:[["The Great Charter","Magna Carta was an agreement made in England in 1215 between King John and rebel barons."],["No one above the law","It set out the idea that even the king must obey the law."],["A lasting symbol","It inspired later ideas of rights and constitutions around the world."]],
@@ -76,8 +71,7 @@ s2:[["The surviving copies","Copies of Magna Carta were written by scribes and s
 sp:["Clause 39","Clause 39 stated that no free man should be seized, imprisoned, stripped of his rights or possessions, outlawed, exiled or otherwise ruined, except by the lawful judgment of his peers or by the law of the land. At the time, ‘free men’ were a minority, but the idea grew into the right to a fair trial for everyone."],
 g:[["Charter","A written grant of rights or privileges"],["Baron","A powerful noble who held land from the king"],["Clause","A section of a legal document"],["Annul","To declare something no longer valid"]],
 f:["Magna Carta was written in Latin.","Four original copies from 1215 survive.","Three of its clauses are still part of English law."],
-fun:"King John did not sign Magna Carta; it was sealed with his royal seal.",
-tl:"Ang Magna Carta ay kasunduang ginawa sa Inglatera noong 1215 sa pagitan ni Haring John at ng mga baron na naghimagsik. Itinakda nito na kahit ang hari ay dapat sumunod sa batas, at nagbigay-inspirasyon ito sa mga konstitusyon sa buong mundo."});
+fun:"King John did not sign Magna Carta; it was sealed with his royal seal."});
 
 ADDART({id:"babylon",t:"Babylon",c:"History",i:"🦁",w:"Babylon",r:["mesop","persia","alexander","writing","judaism"],
 p:[["A great ancient city","Babylon was one of the largest and most famous cities of the ancient world, in Mesopotamia."],["Laws and learning","King Hammurabi’s law code and Babylonian astronomy shaped later civilizations."],["Gates and gardens","Nebuchadnezzar II built the blue Ishtar Gate and, legend says, the Hanging Gardens."]],
@@ -89,8 +83,7 @@ s2:[["The Ishtar Gate","The Ishtar Gate, built around 575 BC, was one of eight g
 sp:["Counting in sixties","The Babylonians counted in groups of 60, probably because 60 can be divided evenly in many ways: by 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30. This system survives today in how we measure time in hours, minutes and seconds, and angles in degrees."],
 g:[["Mesopotamia","The ancient land between the Tigris and Euphrates rivers"],["Ziggurat","A stepped temple tower of ancient Mesopotamia"],["Law code","A written collection of laws"],["Exile","Being forced to live away from one’s home country"]],
 f:["Hammurabi’s law code contains 282 laws.","We divide an hour into 60 minutes because of Babylonian mathematics.","The Ishtar Gate was decorated with lions, bulls and dragons."],
-fun:"Babylonian scribes wrote down the oldest known recipes, on clay tablets about 3,700 years ago.",
-tl:"Ang Babylon ay isa sa pinakamalalaki at pinakatanyag na lungsod noong sinaunang panahon, sa Mesopotamia. Kilala ito sa kodigo ng batas ni Hammurabi, sa astronomiya at sa asul na Ishtar Gate ni Nebuchadnezzar II."});
+fun:"Babylonian scribes wrote down the oldest known recipes, on clay tablets about 3,700 years ago."});
 
 ADDART({id:"minoans",t:"The Minoans",c:"History",i:"🐂",w:"Minoan civilization",r:["greece","greececountry","phoenicians","volc","writing"],
 p:[["Europe’s first great civilization","The Minoans built a rich Bronze Age civilization on the Greek island of Crete."],["Palaces and paintings","They built great palaces such as Knossos, decorated with bright frescoes."],["A lost script","Their writing, Linear A, has never been deciphered."]],
@@ -102,8 +95,7 @@ s2:[["The minotaur","Greek legend told of the Minotaur, a monster half man and h
 sp:["Bull-leaping","One of the most famous Minoan frescoes shows young athletes grasping the horns of a charging bull and somersaulting over its back. Whether this was a sport, a religious ritual or both is unknown, but bulls clearly held great importance in Minoan culture."],
 g:[["Bronze Age","The period when people made tools and weapons of bronze"],["Fresco","A painting made on wet plaster"],["Labyrinth","A complex maze"],["Decipher","To work out the meaning of a script or code"]],
 f:["Linear A has never been deciphered.","The palace of Knossos had over a thousand rooms.","The Minoans had drains and flushing water systems."],
-fun:"The name Minoan was invented by archaeologist Arthur Evans; we do not know what the Minoans called themselves.",
-tl:"Ang mga Minoan ay nagtayo ng mayamang sibilisasyon noong Panahon ng Tanso sa pulo ng Crete sa Gresya. Nagtayo sila ng malalaking palasyo gaya ng Knossos na may makukulay na pinta, at hindi pa rin nababasa ang kanilang sulat na Linear A."});
+fun:"The name Minoan was invented by archaeologist Arthur Evans; we do not know what the Minoans called themselves."});
 
 ADDART({id:"olmecs",t:"The Olmecs",c:"History",i:"🗿",w:"Olmecs",r:["maya","aztec","mexicocountry","archaeology","writing"],
 p:[["The first great civilization of Mexico","The Olmecs flourished on Mexico’s Gulf Coast about 3,000 years ago."],["Colossal heads","They carved giant stone heads, some taller than a person."],["Influencing others","Many later Mesoamerican cultures shared ideas that appear first among the Olmecs."]],
@@ -115,8 +107,7 @@ s2:[["Finding the first head","In 1862, a farm worker in Veracruz found what he 
 sp:["The were-jaguar","Many Olmec carvings show a figure with a baby-like face, a snarling mouth and jaguar features, called a ‘were-jaguar’ by archaeologists. It may represent a god or a spirit connected with rain, rulers or the power of transformation between human and animal."],
 g:[["Mesoamerica","The region of ancient civilizations in Mexico and Central America"],["Basalt","A hard, dark volcanic rock"],["Jade","A hard green stone prized for carving"],["Stela","A carved upright stone slab"]],
 f:["The largest Olmec heads weigh around 40 metric tons.","Seventeen colossal heads have been found.","The name Olmec means ‘rubber people’."],
-fun:"Each Olmec colossal head has a different face, as if they were portraits of real people.",
-tl:"Ang mga Olmec ang unang malaking sibilisasyon sa Mesoamerica, sa baybayin ng Golpo ng Mexico mga 3,000 taon na ang nakararaan. Kilala sila sa malalaking ulong bato, at maraming sumunod na kultura ang nagmana ng kanilang mga ideya."});
+fun:"Each Olmec colossal head has a different face, as if they were portraits of real people."});
 
 ADDART({id:"songhai",t:"The Songhai Empire",c:"History",i:"🏜️",w:"Songhai Empire",r:["mali","mansamusa","islam","sahel","africacolon"],
 p:[["A West African giant","The Songhai Empire was one of the largest empires in African history."],["Along the Niger","It controlled trade along the Niger River and across the Sahara."],["Cities of learning","Timbuktu and Gao were centers of trade and Islamic scholarship."]],
@@ -128,8 +119,7 @@ s2:[["Salt for gold","In West Africa, salt was so valuable that it was traded we
 sp:["River power","The Songhai used the Niger River as a highway. Their war canoes and boats carried soldiers and goods, and control of the river allowed them to tax trade and move armies quickly across their vast lands."],
 g:[["Sahel","The semi-arid region just south of the Sahara"],["Caravan","A group of traders traveling together, often with camels"],["Askia","The title of the rulers of the second Songhai dynasty"],["Manuscript","A book or document written by hand"]],
 f:["Songhai was one of the largest empires in African history.","Its capital was Gao, on the Niger River.","Salt was traded for gold in its markets."],
-fun:"Timbuktu became so famous in Europe that its name is still used to mean a faraway, almost mythical place.",
-tl:"Ang Imperyong Songhai ay isa sa pinakamalalaking imperyo sa kasaysayan ng Africa, sa kahabaan ng Ilog Niger. Kinontrol nito ang kalakalan sa Sahara, at naging sentro ng kalakalan at karunungang Islamiko ang Timbuktu at Gao."});
+fun:"Timbuktu became so famous in Europe that its name is still used to mean a faraway, almost mythical place."});
 
 ADDART({id:"zulu",t:"The Zulu Kingdom",c:"History",i:"🛡️",w:"Zulu Kingdom",r:["southafricacountry","africacolon","apartheid","mandela","martial"],
 p:[["A southern African power","The Zulu Kingdom rose to power in southeastern Africa in the early 1800s."],["Shaka’s army","King Shaka built a powerful army with new weapons and tactics."],["War with Britain","In 1879, Zulu forces defeated a British army at Isandlwana before the kingdom was conquered."]],
@@ -141,8 +131,7 @@ s2:[["Isandlwana","At Isandlwana, around 20,000 Zulu warriors attacked a British
 sp:["The Reed Dance","Every September, tens of thousands of young Zulu women take part in the Umkhosi woMhlanga, or Reed Dance, at the royal palace, carrying tall reeds to present to the king. The ceremony celebrates Zulu culture and womanhood and is one of the largest cultural gatherings in southern Africa."],
 g:[["Regiment","A large unit of an army"],["Kraal","A traditional enclosure for homes or cattle"],["Voortrekkers","Dutch-speaking settlers who moved inland from the Cape in the 1830s"],["isiZulu","The language of the Zulu people"]],
 f:["isiZulu is the most widely spoken home language in South Africa.","Zulu forces won the Battle of Isandlwana in 1879.","Shaka ruled the Zulu for about 12 years."],
-fun:"The word Zulu means ‘heaven’ or ‘sky’ in isiZulu, and amaZulu means ‘people of the heavens’.",
-tl:"Ang Kahariang Zulu ay naging makapangyarihan sa timog-silangang Africa noong unang bahagi ng 1800. Nagtayo si Haring Shaka ng malakas na hukbo, at noong 1879 ay tinalo ng mga Zulu ang isang hukbong British sa Isandlwana bago sila nasakop."});
+fun:"The word Zulu means ‘heaven’ or ‘sky’ in isiZulu, and amaZulu means ‘people of the heavens’."});
 
 ADDART({id:"inuit",t:"The Inuit",c:"Society",i:"🛶",w:"Inuit",r:["arctic","tundra","greenland","canadacountry","indigrelig"],
 p:[["People of the Arctic","The Inuit are Indigenous peoples of the Arctic in Greenland, Canada and Alaska."],["Clever inventions","They invented the kayak, the snow house and warm, waterproof clothing."],["Self-government","Inuit lead their own governments in Nunavut, Greenland and other regions."]],
@@ -154,8 +143,7 @@ s2:[["The inuksuk","An inuksuk is a stone figure built by stacking rocks, someti
 sp:["Snow houses","An igloo built from blocks of firm snow can be surprisingly warm. Snow is a good insulator, and a small entrance tunnel set lower than the living area traps warm air inside. With body heat and a seal-oil lamp, the inside could be many degrees warmer than the freezing air outside."],
 g:[["Inuk","One Inuit person"],["Kayak","A small, narrow boat moved with a double-bladed paddle"],["Inuksuk","A stone landmark built by the Inuit"],["Nunavut","A Canadian territory governed mainly by Inuit"]],
 f:["The parka and the kayak are Inuit inventions.","Nunavut means ‘our land’ in Inuktitut.","One person is an Inuk; Inuit means ‘the people’."],
-fun:"Inuit snow goggles, carved from bone or wood with narrow slits, protected eyes from snow glare long before sunglasses existed.",
-tl:"Ang mga Inuit ay mga katutubo ng Arctic sa Greenland, Canada at Alaska. Sila ang nag-imbento ng kayak, ng bahay na niyebe at ng mainit na damit, at pinamumunuan nila ang sarili nilang pamahalaan sa Nunavut at Greenland."});
+fun:"Inuit snow goggles, carved from bone or wood with narrow slits, protected eyes from snow glare long before sunglasses existed."});
 
 ADDART({id:"maori",t:"The Māori",c:"Society",i:"🛶",w:"Māori people",r:["nzcountry","polynesia","indigrelig","ships","olymp"],
 p:[["New Zealand’s first people","The Māori are the Indigenous Polynesian people of New Zealand, or Aotearoa."],["Great voyagers","Their ancestors sailed across the Pacific in canoes around 700 years ago."],["A living culture","Te reo Māori, the haka and tā moko tattoos are part of New Zealand life today."]],
@@ -167,8 +155,7 @@ s2:[["The haka","The haka is a ceremonial dance with chanting, stamping, facial 
 sp:["Waka navigation","Modern voyagers have revived traditional Polynesian navigation, sailing double-hulled canoes across the Pacific without instruments, reading the stars, swells and birds. These voyages have proved how the ancestors of the Māori could find tiny islands in the vast ocean."],
 g:[["Iwi","A Māori tribe"],["Marae","A Māori meeting ground and community center"],["Waka","A Māori canoe"],["Te reo Māori","The Māori language"]],
 f:["The Māori arrived in New Zealand around 1250–1300.","Te reo Māori has been an official language since 1987.","Waitangi Day, 6 February, is New Zealand’s national day."],
-fun:"Many New Zealanders greet each other with ‘kia ora’, a Māori phrase meaning ‘be well’ or ‘hello’.",
-tl:"Ang mga Māori ang katutubong Polynesian ng New Zealand o Aotearoa. Naglayag ang kanilang mga ninuno sa Pasipiko sakay ng mga bangka mga 700 taon na ang nakararaan, at bahagi ng buhay sa New Zealand ngayon ang kanilang wika, haka at tā moko."});
+fun:"Many New Zealanders greet each other with ‘kia ora’, a Māori phrase meaning ‘be well’ or ‘hello’."});
 
 ADDART({id:"aboriginal",t:"Aboriginal and Torres Strait Islander Peoples",c:"Society",i:"🪃",w:"Aboriginal Australians",r:["australiacountry","caveart","indigrelig","hrights","constellations"],
 p:[["Australia’s First Peoples","Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 50,000 years."],["Oldest living cultures","They belong to the oldest continuous cultures on Earth."],["Many nations","Before colonization, there were over 250 language groups across the continent."]],
@@ -180,8 +167,7 @@ s2:[["Uluru","Uluru, a giant red sandstone rock in central Australia, is sacred 
 sp:["The flags","The Aboriginal flag, designed by Luritja artist Harold Thomas in 1971, is black for the people, red for the earth and a yellow circle for the sun. The Torres Strait Islander flag, designed in 1992, features a white dhari, a traditional headdress, with a star. Both are official flags of Australia."],
 g:[["Country","The land, waters and skies to which a people are connected"],["Dreaming","Beliefs about creation, law and ancestral beings"],["Native title","Recognition of Indigenous rights to land"],["Stolen Generations","Children forcibly removed from their families"]],
 f:["Aboriginal cultures are among the oldest continuous cultures on Earth.","More than 250 languages were spoken in Australia in 1788.","Climbing Uluru has been banned since 2019."],
-fun:"The boomerang that returns to the thrower was mainly used for sport and play; hunting boomerangs were usually designed not to return.",
-tl:"Ang mga Aboriginal at Torres Strait Islander ang mga unang tao ng Australia, na naninirahan doon nang hindi bababa sa 50,000 taon. Kabilang sila sa pinakamatatandang tuloy-tuloy na kultura sa mundo, at mahigit 250 wika ang sinasalita bago ang kolonisasyon."});
+fun:"The boomerang that returns to the thrower was mainly used for sport and play; hunting boomerangs were usually designed not to return."});
 
 ADDART({id:"sumo",t:"Sumo",c:"How We Live",i:"🤼",w:"Sumo",r:["japancountry","shinto","martial","japan","olymp"],
 p:[["Japan’s national sport","Sumo is a form of wrestling in which two wrestlers try to push each other out of a ring."],["Ancient rituals","Matches include Shinto rituals such as throwing salt to purify the ring."],["Living the life","Professional wrestlers live and train together in stables under strict rules."]],
@@ -193,8 +179,7 @@ s2:[["Foreign champions","Since the 1990s, wrestlers from outside Japan have ris
 sp:["The topknot","Sumo wrestlers grow their hair long and wear it in a topknot called a chonmage, a hairstyle of the samurai era. The topknot is cut off in a special ceremony when a wrestler retires, often with hundreds of guests each taking a symbolic snip."],
 g:[["Rikishi","A sumo wrestler"],["Dohyō","The sumo ring"],["Mawashi","The belt worn by sumo wrestlers"],["Yokozuna","The highest rank in sumo"]],
 f:["Sumo bouts often last only a few seconds.","The sumo ring is 4.55 meters across.","Sumo has no weight classes."],
-fun:"Sumo wrestlers throw salt into the ring before each bout; top wrestlers can throw several hundred grams at a time.",
-tl:"Ang sumo ay uri ng pakikipagbuno sa Hapon kung saan sinisikap ng dalawang mambubuno na itulak ang isa’t isa palabas ng bilog. May mga ritwal itong Shinto gaya ng paghahagis ng asin, at ito ang pambansang laro ng Hapon."});
+fun:"Sumo wrestlers throw salt into the ring before each bout; top wrestlers can throw several hundred grams at a time."});
 
 ADDART({id:"gymnastics",t:"Gymnastics",c:"How We Live",i:"🤸",w:"Gymnastics",r:["olymp","athletics","exercise","greece","bones"],
 p:[["Strength and grace","Gymnastics combines strength, flexibility, balance and control."],["Many events","Gymnasts compete on apparatus such as the beam, rings, bars and floor."],["An Olympic favorite","It has been part of the modern Olympic Games since 1896."]],
@@ -206,8 +191,7 @@ s2:[["The perfect 10","At the 1976 Montreal Olympics, 14-year-old Nadia Comănec
 sp:["Skills named after gymnasts","When a gymnast is the first to perform a new skill successfully at a major competition, it can be named after them. There are skills named after gymnasts from countries around the world, from the Yurchenko vault, named after Soviet gymnast Natalia Yurchenko, to several ‘Biles’ elements."],
 g:[["Apparatus","The equipment used in gymnastics, such as the beam or rings"],["Routine","A planned sequence of skills"],["All-around","A competition combining all events"],["Vault","An event where gymnasts spring off a table into flips and twists"]],
 f:["The word gymnastics comes from a Greek word meaning ‘naked’.","The balance beam is only 10 centimeters wide.","Nadia Comăneci scored the first Olympic perfect 10 in 1976."],
-fun:"When Nadia Comăneci scored her perfect 10, the scoreboard showed 1.00 because it could not display a 10.",
-tl:"Ang himnastiko ay larong pinagsasama ang lakas, pagkabaluktot, balanse at kontrol. Gumagamit ang mga gymnast ng beam, rings, bars at floor, at bahagi ito ng modernong Olympics mula pa noong 1896."});
+fun:"When Nadia Comăneci scored her perfect 10, the scoreboard showed 1.00 because it could not display a 10."});
 
 ADDART({id:"steel",t:"Iron and Steel",c:"Technology",i:"⚙️",w:"Steel",r:["metals","indrev","bridges","skyscrapers","concrete"],
 p:[["The metal of the modern world","Steel, made mostly from iron, is the world’s most important building metal."],["From the Iron Age","People have smelted iron for over 3,000 years."],["Cleaner steel","Steelmaking produces a lot of carbon dioxide, so new low-carbon methods are being developed."]],
@@ -219,8 +203,7 @@ s2:[["Tutankhamun’s dagger","One of the daggers found in Tutankhamun’s tomb,
 sp:["Recycling steel","Steel is magnetic, so it is easy to separate from other waste, and it can be melted and reused again and again without losing quality. Old cars, cans, appliances and buildings are recycled into new steel, saving energy and raw materials."],
 g:[["Ore","Rock from which a metal can be extracted"],["Smelting","Heating ore to extract metal"],["Alloy","A mixture of a metal with other elements"],["Blast furnace","A tall furnace for making iron from ore"]],
 f:["Steel is the most recycled material in the world.","China produces more than half of the world’s steel.","Stainless steel was invented in 1913."],
-fun:"Your blood is red because of iron in hemoglobin, the molecule that carries oxygen.",
-tl:"Ang bakal at asero ang pinakamahalagang metal sa pagtatayo sa makabagong mundo. Mahigit 3,000 taon nang tinutunaw ng tao ang bakal, at gumagawa ngayon ng mas malinis na paraan ng paggawa ng asero dahil malaki ang ambag nito sa carbon dioxide."});
+fun:"Your blood is red because of iron in hemoglobin, the molecule that carries oxygen."});
 
 ADDART({id:"glass",t:"Glass",c:"Technology",i:"🔍",w:"Glass",r:["stainedglass","fiberoptics","scope","venice","recycling"],
 p:[["Melted sand","Glass is made mainly by melting sand at very high temperatures."],["A clear invention","People have made glass for about 4,500 years."],["Everywhere today","Windows, bottles, screens, lenses and fiber optic cables all use glass."]],
@@ -232,8 +215,7 @@ s2:[["Obsidian","Obsidian is a natural black volcanic glass that forms when lava
 sp:["Gorilla Glass","The tough glass on many smartphone screens is made by dipping glass in a bath of hot molten salt, which swaps small sodium atoms in its surface for larger potassium atoms. This squeezes the surface, making it much harder to crack or scratch."],
 g:[["Silica","A compound of silicon and oxygen, the main part of sand"],["Amorphous","Without a regular crystal structure"],["Glassblowing","Shaping molten glass by blowing air into it through a tube"],["Obsidian","Natural volcanic glass"]],
 f:["Glass is made mainly from sand.","Glass can be recycled endlessly.","Lightning striking sand can form natural glass tubes called fulgurites."],
-fun:"Old church windows are thicker at the bottom not because glass flows, but because of how glass was made centuries ago.",
-tl:"Ang salamin ay gawa sa buhanging tinunaw sa napakataas na temperatura. Mga 4,500 taon nang gumagawa ang tao ng salamin, at ginagamit ito ngayon sa bintana, bote, screen, lente at fiber optic."});
+fun:"Old church windows are thicker at the bottom not because glass flows, but because of how glass was made centuries ago."});
 
 ADDART({id:"salmon",t:"Salmon",c:"Animals and Nature",i:"🐟",w:"Salmon",r:["fishes","bear","rivers","birdmigr","fish"],
 p:[["Fish of two worlds","Salmon hatch in rivers, grow up in the ocean and return to rivers to breed."],["Amazing journeys","They swim hundreds or thousands of kilometers upstream to the stream where they were born."],["Feeding forests","Bears, eagles and even trees depend on salmon runs."]],
@@ -245,8 +227,7 @@ s2:[["Bears and forests","When salmon swim upstream, bears catch them and often 
 sp:["Leaping salmon","Salmon can leap more than 3 meters out of the water to clear waterfalls and rapids on their way upstream. Where dams block their path, people build fish ladders, a series of small pools rising like steps, so the fish can jump from one to the next."],
 g:[["Anadromous","Living in the sea but breeding in fresh water"],["Spawn","To lay and fertilize eggs"],["Smolt","A young salmon ready to move to the sea"],["Fish ladder","A series of pools that help fish pass a dam"]],
 f:["Pacific salmon die after spawning.","Salmon can leap more than 3 meters.","Salmon use smell to find their home stream."],
-fun:"The pink color of salmon flesh comes from pigments in the shrimp and krill they eat.",
-tl:"Ang salmon ay isdang napipisa sa ilog, lumalaki sa karagatan at bumabalik sa ilog upang mangitlog. Lumalangoy sila nang daan-daan o libu-libong kilometro pabalik sa sapang pinagmulan nila, at umaasa sa kanila ang mga oso, agila at maging ang kagubatan."});
+fun:"The pink color of salmon flesh comes from pigments in the shrimp and krill they eat."});
 
 ADDART({id:"lighthouses",t:"Lighthouses",c:"Technology",i:"🗼",w:"Lighthouse",r:["ships","coasts","egypt","scope","gps"],
 p:[["Lights for sailors","Lighthouses are towers with powerful lights that guide ships and warn of danger."],["Ancient wonders","The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World."],["Automated today","Most lighthouses now run automatically, without keepers."]],
@@ -258,5 +239,4 @@ s2:[["Grace Darling","In 1838, Grace Darling, the daughter of a lighthouse keepe
 sp:["Reading the lights","Every lighthouse has a characteristic shown on nautical charts, such as one white flash every 10 seconds, or groups of red flashes. By timing the flashes, sailors can tell exactly which lighthouse they are seeing and work out their position."],
 g:[["Characteristic","The unique pattern of flashes of a lighthouse"],["Fresnel lens","A lens made of rings of prisms that focuses light into a beam"],["Keeper","A person who looked after a lighthouse"],["Lightship","A ship anchored where a lighthouse cannot be built"]],
 f:["The Pharos of Alexandria was one of the Seven Wonders of the Ancient World.","The Tower of Hercules has guided ships for nearly 2,000 years.","Fresnel lenses can send light over 30 kilometers."],
-fun:"Some lighthouses also have foghorns that sound in thick fog, each with its own pattern of blasts.",
-tl:"Ang parola ay toreng may malakas na ilaw na gumagabay sa mga barko at nagbababala ng panganib. Isa sa Pitong Kababalaghan ng Sinaunang Mundo ang Parola ng Alexandria, at karamihan sa mga parola ngayon ay awtomatiko na."});
+fun:"Some lighthouses also have foghorns that sound in thick fog, each with its own pattern of blasts."});

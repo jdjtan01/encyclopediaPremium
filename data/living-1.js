@@ -9,8 +9,7 @@ s2:[["Why black and white?","Scientists think the panda’s coloring helps it hi
 sp:["Eating all day","A wild panda spends up to 14 hours a day eating and most of the rest sleeping. Because it digests only about a fifth of what it eats, it produces a great deal of droppings, sometimes more than 100 a day. Scientists collect these droppings to study pandas’ diet, health and DNA without disturbing them."],
 g:[["Carnivore","An animal that belongs to the meat-eating order, though some, like pandas, eat plants"],["Reserve","A protected area for wildlife"],["Umbrella species","A species whose protection also protects many others"],["Corridor","A strip of habitat linking separate areas"]],
 f:["Giant pandas eat bamboo for up to 14 hours a day.","A newborn panda weighs about as much as a small apple.","The red panda is not closely related to the giant panda."],
-fun:"A newborn giant panda is about 900 times smaller than its mother.",
-tl:"Ang giant panda ay osong itim at puti na nakatira sa kabundukan ng gitnang Tsina at kumakain halos puro kawayan. Dahil sa pangangalaga, dumami ang bilang nito at hindi na ito itinuturing na endangered."});
+fun:"A newborn giant panda is about 900 times smaller than its mother."});
 
 ADDART({id:"cheetah",t:"Cheetahs",c:"Animals and Nature",i:"🐆",w:"Cheetah",r:["lion","tiger","kenyacountry","eco"],
 p:[["The fastest land animal","The cheetah can sprint at up to about 100 kilometers per hour, faster than any other land animal."],["Built for speed","Its light body, long legs, flexible spine and long tail make it a perfect sprinter."],["In danger","Only about 7,000 cheetahs remain in the wild, mostly in eastern and southern Africa."]],
@@ -22,8 +21,7 @@ s2:[["Cheetahs and people","For thousands of years, rulers in Egypt, Persia and 
 sp:["Faster than a car","A cheetah can go from standing still to about 95 kilometers per hour in roughly three seconds, as fast as many high-performance cars. During a sprint its feet touch the ground only briefly, and for parts of each stride all four feet are in the air. Scientists have studied cheetah movement to design faster, more agile running robots."],
 g:[["Savanna","Tropical grassland with scattered trees"],["Coalition","A small group of male cheetahs, often brothers, that live together"],["Genetic diversity","Variety in the genes of a population"],["Predator","An animal that hunts other animals"]],
 f:["The cheetah is the fastest land animal.","Cheetahs cannot roar, but they can purr and chirp.","Fewer than 30 Asiatic cheetahs may survive, all in Iran."],
-fun:"Cheetah cubs’ fluffy fur may help them look like fierce honey badgers.",
-tl:"Ang cheetah ang pinakamabilis na hayop sa lupa, kayang tumakbo nang mga 100 kilometro bawat oras. Nakatira ito sa mga damuhan ng Africa, at mga 7,000 na lamang ang natitira sa ilang."});
+fun:"Cheetah cubs’ fluffy fur may help them look like fierce honey badgers."});
 
 ADDART({id:"camel",t:"Camels",c:"Animals and Nature",i:"🐫",w:"Camel",r:["desert","sahara","saudicountry","mali"],
 p:[["Ships of the desert","Camels are large mammals adapted to deserts, able to travel long distances with little water."],["One hump or two","Dromedaries have one hump and live mainly in Africa and Arabia; Bactrian camels have two and live in Central Asia."],["Partners of people","For thousands of years camels have carried goods and people and provided milk, meat and wool."]],
@@ -35,8 +33,7 @@ s2:[["Caravans and trade","Camels transformed trade in Africa and Asia. Caravans
 sp:["Arctic camels","Fossils found in the Canadian Arctic show that giant camels lived there about 3.5 million years ago, when the region was warmer and forested but still had long, freezing winters. Some scientists think that features such as humps of fat and wide feet first helped camels survive cold, snowy winters, and only later helped them in hot deserts."],
 g:[["Dromedary","The one-humped camel"],["Bactrian camel","The two-humped camel of Central Asia"],["Caravan","A group of travelers and animals crossing a desert together"],["Feral","Once domesticated, now living wild"]],
 f:["A camel’s hump stores fat, not water.","A thirsty camel can drink over 100 liters in minutes.","Australia has the largest herd of wild camels in the world."],
-fun:"A camel’s hump stores fat, not water.",
-tl:"Ang kamelyo ay malaking hayop na nabubuhay sa disyerto at kayang maglakbay nang malayo nang kaunti ang tubig. Taba ang laman ng umbok nito, hindi tubig. Matagal na itong katuwang ng tao sa pagdadala ng kalakal."});
+fun:"A camel’s hump stores fat, not water."});
 
 ADDART({id:"hippo",t:"Hippopotamuses",c:"Animals and Nature",i:"🦛",w:"Hippopotamus",r:["whale","elephant","nile","eco"],
 p:[["River horse","The name hippopotamus means river horse in Greek, but hippos are more closely related to whales."],["Huge and heavy","Adult hippos can weigh more than 1,500 kilograms, making them among the largest land animals."],["Dangerous","Hippos are aggressive and responsible for many deaths of people in Africa each year."]],
@@ -48,5 +45,4 @@ s2:[["Cousins of whales","Genetic and fossil evidence shows that the closest liv
 sp:["Moo Deng","In July 2024, a pygmy hippo calf named Moo Deng, meaning bouncy pork in Thai, was born at Khao Kheow Open Zoo in Thailand. Videos of her playful and sometimes grumpy behavior spread around the world online, drawing huge crowds to the zoo. Her fame helped draw attention to the endangered pygmy hippopotamus in the wild."],
 g:[["Semi-aquatic","Living partly in water and partly on land"],["Territorial","Defending an area against others"],["Pygmy","A smaller form of an animal"],["Graze","To feed on growing grass"]],
 f:["Hippos are more closely related to whales than to horses.","A hippo can hold its breath for about five minutes.","Hippo skin makes its own red sunscreen."],
-fun:"Hippos make their own reddish sunscreen.",
-tl:"Ang hippopotamus ay malaking hayop sa Africa na naninirahan sa mga ilog at lawa. Mas malapit itong kamag-anak ng balyena kaysa kabayo, at isa ito sa pinakamapanganib na hayop sa Africa."});
+fun:"Hippos make their own reddish sunscreen."});

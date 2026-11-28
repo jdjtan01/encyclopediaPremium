@@ -9,8 +9,7 @@ s2:[["How democracy failed","Germany’s Weimar Republic was weakened by defeat,
 sp:["The Nuremberg trials","From 1945 to 1946, an international court at Nuremberg tried leading Nazis for war crimes and crimes against humanity. Twelve were sentenced to death. The trials established that following orders is no excuse for atrocities and shaped modern international law."],
 g:[["Dictator","A ruler with total power, not limited by law or elections"],["Chancellor","The head of government in Germany"],["Propaganda","Information spread to persuade, often misleading"],["Genocide","The deliberate destruction of a people"]],
 f:["Hitler was Austrian by birth and became a German citizen only in 1932.","The Nazis never won a majority in a free election; their best result was about 37 percent.","Hitler was rejected twice by an art academy in Vienna."],
-fun:"The word ‘Nazi’ comes from the first part of Nationalsozialist, the party’s name in German.",
-tl:"Si Adolf Hitler ang diktador ng Germany mula 1933 hanggang 1945 at pinuno ng Partidong Nazi. Sinimulan ng kaniyang pagsalakay sa Poland ang Ikalawang Digmaang Pandaigdig sa Europa, at pinatay ng kaniyang rehimen ang mga anim na milyong Hudyo sa Holocaust."});
+fun:"The word ‘Nazi’ comes from the first part of Nationalsozialist, the party’s name in German."});
 
 ADDART({id:"stalin",t:"Joseph Stalin",c:"People",i:"📕",w:"Joseph Stalin",r:["lenin","socialism","coldwar","gulag","ww2","stalingrad"],
 p:[["Soviet dictator","Joseph Stalin ruled the Soviet Union from the late 1920s until 1953."],["Industry and terror","He turned the country into an industrial power at the cost of millions of lives."],["War leader","He led the Soviet Union to victory over Nazi Germany."]],
@@ -22,8 +21,7 @@ s2:[["Cult of personality","Stalin was shown as a wise, all-knowing father of th
 sp:["Khrushchev’s secret speech","On 25 February 1956, Nikita Khrushchev told a closed meeting of the Communist Party that Stalin had committed crimes and built a cult of personality. The speech shocked communists around the world, led to the release of many prisoners and was followed by the removal of Stalin’s body from Lenin’s tomb in 1961."],
 g:[["Collectivization","Forcing private farms into large state-controlled farms"],["Purge","Removing people seen as disloyal, often by killing or imprisoning them"],["Show trial","A public trial held for propaganda, with the verdict decided in advance"],["Gulag","The Soviet system of forced labor camps"]],
 f:["Stalin chose his name from the Russian word stal, meaning steel.","Stalingrad, scene of a turning-point battle in World War II, was renamed Volgograd in 1961.","Stalin was from Georgia, not Russia, and spoke Russian with a Georgian accent."],
-fun:"Soviet photo retouchers became so skilled at erasing Stalin’s fallen rivals that some pictures were changed several times.",
-tl:"Si Joseph Stalin ang pinuno ng Unyong Sobyet mula huling bahagi ng dekada 1920 hanggang 1953. Mabilis niyang pinaunlad ang industriya, ngunit milyon-milyon ang namatay sa taggutom, pagpatay at mga kampo ng Gulag. Pinamunuan din niya ang bansa sa tagumpay laban sa Nazi Germany."});
+fun:"Soviet photo retouchers became so skilled at erasing Stalin’s fallen rivals that some pictures were changed several times."});
 
 ADDART({id:"mussolini",t:"Benito Mussolini",c:"People",i:"📕",w:"Benito Mussolini",r:["fascism","ww2","hitler","italycountry","propaganda"],
 p:[["Founder of fascism","Benito Mussolini founded Italian fascism and ruled Italy from 1922 to 1943."],["Ally of Hitler","He joined Nazi Germany in World War II."],["Downfall","He was overthrown in 1943 and killed in 1945."]],
@@ -35,8 +33,7 @@ s2:[["The word ‘fascism’","Fascism comes from the Italian fascio, a bundle, 
 sp:["Italy after fascism","In 1946 Italians voted in a referendum to abolish the monarchy, which had cooperated with Mussolini, and became a republic. The 1948 constitution bans reorganizing the Fascist Party, though neo-fascist groups have continued to exist."],
 g:[["Fascism","A far-right system based on extreme nationalism and a dictator"],["Blackshirts","Mussolini’s armed fascist squads"],["Partisans","Armed resistance fighters"],["Puppet state","A government controlled by a foreign power"]],
 f:["Mussolini was a journalist before becoming a politician.","Vatican City was created by an agreement between Mussolini’s government and the Pope in 1929.","Hitler admired Mussolini and copied ideas from Italian fascism."],
-fun:"Before entering politics, Mussolini worked as a schoolteacher and wrote a romance novel.",
-tl:"Si Benito Mussolini ang nagtatag ng pasismo at naging diktador ng Italya mula 1922 hanggang 1943. Naging kakampi siya ni Hitler sa Ikalawang Digmaang Pandaigdig, pinatalsik noong 1943 at pinatay ng mga partisano noong 1945."});
+fun:"Before entering politics, Mussolini worked as a schoolteacher and wrote a romance novel."});
 
 ADDART({id:"polpot",t:"Pol Pot and the Khmer Rouge",c:"History",i:"📕",w:"Pol Pot",r:["genocide","vietnam","coldwar","mao","culturalrev"],
 p:[["A deadly regime","The Khmer Rouge ruled Cambodia from 1975 to 1979 under Pol Pot."],["Emptying the cities","They forced people into the countryside to build a farming society."],["Mass death","About 1.5 to 2 million people died, nearly a quarter of the population."]],
@@ -48,8 +45,7 @@ s2:[["Remembering","Tuol Sleng is now a genocide museum, and the Choeung Ek kill
 sp:["Land mines","Decades of war left millions of land mines in Cambodia, especially near the Thai border. They have killed and injured tens of thousands of people. Demining groups have cleared huge areas, and trained rats that can sniff out explosives have helped speed up the work."],
 g:[["Khmer Rouge","‘Red Khmers’, Cambodia’s communist movement"],["Cadre","A trained member of a political movement"],["Killing fields","Sites of mass executions and graves in Cambodia"],["Tribunal","A court set up to try particular crimes"]],
 f:["The Khmer Rouge abolished money, markets and schools.","Only a handful of the thousands of prisoners held at S-21 survived.","Pol Pot was never tried; he died in 1998."],
-fun:"A landmine-detecting rat named Magawa, who sniffed out more than 100 land mines and unexploded bombs in Cambodia, received a gold medal for animal bravery in 2020.",
-tl:"Pinamunuan ni Pol Pot ang Khmer Rouge na namahala sa Cambodia mula 1975 hanggang 1979. Pinaalis nila ang mga tao sa mga lungsod at pinilit magtrabaho sa bukid, at mga 1.5 hanggang 2 milyon ang namatay, halos ikaapat na bahagi ng populasyon."});
+fun:"A landmine-detecting rat named Magawa, who sniffed out more than 100 land mines and unexploded bombs in Cambodia, received a gold medal for animal bravery in 2020."});
 
 ADDART({id:"gulag",t:"The Gulag",c:"History",i:"⛓️",w:"Gulag",r:["stalin","lenin","russianlit","coldwar","ussrfall"],
 p:[["Soviet labor camps","The Gulag was a network of forced labor camps in the Soviet Union."],["Millions of prisoners","Around 18 million people passed through the camps."],["Exposed by writers","Survivors such as Alexander Solzhenitsyn told the world about it."]],
@@ -61,8 +57,7 @@ s2:[["Economy of the camps","The Gulag provided labor for remote projects that f
 sp:["Solzhenitsyn","Alexander Solzhenitsyn was arrested in 1945 for criticizing Stalin in a private letter and spent eight years in camps. His writings revealed the Gulag to readers worldwide. He won the Nobel Prize in Literature in 1970, was expelled from the Soviet Union in 1974 and returned to Russia in 1994."],
 g:[["Forced labor","Work people are made to do against their will"],["Political prisoner","Someone jailed for their beliefs or opposition to a government"],["Amnesty","An official pardon for a group of prisoners"],["Archipelago","A group of islands"]],
 f:["Gulag is an abbreviation, like an acronym.","Solzhenitsyn called the camps an archipelago because they were scattered like islands across the country.","Some camp prisoners were scientists who worked in special prison research labs."],
-fun:"The ‘Road of Bones’, the Kolyma Highway in Siberia, got its name because prisoners who died building it were buried beneath and beside it.",
-tl:"Ang Gulag ay sistema ng mga kampo ng sapilitang paggawa sa Unyong Sobyet. Mga 18 milyong tao ang dumaan dito mula 1930 hanggang 1953, at mahigit isang milyon ang namatay, lalo na sa malamig na Siberia."});
+fun:"The ‘Road of Bones’, the Kolyma Highway in Siberia, got its name because prisoners who died building it were buried beneath and beside it."});
 
 ADDART({id:"culturalrev",t:"The Cultural Revolution",c:"History",i:"📕",w:"Cultural Revolution",r:["mao","modernchina","china","socialism","propaganda"],
 p:[["Mao’s campaign","The Cultural Revolution was a political campaign in China from 1966 to 1976."],["Red Guards","Young Red Guards attacked teachers, officials and old traditions."],["Lasting scars","It caused chaos, persecution and the deaths of hundreds of thousands or more."]],
@@ -74,8 +69,7 @@ s2:[["Culture under control","During these years, only a few approved ‘model o
 sp:["Ping-pong and Nixon","Even during the Cultural Revolution, China began opening to the West. In 1971 an American table tennis team visited China, and in February 1972 US President Richard Nixon visited Beijing and met Mao, changing Cold War politics."],
 g:[["Red Guards","Student groups who carried out Mao’s campaign"],["Struggle session","A public meeting where people were humiliated and attacked"],["Purge","Removing people from power or society"],["Faction","A group within a larger group, often in conflict with others"]],
 f:["The Little Red Book is one of the most printed books in history, with over a billion copies.","Universities in China barely admitted students for several years.","Deng Xiaoping, later China’s leader, was purged twice during the period."],
-fun:"Mao’s swim in the Yangtze in 1966 was announced as a record-breaking feat, used to show the world he was strong enough to lead.",
-tl:"Ang Rebolusyong Pangkultura ay kampanyang pampulitika ni Mao Zedong sa China mula 1966 hanggang 1976. Inatake ng mga Red Guard ang mga guro, opisyal at lumang tradisyon, at idineklara ito ng Partido Komunista noong 1981 bilang isang malaking sakuna."});
+fun:"Mao’s swim in the Yangtze in 1966 was announced as a record-breaking feat, used to show the world he was strong enough to lead."});
 
 ADDART({id:"tiananmen",t:"The Tiananmen Square Protests",c:"History",i:"🕊️",w:"1989 Tiananmen Square protests and massacre",r:["beijing","modernchina","china","censorship","democ"],
 p:[["Students demand change","In 1989, students and workers protested in Beijing’s Tiananmen Square."],["A violent end","The army cleared the protests on 3–4 June, killing many people."],["Still censored","The events remain heavily censored in China."]],
@@ -87,8 +81,7 @@ s2:[["Tank Man","On 5 June 1989, a man carrying shopping bags stood in front of 
 sp:["1989, a year of change","The same year as Tiananmen, peaceful revolutions swept Eastern Europe. The Berlin Wall fell on 9 November 1989, and communist governments in Poland, Hungary, Czechoslovakia and elsewhere gave way. China’s leaders drew the opposite lesson, determined not to lose control."],
 g:[["Martial law","Military rule imposed in an emergency"],["Hunger strike","Refusing food as a form of protest"],["Crackdown","Strong action to stop protests"],["Vigil","A gathering, often with candles, to remember people"]],
 f:["The Goddess of Democracy statue stood for only five days before soldiers destroyed it.","No one knows for sure who Tank Man was.","Hong Kong held vigils for the victims every 4 June for 30 years."],
-fun:"One of the famous Tank Man photos survived because the photographer hid his film in a hotel toilet cistern before police searched his room.",
-tl:"Noong 1989, nagprotesta ang mga estudyante at manggagawa sa Tiananmen Square sa Beijing para sa reporma at kalayaan. Noong gabi ng 3–4 Hunyo, nilinis ng hukbo ang lugar at marami ang napatay; hanggang ngayon ay mahigpit na sinasensor ang pangyayari sa China."});
+fun:"One of the famous Tank Man photos survived because the photographer hid his film in a hotel toilet cistern before police searched his room."});
 
 ADDART({id:"chernobyl",t:"The Chernobyl Disaster",c:"History",i:"☢️",w:"Chernobyl disaster",r:["nuclear","fission","ussrfall","coldwar","radioact"],
 p:[["The worst nuclear accident","In April 1986, a reactor exploded at the Chernobyl nuclear power plant in Ukraine."],["Radiation spreads","Radioactive material spread across Europe."],["An exclusion zone","A large area around the plant is still closed to most people."]],
@@ -100,8 +93,7 @@ s2:[["The New Safe Confinement","The arch is 108 meters high and 257 meters wide
 sp:["Pripyat, the ghost town","Pripyat was a modern town built in 1970 for plant workers, with a funfair due to open on 1 May 1986. Its yellow Ferris wheel, never used by the public, has become a symbol of the disaster. Visitors with permits can tour the town on guided trips."],
 g:[["Radiation","Energy given off by unstable atoms that can harm living cells"],["Reactor","The machine in which nuclear fission produces heat"],["Liquidator","A worker who cleaned up after the accident"],["Exclusion zone","An area closed to the public for safety"]],
 f:["Pripyat was evacuated the day after the explosion.","Sweden detected Chernobyl’s radiation before the Soviet Union announced the accident.","Wolves, bears and wild horses now roam the exclusion zone."],
-fun:"Scientists have found black fungi growing on the walls inside the ruined reactor that seem to thrive on radiation.",
-tl:"Noong 26 Abril 1986, sumabog ang isang reaktor sa planta ng Chernobyl sa Ukraine, ang pinakamalalang aksidente sa kasaysayan ng nuclear power. Kumalat ang radyasyon sa Europa, inilikas ang mahigit 300,000 tao, at nananatiling sarado ang malaking lugar sa paligid nito."});
+fun:"Scientists have found black fungi growing on the walls inside the ruined reactor that seem to thrive on radiation."});
 
 ADDART({id:"genocide",t:"Genocide",c:"History",i:"🕯️",w:"Genocide",r:["holocaust","hrights","un","polpot","rwandacountry","antisemitism"],
 p:[["The worst crime","Genocide is the deliberate attempt to destroy a national, ethnic, racial or religious group."],["A word from 1944","The word was invented by lawyer Raphael Lemkin after the Holocaust."],["Never again","International law now requires countries to prevent and punish genocide."]],
@@ -113,8 +105,7 @@ s2:[["Stages of genocide","The scholar Gregory Stanton described stages that oft
 sp:["Rwanda’s recovery","After the 1994 genocide, Rwanda held community courts called gacaca, where more than a million cases were heard in villages, often with confessions and requests for forgiveness. Each April, Rwanda holds 100 days of remembrance called Kwibuka, meaning ‘to remember’."],
 g:[["Genocide","Acts meant to destroy a national, ethnic, racial or religious group"],["Crimes against humanity","Widespread attacks on civilians, such as murder or enslavement"],["Intent","What a person meant to do"],["Tribunal","A special court"]],
 f:["The word genocide is younger than the airplane.","The Genocide Convention was the first human rights treaty adopted by the United Nations.","Rwanda’s genocide lasted about 100 days."],
-fun:"Raphael Lemkin, who invented the word genocide, was nominated for the Nobel Peace Prize several times.",
-tl:"Ang henosidyo ay sinadyang pagtatangkang puksain ang isang pambansa, etniko, panlahi o panrelihiyong grupo. Nilikha ang salita noong 1944, at ginawa itong krimen sa pandaigdigang batas ng Kombensiyon ng UN noong 1948."});
+fun:"Raphael Lemkin, who invented the word genocide, was nominated for the Nobel Peace Prize several times."});
 
 ADDART({id:"antisemitism",t:"Antisemitism",c:"History",i:"🕯️",w:"Antisemitism",r:["holocaust","judaism","hitler","conspiracy","hrights"],
 p:[["Hatred of Jews","Antisemitism is prejudice, hostility or discrimination against Jewish people."],["An ancient hatred","It has existed for more than 2,000 years and takes many forms."],["Still a problem","Antisemitic incidents remain a concern in many countries today."]],
@@ -126,8 +117,7 @@ s2:[["The Protocols forgery","The Protocols of the Elders of Zion claimed to rec
 sp:["Anne Frank","Anne Frank was a Jewish girl who hid with her family in a secret annex in Amsterdam from 1942 until they were discovered in 1944. She died in the Bergen-Belsen camp in 1945. Her diary, published by her father in 1947, has been translated into more than 70 languages."],
 g:[["Prejudice","A negative opinion formed without knowledge or reason"],["Pogrom","A violent attack on a Jewish community"],["Ghetto","A district where a minority group is forced to live"],["Stereotype","An oversimplified idea about a group of people"]],
 f:["The word ‘ghetto’ comes from a district of Venice.","The Protocols of the Elders of Zion was proven to be a forgery in 1921.","27 January marks the day Auschwitz was liberated in 1945."],
-fun:"Anne Frank received her famous diary as a present on her 13th birthday.",
-tl:"Ang antisemitismo ay poot, pagkiling o diskriminasyon laban sa mga Hudyo. Umiral ito nang mahigit 2,000 taon, at humantong ito sa Holocaust, kung saan anim na milyong Hudyo ang pinatay ng Nazi Germany."});
+fun:"Anne Frank received her famous diary as a present on her 13th birthday."});
 
 ADDART({id:"comfortwomen",t:"The Comfort Women",c:"History",i:"🕯️",w:"Comfort women",r:["ww2","pacificwar","japocc","hrights","japan"],
 p:[["Wartime abuse","‘Comfort women’ were women and girls forced into sexual slavery by Japan’s military during World War II."],["From many countries","They came from Korea, China, the Philippines, Indonesia and elsewhere."],["Breaking the silence","Survivors began speaking out in the 1990s to demand justice."]],
@@ -139,8 +129,7 @@ s2:[["Historical evidence","In 1992 the historian Yoshimi Yoshiaki found documen
 sp:["Lola Rosa","Maria Rosa Henson, known as Lola Rosa, was taken by Japanese soldiers in 1943 at age 15. Her decision to speak publicly in 1992 inspired other Filipina survivors, called lolas (grandmothers). Her autobiography, Comfort Woman: Slave of Destiny, was published in 1996."],
 g:[["Sexual slavery","Forcing people into sexual abuse while holding them captive"],["Testimony","A formal account of what someone experienced"],["Euphemism","A mild word used in place of a harsh one"],["Survivor","A person who lived through a terrible experience"]],
 f:["The issue was largely hidden for almost 50 years after the war.","Survivors held weekly protests outside the Japanese embassy in Seoul starting in 1992.","Statues of a seated girl honor the women in several countries."],
-fun:"The Wednesday protests in Seoul, held every week since January 1992, are among the longest-running regular demonstrations in the world.",
-tl:"Ang ‘comfort women’ ay mga babae at batang babae na sapilitang ginawang alipin sa sekswal na pang-aabuso ng hukbong Hapon noong Ikalawang Digmaang Pandaigdig. Galing sila sa Korea, China, Pilipinas at iba pang bansa, at nagsimula silang magsalita noong dekada 1990 upang humingi ng katarungan."});
+fun:"The Wednesday protests in Seoul, held every week since January 1992, are among the longest-running regular demonstrations in the world."});
 
 ADDART({id:"colonialism",t:"Colonialism and Its Legacy",c:"History",i:"🗺️",w:"Colonialism",r:["decol","slavetrade","spanph","explor","independence"],
 p:[["Empires overseas","Colonialism is when one country takes control of another land and its people."],["Europe’s empires","From the 1400s to the 1900s, European powers ruled much of the world."],["A debated legacy","Its effects on borders, economies and cultures are still debated."]],
@@ -152,8 +141,7 @@ s2:[["Colonialism and language","Colonial rule spread European languages around 
 sp:["The Benin Bronzes","The Benin Bronzes are thousands of brass and ivory sculptures from the Kingdom of Benin, in today’s Nigeria. British troops took them in 1897, and they were sold to museums worldwide. Since 2021, museums in Germany, the United States and elsewhere have begun returning them."],
 g:[["Colony","A territory ruled by another country"],["Imperialism","Extending a country’s power over other lands"],["Settler colony","A colony where large numbers of colonists settle"],["Reparations","Payments to make up for past wrongs"]],
 f:["By 1914, only two African countries were independent.","The British Empire was once called ‘the empire on which the sun never sets’.","Most of today’s countries were once colonies or colonial powers."],
-fun:"The board game Risk, about conquering the world, was invented in France in 1957, just as Europe’s empires were breaking up.",
-tl:"Ang kolonyalismo ay pagsakop ng isang bansa sa ibang lupain at mga tao nito. Mula 1400s hanggang 1900s, pinamahalaan ng mga kapangyarihang Europeo ang malaking bahagi ng mundo, at pinagtatalunan pa rin ang epekto nito sa mga hangganan, ekonomiya at kultura."});
+fun:"The board game Risk, about conquering the world, was invented in France in 1957, just as Europe’s empires were breaking up."});
 
 ADDART({id:"eugenics",t:"Eugenics",c:"History",i:"🧬",w:"Eugenics",r:["mendel","holocaust","crispr","hrights","evolution"],
 p:[["A discredited idea","Eugenics was the idea of ‘improving’ humans by controlling who could have children."],["Forced sterilization","Many countries sterilized people against their will in the 20th century."],["Lessons today","Its history shapes debates about genetic testing and gene editing."]],
@@ -165,5 +153,4 @@ s2:[["Why it was popular","Many supporters of eugenics thought they were being m
 sp:["Carrie Buck","Carrie Buck was a young woman in Virginia sterilized in 1927 after being labelled ‘feeble-minded’. Later research showed she had average intelligence and had become pregnant after being assaulted. Her case, Buck v. Bell, has never been formally overturned, but it is now widely condemned."],
 g:[["Sterilization","An operation that makes a person unable to have children"],["Heredity","The passing of traits from parents to children"],["Genetics","The study of genes and heredity"],["Compulsory","Required by law, not voluntary"]],
 f:["The word eugenics was invented by Darwin’s cousin.","Some US states continued forced sterilizations into the 1970s.","Modern genetics shows traits like intelligence depend on many genes and the environment."],
-fun:"Francis Galton also pioneered weather maps and the study of fingerprints.",
-tl:"Ang eugenics ay kilusang naglalayong ‘pahusayin’ ang tao sa pagkontrol kung sino ang maaaring magkaanak. Humantong ito sa sapilitang isterilisasyon sa maraming bansa at sa pagpatay ng Nazi Germany sa mga taong may kapansanan; itinatakwil na ito ngayon bilang hindi siyentipiko at labag sa karapatang pantao."});
+fun:"Francis Galton also pioneered weather maps and the study of fingerprints."});

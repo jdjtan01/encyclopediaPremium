@@ -9,8 +9,7 @@ s2:[["Human rights","On 10 December 1948, the General Assembly adopted the Unive
 sp:["Dag Hammarskjöld","Dag Hammarskjöld of Sweden, Secretary-General from 1953 to 1961, shaped the job into what it is today. He sent the first large UN peacekeeping force to Egypt in 1956 and traveled tirelessly to calm crises. In 1961 he died in a plane crash in what is now Zambia while trying to end fighting in the Congo, and he was awarded the Nobel Peace Prize after his death."],
 g:[["Charter","The founding agreement of an organization"],["Veto","The power to block a decision"],["Peacekeeper","A soldier sent to help keep peace"],["Resolution","A formal decision voted on by a group"]],
 f:["United Nations Day is celebrated every 24 October.","The UN has six official languages: Arabic, Chinese, English, French, Russian and Spanish.","The first General Assembly met in London in January 1946."],
-fun:"The UN has six official languages: Arabic, Chinese, English, French, Russian and Spanish.",
-tl:"Ang United Nations ay samahan ng 193 bansa na itinatag noong 1945 matapos ang Ikalawang Digmaang Pandaigdig upang mapanatili ang kapayapaan at karapatang pantao. Isa ang Pilipinas sa 51 bansang nagtatag nito."});
+fun:"The UN has six official languages: Arabic, Chinese, English, French, Russian and Spanish."});
 
 ADDART({id:"decol",t:"Decolonization and New Nations",c:"History",i:"🗺️",w:"Decolonization",r:["independence","un","coldwar"],
 p:[["The end of empires","After World War II, colonies across Asia and Africa won their independence from European empires and the United States."],["Dozens of new countries","Between 1945 and 1975, more than 80 countries became independent."],["Asia leads the way","In the first years after the war, the Philippines, India, Pakistan, Burma and Sri Lanka became independent."]],
@@ -22,8 +21,7 @@ s2:[["The Bandung Conference","In 1955 leaders of 29 Asian and African countries
 sp:["1960, the Year of Africa","In 1960 alone, 17 African countries won independence, including Nigeria, the Democratic Republic of the Congo, Senegal, Madagascar and Somalia, most of them former French colonies. That December the UN General Assembly declared that all colonized peoples had the right to independence. Within a few years most of Africa was free of colonial rule, though Portugal’s colonies had to fight until 1975."],
 g:[["Colony","A land ruled by another country"],["Decolonization","The process of colonies becoming independent"],["Self-determination","The right of a people to choose its own government"],["Partition","Dividing a country into separate parts"]],
 f:["In 1960 alone, 17 African countries became independent.","The UN grew from 51 members in 1945 to 193 today.","Timor-Leste became independent in 2002."],
-fun:"In 1960, the Year of Africa, 17 African countries became independent.",
-tl:"Ang dekolonisasyon ay ang paglaya ng mga kolonya upang maging malayang bansa. Matapos ang Ikalawang Digmaang Pandaigdig, mahigit 80 bansa sa Asya at Aprika ang lumaya, kabilang ang Pilipinas noong 4 Hulyo 1946."});
+fun:"In 1960, the Year of Africa, 17 African countries became independent."});
 
 ADDART({id:"asean",t:"ASEAN and Modern Southeast Asia",c:"History",i:"🤝",w:"ASEAN",r:["sea","decol","un"],
 p:[["A regional family","ASEAN, the Association of Southeast Asian Nations, links the countries of Southeast Asia."],["Founded in 1967","Indonesia, Malaysia, the Philippines, Singapore and Thailand founded it."],["Many peoples","ASEAN countries are home to about 680 million people speaking hundreds of languages."]],
@@ -35,5 +33,4 @@ s2:[["Southeast Asia today","Southeast Asia includes mainland countries such as 
 sp:["The ASEAN flag","The ASEAN flag shows ten bundles of rice stalks tied together, standing for the founding dream of all Southeast Asian countries bound in friendship. The blue stands for peace and stability, red for courage, white for purity and yellow for prosperity. The flag was adopted in 1997, before Timor-Leste joined."],
 g:[["Consensus","Agreement by everyone in a group"],["Tariff","A tax on goods brought in from another country"],["Secretariat","The main office of an organization"],["Arbitral tribunal","A panel of judges that settles a dispute"]],
 f:["ASEAN was founded in Bangkok in 1967.","The ASEAN flag shows bundled rice stalks.","Timor-Leste became ASEAN’s eleventh member in 2025."],
-fun:"The ASEAN flag shows a bundle of rice stalks tied together.",
-tl:"Ang ASEAN ay samahan ng mga bansa sa Timog-Silangang Asya na itinatag noong 1967. Isa ang Pilipinas sa limang nagtatag nito, at ngayon ay 11 na ang kasaping bansa na nagtutulungan sa kapayapaan at kalakalan."});
+fun:"The ASEAN flag shows a bundle of rice stalks tied together."});

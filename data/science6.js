@@ -9,8 +9,7 @@ s2:[["Chemical bonds","Atoms join to form molecules by sharing or swapping elect
 sp:["Millikan’s oil drops","To measure the charge of a single electron, Robert Millikan and his student Harvey Fletcher sprayed a fine mist of oil drops between two metal plates and watched them through a microscope. Some drops picked up electric charges. By adjusting the voltage on the plates, Millikan could make a drop float in midair, balancing gravity with electric force. He found that the charges on the drops were always whole-number multiples of one tiny amount: the charge of one electron. His experiment, completed in 1909 and published over the following years, earned him the Nobel Prize in Physics in 1923."],
 g:[["Electron","A tiny negatively charged particle found in atoms"],["Nucleus","The center of an atom, made of protons and neutrons"],["Electric current","A flow of electric charge, usually electrons"],["Positron","The antimatter partner of the electron"]],
 f:["The electron was discovered in 1897.","An electric current is a flow of electrons.","Electron microscopes can show individual atoms."],
-fun:"As far as anyone can measure, an electron has no size at all.",
-tl:"Ang electron ay napakaliit na partikulo na may negatibong karga at matatagpuan sa bawat atom. Natuklasan ito ni J. J. Thomson noong 1897. Ang daloy ng mga electron ang bumubuo sa kuryente."});
+fun:"As far as anyone can measure, an electron has no size at all."});
 
 ADDART({id:"standardmodel",t:"The Standard Model of Particle Physics",c:"Science",i:"⚛️",w:"Standard Model",r:["particles","atom","electron","accelerators","antimatter"],
 p:[["The building blocks","The Standard Model describes the smallest known building blocks of matter and the forces between them."],["Quarks and leptons","Everything around us is made of particles called quarks and leptons."],["The final piece","Its last missing piece, the Higgs boson, was found in 2012."]],
@@ -22,8 +21,7 @@ s2:[["Quarks","Quarks were proposed independently in 1964 by the American physic
 sp:["Three quarks for Muster Mark","When Murray Gell-Mann needed a name for his new particles, he first thought of a sound, something like kwork. Then he came across a line in James Joyce’s strange novel Finnegans Wake: Three quarks for Muster Mark! Since protons and neutrons are each made of three of the particles, the word seemed perfect, and quark became the name. George Zweig, who proposed the same idea independently, had called them aces, but Gell-Mann’s word stuck."],
 g:[["Quark","A basic particle that makes up protons and neutrons"],["Lepton","A basic particle such as the electron or neutrino"],["Boson","A particle that carries a force"],["Higgs field","An invisible field that gives particles mass"]],
 f:["The Higgs boson was discovered in 2012.","Protons and neutrons are made of quarks.","The Standard Model does not include gravity."],
-fun:"Trillions of neutrinos pass harmlessly through your body every second.",
-tl:"Ang Standard Model ay ang teoryang naglalarawan sa pinakamaliliit na partikulo ng materya, gaya ng quark at lepton, at sa mga puwersang nagbubuklod sa kanila. Natuklasan ang Higgs boson noong 2012."});
+fun:"Trillions of neutrinos pass harmlessly through your body every second."});
 
 ADDART({id:"isotopes",t:"Isotopes",c:"Science",i:"🧪",w:"Isotope",r:["atom","radioact","nuclear","fission","archaeology"],
 p:[["Same element, different weight","Isotopes are forms of the same element with different numbers of neutrons."],["Clocks in the rocks","Radioactive isotopes help date fossils, rocks and ancient objects."],["Medicine","Isotopes are used in hospitals to diagnose and treat disease."]],
@@ -35,8 +33,7 @@ s2:[["Radiocarbon dating","Living things take in carbon, including a tiny amount
 sp:["Nature’s own nuclear reactor","In 1972, French scientists checking uranium from a mine at Oklo in Gabon, Central Africa, noticed something strange: it contained slightly less uranium-235 than uranium everywhere else. Investigation revealed that about two billion years ago, natural uranium deposits there, soaked by groundwater, had started nuclear chain reactions on their own, running on and off for hundreds of thousands of years. The Oklo deposits are the only known natural nuclear reactors on Earth, and isotopes left behind tell their story."],
 g:[["Isotope","A form of an element with a particular number of neutrons"],["Neutron","A particle with no electric charge in the nucleus of an atom"],["Half-life","The time for half of a radioactive substance to decay"],["Mass number","The total number of protons and neutrons in a nucleus"]],
 f:["Carbon-14 has a half-life of about 5,730 years.","Hydrogen has three isotopes.","Oklo in Gabon had natural nuclear reactors."],
-fun:"About two billion years ago, a uranium deposit in Gabon became a natural nuclear reactor.",
-tl:"Ang isotope ay anyo ng isang elemento na may parehong bilang ng proton ngunit iba ang bilang ng neutron. Ginagamit ang mga isotope sa pagtukoy ng edad ng mga fossil, sa medisina at sa enerhiyang nukleyar."});
+fun:"About two billion years ago, a uranium deposit in Gabon became a natural nuclear reactor."});
 
 ADDART({id:"accelerators",t:"Particle Accelerators",c:"Science",i:"🌀",w:"Particle accelerator",r:["standardmodel","particles","electron","antimatter","medimaging"],
 p:[["Speeding up particles","Particle accelerators push tiny particles to enormous speeds using electric and magnetic fields."],["The biggest machine","The Large Hadron Collider is a ring 27 kilometers around, buried underground."],["Not just for physics","Most accelerators are used in hospitals and industry."]],
@@ -48,8 +45,7 @@ s2:[["The Large Hadron Collider","The Large Hadron Collider, or LHC, lies about 
 sp:["Lawrence’s pocket cyclotron","In 1930 the young American physicist Ernest Lawrence had an idea: instead of building a very long accelerator, he could use a magnet to send particles round and round in a spiral, giving them a push each time. His first working cyclotron, built with his student M. Stanley Livingston, was only about 11 centimeters across and was made partly of brass, wax and glass. Bigger cyclotrons followed, producing new isotopes for medicine, and Lawrence won the Nobel Prize in Physics in 1939. The element lawrencium is named after him."],
 g:[["Accelerator","A machine that speeds up charged particles"],["Collider","An accelerator in which particles crash into each other"],["Cyclotron","A circular accelerator that spirals particles outward"],["Synchrotron","A circular accelerator that keeps particles on a fixed ring"]],
 f:["The LHC ring is 27 kilometers around.","Most accelerators are used in medicine and industry.","The first cyclotron fit in one hand."],
-fun:"The LHC’s magnets are kept colder than outer space.",
-tl:"Ang particle accelerator ay makinang nagpapabilis sa maliliit na partikulo gamit ang kuryente at magnet. Ang pinakamalaki ay ang Large Hadron Collider sa CERN. Ginagamit din ang mga accelerator sa ospital laban sa kanser."});
+fun:"The LHC’s magnets are kept colder than outer space."});
 
 ADDART({id:"fission",t:"Nuclear Fission",c:"Science",i:"☢️",w:"Nuclear fission",r:["nuclear","radioact","isotopes","fusion","nukeweapons"],
 p:[["Splitting atoms","Nuclear fission is the splitting of a heavy atom’s nucleus into smaller parts."],["Huge energy","Fission releases millions of times more energy than burning fuel."],["Power and weapons","It powers nuclear power stations and was used in the first atomic bombs."]],
@@ -61,5 +57,4 @@ s2:[["Nuclear weapons","Fearing that Nazi Germany might build a fission bomb, th
 sp:["A walk in the snow","Over Christmas 1938, Lise Meitner, living in exile in Sweden, received a letter from Otto Hahn describing his puzzling discovery of barium in bombarded uranium. Her nephew, Otto Frisch, came to visit, and the two went for a walk in the snow, Frisch on skis and Meitner on foot. Sitting on a tree trunk, they scribbled calculations on scraps of paper and realized that the uranium nucleus must have stretched like a drop of liquid and split in two, releasing enormous energy. Their explanation, published in early 1939, named the process nuclear fission."],
 g:[["Fission","The splitting of a heavy atomic nucleus"],["Chain reaction","A process in which each reaction causes more reactions"],["Control rod","A rod that absorbs neutrons to slow a reactor"],["Enrichment","Increasing the share of uranium-235 in uranium"]],
 f:["Fission was discovered in 1938.","The first controlled chain reaction took place in Chicago in 1942.","The Bataan Nuclear Power Plant has never operated."],
-fun:"Lise Meitner and Otto Frisch worked out how fission happens during a walk in the snow.",
-tl:"Ang nuclear fission ay ang paghahati ng nucleus ng mabigat na atom, gaya ng uranium, na naglalabas ng napakalaking enerhiya. Ginagamit ito sa mga planta ng kuryenteng nukleyar at ginamit sa mga unang bombang atomika."});
+fun:"Lise Meitner and Otto Frisch worked out how fission happens during a walk in the snow."});

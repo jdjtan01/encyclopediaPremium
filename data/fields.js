@@ -9,8 +9,7 @@ s2:[["Pavlov’s dogs","The Russian scientist Ivan Pavlov noticed that dogs bega
 sp:["The marshmallow test","In the late 1960s and early 1970s, psychologist Walter Mischel offered young children a choice: eat one marshmallow now, or wait alone for about 15 minutes and receive two. Some children ate it immediately, while others covered their eyes or sang to resist. Follow-up studies suggested that children who waited did better later in life, but later research found that family background explained much of the difference, showing how findings can be refined over time."],
 g:[["Psychology","The scientific study of the mind and behavior"],["Conditioning","Learning by linking events or consequences"],["Cognitive","Relating to thinking, memory and understanding"],["Kapwa","A Filipino concept of shared identity with others"]],
 f:["Wundt opened the first psychology lab in 1879.","Pavlov showed that dogs could learn to drool at a sound.","Virgilio Enriquez founded Sikolohiyang Pilipino."],
-fun:"Children in the marshmallow test sang and covered their eyes to resist eating the treat.",
-tl:"Ang sikolohiya ay siyentipikong pag-aaral ng isip at pag-uugali. Pinag-aaralan nito ang pagkatuto, alaala, damdamin at kalusugan ng isip. Itinatag ni Virgilio Enriquez ang Sikolohiyang Pilipino na nakaugat sa kulturang Pilipino."});
+fun:"Children in the marshmallow test sang and covered their eyes to resist eating the treat."});
 
 ADDART({id:"archaeology",t:"Archaeology",c:"Economics and Society",i:"⛏️",w:"Archaeology",r:["stoneage","humanorigins","egypt","pyramids","seaempires"],
 p:[["Digging into the past","Archaeology is the study of the human past through the objects and remains people left behind."],["Clues in the ground","Archaeologists study tools, pottery, bones, buildings and even ancient seeds and DNA."],["Rewriting history","Archaeological discoveries constantly change our understanding of history."]],
@@ -22,8 +21,7 @@ s2:[["Tutankhamun","In November 1922, the British archaeologist Howard Carter, w
 sp:["The balangay boats of Butuan","In 1976 people digging in Butuan, Agusan del Norte, found the remains of wooden boats buried in mud. Archaeologists from the National Museum identified them as balangay, plank-built boats joined with wooden pegs, the oldest dated to about 320 CE. Several more were later found. They show the advanced shipbuilding skills of early Filipinos, who traded across Southeast Asia. In 2009 a team sailed a replica balangay around Southeast Asia, and the balangay was declared a national boat."],
 g:[["Archaeology","The study of the past through material remains"],["Excavation","Carefully digging up a site"],["Stratigraphy","The study of layers in the ground"],["Artifact","An object made or used by people"]],
 f:["Tutankhamun’s tomb was found in 1922.","The Rosetta Stone helped decode hieroglyphs.","The oldest Butuan balangay dates to about 320 CE."],
-fun:"A replica balangay boat sailed around Southeast Asia in 2009.",
-tl:"Ang arkeolohiya ay pag-aaral ng nakaraan ng tao sa pamamagitan ng mga bagay at labi na naiwan nila. Pinag-aaralan nito ang kasangkapan, palayok at buto. Sa Pilipinas, mahalagang tuklas ang mga bangkang balangay ng Butuan."});
+fun:"A replica balangay boat sailed around Southeast Asia in 2009."});
 
 ADDART({id:"anthropology",t:"Anthropology",c:"Economics and Society",i:"🌏",w:"Anthropology",r:["humanorigins","archaeology","langevo","indig","relig"],
 p:[["The study of humanity","Anthropology studies human beings: our cultures, societies, languages, biology and history."],["Living among people","Anthropologists often live with communities for long periods to understand their ways of life."],["Understanding differences","Anthropology helps people appreciate the variety of human cultures."]],
@@ -35,5 +33,4 @@ s2:[["Margaret Mead","The American anthropologist Margaret Mead studied adolesce
 sp:["The Kula ring","In the Trobriand Islands of Papua New Guinea, Malinowski studied the Kula ring, a remarkable system of exchange in which people traveled long distances by canoe to trade shell necklaces in one direction around a circle of islands and shell armbands in the other. The objects had no practical use, but exchanging them created lasting relationships, prestige and trust between communities. Malinowski’s study showed that economic exchange is about relationships, not just goods."],
 g:[["Anthropology","The study of humanity"],["Fieldwork","Research carried out among the people being studied"],["Participant observation","Learning by taking part in a community’s life"],["Cultural relativism","Understanding a culture on its own terms"]],
 f:["Malinowski lived in the Trobriand Islands from 1915 to 1918.","Franz Boas challenged racist theories.","Filipinos were displayed at the 1904 St. Louis World’s Fair."],
-fun:"In the Kula ring, shell necklaces and armbands travel in opposite directions around a circle of islands.",
-tl:"Ang antropolohiya ay pag-aaral ng sangkatauhan: kultura, lipunan, wika at biyolohiya. Madalas tumira ang mga antropologo sa mga komunidad nang matagal para maunawaan ang kanilang pamumuhay. Si H. Otley Beyer ang tinaguriang ama ng antropolohiyang Pilipino."});
+fun:"In the Kula ring, shell necklaces and armbands travel in opposite directions around a circle of islands."});

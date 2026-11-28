@@ -10,8 +10,7 @@ s2:[["A powerful nose","Humans can tell apart a huge number of smells, and our s
 sp:["The chili pepper and the Nobel Prize","Chili peppers feel hot because a chemical in them, capsaicin, switches on the same sensor in our nerves that responds to real heat. Scientist David Julius used capsaicin to find this sensor, and Ardem Patapoutian discovered sensors that respond to pressure. They shared the Nobel Prize in Physiology or Medicine in 2021."],
 g:[["Receptor","A cell or molecule that detects a signal"],["Taste bud","A cluster of cells on the tongue that detects taste"],["Umami","A savory taste, as in broth or cheese"],["Braille","A reading system of raised dots"]],
 f:["Every part of the tongue can sense all five basic tastes.","Chili heat is a pain and heat signal, not a taste.","Louis Braille invented Braille at 15."],
-fun:"The tongue map showing separate taste zones is a myth.",
-tl:"Ang pang-amoy, panlasa at pandama ay tumutulong sa atin na makilala ang pagkain, panganib at mga bagay sa paligid. May limang pangunahing lasa: matamis, maalat, maasim, mapait at umami, at karamihan ng lasa ng pagkain ay galing sa amoy."});
+fun:"The tongue map showing separate taste zones is a myth."});
 
 ADDART({id:"memory",t:"Memory and Learning",c:"Health and the Body",i:"🧠",w:"Memory",r:["brain","sleep","smelltaste"],
 p:[["How we remember","Memory is the brain’s ability to store and recall information and experiences."],["Practice makes permanent","Learning changes the connections between brain cells."],["Sleep helps","During sleep, the brain sorts and strengthens the day’s memories."]],
@@ -23,8 +22,7 @@ s2:[["Patient H.M.","In 1953 a young American man named Henry Molaison had brain
 sp:["The memory palace","According to legend, the Greek poet Simonides left a banquet hall moments before its roof collapsed. He could identify the victims by remembering where each guest had sat. This inspired the method of loci, or memory palace, in which you link facts to places along a familiar route. Memory champions still use it to memorize thousands of numbers."],
 g:[["Hippocampus","A brain area essential for forming new memories"],["Synapse","A junction where two nerve cells pass signals"],["Neuroplasticity","The brain’s ability to change with learning"],["Mnemonic","A trick that helps you remember"]],
 f:["The brain has about 86 billion nerve cells.","Testing yourself helps you remember better than rereading.","Sleep helps the brain store new memories."],
-fun:"Testing yourself is one of the best ways to remember what you study.",
-tl:"Ang memorya ay kakayahan ng utak na mag-imbak at umalala ng impormasyon. Pinalalakas ng pag-aaral ang ugnayan ng mga selula sa utak, at nakatutulong ang pagtulog, paulit-ulit na pagbabalik-aral at pagsubok sa sarili."});
+fun:"Testing yourself is one of the best ways to remember what you study."});
 
 ADDART({id:"phcinema",t:"Philippine Cinema",c:"Arts and Literature",i:"🎬",w:"Cinema of the Philippines",r:["cinema","phlit","tv"],
 p:[["More than a century of film","Films were first shown in Manila in 1897, and Filipinos began making their own feature films in 1919."],["Golden ages","Philippine cinema flourished in the 1950s and again in the 1970s and 1980s."],["Winning worldwide","Filipino filmmakers and actors have won top prizes at Cannes, Venice and Berlin."]],
@@ -36,8 +34,7 @@ s2:[["Lino Brocka","Lino Brocka directed more than 60 films, including Maynila s
 sp:["Manila in the Claws of Light","Lino Brocka’s Maynila sa mga Kuko ng Liwanag (1975) follows Julio, a young man from the province who comes to Manila to find his love and struggles to survive in the city. Based on a novel by Edgardo Reyes, it is often named the greatest Filipino film ever made. It was restored in 2013 and shown again at Cannes."],
 g:[["Feature film","A full-length film, usually over an hour long"],["Indie film","A film made outside the big studios"],["Love team","A pair of actors who often star together"],["Censorship","Controlling or banning what may be shown or said"]],
 f:["Films were first shown in Manila on 1 January 1897.","Lav Diaz won the Golden Lion at Venice in 2016.","Some of Lav Diaz’s films last more than eight hours."],
-fun:"The first films in Manila were shown on 1 January 1897.",
-tl:"Ang pelikulang Pilipino ay isa sa pinakamatandang industriya ng pelikula sa Asya, mula pa noong 1897. Kilala ito sa mga direktor gaya nina Lino Brocka at Lav Diaz, na nagwagi ng malalaking parangal sa ibang bansa."});
+fun:"The first films in Manila were shown on 1 January 1897."});
 
 ADDART({id:"tv",t:"Television",c:"Technology",i:"📺",w:"Television",r:["radio","cinema","phcinema"],
 p:[["Pictures through the air","Television sends moving pictures and sound to screens in homes."],["A 20th-century invention","The first working television systems were shown in the 1920s."],["From TV sets to streaming","Today people watch on smart TVs, phones and tablets, often over the internet."]],
@@ -49,8 +46,7 @@ s2:[["News on TV","Television changed how people learn about the world. Live pic
 sp:["The coronation that sold TV sets","On 2 June 1953, the coronation of Queen Elizabeth II was broadcast live from Westminster Abbey. Hundreds of thousands of British families bought or rented their first television to watch it, and many crowded into neighbors’ homes. About 20 million people in Britain watched, more than listened on the radio, and films of the ceremony were flown across the Atlantic to be shown in North America the same day."],
 g:[["Broadcast","To send a program out to many viewers at once"],["Pixel","One tiny dot in a picture on a screen"],["Telenovela","A Latin American television drama that runs for months"],["Streaming","Watching video over the internet as it downloads"]],
 f:["About 20 million people in Britain watched the 1953 coronation on television.","John Logie Baird demonstrated television in 1926.","About 600 million people watched the Moon landing live."],
-fun:"Philippine television began on 23 October 1953 with station DZAQ-TV Channel 3.",
-tl:"Ang telebisyon ay sistemang nagpapadala ng gumagalaw na larawan at tunog sa mga tahanan. Nagsimula ito noong 1920s, at ang unang pagsasahimpapawid sa Pilipinas ay noong 23 Oktubre 1953; kilala ang bansa sa mga teleserye at noontime show."});
+fun:"Philippine television began on 23 October 1953 with station DZAQ-TV Channel 3."});
 
 ADDART({id:"lizard",t:"Lizards",i:"🦎",w:"Komodo dragon",r:["snake","croc","phbio"],cons:["EN","Komodo dragon"],
 p:[["The biggest reptile group","Lizards are scaly reptiles, and with snakes they form the largest group of reptiles."],["From tiny to giant","They range from geckos smaller than a coin to the 3-meter Komodo dragon."],["Amazing tricks","Lizards can drop their tails, change color, glide and even run on water."]],
@@ -62,8 +58,7 @@ s2:[["Chameleons","Chameleons have eyes that move separately, letting them look 
 sp:["Fruit-eating monitors","Most monitor lizards eat meat, but a few eat mainly fruit. Gray’s monitor, a large, shy lizard of the forests of southern Luzon, feeds mostly on ripe fruit, especially pandan, and spends much of its time high in trees. A close relative, Varanus bitatawa, was described in 2010 and showed that even big animals can go unnoticed by science. Hunting and forest loss threaten both."],
 g:[["Cold-blooded","Having a body temperature that depends on the surroundings"],["Autotomy","Dropping a body part, such as a tail, to escape"],["Monitor","A large, long-necked lizard"],["Camouflage","Colors that help an animal blend in"]],
 f:["Geckos can cling to glass with millions of tiny toe hairs.","Some lizards can drop their tails and grow new ones.","Flying lizards can glide more than 8 meters between trees."],
-fun:"The tokay gecko, or tuko, is named after the sound of its call.",
-tl:"Ang butiki at iba pang lizard ay reptilyang may kaliskis, at may mahigit 7,000 uri nito. Kabilang dito ang tuko, ang bayawak at ang Komodo dragon, ang pinakamalaking lizard sa mundo."});
+fun:"The tokay gecko, or tuko, is named after the sound of its call."});
 
 ADDART({id:"ants",t:"Ants",i:"🐜",w:"Ant",r:["insect","bee","eco"],
 p:[["Living in colonies","Ants are social insects that live in colonies, sometimes of millions."],["Teamwork","Workers find food, care for young and defend the nest, all guided by chemical signals."],["Everywhere","There are about 20 quadrillion ants on Earth, around 2.5 million for every person."]],
@@ -75,8 +70,7 @@ s2:[["Farmers and herders","Leafcutter ants of the Americas cut leaves, carry th
 sp:["Weaver ants on the farm","In parts of Asia, farmers place weaver ant nests in mango and citrus trees and link the trees with ropes or bamboo bridges. The ants patrol the branches and eat or chase away pest insects, reducing the need for pesticides. Records of this practice in China go back about 1,700 years, making it one of the oldest known uses of biological pest control."],
 g:[["Colony","A group of ants living together"],["Pheromone","A chemical signal used by animals"],["Larva","The wormlike young stage of an insect"],["Supercolony","Many connected nests that cooperate"]],
 f:["There are about 20 quadrillion ants on Earth.","Leafcutter ants farm fungus for food.","Weaver ants build nests by stitching leaves with silk."],
-fun:"There are about 2.5 million ants for every person on Earth.",
-tl:"Ang langgam ay insektong nakatira sa mga kolonya na pinamumunuan ng reyna. Nagtutulungan sila gamit ang mga kemikal na senyas; ang hantik ay ginagamit ng mga magsasaka upang protektahan ang mga puno ng mangga mula sa peste."});
+fun:"There are about 2.5 million ants for every person on Earth."});
 
 ADDART({id:"tsunami",t:"Tsunamis",c:"Geography",i:"🌊",w:"Tsunami",r:["quake","tect","volc"],
 p:[["Giant waves","A tsunami is a series of powerful ocean waves caused by a sudden movement of the sea floor."],["Fast as a jet","In the deep ocean, tsunami waves can travel at about 800 kilometers per hour."],["Know the signs","A strong earthquake or the sea suddenly pulling back are warnings to move to high ground."]],
@@ -88,5 +82,4 @@ s2:[["The Indian Ocean tsunami","On 26 December 2004, a magnitude 9.1 earthquake
 sp:["Saved by a geography lesson","In 2004, ten-year-old Tilly Smith was on holiday on a beach in Thailand when she saw the sea bubbling and pulling back. She remembered a geography lesson about tsunamis and warned her parents, who alerted others. The beach was cleared before the waves hit, and about 100 people were saved."],
 g:[["Tsunami","A series of huge waves caused by a sudden movement of water"],["Subduction zone","Where one tectonic plate slides under another"],["Evacuate","To leave a dangerous place for a safe one"],["Seismometer","An instrument that measures earthquakes"]],
 f:["The word tsunami means harbor wave in Japanese.","Tsunamis can cross oceans at about 800 km/h.","The first tsunami wave is not always the largest."],
-fun:"A tsunami in the deep ocean can travel as fast as a jet plane.",
-tl:"Ang tsunami ay serye ng malalaking alon na kadalasang dulot ng lindol sa ilalim ng dagat. Kapag malakas ang lindol malapit sa baybayin o biglang umatras ang dagat, agad na lumikas sa mataas na lugar."});
+fun:"A tsunami in the deep ocean can travel as fast as a jet plane."});

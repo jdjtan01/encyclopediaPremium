@@ -9,8 +9,7 @@ s2:[["Sirius B","Sirius, the brightest star in the night sky, has a faint compan
 sp:["Chandrasekhar’s voyage","In 1930 Subrahmanyan Chandrasekhar, a 19-year-old graduate from Madras in India, sailed to England to study at Cambridge. During the long sea voyage, he worked on calculations about white dwarfs, combining Einstein’s relativity with quantum physics. He discovered that a white dwarf above about 1.4 solar masses could not support itself and would collapse. When he presented his findings a few years later, the famous astronomer Arthur Eddington publicly ridiculed the idea, and many scientists sided with Eddington. Chandrasekhar moved to the United States and continued his research. Decades later his conclusion was fully accepted, and in 1983 he received the Nobel Prize in Physics. NASA’s Chandra X-ray Observatory is named after him."],
 g:[["White dwarf","The dense remnant of a Sun-like star"],["Planetary nebula","A glowing shell of gas thrown off by a dying star"],["Chandrasekhar limit","The maximum mass of a white dwarf"],["Black dwarf","A white dwarf that has cooled completely"]],
 f:["The Sun will become a white dwarf.","White dwarfs are about the size of Earth.","Sirius has a white dwarf companion."],
-fun:"A teaspoon of white dwarf material would weigh about as much as an elephant or more.",
-tl:"Ang white dwarf ay ang maliit at siksik na labi ng bituing tulad ng Araw. Kasinlaki ito ng Daigdig ngunit halos kasimbigat ng Araw. Balang araw, magiging white dwarf din ang ating Araw."});
+fun:"A teaspoon of white dwarf material would weigh about as much as an elephant or more."});
 
 ADDART({id:"hubblest",t:"The Hubble Space Telescope",c:"Space Exploration",i:"🔭",w:"Hubble Space Telescope",r:["scope","jwst","hubble","galaxies","spaceshuttle"],
 p:[["Above the clouds","Hubble orbits above Earth’s atmosphere for clear views."],["A flawed start","Its mirror had a flaw that astronauts later fixed."],["Changing astronomy","Hubble has transformed our view of the universe."]],
@@ -22,8 +21,7 @@ s2:[["Deep fields","In 1995 astronomers pointed Hubble at a tiny, seemingly empt
 sp:["Ten days staring at nothing","In 1995 Robert Williams, director of the institute that runs Hubble, made a daring decision. He used his own discretionary observing time to point the telescope at a tiny patch of sky near the Big Dipper that seemed to contain nothing at all, about the size of a grain of sand held at arm’s length. Some colleagues worried it would be a waste of precious time. For ten days, Hubble collected faint light from that spot. When the images were combined, they revealed around 3,000 galaxies of all shapes, colors and ages, some among the most distant ever seen. The Hubble Deep Field showed that every small patch of sky is crowded with galaxies, and changed how people imagined the size of the universe."],
 g:[["Space telescope","A telescope placed in orbit"],["Servicing mission","A mission to repair or upgrade a spacecraft"],["Deep field","A long exposure of a small area of sky"],["Spectrograph","An instrument that splits light into colors"]],
 f:["Hubble was launched in 1990.","Astronauts fixed its flawed mirror in 1993.","Hubble orbits Earth about every 95 minutes."],
-fun:"Hubble’s mirror flaw was smaller than a fiftieth of the width of a human hair.",
-tl:"Ang Hubble Space Telescope ay teleskopyong umiikot sa Daigdig mula pa noong 1990. Malinaw ang mga larawan nito dahil nasa labas ito ng atmospera. Ipinakita ng Hubble na napakaraming galaxy sa sansinukob."});
+fun:"Hubble’s mirror flaw was smaller than a fiftieth of the width of a human hair."});
 
 ADDART({id:"spaceshuttle",t:"The Space Shuttle",c:"Space Exploration",i:"🚀",w:"Space Shuttle",r:["rocket","iss","astronauts","space","hubblest"],
 p:[["A reusable spaceship","The Space Shuttle was the first reusable crewed spacecraft."],["Thirty years of flights","It flew from 1981 to 2011."],["Two tragedies","Challenger and Columbia were lost with their crews."]],
@@ -35,8 +33,7 @@ s2:[["The Challenger disaster","On January 28, 1986, the Space Shuttle Challenge
 sp:["Columbia’s first flight","On April 12, 1981, exactly 20 years after Yuri Gagarin became the first human in space, the Space Shuttle Columbia stood on its launch pad in Florida with two astronauts aboard, John Young and Robert Crippen. It was the first time NASA had launched a new spacecraft with a crew on its very first flight, without an uncrewed test. With a roar, the shuttle rose into the sky. After two days in orbit, Columbia reentered the atmosphere and glided to a smooth landing on a dry lakebed in California, watched by huge crowds. A new era of reusable spaceflight had begun, one that would last 30 years."],
 g:[["Orbiter","The winged part of the shuttle that carried crew"],["Solid rocket booster","A rocket filled with solid fuel"],["Payload bay","The cargo area of the shuttle"],["Reentry","Returning into Earth’s atmosphere"]],
 f:["The shuttle landed like a glider.","Shuttles flew from 1981 to 2011.","Shuttles helped build the International Space Station."],
-fun:"The shuttle’s first launch was on the 20th anniversary of the first human spaceflight.",
-tl:"Ang Space Shuttle ay sasakyang pangkalawakan ng NASA na maaaring gamitin muli, na lumipad mula 1981 hanggang 2011. Lumilipad ito na parang rocket at lumalapag na parang eroplano. Nawala ang Challenger at Columbia kasama ang kanilang mga tauhan."});
+fun:"The shuttle’s first launch was on the 20th anniversary of the first human spaceflight."});
 
 ADDART({id:"newhorizons",t:"New Horizons",c:"Space Exploration",i:"🛰️",w:"New Horizons",r:["pluto","kuiper","dwarfplanets","voyager","solar"],
 p:[["To Pluto","New Horizons was the first spacecraft to visit Pluto."],["A heart on Pluto","It revealed a giant heart-shaped plain of ice."],["Farther still","It later flew past Arrokoth, the most distant object ever explored."]],
@@ -48,8 +45,7 @@ s2:[["A dwarf planet after launch","Just months after New Horizons launched, the
 sp:["The phone-home moment","As New Horizons raced past Pluto on July 14, 2015, it was too busy collecting data to communicate with Earth. Mission controllers in Maryland had to wait about 13 hours, not knowing whether the spacecraft had survived passing through the Pluto system, where an unseen piece of debris could have destroyed it. That evening, a signal finally arrived, carrying the message that the spacecraft was healthy and had stored its data. The control room erupted in cheers. Over the following months, images revealing Pluto’s mountains, glaciers and heart streamed back, and a world that had been a mystery for 85 years came into view."],
 g:[["Space probe","An uncrewed spacecraft sent to explore"],["Kuiper Belt","A region of icy objects beyond Neptune"],["Flyby","Passing close to an object without stopping"],["Dwarf planet","A small planet-like body"]],
 f:["New Horizons flew past Pluto in 2015.","It found a heart-shaped region on Pluto.","It explored Arrokoth in 2019."],
-fun:"New Horizons carries some of the ashes of the man who discovered Pluto.",
-tl:"Ang New Horizons ang unang sasakyang pangkalawakan na bumisita sa Pluto noong 2015. Natuklasan nito ang malaking kapatagan ng yelo na hugis-puso. Noong 2019, dinaanan nito ang Arrokoth, ang pinakamalayong bagay na nasuri nang malapitan."});
+fun:"New Horizons carries some of the ashes of the man who discovered Pluto."});
 
 ADDART({id:"cassini",t:"The Cassini–Huygens Mission",c:"Space Exploration",i:"🪐",w:"Cassini–Huygens",r:["saturn","titan","enceladus","voyager","jupiter"],
 p:[["Saturn explorer","Cassini orbited Saturn for 13 years."],["Landing on Titan","Its Huygens probe landed on Saturn’s moon Titan in 2005."],["A grand finale","Cassini ended its mission by diving into Saturn."]],
@@ -61,5 +57,4 @@ s2:[["Named for astronomers","The orbiter is named after Giovanni Domenico Cassi
 sp:["Diving into Saturn","On the morning of September 15, 2017, scientists and engineers gathered at NASA’s Jet Propulsion Laboratory in California for Cassini’s final moments. The spacecraft, after 20 years in space and 13 at Saturn, was falling toward the giant planet at more than 100,000 kilometers per hour. As it entered the atmosphere, it kept its antenna pointed at Earth, sending data about Saturn’s gases until its thrusters could no longer hold it steady. Because radio signals took about 83 minutes to reach Earth, by the time the signal disappeared, Cassini had already burned up. In the control room, people embraced, some in tears, as one of the most successful planetary missions in history came to a close."],
 g:[["Orbiter","A spacecraft that circles a planet"],["Probe","A spacecraft sent to land or descend"],["Cassini Division","A large gap in Saturn’s rings"],["Grand Finale","Cassini’s last series of dives"]],
 f:["Huygens landed on Titan in 2005.","Cassini orbited Saturn for 13 years.","Cassini ended its mission by diving into Saturn."],
-fun:"Cassini photographed Earth from Saturn as a tiny pale dot beneath the rings.",
-tl:"Ang Cassini–Huygens ay misyon upang pag-aralan ang Saturn, ang mga singsing at buwan nito. Lumapag ang Huygens sa buwang Titan noong 2005. Tinapos ng Cassini ang misyon nito sa pagbagsak sa Saturn noong 2017."});
+fun:"Cassini photographed Earth from Saturn as a tiny pale dot beneath the rings."});

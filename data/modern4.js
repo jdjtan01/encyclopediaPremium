@@ -9,8 +9,7 @@ s2:[["Mental health in the Philippines","The Philippine Mental Health Act of 201
 sp:["The semicolon","Some people mark their support for mental health with a small symbol: the semicolon. In writing, a semicolon is used where an author could have ended a sentence but chose to continue. In 2013 an American movement called Project Semicolon adopted it as a symbol that a person’s story is not over. Since then, people around the world have drawn or tattooed semicolons on their wrists to show solidarity with those facing mental health struggles and to encourage them to keep going and seek help. The message is simple: your story is not finished."],
 g:[["Mental health","Emotional, psychological and social well-being"],["Anxiety","Excessive worry or fear"],["Depression","Long-lasting sadness and loss of interest"],["Stigma","Negative attitudes that make people feel ashamed"]],
 f:["About 1 in 7 adolescents has a mental health condition.","Half of mental health conditions begin by age 14.","World Mental Health Day is 10 October."],
-fun:"The semicolon has become a symbol of hope for mental health: the story is not over.",
-tl:"Ang kalusugang pangkaisipan ay kasinghalaga ng kalusugan ng katawan. Halos isa sa bawat pito na kabataan ang may kondisyong pangkaisipan, gaya ng anxiety o depression. Makipag-usap sa mapagkakatiwalaang matanda o tumawag sa helpline, gaya ng 1553 ng National Center for Mental Health."});
+fun:"The semicolon has become a symbol of hope for mental health: the story is not over."});
 
 ADDART({id:"obesity",t:"Obesity and Healthy Weight",c:"Health and the Body",i:"🥗",w:"Obesity",r:["nutri","exercise","diabetes","heartdisease","foodsecurity"],
 p:[["A growing health issue","Obesity has become far more common around the world in recent decades."],["Many causes","Food environments, activity, sleep, stress and genes all play a part."],["Health, not shame","Experts focus on health and support, not blame."]],
@@ -22,8 +21,7 @@ s2:[["The double burden","Many countries, including the Philippines, face both u
 sp:["The astronomer who invented BMI","The formula now called the body mass index was devised in the 1830s by Adolphe Quetelet, a Belgian astronomer and statistician, who wanted to describe the average man using statistics. He noticed that adult weight tended to rise with the square of height. He never intended it to measure individual health. More than a century later, in 1972, the American scientist Ancel Keys named it the body mass index and recommended it for studying populations. Today it is widely used as a quick screening tool, though doctors know it does not tell the whole story about a person’s health."],
 g:[["Obesity","Excess body fat that may harm health"],["BMI","Body mass index, a screening measure based on weight and height"],["Double burden","Undernutrition and obesity existing together"],["Processed food","Food changed from its natural state, often with added sugar, salt or fat"]],
 f:["About one in eight people lived with obesity in 2022.","BMI was devised by an astronomer in the 1830s.","The Philippines taxes sweetened beverages."],
-fun:"The body mass index was invented by a Belgian astronomer.",
-tl:"Ang obesity ay labis na taba sa katawan na maaaring makasama sa kalusugan. Dumami ito sa buong mundo dahil sa mga pagkaing processed, matatamis na inumin at kaunting paggalaw. Mahalaga ang suporta at malusog na gawi, hindi ang paninisi."});
+fun:"The body mass index was invented by a Belgian astronomer."});
 
 ADDART({id:"aimedicine",t:"AI in Medicine",c:"Health and the Body",i:"🩺",w:"Artificial intelligence in healthcare",r:["ai","medimaging","mlearn","dataprivacy","crispr"],
 p:[["Smarter health care","Artificial intelligence is helping doctors detect diseases and develop new medicines."],["Reading scans","AI can spot signs of disease in X-rays, eye photos and other images."],["Humans in charge","Experts say AI should support, not replace, doctors and nurses."]],
@@ -35,8 +33,7 @@ s2:[["AlphaFold","Proteins are the molecular machines of life, and their shapes 
 sp:["The antibiotic named after a fictional computer","In 2020 scientists at the Massachusetts Institute of Technology trained an AI system on thousands of molecules to learn which ones could kill bacteria. They then let it search a library of more than 100 million molecules. It picked out a compound that had been studied as a possible diabetes drug but had never been considered an antibiotic. In lab tests, it killed many dangerous drug-resistant bacteria. The researchers named it halicin, after HAL 9000, the artificial intelligence in the film 2001: A Space Odyssey, a playful nod to the AI that found it."],
 g:[["Artificial intelligence","Computer systems that perform tasks needing human-like intelligence"],["Medical imaging","Pictures of the inside of the body, such as X-rays and scans"],["Protein","A large molecule that does work in living cells"],["Telemedicine","Health care provided at a distance using technology"]],
 f:["AI can help read X-rays and eye photos.","AlphaFold predicts the shapes of proteins.","The 2024 Nobel Prize in Chemistry honored protein AI."],
-fun:"An antibiotic discovered by AI was named after the computer HAL 9000.",
-tl:"Ginagamit ang artificial intelligence sa medisina upang tumulong sa pagtukoy ng sakit, pagbasa ng X-ray at pagtuklas ng bagong gamot. Dapat itong sumuporta sa mga doktor, hindi pumalit sa kanila, at may mga alalahanin sa pagkakamali at privacy."});
+fun:"An antibiotic discovered by AI was named after the computer HAL 9000."});
 
 ADDART({id:"kdrama",t:"Korean Dramas",c:"Arts and Literature",i:"📺",w:"Korean drama",r:["kpop","tv","streaming","southkoreacountry","cinema"],
 p:[["K-dramas","Korean television dramas are watched by fans all over the world."],["Hallyu","K-dramas are part of Hallyu, the global spread of South Korean culture."],["Loved in the Philippines","Koreanovelas have been hugely popular in the Philippines since the early 2000s."]],
@@ -48,8 +45,7 @@ s2:[["Koreanovelas in the Philippines","In 2003 Philippine networks began airing
 sp:["Winter Sonata and the Japanese fans","In 2003 and 2004, the Korean drama Winter Sonata, a romantic story of first love, snow and memory loss, became a sensation in Japan. Its star, Bae Yong-joon, gained a huge following, especially among middle-aged women, who called him Yon-sama, a very respectful title. Thousands of fans traveled to Korea to visit filming locations, such as Nami Island, and in 2004 crowds greeted the actor at Tokyo’s airport. Winter Sonata helped improve Japanese views of Korea and showed how a television drama could change relations between countries."],
 g:[["K-drama","A television drama from South Korea"],["Hallyu","The Korean Wave, the global spread of Korean culture"],["Sageuk","A Korean historical drama"],["Koreanovela","A Korean drama dubbed in Filipino"]],
 f:["Squid Game was released in 2021.","Koreanovelas began airing in the Philippines in 2003.","Parasite was the first non-English film to win Best Picture."],
-fun:"Fans of Winter Sonata gave its star a title of deep respect: Yon-sama.",
-tl:"Ang K-drama ay mga seryeng pantelebisyon mula sa South Korea na kilala sa romansa at magandang kuwento. Bahagi ito ng Hallyu o Korean Wave. Sikat ang mga Koreanovela sa Pilipinas mula 2003."});
+fun:"Fans of Winter Sonata gave its star a title of deep respect: Yon-sama."});
 
 ADDART({id:"shortvideo",t:"Short-Video Apps",c:"Technology",i:"📹",w:"Short-form content",r:["socialmedia","streaming","smartphone","screentime","misinformation"],
 p:[["Quick videos","Short-video apps let people make and watch videos lasting seconds to a few minutes."],["The endless feed","Algorithms choose an endless stream of videos for each viewer."],["Big influence","Short videos shape music, trends, shopping and news."]],
@@ -61,8 +57,7 @@ s2:[["Short videos in the Philippines","Filipinos are among the world’s most a
 sp:["Six seconds of fame","When Vine launched in January 2013, users could post videos only six seconds long, looping endlessly. The tight limit pushed creators to be inventive, with quick jokes, magic tricks and stop-motion animation packed into a few seconds. Some Vine stars became famous musicians, comedians and actors. Although Vine closed in 2017, it pioneered the short, looping, vertical video format and the culture of internet creators that TikTok, Reels and Shorts would later bring to billions of people."],
 g:[["Short-form video","A video lasting seconds to a few minutes"],["Algorithm","Rules a computer follows to choose content"],["Creator","A person who makes content for online audiences"],["Viral","Spreading rapidly online"]],
 f:["Vine videos lasted six seconds.","TikTok merged with Musical.ly in 2018.","Instagram Reels and YouTube Shorts launched in 2020."],
-fun:"Vine, an early short-video app, limited videos to just six seconds.",
-tl:"Ang mga short-video app gaya ng TikTok ay nagpapakita ng maiikling video na pinipili ng algorithm. Ginagamit ang mga ito sa libangan, pag-aaral at pagbebenta, ngunit may mga alalahanin sa screen time at maling impormasyon."});
+fun:"Vine, an early short-video app, limited videos to just six seconds."});
 
 ADDART({id:"superhero",t:"Superheroes",c:"Arts and Literature",i:"🦸",w:"Superhero",r:["comics","cinema","anime","phcinema","gmyth"],
 p:[["Heroes with powers","Superheroes are fictional heroes with special powers or skills who fight evil."],["From comics to blockbusters","They began in comic books and became stars of the biggest films."],["Filipino heroes","Darna and other Filipino superheroes are beloved in the Philippines."]],
@@ -74,5 +69,4 @@ s2:[["Darna","Darna was created by the Filipino writer Mars Ravelo and illustrat
 sp:["Superman’s 130 dollars","In 1938, two young friends from Cleveland, Ohio, Jerry Siegel and Joe Shuster, sons of Jewish immigrants, finally sold their story about an alien hero from the planet Krypton to a comic book publisher, after years of rejections. They received 130 dollars, including the rights to the character. Superman, lifting a car on the cover of Action Comics number 1, became a sensation and launched the superhero genre. Siegel and Shuster later fought for decades for credit and payment, and in 1975 the publisher agreed to give them pensions and restore their names on every Superman story."],
 g:[["Superhero","A fictional hero with extraordinary powers or skills"],["Secret identity","A hero’s hidden ordinary self"],["Komiks","Filipino comic books"],["Blockbuster","A very popular, high-earning film"]],
 f:["Superman first appeared in 1938.","Darna was created by Mars Ravelo.","Black Panther was the first Black superhero in mainstream American comics."],
-fun:"Superman’s creators sold the rights to the character for 130 dollars.",
-tl:"Ang superhero ay kathang-isip na bayaning may pambihirang kapangyarihan. Nagsimula ang makabagong superhero kay Superman noong 1938. Sa Pilipinas, kilala si Darna na nilikha ni Mars Ravelo."});
+fun:"Superman’s creators sold the rights to the character for 130 dollars."});

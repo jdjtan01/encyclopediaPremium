@@ -9,8 +9,7 @@ s2:[["The Great Wave around the world","The Great Wave has become one of the mos
 sp:["The Great Wave","Under the Wave off Kanagawa shows three boats of rowers bending beneath a towering wave whose foam curls like claws, while tiny Mount Fuji sits calmly in the distance. Hokusai made it when he was about 70. He used Prussian blue, a new imported pigment, which gave the print its striking color. It shows the power of nature and the fragility of human life."],
 g:[["Ukiyo-e","Japanese art of the floating world, often woodblock prints"],["Woodblock print","A print made from a carved block of wood"],["Edo period","Japan’s era from 1603 to 1868, ruled by Tokugawa shoguns"],["Japonisme","European fascination with Japanese art in the 1800s"]],
 f:["Ukiyo-e means pictures of the floating world.","Hokusai made The Great Wave when he was about 70.","Van Gogh painted copies of prints by Hiroshige."],
-fun:"Some ukiyo-e prints first reached Europe as wrapping paper for porcelain.",
-tl:"Ang ukiyo-e ay sining ng Hapon na nangangahulugang larawan ng lumulutang na mundo. Karaniwang inililimbag ito mula sa inukit na kahoy. Ang Great Wave ni Hokusai ay isa sa pinakatanyag na likhang-sining sa mundo."});
+fun:"Some ukiyo-e prints first reached Europe as wrapping paper for porcelain."});
 
 ADDART({id:"poetry",t:"Poetry",c:"Arts and Literature",i:"✒️",w:"Poetry",r:["haikuart","homer","shakes","balagtas","phlit"],
 p:[["The art of words","Poetry uses the sound, rhythm and meaning of words to express feelings, ideas and stories."],["Older than writing","Poems were spoken and sung long before writing existed, passed down by memory."],["Many forms","Poems can rhyme or not, be long epics or short haiku, and follow strict patterns or none at all."]],
@@ -22,8 +21,7 @@ s2:[["Poets around the world","Great poets have written in every language: Li Ba
 sp:["The oldest poem","The Epic of Gilgamesh tells of Gilgamesh, a king of Uruk in Mesopotamia, who searches for immortality after the death of his friend Enkidu. Early versions were written on clay tablets in cuneiform around 4,000 years ago. The best-known version was found in the library of the Assyrian king Ashurbanipal at Nineveh. It includes a flood story similar to the later story of Noah."],
 g:[["Meter","The rhythmic pattern of a line of poetry"],["Rhyme","Repetition of similar sounds at the ends of words"],["Metaphor","Describing something as if it were something else"],["Epic","A long poem about heroes and great deeds"]],
 f:["The Epic of Gilgamesh is one of the oldest known poems.","A sonnet has 14 lines.","World Poetry Day is celebrated on 21 March."],
-fun:"The Mahabharata, an Indian epic, is about ten times longer than the Iliad and the Odyssey combined.",
-tl:"Ang tula ay anyo ng panitikan na gumagamit ng tunog, ritmo at kahulugan ng mga salita upang magpahayag ng damdamin at ideya. May tula sa bawat kultura, mula sa sinaunang epiko hanggang sa Florante at Laura ni Balagtas."});
+fun:"The Mahabharata, an Indian epic, is about ten times longer than the Iliad and the Odyssey combined."});
 
 ADDART({id:"orchestra",t:"The Orchestra",c:"Arts and Literature",i:"🎻",w:"Orchestra",r:["mozart","musicw","opera","guitar"],
 p:[["Many players together","An orchestra is a large group of musicians playing instruments together, led by a conductor."],["Four families","Orchestral instruments are grouped into strings, woodwinds, brass and percussion."],["Symphonies and more","Orchestras perform symphonies, concertos, opera, ballet and film music."]],
@@ -35,8 +33,7 @@ s2:[["Seating","Orchestras are usually arranged in a semicircle facing the condu
 sp:["Beethoven’s Ninth","Beethoven’s Ninth Symphony, first performed in Vienna in 1824, was the first major symphony to include singers, who perform the poem Ode to Joy in its final movement. By then Beethoven was almost completely deaf; at the premiere, he had to be turned around to see the audience applauding. The Ode to Joy melody is now the anthem of the European Union."],
 g:[["Conductor","The person who directs an orchestra"],["Symphony","A large musical work for orchestra"],["Concertmaster","The leading violinist of an orchestra"],["Ensemble","A group of musicians performing together"]],
 f:["The oboe plays the note that the orchestra tunes to.","Strings are the largest section of the orchestra.","Beethoven was almost deaf when his Ninth Symphony premiered."],
-fun:"The melody of Beethoven’s Ode to Joy is the anthem of the European Union.",
-tl:"Ang orkestra ay malaking grupo ng mga musikero na tumutugtog nang sabay, pinamumunuan ng konduktor. Hinahati ang mga instrumento sa strings, woodwinds, brass at percussion."});
+fun:"The melody of Beethoven’s Ode to Joy is the anthem of the European Union."});
 
 ADDART({id:"norsemyth",t:"Norse Mythology",c:"Arts and Literature",i:"⚡",w:"Norse mythology",r:["viking","gmyth","fairy","iceland"],
 p:[["Gods of the North","Norse mythology is the collection of myths of the ancient Scandinavian peoples, including the Vikings."],["Odin, Thor and Loki","Its gods include Odin, the wise chief god, Thor, god of thunder, and Loki, the trickster."],["The end of the world","The myths tell of Ragnarök, a great battle in which the world is destroyed and reborn."]],
@@ -48,8 +45,7 @@ s2:[["The Eddas","The Poetic Edda is a collection of anonymous poems about gods 
 sp:["Odin’s ravens and Thor’s goats","Odin had two ravens, Huginn and Muninn, meaning thought and memory, who flew over the world each day and returned to tell him the news. Thor rode in a chariot pulled by two goats, Tanngrisnir and Tanngnjóstr. According to one myth, Thor could eat the goats for dinner and bring them back to life the next morning with his hammer, as long as their bones were kept whole."],
 g:[["Æsir","The main family of Norse gods"],["Yggdrasil","The giant tree connecting the nine worlds"],["Ragnarök","The prophesied end and rebirth of the world"],["Rune","A letter of the ancient Germanic alphabet"]],
 f:["Thursday is named after Thor.","Most Norse myths survive in texts from medieval Iceland.","Tolkien took the names of his dwarves from the Poetic Edda."],
-fun:"Thursday is named after Thor, the Norse god of thunder.",
-tl:"Ang mitolohiyang Norse ay mga alamat ng sinaunang Scandinavia, kabilang ang mga Viking. Kabilang dito ang mga diyos na sina Odin, Thor at Loki, at ang Ragnarök, ang wakas at muling pagsilang ng mundo."});
+fun:"Thursday is named after Thor, the Norse god of thunder."});
 
 ADDART({id:"puppetry",t:"Puppetry",c:"Arts and Literature",i:"🎎",w:"Puppetry",r:["theatre","anim","indonesiacountry","tv"],
 p:[["Bringing objects to life","Puppetry is the art of bringing figures to life for performance, using hands, strings, rods or shadows."],["An ancient art","Puppet theater has been performed for thousands of years in Asia, Europe, Africa and the Americas."],["Many kinds","Puppets include hand puppets, marionettes, rod puppets, shadow puppets and giant parade puppets."]],
@@ -61,5 +57,4 @@ s2:[["Wayang kulit","In Indonesia, especially Java and Bali, wayang kulit shadow
 sp:["Little Amal","Little Amal is a giant puppet, 3.5 meters tall, of a nine-year-old Syrian refugee girl, created by the Handspring Puppet Company of South Africa, makers of the horse puppets in War Horse. In 2021 she walked about 8,000 kilometers from the border of Syria and Türkiye across Europe to the United Kingdom, greeted by communities along the way, to raise awareness of refugee children. She has since traveled to other countries, including the United States."],
 g:[["Puppeteer","A person who operates puppets"],["Marionette","A puppet moved by strings from above"],["Shadow puppet","A flat puppet seen as a shadow on a screen"],["Dalang","The master puppeteer of Indonesian wayang"]],
 f:["Indonesian wayang is recognized by UNESCO.","Bunraku puppets are each operated by three puppeteers.","Vietnamese water puppets perform on a pool of water."],
-fun:"In Vietnamese water puppetry, puppeteers stand waist-deep in water behind a screen.",
-tl:"Ang puppetry ay sining ng pagbibigay-buhay sa mga papet para sa pagtatanghal. Matagal na itong ginagawa sa iba't ibang bansa, gaya ng wayang kulit ng Indonesia, bunraku ng Hapon at water puppetry ng Vietnam."});
+fun:"In Vietnamese water puppetry, puppeteers stand waist-deep in water behind a screen."});

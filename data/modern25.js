@@ -9,8 +9,7 @@ s2:[["Mr Jones","The 2019 film Mr Jones tells the story of Gareth Jones, who wal
 sp:["The candle in the window","On Holodomor Remembrance Day, Ukrainians light candles in their windows and place sheaves of wheat or ears of grain at memorials. In Kyiv, a memorial shows a thin girl holding a few ears of wheat."],
 g:[["Famine","An extreme lack of food causing mass starvation"],["Collectivization","Forcing private farms into state-run collective farms"],["Quota","A required amount to deliver"],["Genocide","Acts intended to destroy a national or ethnic group"]],
 f:["Holodomor means ‘death by hunger’.","The Soviet Union exported grain during the famine.","Ukrainians light candles in their windows to remember the victims."],
-fun:"Gareth Jones, who exposed the famine, had earlier interviewed Adolf Hitler and flown with him in his plane in 1933.",
-tl:"Ang Holodomor ay taggutom sa Ukraine noong 1932–33 na pumatay ng tinatayang 3.5 hanggang 5 milyong tao, dulot ng mga patakaran ni Stalin. Kinikilala ito ng Ukraine at mahigit 30 bansa bilang henosidyo."});
+fun:"Gareth Jones, who exposed the famine, had earlier interviewed Adolf Hitler and flown with him in his plane in 1933."});
 
 ADDART({id:"armeniangenocide",t:"The Armenian Genocide",c:"History",i:"🕯️",w:"Armenian genocide",r:["genocide","wwi","turkeycountry","holocaust"],
 p:[["Destruction of a people","The Armenian genocide was the mass killing of Armenians in the Ottoman Empire in 1915–16."],["Deportations and massacres","Around one million or more died in massacres and death marches."],["Still disputed","Turkey denies that it was genocide, while many countries recognize it."]],
@@ -22,8 +21,7 @@ s2:[["Musa Dagh","In 1915, about 4,000 Armenians from villages near Musa Dagh (M
 sp:["Lemkin and the Armenians","As a young law student, Raphael Lemkin was struck by the 1921 trial in Berlin of an Armenian who had assassinated Talaat Pasha, a chief organizer of the killings. He asked why killing one man was a crime but killing a million was not, a question that led him to define genocide."],
 g:[["Deportation","Forcing people to leave an area"],["Death march","A forced march in which many prisoners die"],["Diaspora","A people scattered away from their homeland"],["Denial","Refusing to accept that something happened"]],
 f:["24 April is Armenian Genocide Remembrance Day.","The killings inspired the invention of the word genocide.","Turkey and Armenia have no diplomatic relations."],
-fun:"Armenia was the first country to adopt Christianity as its state religion, in about 301 AD.",
-tl:"Ang henosidyo ng mga Armenian ay malawakang pagpatay at pagpapatapon sa mga Armenian ng Imperyong Ottoman noong 1915–16, na pumatay ng mga isang milyon o higit pa. Itinatanggi ng Turkey na ito ay henosidyo, ngunit kinikilala ito ng mahigit 30 bansa."});
+fun:"Armenia was the first country to adopt Christianity as its state religion, in about 301 AD."});
 
 ADDART({id:"bosnianwar",t:"The Bosnian War",c:"History",i:"🕯️",w:"Bosnian War",r:["genocide","coldwar","un","nato","migration"],
 p:[["War after Yugoslavia","The Bosnian War (1992–1995) followed the break-up of Yugoslavia."],["Ethnic cleansing","About 100,000 people died, and millions fled their homes."],["Srebrenica","In July 1995, about 8,000 Bosniak men and boys were murdered."]],
@@ -35,8 +33,7 @@ s2:[["The failure of the UN","The UN declared Srebrenica and other towns ‘safe
 sp:["The Sarajevo Haggadah","During the siege, Sarajevo’s National Museum protected the Sarajevo Haggadah, a precious 14th-century illustrated Jewish manuscript. A Muslim librarian had saved it from the Nazis in World War II, and it was rescued again during the siege, becoming a symbol of Bosnia’s multicultural heritage."],
 g:[["Ethnic cleansing","Forcibly removing an ethnic group from an area"],["Siege","Surrounding a place to force it to surrender"],["Safe area","A zone declared protected by the UN"],["Bosniak","A Bosnian Muslim"]],
 f:["The siege of Sarajevo lasted 1,425 days, the longest of a capital city in modern warfare.","Srebrenica was the worst mass killing in Europe since World War II.","Bosnia has a rotating three-member presidency."],
-fun:"During the siege, Sarajevans built a 800-meter tunnel under the airport runway, which carried food, weapons and people in and out of the city.",
-tl:"Ang Digmaang Bosnian (1992–1995) ay sumunod sa pagkawatak-watak ng Yugoslavia. Mga 100,000 ang namatay at milyon-milyon ang lumikas, at noong Hulyo 1995 sa Srebrenica, mga 8,000 lalaking Bosniak ang pinatay."});
+fun:"During the siege, Sarajevans built a 800-meter tunnel under the airport runway, which carried food, weapons and people in and out of the city."});
 
 ADDART({id:"trailoftears",t:"The Trail of Tears",c:"History",i:"🕯️",w:"Trail of Tears",r:["indigrelig","usacountry","colonialism","residentialschools","racism"],
 p:[["Forced removal","The Trail of Tears was the forced removal of Native American nations from the southeastern United States."],["Thousands died","Thousands died of disease, cold and hunger on the way west."],["A broken promise","It defied a Supreme Court ruling protecting the Cherokee."]],
@@ -48,8 +45,7 @@ s2:[["The Seminole Wars","Many Seminole in Florida resisted removal, fighting th
 sp:["Ross’s journey","Chief John Ross negotiated for the Cherokee to manage their own removal to reduce suffering. His wife, Quatie, died during the journey after giving her blanket to a sick child, according to Cherokee tradition."],
 g:[["Removal","Forcing a people to leave their land"],["Treaty","A formal agreement between nations"],["Syllabary","A writing system in which symbols stand for syllables"],["Reservation","Land set aside for a Native American nation"]],
 f:["The name comes from a Cherokee phrase meaning ‘the trail where they cried’.","The Cherokee won a Supreme Court case but were still removed.","Sequoyah’s syllabary let most Cherokee become literate within a few years."],
-fun:"The Cherokee Phoenix, first published in 1828, was the first newspaper published by Native Americans in the United States.",
-tl:"Ang Trail of Tears ay sapilitang paglilipat sa mga bansang Native American mula sa timog-silangan ng Estados Unidos noong dekada 1830. Libo-libo ang namatay sa sakit, lamig at gutom, at nilabag nito ang pasya ng Korte Suprema na nagpoprotekta sa mga Cherokee."});
+fun:"The Cherokee Phoenix, first published in 1828, was the first newspaper published by Native Americans in the United States."});
 
 ADDART({id:"residentialschools",t:"Residential Schools",c:"History",i:"🧡",w:"Canadian Indian residential school system",r:["inuit","colonialism","aboriginal","trailoftears","canadacountry"],
 p:[["Taken from their families","Residential schools were boarding schools set up to assimilate Indigenous children."],["Abuse and loss","Many children suffered abuse, disease and the loss of their languages and cultures."],["Truth and reconciliation","Canada and the United States have apologized and are investigating the schools’ legacy."]],
@@ -61,8 +57,7 @@ s2:[["Orange Shirt Day","Phyllis Webstad, a residential school survivor, had a n
 sp:["Survivors’ voices","The Truth and Reconciliation Commission heard statements from more than 6,500 witnesses across Canada. Their testimony is preserved at the National Centre for Truth and Reconciliation in Winnipeg, so that future generations can learn what happened."],
 g:[["Assimilation","Making a group adopt the dominant culture"],["Indigenous","The original peoples of a land"],["Reconciliation","Restoring good relations after harm"],["Survivor","A person who lived through a harmful experience"]],
 f:["About 150,000 Indigenous children attended Canada’s residential schools.","The last Canadian residential school closed in 1996.","30 September is Canada’s National Day for Truth and Reconciliation."],
-fun:"‘Every Child Matters’, the slogan printed on orange shirts on 30 September, is now seen across Canada on flags, buildings and sports jerseys each autumn.",
-tl:"Ang residential schools ay mga paaralang itinayo upang sapilitang isama ang mga batang Katutubo sa nangingibabaw na kultura. Maraming bata ang inabuso at nawalan ng wika at kultura, at humingi na ng tawad ang Canada at Estados Unidos."});
+fun:"‘Every Child Matters’, the slogan printed on orange shirts on 30 September, is now seen across Canada on flags, buildings and sports jerseys each autumn."});
 
 ADDART({id:"iranrevolution",t:"The Iranian Revolution",c:"History",i:"🕌",w:"Iranian revolution",r:["irancountry","saddam","israelpalestine","coldwar"],
 p:[["The fall of the Shah","In 1979, a popular revolution overthrew Iran’s monarch, the Shah."],["An Islamic Republic","Ayatollah Khomeini set up a state ruled by Islamic clerics."],["Lasting tensions","The revolution began decades of conflict with the United States and Israel."]],
@@ -74,8 +69,7 @@ s2:[["The hostage crisis","On 4 November 1979, students supporting Khomeini stor
 sp:["Woman, Life, Freedom","In September 2022, 22-year-old Mahsa Amini died in the custody of Iran’s morality police after being arrested for allegedly wearing her hijab improperly. Protests led by women and girls spread across Iran under the slogan ‘Woman, Life, Freedom’, and were met with a crackdown in which hundreds were killed."],
 g:[["Shah","The title of Iran’s king"],["Ayatollah","A high-ranking Shia Muslim cleric"],["Theocracy","Government by religious leaders"],["Supreme Leader","The highest authority in Iran’s Islamic Republic"]],
 f:["The Iran hostage crisis lasted 444 days.","Iran was a monarchy for about 2,500 years before 1979.","Ali Khamenei, killed in 2026, had been Supreme Leader for almost 37 years."],
-fun:"The 2012 film Argo told the story of six US diplomats who escaped during the hostage crisis by posing as a Canadian film crew scouting locations.",
-tl:"Pinatalsik ng Rebolusyong Iranian noong 1978–79 ang Shah at itinatag ang Islamic Republic sa pamumuno ni Ayatollah Khomeini. Nagsimula ito ng mga dekadang tensyon sa Estados Unidos at Israel, na humantong sa digmaan noong 2026."});
+fun:"The 2012 film Argo told the story of six US diplomats who escaped during the hostage crisis by posing as a Canadian film crew scouting locations."});
 
 ADDART({id:"afghanwar",t:"The War in Afghanistan (2001–2021)",c:"History",i:"🏔️",w:"War in Afghanistan (2001–2021)",r:["sept11","terrorism","nato","isis","migration"],
 p:[["America’s longest war","The United States and allies fought in Afghanistan for 20 years after 9/11."],["The Taliban return","The Taliban retook power in August 2021 as US troops left."],["Women’s rights","Since 2021, girls have been banned from secondary school and university."]],
@@ -87,8 +81,7 @@ s2:[["Debates about the war","Supporters argue the invasion was a justified resp
 sp:["Afghan girls’ robotics team","In 2021, members of the Afghan girls’ robotics team, known as the Afghan Dreamers, escaped as the Taliban took over and continued their education abroad. They became a symbol of the opportunities Afghan girls lost under the new government."],
 g:[["Insurgency","An armed rebellion against a government"],["Taliban","An Islamist militant movement that rules Afghanistan"],["Nation-building","Efforts to create a stable government in another country"],["Withdrawal","Pulling forces out of an area"]],
 f:["It was the longest war in US history.","Kabul fell to the Taliban twice: in 1996 and in 2021.","Afghanistan is the only country where girls are banned from secondary school."],
-fun:"Afghanistan’s national sport is buzkashi, a rough game in which horse riders compete to grab a goat carcass and carry it to a goal.",
-tl:"Nagsimula ang digmaan sa Afghanistan noong Oktubre 2001 nang lusubin ito ng Estados Unidos matapos ang 9/11. Bumalik sa kapangyarihan ang Taliban noong Agosto 2021, at mula noon ay ipinagbawal ang mga babae sa sekondarya at unibersidad."});
+fun:"Afghanistan’s national sport is buzkashi, a rough game in which horse riders compete to grab a goat carcass and carry it to a goal."});
 
 ADDART({id:"iraqwar",t:"The Iraq War",c:"History",i:"🏜️",w:"Iraq War",r:["saddam","sept11","isis","iraqcountry"],
 p:[["The 2003 invasion","The United States, Britain and allies invaded Iraq in March 2003."],["No weapons found","The main reason given, weapons of mass destruction, turned out to be wrong."],["A long, bloody aftermath","Insurgency and sectarian war killed hundreds of thousands."]],
@@ -100,5 +93,4 @@ s2:[["Why the intelligence was wrong","Investigations in the United States and B
 sp:["‘Mission Accomplished’","On 1 May 2003, President Bush landed on the aircraft carrier USS Abraham Lincoln and gave a speech under a banner reading ‘Mission Accomplished’. As fighting continued for years, the image became a symbol of overconfidence."],
 g:[["Coalition","A group of countries acting together"],["Insurgency","An armed rebellion"],["Sectarian","Related to conflict between religious groups"],["Surge","A rapid increase in troops"]],
 f:["The 15 February 2003 protests were among the largest in history.","No stockpiles of weapons of mass destruction were found.","Britain’s Chilcot Inquiry took seven years and produced 2.6 million words."],
-fun:"Iraqi information minister Mohammed Saeed al-Sahhaf became famous as ‘Baghdad Bob’ for insisting there were no US troops in Baghdad as tanks rolled in behind him.",
-tl:"Nagsimula ang Digmaang Iraq noong 20 Marso 2003 nang lusubin ng Estados Unidos at Britanya ang Iraq at patalsikin si Saddam Hussein. Walang natagpuang sandatang pamatay-masa, at daan-daang libo ang namatay sa sumunod na karahasan."});
+fun:"Iraqi information minister Mohammed Saeed al-Sahhaf became famous as ‘Baghdad Bob’ for insisting there were no US troops in Baghdad as tanks rolled in behind him."});

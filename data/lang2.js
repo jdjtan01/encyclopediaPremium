@@ -9,8 +9,7 @@ s2:[["Politeness","Japanese has several levels of polite speech, called keigo, u
 sp:["Emoji, a Japanese word","In 1999, Shigetaka Kurita, working for the Japanese mobile company NTT Docomo, designed a set of 176 tiny pictures, each just 12 by 12 pixels, so that phone users could express emotions and ideas quickly in short messages: hearts, faces, weather symbols and more. They were called emoji, from the Japanese words for picture and character. After emoji were added to international computer standards and smartphones in the 2010s, they spread worldwide. Kurita’s original set is now in the collection of the Museum of Modern Art in New York."],
 g:[["Kanji","Chinese characters used in Japanese"],["Hiragana","A Japanese script for native words and grammar"],["Katakana","A Japanese script mainly for foreign words"],["Keigo","Polite and honorific Japanese"]],
 f:["Japanese uses three scripts together.","The Kojiki of 712 is Japan’s oldest surviving book.","The word emoji comes from Japanese."],
-fun:"The first emoji were just 12 by 12 pixels.",
-tl:"Ang wikang Hapon ay sinasalita ng mga 125 milyong tao. Gumagamit ito ng tatlong sistema ng pagsulat: kanji, hiragana at katakana. Galing sa wikang Hapon ang mga salitang tsunami, karaoke at emoji."});
+fun:"The first emoji were just 12 by 12 pixels."});
 
 ADDART({id:"korean",t:"Korean",c:"Languages",i:"📝",w:"Korean language",r:["sejong","southkoreacountry","kpop","kdrama","alphabet"],
 p:[["A scientific alphabet","Korean is written in Hangul, an alphabet invented in the 1400s."],["Two Koreas","Korean is spoken in South Korea, North Korea and by Koreans worldwide."],["Popular to learn","K-pop and K-dramas have made Korean popular with learners around the world."]],
@@ -22,8 +21,7 @@ s2:[["Speech levels","Korean has several speech levels that change verb endings 
 sp:["A wise person can learn it in a morning","When King Sejong announced his new alphabet in 1446, an accompanying text praised its simplicity, saying that a wise person could learn it in a morning, and even a less clever person within ten days. Sejong designed it so that farmers, women and servants, who had no time to master thousands of Chinese characters, could read and write and make their voices heard. Today South Korea has one of the highest literacy rates in the world, and UNESCO named its literacy prize after King Sejong."],
 g:[["Hangul","The Korean alphabet"],["Hanja","Chinese characters used in Korean"],["Syllable block","A group of Hangul letters forming one syllable"],["Speech level","A form of speech showing respect or familiarity"]],
 f:["Hangul was created in 1443 under King Sejong.","Hangul has 24 basic letters.","Hangul Day is 9 October in South Korea."],
-fun:"Hangul’s creators said a wise person could learn it in a morning.",
-tl:"Ang wikang Koreano ay sinasalita ng mga 80 milyong tao. Isinusulat ito sa Hangul, alpabetong nilikha noong 1443 sa ilalim ni Haring Sejong. Dumami ang nag-aaral nito sa Pilipinas dahil sa K-pop at K-drama."});
+fun:"Hangul’s creators said a wise person could learn it in a morning."});
 
 ADDART({id:"hindi",t:"Hindi",c:"Languages",i:"🕉️",w:"Hindi",r:["indiacountry","bollywood","indianphil","hindu","alphabet"],
 p:[["One of the biggest languages","Hindi is one of the most spoken languages in the world."],["Devanagari script","It is written in Devanagari, with a line along the top of the letters."],["Words we share","English words such as shampoo and pajamas come from Hindi."]],
@@ -35,8 +33,7 @@ s2:[["Hindi in film and music","Most Bollywood films are in Hindi, often mixed w
 sp:["Shampoo, a gift from India","The word shampoo comes from the Hindi word champo, meaning to press or massage, related to a word for kneading the body. In the 1700s, British travelers in India encountered head massages with oils and herbs. In 1814 Sake Dean Mahomed, a businessman from India, opened a bathhouse in Brighton, England, offering shampooing, a therapeutic massage with steam and oils. It became fashionable, and he was even appointed shampooing surgeon to King George IV. Only later did the word shampoo come to mean washing hair with soap."],
 g:[["Devanagari","The script used to write Hindi"],["Abugida","A writing system where consonants carry built-in vowels"],["Sanskrit","The ancient classical language of India"],["Hindustani","The shared everyday language of Hindi and Urdu"]],
 f:["Hindi is written in Devanagari.","Hindi and Urdu are closely related.","The word shampoo comes from Hindi."],
-fun:"An Indian businessman was once appointed shampooing surgeon to a British king.",
-tl:"Ang Hindi ay isa sa pinakamalaganap na wika sa mundo at opisyal na wika ng India. Isinusulat ito sa Devanagari. May mga salitang Filipino na galing sa Sanskrit, kaugnay ng Hindi, gaya ng guro at diwa."});
+fun:"An Indian businessman was once appointed shampooing surgeon to a British king."});
 
 ADDART({id:"french",t:"French",c:"Languages",i:"🥐",w:"French language",r:["francecountry","latin","english","spanish","africacolon"],
 p:[["A world language","French is spoken on five continents."],["From Latin","French is a Romance language that grew from Latin."],["Africa’s French","Most French speakers today live in Africa."]],
@@ -48,8 +45,7 @@ s2:[["French in English","After the Norman Conquest of England in 1066, French b
 sp:["Beef from the French, cows from the English","After the Normans conquered England in 1066, French-speaking nobles ruled over English-speaking peasants. This left a curious trace in English. The farmers who raised the animals used old English words: cow, pig, sheep and deer. But the nobles who ate the meat used French words: boeuf became beef, porc became pork, mouton became mutton and venaison became venison. Today English speakers still use English words for the animals in the field and French-derived words for the meat on the plate."],
 g:[["Romance language","A language that developed from Latin"],["Francophone","French-speaking"],["Nasal vowel","A vowel pronounced with air passing through the nose"],["Académie française","The institution that guards the French language"]],
 f:["Most French speakers live in Africa.","The Académie française was founded in 1635.","English borrowed thousands of French words."],
-fun:"English uses English words for farm animals but French words for their meat.",
-tl:"Ang Pranses ay wikang Romance na nagmula sa Latin. Mahigit 300 milyong tao ang nagsasalita nito sa limang kontinente, at karamihan ay nasa Aprika. Maraming salitang Ingles ang galing sa Pranses."});
+fun:"English uses English words for farm animals but French words for their meat."});
 
 ADDART({id:"swahili",t:"Swahili",c:"Languages",i:"🌍",w:"Swahili language",r:["tanzaniacountry","kenyacountry","ugandacountry","africacolon","arabic"],
 p:[["East Africa’s language","Swahili is spoken by tens of millions of people across East and Central Africa."],["A language of trade","It grew on the coast through trade between Africans, Arabs and others."],["Hakuna matata","The phrase hakuna matata, meaning no worries, is Swahili."]],
@@ -61,8 +57,7 @@ s2:[["Swahili words","Common Swahili words include jambo, hello; asante, thank y
 sp:["Nyerere’s Shakespeare","Julius Nyerere, the first president of Tanzania, was a teacher before he was a politician; Tanzanians still call him Mwalimu, meaning teacher. He believed Swahili could express any idea as well as English and that it should unite his young nation. To prove it, he translated two of William Shakespeare’s plays, Julius Caesar and The Merchant of Venice, into Swahili in the 1960s. His translations showed that Swahili could carry great world literature and inspired pride in an African language as a language of learning and government."],
 g:[["Kiswahili","The Swahili name for the Swahili language"],["Bantu","A large family of African languages"],["Noun class","A grammatical group of nouns marked by prefixes"],["Lingua franca","A common language used between people with different first languages"]],
 f:["Swahili is the most widely spoken African language.","Its name comes from an Arabic word for coasts.","World Kiswahili Language Day is 7 July."],
-fun:"Tanzania’s first president translated Shakespeare into Swahili.",
-tl:"Ang Swahili o Kiswahili ay ang pinakamalaganap na wikang Aprikano, sinasalita ng humigit-kumulang 200 milyong tao sa Silangan at Gitnang Aprika. Galing dito ang mga salitang safari at hakuna matata."});
+fun:"Tanzania’s first president translated Shakespeare into Swahili."});
 
 ADDART({id:"malay",t:"Malay and Indonesian",c:"Languages",i:"🌺",w:"Malay language",r:["malaysiacountry","indonesiacountry","phlang","seaempires","baybayin"],
 p:[["A language of the islands","Malay is spoken across Malaysia, Indonesia, Brunei and Singapore."],["A national language","Indonesian is a standard form of Malay used by over 270 million people."],["A relative of Filipino","Malay and Filipino are related Austronesian languages with many shared words."]],
@@ -74,5 +69,4 @@ s2:[["Words shared with Filipino","Because Malay and Philippine languages are re
 sp:["Person of the forest","The word orangutan comes from the Malay words orang, meaning person, and hutan, meaning forest: person of the forest. The great apes, found only in the rainforests of Borneo and Sumatra, earned their name from people who saw their humanlike faces, intelligence and gentle behavior. Interestingly, in Malay and Indonesian today, people usually call them orang utan, and the word orang alone means person, much as tao does in Filipino. Many other animal and plant names in English, such as cockatoo and durian, also come from Malay."],
 g:[["Austronesian","A language family spread from Taiwan across the islands of Asia and the Pacific"],["Lingua franca","A shared language used for trade between peoples"],["Jawi","An Arabic-based script used to write Malay"],["Bahasa","The Malay word for language"]],
 f:["Malay and Filipino are related Austronesian languages.","Indonesian is a standard form of Malay.","The word orangutan means person of the forest."],
-fun:"The Philippines’ oldest known document, from 900 CE, is written partly in Old Malay.",
-tl:"Ang Malay ay wikang Austronesian na sinasalita sa Malaysia, Indonesia, Brunei at Singapore. Kamag-anak ito ng Filipino at marami silang magkatulad na salita, gaya ng mata, anak at langit."});
+fun:"The Philippines’ oldest known document, from 900 CE, is written partly in Old Malay."});

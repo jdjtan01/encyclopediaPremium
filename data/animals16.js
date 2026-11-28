@@ -9,8 +9,7 @@ s2:[["Foxes in Australia","Red foxes were introduced to Australia in the 1800s s
 sp:["Foxes that wagged their tails","When Dmitry Belyaev started his experiment in 1959, his foxes came from fur farms and were fearful or aggressive toward people. Each year, his team tested the young foxes and allowed only the calmest, friendliest ones to breed. Within about ten generations, some foxes began wagging their tails and whimpering for attention like puppies. Over later generations, many developed curly tails, floppy ears and patches of white fur, features also seen in many domesticated animals. The experiment continued for decades after Belyaev’s death in 1985 and became one of the most famous studies of how domestication works."],
 g:[["Canid","A member of the dog family"],["Kit","A young fox"],["Den","A shelter where foxes raise young"],["Domestication","Taming and breeding wild animals to live with people"]],
 f:["The red fox is the most widespread wild carnivore.","The fennec fox is the smallest fox.","Foxes are not native to the Philippines."],
-fun:"Red foxes may use Earth’s magnetic field to aim their pounces on hidden mice.",
-tl:"Ang fox ay maliit na kamag-anak ng aso, kilala sa talino sa mga kuwento. Ang red fox ang pinakalaganap na ligaw na mangangaso sa mundo. Walang katutubong fox sa Pilipinas."});
+fun:"Red foxes may use Earth’s magnetic field to aim their pounces on hidden mice."});
 
 ADDART({id:"deer",t:"Deer",c:"Mammals",i:"🦌",w:"Deer",r:["phbio","palawan","conservation","horses","tamaraw"],
 p:[["Antlered animals","Most male deer grow antlers that they shed every year."],["Moose to pudú","Deer range from giant moose to tiny pudús."],["Philippine deer","The Philippines has three native deer species."]],
@@ -22,8 +21,7 @@ s2:[["The Visayan spotted deer","The Visayan spotted deer, known locally as usa,
 sp:["The spotted deer of Negros","In the 1980s, biologists searching the forests of Negros found that the Visayan spotted deer had become very rare, hunted for meat and losing its habitat as forests were cleared for sugarcane and farms. In the 1990s, a conservation partnership involving the Philippine government, local groups, Silliman University in Dumaguete and zoos in Europe began breeding the deer in captivity. Some deer born in these programs have been sent to zoos abroad to form a backup population, while others are kept in breeding centers in Negros and Panay. Rangers and educators also work with upland communities, explaining that the usa is found nowhere else on Earth."],
 g:[["Antler","A bony growth on a deer’s head, shed yearly"],["Velvet","Soft skin covering growing antlers"],["Browse","To feed on leaves and twigs"],["Usa","The Filipino word for deer"]],
 f:["Most male deer shed their antlers every year.","Reindeer females also grow antlers.","The Visayan spotted deer is endangered."],
-fun:"Deer antlers can grow over two centimeters in a single day.",
-tl:"Ang usa ay hayop na may sungay na tinatawag na antler, na nalalaglag at muling tumutubo taon-taon. May tatlong katutubong usa sa Pilipinas, kabilang ang nanganganib na Visayan spotted deer."});
+fun:"Deer antlers can grow over two centimeters in a single day."});
 
 ADDART({id:"mousedeer",t:"The Philippine Mouse-Deer",c:"Mammals",i:"🦌",w:"Philippine mouse-deer",r:["deer","palawan","phbio","phfolk","conservation"],
 p:[["Tiny hoofed animal","The pilandok is one of the smallest hoofed mammals."],["Not a true deer","Mouse-deer belong to an ancient family called chevrotains."],["Found only in the Philippines","It lives only on Balabac and nearby islands."]],
@@ -35,8 +33,7 @@ s2:[["Pilandok the trickster","In Philippine folklore, especially among the Mara
 sp:["Counting the crocodiles","Long ago, the story goes, Pilandok the mouse-deer wanted to reach sweet fruits growing across a wide river. The river was full of hungry crocodiles. Pilandok called out that the sultan had ordered a feast and needed to know how many crocodiles lived in the river, so he had been sent to count them. Proud and greedy, the crocodiles lined up from one bank to the other. Pilandok jumped from back to back, counting aloud, one, two, three, until he reached the far shore. Then he thanked them and skipped away, leaving the crocodiles grumbling. Children across the Philippines and its neighbors still enjoy this tale of brains defeating brawn."],
 g:[["Pilandok","The Filipino name for the Philippine mouse-deer"],["Chevrotain","A small, ancient type of hoofed mammal"],["Ruminant","A plant-eater that chews the cud"],["Endemic","Found naturally in only one place"]],
 f:["The pilandok is not a true deer.","It lives only on Balabac and nearby islands.","Male mouse-deer have tusk-like teeth instead of antlers."],
-fun:"An adult Philippine mouse-deer is about as tall as a house cat.",
-tl:"Ang pilandok ay napakaliit na hayop na may kuko na matatagpuan lamang sa Balabac at kalapit na mga isla sa Palawan. Hindi ito tunay na usa kundi isang chevrotain. Kilala rin si Pilandok bilang matalinong tauhan sa mga kuwentong-bayan."});
+fun:"An adult Philippine mouse-deer is about as tall as a house cat."});
 
 ADDART({id:"cloudrats",t:"Cloud Rats",c:"Mammals",i:"🐀",w:"Cloud rat",r:["rodents","phbio","banaue","mindanao","conservation"],
 p:[["Giant tree rats","Cloud rats are large, furry rodents found only in the Philippines."],["Bushy tails","Some cloud rats have long, fluffy tails."],["A Philippine treasure","Luzon has one of the richest collections of unique mammals on Earth."]],
@@ -48,8 +45,7 @@ s2:[["Luzon’s mammal treasures","A long-term survey of Luzon’s mountains led
 sp:["A rat photographed at last","For almost four decades, the Dinagat bushy-tailed cloud rat existed for science only as a single preserved specimen in a museum drawer. Biologists who searched Dinagat’s forests could not find it, and the species was feared lost. In 2012 a team of Filipino and foreign researchers, guided by local people who knew the forest, set up camera traps and searched at night. Finally they found and photographed a living cloud rat, with dark fur and a long, bushy tail, clinging to a tree. The rediscovery showed that the species survived and highlighted the importance of protecting Dinagat’s remaining forests."],
 g:[["Cloud rat","A large tree-dwelling rodent of the Philippines"],["Cloud forest","A misty mountain forest"],["Rodent","A mammal with ever-growing front teeth"],["Specimen","A preserved animal kept for study"]],
 f:["Cloud rats live only in the Philippines.","Giant cloud rats can weigh about 2 kg.","The Dinagat cloud rat was photographed alive in 2012."],
-fun:"A giant cloud rat can weigh about as much as a small house cat.",
-tl:"Ang cloud rat ay malalaking dagang-puno na matatagpuan lamang sa Pilipinas, lalo na sa kabundukan ng Luzon. Kumakain sila ng dahon at prutas sa gabi. Hindi sila tulad ng mga dagang-bahay na dinala lamang ng tao."});
+fun:"A giant cloud rat can weigh about as much as a small house cat."});
 
 ADDART({id:"wartypig",t:"The Visayan Warty Pig",c:"Mammals",i:"🐗",w:"Visayan warty pig",r:["phbio","deer","conservation","deforestation","domestication"],
 p:[["A rare wild pig","The Visayan warty pig lives only on Negros and Panay."],["Punk hairstyle","Males grow a spiky mane in the breeding season."],["Critically endangered","It is one of the most threatened pigs in the world."]],
@@ -61,5 +57,4 @@ s2:[["Philippine wild pigs","The Philippines has several native wild pigs. The P
 sp:["Searching the Panay mountains","High in the rugged Central Panay Mountain Range, a team of Filipino biologists and forest rangers hikes for days through steep, misty forest. They are looking for signs of the Visayan warty pig: patches of soil turned over by rooting, tracks in the mud and wallows where pigs have rolled. Camera traps strapped to trees capture photos of the pigs at dawn, revealing family groups with striped piglets. These surveys show that the species still survives in the wild, though in small numbers. The team shares their findings with local communities and officials, hoping to strengthen protection of one of the last strongholds of this unique Philippine animal."],
 g:[["Warty pig","A wild pig with fleshy warts on its face"],["Hybrid","The offspring of two different species or types"],["Wallow","A muddy hollow where pigs roll"],["Critically endangered","At extremely high risk of extinction"]],
 f:["The Visayan warty pig lives only in the Philippines.","Males grow a spiky mane in the breeding season.","It survives mainly on Negros and Panay."],
-fun:"Male Visayan warty pigs grow a dramatic mane during the breeding season, like a punk hairstyle.",
-tl:"Ang Visayan warty pig ay bihirang baboy-ramo na matatagpuan lamang sa Negros at Panay. Lubhang nanganganib itong maubos. May kulugo sa mukha ang mga lalaki at tumutubo ang mahabang buhok sa ulo tuwing panahon ng pagpaparami."});
+fun:"Male Visayan warty pigs grow a dramatic mane during the breeding season, like a punk hairstyle."});

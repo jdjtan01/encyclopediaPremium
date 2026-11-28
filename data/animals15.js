@@ -9,8 +9,7 @@ s2:[["Hunting and controversy","For centuries, seals were hunted for fur, meat, 
 sp:["The walrus that sank boats","In the summer of 2022, a young female walrus nicknamed Freya wandered far from the Arctic, appearing in the harbors of Norway, Denmark, the Netherlands and Britain. In Oslo, she climbed onto small boats to rest, sometimes sinking them under her weight of several hundred kilograms. Crowds gathered to see her, and some came dangerously close. Norwegian authorities warned people to keep their distance, but eventually decided she posed a risk to public safety and put her down. The decision caused outrage around the world and debate about how to handle wild animals that wander into cities."],
 g:[["Pinniped","A seal, sea lion or walrus"],["Blubber","A thick layer of fat under the skin"],["Haul out","When a seal comes onto land or ice"],["Flipper","A flat limb used for swimming"]],
 f:["Elephant seals can dive over 2,000 meters.","Walruses use their tusks to climb onto ice.","The Baikal seal lives in fresh water."],
-fun:"Hooded seal pups are fed by their mothers for only about four days.",
-tl:"Ang mga seal, sea lion at walrus ay mga mamalyang dagat na tinatawag na pinniped. Mahuhusay silang lumangoy at sumisid. May mga uri na halos maubos dahil sa pangangaso ngunit muling dumami dahil sa proteksiyon."});
+fun:"Hooded seal pups are fed by their mothers for only about four days."});
 
 ADDART({id:"lemurs",t:"Lemurs",c:"Mammals",i:"🐒",w:"Lemur",r:["madag","monkeys","tarsier","gorilla","conservation"],
 p:[["Only in Madagascar","Lemurs live naturally only on the island of Madagascar."],["Female leaders","In many lemur groups, females are in charge."],["Highly threatened","Lemurs are among the most endangered mammals on Earth."]],
@@ -22,8 +21,7 @@ s2:[["Giant lemurs of the past","Until about 1,000 to 2,000 years ago, Madagasca
 sp:["The singing forest","Before dawn in the rainforest of Andasibe in eastern Madagascar, a strange sound begins: a long, wailing cry that rises and falls like a siren or a whale song. It is a family of indri, the largest lemurs, singing together from the treetops. Other indri groups reply from across the valley. The songs help families stake out their territories and stay in contact. In Malagasy legend, the indri is related to humans, and in some communities it is taboo, or fady, to harm one. Visitors who come to hear the indri also bring income to local guides, giving people another reason to protect the forest."],
 g:[["Lemur","A primate found only in Madagascar"],["Primate","The group of mammals that includes lemurs, monkeys, apes and humans"],["Endemic","Found naturally in only one place"],["Fady","A Malagasy taboo"]],
 f:["Lemurs live naturally only in Madagascar.","Mouse lemurs are the smallest primates.","Many lemur groups are led by females."],
-fun:"The aye-aye finds food by tapping on wood and listening for hollow tunnels.",
-tl:"Ang lemur ay primate na matatagpuan lamang sa Madagascar. Sa maraming grupo ng lemur, ang mga babae ang namumuno. Isa ito sa pinakananganganib na mamalya sa mundo."});
+fun:"The aye-aye finds food by tapping on wood and listening for hollow tunnels."});
 
 ADDART({id:"hedgehogs",t:"Hedgehogs",c:"Mammals",i:"🦔",w:"Hedgehog",r:["rodents","insect","animalbehavior","phbio","mindanao"],
 p:[["Spiny coats","Hedgehogs are covered in thousands of sharp spines."],["Rolling up","When threatened, they curl into a prickly ball."],["A Philippine relative","The Mindanao gymnure is a hedgehog relative."]],
@@ -35,8 +33,7 @@ s2:[["The Mindanao gymnure","The Mindanao gymnure, Podogymnura truei, is a small
 sp:["Hedgehog highways","In Britain, where hedgehogs have declined dramatically, ordinary people have joined a nationwide effort to help them. Because hedgehogs travel up to two kilometers a night searching for food and mates, solid garden fences and walls can trap them in small areas. A campaign called Hedgehog Street encourages neighbors to cut small holes, about 13 centimeters wide, at the bottom of fences to link their gardens. Volunteers have registered many thousands of these hedgehog highways on an online map. Some new housing developments now include them by design. It is a simple example of how small actions by many people can help wildlife."],
 g:[["Spine","A stiff, sharp modified hair"],["Hibernation","A deep sleep through winter"],["Nocturnal","Active at night"],["Gymnure","A soft-furred relative of hedgehogs"]],
 f:["Hedgehogs are not related to porcupines.","They roll into a ball for protection.","The Mindanao gymnure is a hedgehog relative."],
-fun:"Hedgehogs got their name because they snuffle and grunt like hogs while searching hedges for food.",
-tl:"Ang hedgehog ay maliit na mamalyang may libu-libong tinik sa likod. Kapag nanganganib, bumibilog ito na parang bola. Ang Mindanao gymnure ay kamag-anak ng hedgehog na matatagpuan lamang sa Pilipinas."});
+fun:"Hedgehogs got their name because they snuffle and grunt like hogs while searching hedges for food."});
 
 ADDART({id:"bison",t:"Bison",c:"Mammals",i:"🦬",w:"Bison",r:["carabao","grasslands","conservation","tamaraw","wolf"],
 p:[["Giants of the plains","Bison are the largest land animals in North America and Europe."],["Nearly wiped out","Hunting reduced American bison from millions to about a thousand."],["Saved and returned","Conservation brought both American and European bison back."]],
@@ -48,8 +45,7 @@ s2:[["Bison and Native Americans","For many Plains Indian nations, such as the L
 sp:["The bison of Yellowstone","By 1902, only about two dozen wild bison remained in Yellowstone National Park, hiding in remote valleys and threatened by poachers. Park managers brought in bison from private herds and protected the survivors, slowly rebuilding the population. Today Yellowstone’s bison, numbering several thousand, are among the few genetically pure wild bison left. They are also the subject of disputes. Some bison carry a disease called brucellosis, and ranchers in nearby Montana fear it could spread to cattle, so bison that leave the park have sometimes been captured or culled. Conservationists and tribes argue that bison should be allowed to roam more widely, and the debate continues."],
 g:[["Bison","A large wild cattle with a shoulder hump"],["Wisent","The European bison"],["Herd","A group of grazing animals"],["Wallow","A shallow hole where animals roll in dust or mud"]],
 f:["Bison are the largest land animals in North America.","European bison were saved from a few zoo animals.","The bison is the US national mammal."],
-fun:"Despite weighing up to a metric ton, a bison can run about as fast as a horse over short distances.",
-tl:"Ang bison ay malalaki at mabalahibong ligaw na baka sa Hilagang Amerika at Europa. Halos maubos sila dahil sa pangangaso noong 1800s. Kamag-anak sila ng kalabaw at tamaraw."});
+fun:"Despite weighing up to a metric ton, a bison can run about as fast as a horse over short distances."});
 
 ADDART({id:"platypus",t:"The Platypus",c:"Mammals",i:"🦆",w:"Platypus",r:["kangaroo","evo","australiacountry","otters","animalbehavior"],
 p:[["Egg-laying mammal","The platypus is a mammal that lays eggs."],["Duck-billed","It has a bill like a duck that senses electricity."],["Venomous","Male platypuses have venomous spurs on their back legs."]],
@@ -61,5 +57,4 @@ s2:[["A suspected hoax","When the British zoologist George Shaw examined the fir
 sp:["The telegram from Australia","In 1884 the young Scottish scientist William Caldwell traveled to Queensland determined to settle the question of how platypuses and echidnas reproduce. With the help of Aboriginal hunters, he examined many animals. Finally, he found a female platypus that had laid one egg and had another inside her body. Caldwell sent a brief telegram to the British Association for the Advancement of Science, meeting in Montreal, Canada. It read, in essence, that monotremes were egg-laying and that their eggs were like those of reptiles and birds. The message was read aloud to the meeting and caused a sensation, ending nearly a century of debate."],
 g:[["Monotreme","A mammal that lays eggs"],["Electroreception","The ability to sense electric fields"],["Spur","A sharp spike on the leg"],["Burrow","A tunnel dug as a home"]],
 f:["The platypus lays eggs.","Its bill senses electricity.","Male platypuses are venomous."],
-fun:"Under ultraviolet light, platypus fur glows a blue-green color.",
-tl:"Ang platypus ay mamalyang nangingitlog na matatagpuan lamang sa Australia. May tuka ito na parang sa pato na nakakadama ng kuryente. May lason ang mga tinik sa paa ng lalaking platypus."});
+fun:"Under ultraviolet light, platypus fur glows a blue-green color."});

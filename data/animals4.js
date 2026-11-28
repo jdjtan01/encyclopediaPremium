@@ -9,8 +9,7 @@ s2:[["Sand decides","The temperature of the sand decides whether a hatchling bec
 sp:["The Turtle Islands","Some of the most important sea turtle nesting beaches are protected across borders. In 1996 the Philippines and Malaysia joined their Turtle Islands into the first protected area shared by two countries for sea turtles. At Ostional in Costa Rica and in Odisha, India, hundreds of thousands of olive ridleys come ashore together in mass nestings called arribadas."],
 g:[["Reptile","A cold-blooded animal with scales that breathes air"],["Hatchling","A newly hatched young animal"],["Carapace","The top part of a turtle’s shell"],["Hatchery","A protected place where eggs are kept safe until they hatch"]],
 f:["The temperature of the sand decides whether a sea turtle is male or female.","Only about one in 1,000 hatchlings may survive to adulthood.","Leatherbacks can dive more than 1,000 meters deep."],
-fun:"Warm sand produces mostly female sea turtles; cooler sand, mostly males.",
-tl:"Ang pawikan ay reptilya sa dagat na umaahon lamang upang mangitlog sa buhangin. Lima sa pitong uri nito ang nasa Pilipinas, at ipinagbabawal ng batas ang paghuli at pagkain sa mga ito at sa kanilang itlog."});
+fun:"Warm sand produces mostly female sea turtles; cooler sand, mostly males."});
 
 ADDART({id:"snake",t:"Snakes",i:"🐍",w:"Snake",r:["frog","croc","phbio"],
 p:[["Legless reptiles","Snakes are reptiles with long bodies, no legs and no eyelids."],["Swallowing whole","They swallow their prey whole, stretching their jaws around animals bigger than their heads."],["Mostly harmless","Of about 4,000 species, only a minority have venom dangerous to people."]],
@@ -22,8 +21,7 @@ s2:[["Constrictors","Pythons, boas and anacondas are constrictors. They grab pre
 sp:["The Rainbow Serpent","In the stories of many Aboriginal Australian peoples, the Rainbow Serpent is a great snake that shaped the land in the Dreaming, carving rivers and waterholes as it moved and bringing rain. It is one of the oldest continuing religious beliefs in the world, appearing in rock paintings thousands of years old. Serpents also feature in the myths of many other peoples, from the Aztecs’ feathered Quetzalcoatl to the sea serpent bakunawa of the Philippines."],
 g:[["Venom","A poison injected by a bite or sting"],["Fang","A long, sharp tooth"],["Constrictor","A snake that kills by squeezing"],["Antivenom","A medicine that blocks the effects of venom"]],
 f:["Snakes smell with their tongues.","Snakes have no eyelids and sleep with their eyes open.","The reticulated python is the world’s longest snake."],
-fun:"Snakes smell with their tongues, flicking them to taste the air.",
-tl:"Ang ahas ay reptilyang walang paa na umaamoy gamit ang dila at lumulunok ng buong biktima. Kaunti lamang sa mga 4,000 uri nito ang may kamandag na mapanganib sa tao; sa Pilipinas ay may sawa at Philippine cobra."});
+fun:"Snakes smell with their tongues, flicking them to taste the air."});
 
 ADDART({id:"croc",t:"Crocodiles",i:"🐊",w:"Saltwater crocodile",r:["snake","mindanao","dino"],cons:["CR","Philippine crocodile"],
 p:[["Ancient survivors","Crocodiles and their relatives have survived for more than 200 million years, outlasting the dinosaurs."],["Powerful hunters","They lie in wait in the water, then burst out to seize prey with jaws that have the strongest bite ever measured."],["Across the tropics","Crocodilians live in warm rivers, swamps and coasts of Africa, Asia, Australia and the Americas."]],
@@ -35,8 +33,7 @@ s2:[["The saltwater crocodile","The saltwater crocodile is the largest living re
 sp:["Lolong of Bunawan","Lolong took about three weeks and dozens of people to capture in 2011, after reports of attacks on people and farm animals in the area. The crocodile became a national celebrity and tourist attraction. After it died in 2013, its skeleton and preserved skin were given to the National Museum of the Philippines."],
 g:[["Crocodilian","A group of reptiles that includes crocodiles and alligators"],["Ambush predator","A hunter that waits hidden and attacks by surprise"],["Archosaur","A group that includes crocodiles, dinosaurs and birds"],["Estuary","Where a river meets the sea"]],
 f:["Crocodiles carry their babies to the water in their mouths.","The saltwater crocodile has the strongest bite ever measured.","Crocodiles are more closely related to birds than to lizards."],
-fun:"Crocodiles are more closely related to birds than to lizards.",
-tl:"Ang buwaya ay malaking reptilya na nangangaso sa ilog, latian at baybayin. Dalawang uri ang nasa Pilipinas: ang malaking saltwater crocodile, gaya ni Lolong, at ang lubhang nanganganib na Philippine crocodile."});
+fun:"Crocodiles are more closely related to birds than to lizards."});
 
 ADDART({id:"dino",t:"Dinosaurs",i:"🦕",w:"Dinosaur",r:["evo","birds","tect","trex","triceratops","dinobirds","kpgimpact"],
 p:[["Rulers of the Mesozoic","Dinosaurs dominated life on land for about 165 million years, from about 230 to 66 million years ago."],["Giants and small fry","They ranged from chicken-sized hunters to long-necked giants longer than a basketball court."],["Still with us","Birds are living dinosaurs, descended from small feathered meat eaters."]],
@@ -48,5 +45,4 @@ s2:[["Terrible lizards","The word dinosaur, meaning terrible lizard, was coined 
 sp:["Closer in time to us","Stegosaurus lived about 150 million years ago and Tyrannosaurus about 68 million years ago. That means more time separated Stegosaurus from Tyrannosaurus than separates Tyrannosaurus from us. Dinosaurs lived so long ago that the continents were in different places and the Atlantic Ocean was still narrow."],
 g:[["Paleontologist","A scientist who studies fossils"],["Mesozoic","The era of dinosaurs, divided into Triassic, Jurassic and Cretaceous"],["Sauropod","A giant, long-necked, plant-eating dinosaur"],["Fossil","Remains or traces of ancient life preserved in rock"]],
 f:["Birds are living dinosaurs.","T. rex lived closer in time to us than to Stegosaurus.","Dinosaur fossils have been found on every continent, even Antarctica."],
-fun:"Tyrannosaurus rex lived closer in time to us than to Stegosaurus.",
-tl:"Ang mga dinosaur ay mga reptilyang namuhay sa lupa mula mga 230 hanggang 66 milyong taon na ang nakararaan. Karamihan ay nalipol nang tumama ang isang asteroid, ngunit ang mga ibon ay itinuturing na buhay na inapo nila."});
+fun:"Tyrannosaurus rex lived closer in time to us than to Stegosaurus."});

@@ -9,8 +9,7 @@ s2:[["ELIZA","In 1966 Joseph Weizenbaum at MIT created ELIZA, a simple program t
 sp:["The Turing test","Turing imagined a judge exchanging typed messages with two hidden players, one human and one machine. If the judge could not reliably tell which was which, the machine would pass. Turing predicted that by about the year 2000, computers would fool judges at least some of the time. Modern chatbots can often do so, but many scientists argue that passing the test does not prove a machine truly understands."],
 g:[["Artificial intelligence","Computer systems that perform tasks normally requiring human intelligence"],["AI winter","A period of reduced funding and interest in AI research"],["Expert system","A program that uses rules from human experts to solve problems"],["Deep learning","Machine learning using neural networks with many layers"]],
 f:["The term artificial intelligence was coined in 1956.","Deep Blue beat the world chess champion in 1997.","Two 2024 Nobel Prizes recognized work related to AI."],
-fun:"ELIZA, a chatbot from 1966, understood nothing, yet many users believed it understood them.",
-tl:"Nagsimula ang larangan ng artificial intelligence noong dekada 1950, nang itanong ni Alan Turing kung kayang mag-isip ng makina. Dumaan ito sa mga panahon ng pag-asa at pagkabigo, at mula 2010s ay mabilis na umunlad dahil sa mga neural network."});
+fun:"ELIZA, a chatbot from 1966, understood nothing, yet many users believed it understood them."});
 
 ADDART({id:"algorithm",t:"Algorithms",c:"Technology",i:"🧮",w:"Algorithm",r:["comp","alg","mlearn","internet","goldage"],
 p:[["Step-by-step instructions","An algorithm is a precise set of steps for solving a problem or completing a task."],["Everywhere in computing","Every computer program is built from algorithms, from searching the web to recommending videos."],["An ancient idea","The word comes from the name of al-Khwarizmi, a mathematician in 9th-century Baghdad."]],
@@ -22,8 +21,7 @@ s2:[["Ada Lovelace","In 1843 Ada Lovelace published notes on Charles Babbage’s
 sp:["An algorithm for every day","People follow algorithms all the time without calling them that. Tying shoelaces, brushing teeth, folding a paper airplane and solving a Rubik’s Cube all follow step-by-step methods. Teaching computers to do things means breaking tasks down into steps so precise that a machine, which cannot guess what we mean, can follow them exactly."],
 g:[["Algorithm","A precise, step-by-step method for solving a problem"],["Binary search","A fast search that repeatedly halves a sorted list"],["Flowchart","A diagram showing the steps of a process"],["Program","Instructions written in a language a computer can run"]],
 f:["The word algorithm comes from the name of al-Khwarizmi.","Binary search can find one item among a million in about 20 steps.","Euclid’s algorithm is more than 2,000 years old."],
-fun:"Edsger Dijkstra is said to have invented his famous shortest-route algorithm in about 20 minutes at a café.",
-tl:"Ang algorithm ay malinaw na serye ng mga hakbang upang malutas ang isang problema. Lahat ng computer program ay binubuo ng mga algorithm. Hinango ang salita sa pangalan ni al-Khwarizmi, isang matematiko sa Baghdad."});
+fun:"Edsger Dijkstra is said to have invented his famous shortest-route algorithm in about 20 minutes at a café."});
 
 ADDART({id:"mlearn",t:"Machine Learning",c:"Technology",i:"📈",w:"Machine learning",r:["ai","neural","algorithm","stats","llm"],
 p:[["Learning from data","Machine learning is a kind of AI in which computers learn patterns from examples instead of being given exact rules."],["Everyday uses","It powers spam filters, voice assistants, translation apps, product recommendations and fraud detection."],["Three main types","The main kinds are supervised learning, unsupervised learning and reinforcement learning."]],
@@ -35,5 +33,4 @@ s2:[["Training and testing","To check that a model really works, data is split i
 sp:["Teaching a computer to see cats","In 2012 researchers at Google trained a huge neural network on 10 million unlabeled frames from YouTube videos. Without being told what a cat was, the network developed a detector that responded strongly to cat faces, simply because cats appeared so often. The experiment became famous as an example of a machine learning to recognize things on its own."],
 g:[["Machine learning","AI that learns patterns from data"],["Model","The program produced by training, which makes predictions"],["Training data","Examples used to teach a model"],["Overfitting","When a model memorizes examples instead of learning general patterns"]],
 f:["Arthur Samuel’s checkers program learned to beat him.","Most modern AI is built using machine learning.","Biased data can produce biased models."],
-fun:"A Google neural network learned to recognize cats in 2012 just by watching YouTube videos.",
-tl:"Ang machine learning ay uri ng AI kung saan natututo ang kompyuter mula sa mga halimbawa sa halip na sundin ang eksaktong patakaran. Ginagamit ito sa spam filter, pagsasalin ng wika at rekomendasyon ng mga video."});
+fun:"A Google neural network learned to recognize cats in 2012 just by watching YouTube videos."});

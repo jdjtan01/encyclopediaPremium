@@ -12,8 +12,7 @@ s2:[["Kente cloth","Kente is a brightly colored cloth woven in narrow strips by 
 sp:["Black Star of Africa","Ghana’s flag, adopted in 1957, has red, gold and green bands with a black star in the middle. The red stands for those who died in the struggle for independence, gold for the country’s mineral wealth and green for its forests and farms. The black star, the lodestar of African freedom, gives the national football team its nickname, the Black Stars."],
 g:[["Kente","A colorful woven cloth from Ghana"],["Adinkra","Akan symbols that express proverbs and ideas"],["Savanna","Grassland with scattered trees"],["Galamsey","Illegal small-scale gold mining in Ghana"]],
 f:["Ghana was the first sub-Saharan African colony to become independent.","Lake Volta is one of the largest artificial lakes in the world.","Ghana is the world’s second-largest cocoa producer."],
-fun:"Ghana’s name comes from an ancient empire that lay hundreds of kilometers to the northwest.",
-tl:"Ang Ghana sa Kanlurang Africa ang unang kolonya sa timog ng Sahara na naging malaya, noong 1957. Kilala ito sa ginto, sa kakaw na ginagawang tsokolate, at sa makukulay na telang kente."});
+fun:"Ghana’s name comes from an ancient empire that lay hundreds of kilometers to the northwest."});
 
 ADDART({id:"drccountry",t:"Democratic Republic of the Congo",c:"Countries and Places",i:"🦍",w:"Democratic Republic of the Congo",r:["trees","decol","nile","smartphone","phone"],
 p:[["Africa’s second-largest country","The DR Congo covers about 2.3 million square kilometers in the heart of Africa, an area about the size of Western Europe."],["The mighty Congo River","The Congo River, the deepest river in the world, curves through the country to the Atlantic."],["Rich and troubled","Its land holds vast mineral wealth, yet long wars and misrule have left many of its people poor."]],
@@ -25,5 +24,4 @@ s2:[["Wildlife","The DRC has five World Heritage natural sites. Virunga National
 sp:["Two Congos","Two countries are named after the Congo River. The Democratic Republic of the Congo, on the south and east, was a Belgian colony and is far larger. The Republic of the Congo, on the north and west, was a French colony and has about 6 million people. To tell them apart, people often call them Congo-Kinshasa and Congo-Brazzaville, after their capitals, which face each other across the river."],
 g:[["Tributary","A river or stream that flows into a larger river"],["Cobalt","A metal used in rechargeable batteries"],["Okapi","A forest animal related to the giraffe"],["Intangible heritage","Traditions, music and skills passed down through generations"]],
 f:["The Congo is the deepest river in the world.","The DRC produces about 70 percent of the world’s cobalt.","The okapi lives only in the DR Congo."],
-fun:"The Congo River is the only major river to cross the equator twice.",
-tl:"Ang Democratic Republic of the Congo ay malawak na bansa sa gitnang Africa na dinadaanan ng Ilog Congo. Mayaman ito sa kagubatang ulan at mineral, ngunit dumanas ng mahabang digmaan at kahirapan."});
+fun:"The Congo River is the only major river to cross the equator twice."});

@@ -9,8 +9,7 @@ s2:[["Chinese acrobatics","Chinese acrobatic troupes are famous for astonishing 
 sp:["Jules Léotard","Jules Léotard was a French gymnast whose father ran a swimming pool in Toulouse, where he practiced swinging between ropes and bars over the water. In 1859, at the Cirque Napoléon in Paris, he performed the first flying trapeze act, leaping from one swinging bar to another. He became a star, and the song The Daring Young Man on the Flying Trapeze was written about him. The tight one-piece garment he wore is still called a leotard."],
 g:[["Aerialist","A performer who does acts high in the air"],["Big top","The large tent of a traveling circus"],["Contortionist","A performer who bends the body into unusual positions"],["Ringmaster","The host who introduces the circus acts"]],
 f:["The modern circus began in London in 1768.","The leotard is named after a trapeze artist.","Chinese acrobatics are over 2,000 years old."],
-fun:"The leotard is named after Jules Léotard, the inventor of the flying trapeze act.",
-tl:"Ang sirko ay palabas ng mga akrobat, payaso, juggler at iba pang mahusay na tagapagtanghal. Nagsimula ang modernong sirko sa London noong 1768. Ngayon, maraming sirko ang gumagamit na lamang ng mga taong tagapagtanghal at hindi ng hayop."});
+fun:"The leotard is named after Jules Léotard, the inventor of the flying trapeze act."});
 
 ADDART({id:"musicals",t:"Musical Theatre",c:"Arts and Literature",i:"🎤",w:"Musical theatre",r:["opera","theatre","ballet","cinema","opm"],
 p:[["Stories told in song","Musical theatre combines songs, spoken words, dance and acting to tell a story on stage."],["Broadway and the West End","New York’s Broadway and London’s West End are the most famous centers of musical theatre."],["Loved worldwide","Musicals are performed in many languages and countries, and many have become films."]],
@@ -22,8 +21,7 @@ s2:[["Lea Salonga","The Filipino singer and actress Lea Salonga was chosen at 17
 sp:["The Phantom of the Opera","Andrew Lloyd Webber’s The Phantom of the Opera, based on a French novel by Gaston Leroux, tells of a masked musical genius haunting the Paris Opera House. It opened in London in 1986 and on Broadway in 1988, where it ran for 35 years and nearly 14,000 performances, the longest run in Broadway history, before closing in 2023. It has been seen by well over a hundred million people worldwide."],
 g:[["Book musical","A musical in which songs and dances grow from the story"],["Lyricist","The writer of a song’s words"],["Choreographer","The person who creates dances"],["Sung-through","A musical with little or no spoken dialogue"]],
 f:["Show Boat (1927) was an early modern musical.","Lea Salonga won a Tony Award in 1991.","The Phantom of the Opera ran 35 years on Broadway."],
-fun:"Japan’s Takarazuka Revue, with an all-female cast, has performed musicals since 1914.",
-tl:"Ang musical theatre ay pagtatanghal na pinagsasama ang awit, salita, sayaw at pag-arte para magkuwento. Kilala ang Broadway at West End. Si Lea Salonga ang unang babaeng Asyano na nanalo ng Tony Award noong 1991."});
+fun:"Japan’s Takarazuka Revue, with an all-female cast, has performed musicals since 1914."});
 
 ADDART({id:"sculpture",t:"Sculpture",c:"Arts and Literature",i:"🗿",w:"Sculpture",r:["michel","caveart","architecture","ukiyoe"],
 p:[["Art in three dimensions","Sculpture is art made in three dimensions, by carving, modeling, casting or assembling materials."],["Among the oldest arts","The oldest known sculptures are carved figures about 40,000 years old."],["Every culture","From Egypt’s Sphinx to China’s Terracotta Army, sculpture appears in every civilization."]],
@@ -35,8 +33,7 @@ s2:[["The moai of Rapa Nui","On Rapa Nui, or Easter Island, in the Pacific, the 
 sp:["The Terracotta Army","When farmers digging a well near Xi’an in 1974 found fragments of clay figures, they uncovered one of the greatest archaeological discoveries of the 20th century. The pits hold about 8,000 soldiers, along with horses and chariots, made to guard Qin Shi Huang, the first emperor of a unified China, in the afterlife. Each soldier’s face is different, and they were originally painted in bright colors, which faded quickly after exposure to air."],
 g:[["Relief","Sculpture that projects from a flat background"],["Lost-wax casting","Casting metal using a wax model that melts away"],["Chisel","A sharp tool for carving stone or wood"],["Mobile","A hanging sculpture that moves"]],
 f:["The oldest sculptures are about 40,000 years old.","The Terracotta Army has about 8,000 figures.","Michelangelo’s David is over 5 meters tall."],
-fun:"Each soldier in China’s Terracotta Army has a different face.",
-tl:"Ang eskultura ay sining na may tatlong dimensiyon, ginagawa sa pag-ukit, paghulma, paghulog ng metal o pagbubuo ng mga materyales. Kabilang sa mga tanyag na halimbawa ang Terracotta Army, ang moai at ang Oblation ni Guillermo Tolentino."});
+fun:"Each soldier in China’s Terracotta Army has a different face."});
 
 ADDART({id:"calligraphy",t:"Calligraphy",c:"Arts and Literature",i:"🖌️",w:"Calligraphy",r:["print","haikuart","goldage","ukiyoe","phlit"],
 p:[["Beautiful writing","Calligraphy is the art of beautiful handwriting, done with brushes or pens."],["Many traditions","Chinese, Arabic, Japanese, Indian and European calligraphy are among the great traditions."],["Art and meaning","In calligraphy, the shape of the letters is as important as the words themselves."]],
@@ -48,8 +45,7 @@ s2:[["The Orchid Pavilion","In 353 CE, Wang Xizhi and friends gathered at the Or
 sp:["The Four Treasures","Chinese calligraphers rely on the Four Treasures of the Study. The brush, made of animal hair, can produce strokes from hair-thin to bold. Ink comes as a solid stick, ground with water on the inkstone, a smooth stone dish. Paper, invented in China around 2,000 years ago, absorbs the ink. Fine sets of these tools have been treasured as works of art in themselves."],
 g:[["Calligraphy","The art of beautiful handwriting"],["Script","A system or style of writing"],["Baybayin","A pre-colonial Philippine writing system"],["Manuscript","A book or document written by hand"]],
 f:["Calligraphy means beautiful writing.","Our lowercase letters come from a script developed under Charlemagne.","Baybayin is being revived in the Philippines."],
-fun:"A calligraphy class helped inspire the fonts on early Apple computers.",
-tl:"Ang kaligrapiya ay sining ng magandang pagsulat gamit ang pinsel o pluma. Kabilang sa mga dakilang tradisyon ang Tsino, Arabe, Hapones at Europeo. Sa Pilipinas, muling binubuhay ang baybayin bilang sining."});
+fun:"A calligraphy class helped inspire the fonts on early Apple computers."});
 
 ADDART({id:"drums",t:"Drums and Percussion",c:"Arts and Literature",i:"🥁",w:"Percussion instrument",r:["orchestra","phdance","jazz","musicw"],
 p:[["The heartbeat of music","Percussion instruments make sound when struck, shaken or scraped."],["Among the oldest instruments","Drums have been played for thousands of years in nearly every culture."],["Rhythm everywhere","From West African talking drums to Japanese taiko and Philippine kulintang, percussion drives music."]],
@@ -61,5 +57,4 @@ s2:[["Kulintang","In the southern Philippines, especially among the Maguindanao,
 sp:["Drums that talk","In West Africa, the hourglass-shaped talking drum is tied with cords from top to bottom. When the drummer squeezes the drum under the arm, the skins tighten and the pitch rises. Because languages such as Yoruba use rising and falling tones to change meaning, skilled drummers can imitate speech, sending messages, announcing events and reciting proverbs and praise poems that listeners can understand."],
 g:[["Percussion","Instruments played by striking, shaking or scraping"],["Membranophone","An instrument with a vibrating stretched skin"],["Idiophone","An instrument whose whole body vibrates"],["Kulintang","A Philippine ensemble of small tuned gongs"]],
 f:["Drums are among the oldest instruments.","Talking drums can imitate speech.","Kulintang is a row of small tuned gongs."],
-fun:"The steelpan of Trinidad and Tobago was first made from discarded oil drums.",
-tl:"Ang mga instrumentong percussion ay tumutunog kapag pinalo, inalog o kinaskas. Kabilang dito ang tambol, gong at xylophone. Sa Pilipinas, kilala ang kulintang, isang hanay ng maliliit na gong mula sa Mindanao."});
+fun:"The steelpan of Trinidad and Tobago was first made from discarded oil drums."});

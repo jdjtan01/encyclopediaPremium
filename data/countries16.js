@@ -12,8 +12,7 @@ s2:[["International Mother Language Day","To honor the students killed on 21 Feb
 sp:["The 1971 Liberation War","In March 1971, after the Awami League led by Sheikh Mujibur Rahman won elections in Pakistan but was not allowed to form a government, the Pakistani army launched a brutal crackdown in East Pakistan. Bangladeshi freedom fighters, the Mukti Bahini, resisted, and about 10 million refugees fled to India. In December India entered the war, and on 16 December 1971 Pakistani forces surrendered in Dhaka. The day is celebrated as Victory Day, and Sheikh Mujibur Rahman is honored as the founding father of Bangladesh."],
 g:[["Delta","Land formed where a river splits and meets the sea"],["Mangrove","A tree that grows in salty coastal water"],["Microcredit","Small loans to poor people to start businesses"],["Jute","A plant fiber used for sacks and rope"],["Remittance","Money sent home by workers abroad"]],
 f:["Bangladesh lies on the world’s largest river delta.","21 February is International Mother Language Day.","The Sundarbans is the largest mangrove forest in the world."],
-fun:"International Mother Language Day began with Bangladesh’s struggle for the Bengali language.",
-tl:"Ang Bangladesh ay bansa sa Timog Asya na nasa pinakamalaking delta ng ilog sa mundo. Isa ito sa pinakamataong bansa. Naging malaya ito noong 1971, at dahil sa pakikibaka nito para sa wikang Bengali, ipinagdiriwang ang International Mother Language Day."});
+fun:"International Mother Language Day began with Bangladesh’s struggle for the Bengali language."});
 
 ADDART({id:"israelcountry",t:"Israel",c:"Countries and Places",i:"🕍",w:"Israel",r:["middleeast","judaism","holocaust","lakes","christ","islam"],
 p:[["A small, ancient land","Israel lies on the eastern shore of the Mediterranean, in a land sacred to Jews, Christians and Muslims."],["A modern state","The State of Israel was founded in 1948 as a homeland for the Jewish people."],["A land in conflict","Its history has been marked by conflict with Palestinians and neighboring states, and by efforts at peace."]],
@@ -25,8 +24,7 @@ s2:[["Reviving Hebrew","For centuries, Hebrew was used mainly in prayer and stud
 sp:["The Dead Sea","The Dead Sea, between Israel, the West Bank and Jordan, has a shore about 430 meters below sea level, the lowest point on land. Its water is almost ten times saltier than the ocean, so people float easily, and almost nothing lives in it except some microbes. Its mineral-rich mud is used in cosmetics. The sea is shrinking by about a meter a year because water from the Jordan River is diverted for farming and drinking."],
 g:[["Zionism","A movement for a Jewish homeland in the Land of Israel"],["Diaspora","A people living scattered away from their homeland"],["Kibbutz","A communal settlement in Israel"],["Occupation","Military control of a territory"],["Drip irrigation","Watering plants slowly at their roots"]],
 f:["Israel was founded in 1948.","Hebrew was revived as a spoken language.","The Dead Sea is the lowest point on land."],
-fun:"Israel recycles most of its wastewater to water crops.",
-tl:"Ang Israel ay bansa sa silangang baybayin ng Mediterranean na itinatag noong 1948 bilang tahanan ng mga Hudyo. Banal ang lupain nito sa mga Hudyo, Kristiyano at Muslim. Kaugnay ng kasaysayan nito ang matagal na tunggalian sa mga Palestino."});
+fun:"Israel recycles most of its wastewater to water crops."});
 
 ADDART({id:"ukrainecountry",t:"Ukraine",c:"Countries and Places",i:"🌻",w:"Ukraine",r:["russiacountry","ussrfall","wheat","eu","nuclear","coldwar"],
 p:[["Largest in Europe","Ukraine is the largest country entirely within Europe."],["Breadbasket","Its rich black soil makes it one of the world’s great grain and sunflower oil producers."],["Defending independence","Since 2022, Ukraine has been defending itself against a full-scale Russian invasion."]],
@@ -38,8 +36,7 @@ s2:[["The Holodomor","In 1932 and 1933, Soviet policies of forced collectivizati
 sp:["The black soil","About two-thirds of Ukraine is covered by chornozem, black earth, one of the most fertile soils in the world. Formed over thousands of years from grasses that grew and decayed on the steppe, it is deep, dark and rich in humus. It is said that during World War II, soldiers carried trainloads of this soil away. This soil is why Ukraine has long been called the breadbasket of Europe."],
 g:[["Steppe","A large, flat, treeless grassland"],["Kyivan Rus’","A medieval state centered on Kyiv"],["Holodomor","The man-made famine of 1932–1933 in Ukraine"],["Annexation","Taking over a territory by force or decree"],["Chornozem","Fertile black soil of the steppes"]],
 f:["Ukraine is the largest country entirely in Europe.","The Chernobyl disaster happened in 1986.","Ukraine became independent in 1991."],
-fun:"Ukrainian borscht was recognized by UNESCO as intangible cultural heritage in 2022.",
-tl:"Ang Ukraine ay pinakamalaking bansa na buong nasa Europa. Kilala ito bilang taniman ng trigo at mirasol. Naging malaya ito noong 1991, at mula 2022, ipinagtatanggol nito ang sarili laban sa malawakang pagsalakay ng Russia."});
+fun:"Ukrainian borscht was recognized by UNESCO as intangible cultural heritage in 2022."});
 
 ADDART({id:"greececountry",t:"Greece",c:"Countries and Places",i:"🏛️",w:"Greece",r:["greece","gmyth","olymp","byzant","ottoman","eu"],
 p:[["Cradle of the West","Greece is the birthplace of democracy, philosophy, the Olympic Games and theater."],["Thousands of islands","It has about 6,000 islands and islets, of which around 200 are inhabited."],["Sun and sea","Its beaches, ancient ruins and food attract tens of millions of visitors."]],
@@ -51,8 +48,7 @@ s2:[["The Acropolis","Above Athens rises the Acropolis, a rocky hill crowned by 
 sp:["Democracy is born","In about 508 BCE, the Athenian leader Cleisthenes introduced reforms that gave power to an assembly of citizens. All free adult male citizens could attend, speak and vote on laws and decisions, a system called demokratia, rule by the people. Women, enslaved people and foreigners were excluded, so it was far from complete. But the idea that citizens could govern themselves became one of the most influential in history."],
 g:[["City-state","An independent city with its own government"],["Acropolis","A fortified hill in an ancient Greek city"],["Democracy","Government by the people"],["Archipelago","A group of islands"],["Bailout","Financial help to prevent collapse"]],
 f:["Democracy began in Athens around 508 BCE.","Greece has about 6,000 islands and islets.","Athens hosted the first modern Olympics in 1896."],
-fun:"The Olympic flame for every Games is lit at Olympia in Greece using the Sun’s rays.",
-tl:"Ang Gresya ay bansa sa timog-silangang Europa na pinagmulan ng demokrasya, pilosopiya at Palarong Olimpiko. Mayroon itong libu-libong isla. Maraming Pilipinong mandaragat ang nagtatrabaho sa mga barkong pag-aari ng mga Griyego."});
+fun:"The Olympic flame for every Games is lit at Olympia in Greece using the Sun’s rays."});
 
 ADDART({id:"swedencountry",t:"Sweden",c:"Countries and Places",i:"🌲",w:"Sweden",r:["viking","eu","arctic","indig","trees","bicycle"],
 p:[["Land of forests and lakes","Sweden is a large Nordic country covered by forests and nearly 100,000 lakes."],["Midnight sun","In its far north, the Sun does not set for weeks in summer."],["Nobel’s homeland","Sweden is home to the Nobel Prizes, founded by the inventor Alfred Nobel."]],
@@ -64,8 +60,7 @@ s2:[["The Nobel Prizes","Alfred Nobel, a Swedish chemist who invented dynamite, 
 sp:["The Ice Hotel","Every winter since 1989, in the village of Jukkasjärvi in northern Sweden, artists build a hotel entirely from ice and snow taken from the Torne River. Guests sleep in rooms carved with ice sculptures, on beds covered with reindeer skins, at temperatures of around minus 5°C. In spring, the hotel melts back into the river. It inspired ice hotels in other cold countries."],
 g:[["Nordic","Relating to Scandinavia, Finland and Iceland"],["Welfare state","A state that provides services such as health care and pensions"],["Sámi","The Indigenous people of northern Scandinavia"],["Neutrality","Not taking sides in wars"],["Fika","A Swedish coffee break"]],
 f:["The first Nobel Prizes were awarded in 1901.","Sweden joined NATO in 2024.","Volvo introduced the three-point seatbelt in 1959."],
-fun:"Sweden’s Ice Hotel is rebuilt from river ice every winter.",
-tl:"Ang Sweden ay bansang Nordic sa hilagang Europa na natatakpan ng gubat at lawa. Dito nagmula ang Nobel Prize. Kilala ito sa mataas na pamantayan ng pamumuhay at sa mga kompanyang gaya ng IKEA at Volvo."});
+fun:"Sweden’s Ice Hotel is rebuilt from river ice every winter."});
 
 ADDART({id:"cubacountry",t:"Cuba",c:"Countries and Places",i:"🎺",w:"Cuba",r:["cubancrisis","coldwar","sugar","slavetrade","phrev","usacountry"],
 p:[["Pearl of the Antilles","Cuba is the largest island in the Caribbean."],["A communist state","In 1959 Fidel Castro’s revolution created a communist state, which still governs Cuba."],["Music and culture","Cuba is famous for its music, dance, baseball and classic cars."]],
@@ -77,8 +72,7 @@ s2:[["The Cuban Missile Crisis","In October 1962, the United States discovered S
 sp:["José Martí","José Martí, born in Havana in 1853, was a poet, journalist and revolutionary who spent much of his life in exile, writing and organizing for Cuban independence. His poems include the verses later set to music in the famous song Guantanamera. He returned to Cuba to fight in 1895 and was killed in one of the first battles. He is honored as Cuba’s national hero, and Havana’s airport bears his name."],
 g:[["Embargo","An official ban on trade with a country"],["Revolution","The overthrow of a government by its people"],["Nationalize","To transfer private businesses to state ownership"],["Taíno","Indigenous people of the Caribbean"],["Son","A Cuban style of music and dance"]],
 f:["Cuba is the largest island in the Caribbean.","The Cuban Revolution triumphed in 1959.","The Spanish–American War affected both Cuba and the Philippines."],
-fun:"Classic 1950s American cars are still driven on Havana’s streets.",
-tl:"Ang Cuba ang pinakamalaking isla sa Caribbean. Naging malaya ito noong 1902 matapos ang Digmaang Espanyol–Amerikano, ang parehong digmaan na nagwakas sa pamumuno ng Espanya sa Pilipinas. Kilala ito sa musika, sayaw at baseball."});
+fun:"Classic 1950s American cars are still driven on Havana’s streets."});
 
 ADDART({id:"venezuelacountry",t:"Venezuela",c:"Countries and Places",i:"🌊",w:"Venezuela",r:["waterfalls","latinind","amazon","colombiacountry","brazilcountry","inflation"],
 p:[["Land of Angel Falls","Venezuela is home to Angel Falls, the world’s tallest waterfall."],["Oil giant","It has the largest proven oil reserves in the world."],["Birthplace of Bolívar","Simón Bolívar, the liberator of much of South America, was born in Caracas."]],
@@ -90,8 +84,7 @@ s2:[["Angel Falls","Angel Falls, in Canaima National Park, plunges 979 meters fr
 sp:["The everlasting storm","Over the mouth of the Catatumbo River, where it enters Lake Maracaibo, thunderstorms occur on up to about 260 nights a year, producing thousands of lightning flashes in a single night. Warm, moist air from the lake meets cool winds from the Andes, creating the perfect conditions. The Catatumbo lightning holds the record as the place with the most lightning on Earth, and sailors once used it as a natural lighthouse."],
 g:[["Tepui","A flat-topped mountain with steep cliffs"],["Llanos","Tropical grasslands of Venezuela and Colombia"],["OPEC","The Organization of the Petroleum Exporting Countries"],["Hyperinflation","Extremely rapid rise in prices"],["Exodus","A mass departure of people"]],
 f:["Angel Falls is in Venezuela.","Venezuela has the world’s largest proven oil reserves.","Simón Bolívar was born in Caracas."],
-fun:"Lake Maracaibo in Venezuela has more lightning than anywhere else on Earth.",
-tl:"Ang Venezuela ay bansa sa hilagang baybayin ng Timog Amerika. Narito ang Angel Falls at ang pinakamalaking reserba ng langis sa mundo. Ipinanganak dito si Simón Bolívar. Dumanas ito ng malubhang krisis, at milyon-milyong Venezuelan ang umalis."});
+fun:"Lake Maracaibo in Venezuela has more lightning than anywhere else on Earth."});
 
 ADDART({id:"algeriacountry",t:"Algeria",c:"Countries and Places",i:"🏜️",w:"Algeria",r:["sahara","desert","africacolon","decol","islam","francecountry"],
 p:[["Africa’s largest country","Algeria is the largest country in Africa by area."],["Mostly desert","More than four-fifths of its land is part of the Sahara."],["Hard-won independence","Algeria won independence from France in 1962 after a long and bloody war."]],
@@ -103,5 +96,4 @@ s2:[["Tassili n’Ajjer","In the Sahara of southeastern Algeria, the Tassili n�
 sp:["Rock art of a green Sahara","Thousands of years ago, the Sahara was far wetter than today, with lakes, rivers and grasslands. The rock art of Tassili n’Ajjer records this lost world: hunters chasing antelope, cattle herders with their animals, swimming figures and mysterious round-headed beings. As the climate dried about 5,000 years ago, the images began to show camels instead of cattle, recording one of the greatest environmental changes in human history."],
 g:[["Amazigh","Indigenous people of North Africa, also called Berbers"],["Erg","A large sea of sand dunes"],["Oasis","A place in a desert with water"],["FLN","The National Liberation Front, which led Algeria’s independence war"],["Casbah","The old fortified quarter of a North African city"]],
 f:["Algeria is the largest country in Africa.","More than 80 percent of Algeria is Sahara Desert.","Algeria became independent in 1962."],
-fun:"Ancient rock paintings in Algeria show hippos and giraffes in what is now the Sahara.",
-tl:"Ang Algeria ang pinakamalaking bansa sa Aprika. Mahigit apat na ikalima nito ay bahagi ng Sahara. Naging malaya ito mula sa Pransiya noong 1962 matapos ang mahaba at madugong digmaan."});
+fun:"Ancient rock paintings in Algeria show hippos and giraffes in what is now the Sahara."});

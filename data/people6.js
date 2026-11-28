@@ -17,7 +17,7 @@ sp:["Alexandria","Alexandria, founded by Alexander the Great in 331 BCE, was Cle
 g:[["Ptolemaic","Relating to the Greek dynasty that ruled Egypt"],["Province","A territory governed as part of an empire"],["Asp","A venomous snake"],["Dynasty","A series of rulers from one family"]],
 f:["Cleopatra reportedly spoke about nine languages.","She was the seventh queen named Cleopatra.","The Great Pyramid was already about 2,500 years old when she was born."]},
 
-{id:"alexander",t:"Alexander the Great",i:"🏇",w:"Alexander the Great",a:["Alexander the Great"],born:"356 BCE, Pella, Macedonia",died:"June 323 BCE, Babylon",nat:"Macedonian Greek",known:"Conquering an empire from Greece to India",r:["greece","socr","cleopatra"],
+{id:"alexander",t:"Alexander the Great",i:"🏇",w:"Alexander the Great",a:["Alexander the Great"],born:"356 BCE, Pella, Macedonia",died:"June 323 BCE, Babylon",nat:"Macedonian Greek",known:"Conquering an empire from Greece to India",r:["greece","socr","cleopatra","mauryaempire"],
 l:"Alexander the Great was a king of Macedonia who, in just over a decade, conquered an empire stretching from Greece and Egypt to the borders of India. Never defeated in battle, he spread Greek language and culture across a vast area, beginning the Hellenistic age. He died at 32.",
 d:[["356 BCE","Born in Pella, Macedonia"],["343 BCE","Begins studying with Aristotle"],["336 BCE","Becomes king at 20"],["331 BCE","Founds Alexandria; wins at Gaugamela"],["326 BCE","Battle of the Hydaspes in India"],["323 BCE","Dies in Babylon"]],
 s:[["Prince of Macedonia","Alexander was born in 356 BCE in Pella, the capital of Macedonia, north of Greece, to King Philip II and Queen Olympias. His father built Macedonia into the strongest power in Greece."],

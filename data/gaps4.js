@@ -9,8 +9,7 @@ s2:[["Religions of India","Hinduism, Buddhism, Jainism and Sikhism all began in 
 sp:["The cities of the Indus","Mohenjo-daro, built around 2500 BCE, was home to perhaps 40,000 people. Its houses had bathrooms connected to covered drains along the streets, and a huge public pool, the Great Bath, may have been used for ritual washing. Its people traded with Mesopotamia and made seals carved with animals and their mysterious script, which no one has been able to read."],
 g:[["Subcontinent","A large, distinct part of a continent, such as South Asia"],["Sanskrit","An ancient language of India"],["Edict","An official order or announcement"],["Partition","The division of British India into India and Pakistan"]],
 f:["The Indus Valley script has never been deciphered.","The decimal system with zero was developed in India.","Many words in Thai, Malay and Tagalog come from Sanskrit."],
-fun:"The Filipino word guro, teacher, comes from Sanskrit.",
-tl:"Isa ang India sa may pinakamahabang kasaysayan sa mundo, mula sa mga lungsod ng Indus Valley hanggang sa mga imperyo ng Maurya, Gupta at Mughal. Dito nagmula ang Hinduismo, Budismo at ang sistemang decimal na may zero."});
+fun:"The Filipino word guro, teacher, comes from Sanskrit."});
 
 ADDART({id:"japan",t:"Japan Through History",c:"History",i:"🏯",w:"History of Japan",r:["china","ww2","korea"],
 p:[["An island nation","Japan is a chain of islands off the coast of East Asia with a long and distinctive history."],["Samurai and shoguns","For centuries Japan was ruled by military leaders called shoguns and their samurai warriors."],["Modern power","Japan rapidly modernized after 1868 and became one of the world’s largest economies after World War II."]],
@@ -22,8 +21,7 @@ s2:[["Japan and the outside world","In the 1500s and 1600s Japanese traders sett
 sp:["The Tale of Genji","Written around 1000 CE by Murasaki Shikibu, a lady at the imperial court, The Tale of Genji tells the life and loves of Prince Genji in more than 50 chapters. Full of poetry and subtle feelings, it is one of the oldest novels in the world and remains a treasure of Japanese culture, inspiring paintings, plays and films for a thousand years."],
 g:[["Shogun","A military ruler of Japan"],["Samurai","A member of Japan’s warrior class"],["Daimyō","A powerful lord in feudal Japan"],["Restoration","The return of power to a former ruler"]],
 f:["Japanese Jōmon pottery is more than 15,000 years old.","The Tale of Genji is one of the world’s first novels.","Japan’s first bullet train opened in 1964."],
-fun:"The Tale of Genji, written around 1000 CE by a woman at the Japanese court, is often called the world’s first novel.",
-tl:"Mahaba ang kasaysayan ng Japan, mula sa sinaunang palayok, mga samurai at shogun, hanggang sa mabilis na modernisasyon matapos ang 1868. Matapos ang digmaan, naging isa ito sa pinakamalalaking ekonomiya at kaibigang bansa ng Pilipinas."});
+fun:"The Tale of Genji, written around 1000 CE by a woman at the Japanese court, is often called the world’s first novel."});
 
 ADDART({id:"korea",t:"Korea Through History",c:"History",i:"📜",w:"History of Korea",r:["koreanwar","japan","china"],
 p:[["A peninsula people","Korea occupies a peninsula in East Asia between China and Japan."],["The Korean alphabet","King Sejong created hangul, one of the world’s most scientific alphabets, in the 1440s."],["Two Koreas","Since 1945 Korea has been divided into North Korea and South Korea."]],
@@ -35,8 +33,7 @@ s2:[["Admiral Yi and the turtle ships","When Japan invaded Korea in 1592, Admira
 sp:["King Sejong’s alphabet","King Sejong explained that he created hangul because ordinary people could not express their thoughts in difficult Chinese characters. He wrote that a wise person could learn it in a morning and even a slow learner in ten days. Its consonants are shaped like the mouth, tongue and throat making each sound, and its vowels are built from symbols for heaven, earth and humans."],
 g:[["Peninsula","Land surrounded by water on three sides"],["Hangul","The Korean alphabet"],["Dynasty","A line of rulers from the same family"],["Armistice","An agreement to stop fighting"]],
 f:["The Jikji was printed 78 years before Gutenberg’s Bible.","Hangul Day is celebrated every 9 October.","Parasite was the first non-English film to win the Oscar for Best Picture."],
-fun:"The oldest surviving book printed with movable metal type, the Jikji, was printed in Korea in 1377.",
-tl:"Mahaba ang kasaysayan ng Korea, mula sa mga sinaunang kaharian hanggang sa dinastiyang Joseon at sa paglikha ni Haring Sejong ng hangul. Mula 1945 nahati ito sa Hilaga at Timog Korea, at sikat ngayon sa mundo ang K-pop at K-drama."});
+fun:"The oldest surviving book printed with movable metal type, the Jikji, was printed in Korea in 1377."});
 
 ADDART({id:"byzant",t:"The Byzantine Empire",c:"History",i:"⛪",w:"Byzantine Empire",r:["rome","ottoman","crusades"],
 p:[["Rome in the East","The Byzantine Empire was the eastern half of the Roman Empire, which lasted for a thousand years after the West fell."],["Constantinople","Its capital, Constantinople, was the largest and richest city in Europe for centuries."],["Fall in 1453","The empire ended when the Ottoman Turks captured Constantinople in 1453."]],
@@ -48,8 +45,7 @@ s2:[["The walls of Constantinople","Constantinople was protected by the sea on t
 sp:["Empress Theodora","Theodora rose from humble beginnings as a performer to become empress beside Justinian. In 532, when riots called the Nika revolt threatened the throne and Justinian prepared to flee, she reportedly declared that royalty makes a good burial shroud, urging him to stay and fight. He did, and kept his throne. She also championed laws protecting women."],
 g:[["Icon","A sacred religious painting, especially in Orthodox Christianity"],["Mosaic","A picture made of small pieces of colored glass or stone"],["Schism","A split within a group, especially a church"],["Siege","Surrounding a city to force it to surrender"]],
 f:["The Byzantines called themselves Romans.","Hagia Sophia was the world’s largest church for nearly a thousand years.","The recipe for Greek fire has been lost."],
-fun:"The people we call Byzantines always called themselves Romans.",
-tl:"Ang Imperyong Byzantine ang silangang bahagi ng Imperyong Romano na tumagal nang mahigit isang libong taon, mula 330 hanggang 1453. Ang kabisera nito, ang Constantinople, ay naging pinakamayamang lungsod sa Europa bago masakop ng mga Ottoman."});
+fun:"The people we call Byzantines always called themselves Romans."});
 
 ADDART({id:"crusades",t:"The Crusades",c:"History",i:"⚔️",w:"Crusades",r:["byzant","islam","christ"],
 p:[["Holy wars","The Crusades were a series of religious wars launched by Christians of Western Europe from 1095."],["The Holy Land","The main goal was to capture Jerusalem and the lands around it from Muslim rulers."],["A lasting legacy","The Crusades brought great violence but also increased trade and contact between Europe and the Middle East."]],
@@ -61,5 +57,4 @@ s2:[["Military orders","Orders of warrior monks formed to protect pilgrims and f
 sp:["Saladin and Richard","Saladin and Richard the Lionheart were fierce enemies who never met in person, yet stories tell of their respect for each other. When Richard fell ill, Saladin is said to have sent him fresh fruit and snow from the mountains to cool his drinks, and when Richard’s horse was killed, Saladin sent him new horses. Their truce of 1192 ended the Third Crusade."],
 g:[["Crusade","A medieval religious war launched by the Church"],["Pilgrim","A person who travels to a holy place"],["Chivalry","The code of honor of medieval knights"],["Truce","An agreement to stop fighting for a time"]],
 f:["The word crusade comes from the Latin word for cross.","Saladin recaptured Jerusalem in 1187.","The Fourth Crusade attacked Christian Constantinople instead of the Holy Land."],
-fun:"The word crusade comes from crux, the Latin word for cross.",
-tl:"Ang mga Krusada ay serye ng digmaang panrelihiyon mula 1095 sa pagitan ng mga Kristiyano ng Kanlurang Europa at mga pinunong Muslim upang masakop ang Jerusalem. Nagdulot ito ng karahasan ngunit nagpalawak din ng kalakalan at palitan ng kaalaman."});
+fun:"The word crusade comes from crux, the Latin word for cross."});

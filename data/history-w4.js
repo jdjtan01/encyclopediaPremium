@@ -12,8 +12,7 @@ s2:[["Life under slavery","Enslaved people in the Americas were treated as prope
 sp:["Olaudah Equiano","Olaudah Equiano wrote that he was born in what is now southeastern Nigeria, kidnapped as a child and shipped across the Atlantic. After years of enslavement, he bought his freedom in 1766 and settled in London. His autobiography, The Interesting Narrative of the Life of Olaudah Equiano, published in 1789, became a bestseller and helped turn British public opinion against the slave trade."],
 g:[["Abolition","The ending of slavery or the slave trade by law"],["Plantation","A large farm growing crops such as sugar or cotton, often worked by enslaved people in the past"],["Middle Passage","The voyage of enslaved Africans across the Atlantic"],["Maroon","A person who escaped slavery and lived in a free community"]],
 f:["About 12.5 million Africans were forced onto slave ships.","Brazil received more enslaved Africans than any other country.","Haiti was the first nation founded by formerly enslaved people."],
-fun:"Brazil was the last country in the Americas to end slavery, in 1888.",
-tl:"Ang kalakalan ng alipin sa Atlantiko ay sapilitang pagdadala ng mga 12.5 milyong Aprikano sa Amerika mula ika-16 hanggang ika-19 na siglo. Lumaban ang mga inalipin, at kalaunan ay ipinagbawal ang pang-aalipin."});
+fun:"Brazil was the last country in the Americas to end slavery, in 1888."});
 
 ADDART({id:"latinind",t:"Latin American Independence",c:"History",i:"🗽",w:"Spanish American wars of independence",r:["bolivar","toussaint","usrev","frrev","spaincountry"],
 p:[["A wave of revolutions","Between 1808 and 1826, most of Spain’s and Portugal’s colonies in the Americas won their independence."],["The Liberators","Leaders such as Simón Bolívar and José de San Martín led armies across mountains and plains to free a continent."],["New nations","Mexico, Colombia, Venezuela, Peru, Argentina, Chile, Brazil and many more countries were born."]],
@@ -25,8 +24,7 @@ s2:[["San Martín in the south","José de San Martín, from what is now Argentin
 sp:["The Philippine connection","The independence of Spain’s American colonies changed the Philippines too. The galleon trade between Manila and Acapulco ended in 1815, partly because of the Mexican revolution, and the Philippines came under direct rule from Madrid instead of through Mexico. Some Spanish officers born in the Americas who served in Manila were suspected of supporting independence, and the ideas of liberty from the Americas later influenced Filipino reformers."],
 g:[["Creole","A person of European descent born in the colonies"],["Junta","A council that takes power to govern"],["Caudillo","A military strongman leader in Latin America"],["Peninsular","A person born in Spain living in the colonies"]],
 f:["Bolivia is named after Simón Bolívar.","San Martín led an army across the Andes in 1817.","Brazil became independent as an empire, not a republic."],
-fun:"Bolivia and Venezuela both carry Simón Bolívar’s name in their official names or titles.",
-tl:"Mula 1808 hanggang 1826, nakamit ng karamihan sa mga kolonya ng Espanya at Portugal sa Amerika ang kalayaan sa pamumuno nina Simón Bolívar, José de San Martín at iba pa. Isinilang ang mga bansang gaya ng Mexico, Colombia, Peru at Brazil."});
+fun:"Bolivia and Venezuela both carry Simón Bolívar’s name in their official names or titles."});
 
 ADDART({id:"meiji",t:"Meiji Japan",c:"History",i:"🚂",w:"Meiji era",r:["japan","japancountry","indrev","ww2","koreanwar"],
 p:[["Opening up","In 1853 American warships forced Japan to end more than two centuries of near isolation."],["The Meiji Restoration","In 1868 power was restored to the emperor, and Japan began transforming itself at astonishing speed."],["A modern power","Within about 40 years, Japan built railways, factories, a modern army and a constitution, and defeated Russia in war."]],
@@ -38,5 +36,4 @@ s2:[["Industry and railways","Japan’s first railway, between Tokyo and Yokoham
 sp:["The black ships","The Japanese called Perry’s ships kurofune, black ships, because of their dark hulls and the black smoke from their steam engines. They had never seen steamships before. Woodblock prints of the time show the ships and the Americans as strange and frightening. The arrival of the black ships is remembered as the moment Japan’s modern history began."],
 g:[["Shogun","A military ruler of Japan"],["Restoration","The return of power to a former ruler"],["Feudalism","A system in which lords ruled land and people in return for loyalty"],["Zaibatsu","Large family-controlled business groups in Japan"]],
 f:["Tokyo was called Edo until 1868.","Japan’s first railway opened in 1872.","Japan was the first Asian country to defeat a European power in modern war."],
-fun:"Tokyo means eastern capital; the city was called Edo until 1868.",
-tl:"Ang panahong Meiji (1868–1912) ay panahon ng mabilis na pagbabago ng Japan mula pyudal na lipunan tungo sa modernong bansang industriyal. Nagtayo ito ng mga riles, pabrika at paaralan, at naging makapangyarihang bansa."});
+fun:"Tokyo means eastern capital; the city was called Edo until 1868."});

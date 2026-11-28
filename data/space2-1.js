@@ -9,8 +9,7 @@ s2:[["The Goldilocks zone","Earth orbits in the Sun’s habitable zone, the regi
 sp:["The Pale Blue Dot","On 14 February 1990, Voyager 1 turned its camera back toward home and photographed Earth from about 6 billion kilometers away. Earth appears as a tiny speck, less than a single pixel, in a ray of scattered sunlight. The astronomer Carl Sagan, who suggested the photograph, wrote that everyone who has ever lived, lived out their life on that mote of dust suspended in a sunbeam."],
 g:[["Axis","An imaginary line through a planet’s poles around which it spins"],["Habitable zone","The region around a star where liquid water could exist on a planet"],["Magnetosphere","The region around a planet controlled by its magnetic field"],["Astronomical unit","The average distance from Earth to the Sun, about 150 million km"]],
 f:["Earth is the densest planet in the solar system.","About 71 percent of Earth’s surface is covered by water.","The Moon is moving away from Earth by about 3.8 centimeters a year."],
-fun:"Earth is the densest planet in the solar system.",
-tl:"Ang Daigdig ang ikatlong planeta mula sa Araw at ang tanging lugar na alam nating may buhay. Mga 71 porsiyento ng ibabaw nito ay tubig, at pinoprotektahan ito ng atmospera at magnetic field."});
+fun:"Earth is the densest planet in the solar system."});
 
 ADDART({id:"kuiper",t:"The Kuiper Belt and Oort Cloud",c:"Space and Astronomy",i:"🧊",w:"Kuiper belt",r:["pluto","comet","solar","uranep"],
 p:[["Beyond Neptune","The Kuiper Belt is a vast ring of icy bodies beyond the orbit of Neptune."],["Home of dwarf planets","Pluto, Eris, Haumea and Makemake are among the dwarf planets found in this distant region."],["A distant shell","Much farther out, a huge shell of icy objects called the Oort Cloud may surround the whole solar system."]],
@@ -22,8 +21,7 @@ s2:[["New Horizons","NASA’s New Horizons spacecraft, launched in 2006, flew pa
 sp:["Arrokoth","Arrokoth, about 36 kilometers long, is made of two flattened lobes gently stuck together, like a snowman. It probably formed when two smaller bodies slowly drifted together soon after the solar system was born. Its name comes from the Powhatan and Algonquian languages and means sky. It is the most distant and most primitive object ever visited by a spacecraft."],
 g:[["Dwarf planet","A round body orbiting the Sun that has not cleared its orbit of other objects"],["Comet","An icy body that grows a glowing tail when it nears the Sun"],["Astronomical unit (AU)","The average distance from Earth to the Sun"],["Long-period comet","A comet that takes more than 200 years to orbit the Sun"]],
 f:["Pluto was the first Kuiper Belt object discovered.","No Oort Cloud object has ever been seen directly.","Arrokoth is the most distant object explored up close by a spacecraft."],
-fun:"The Voyager probes will take about 300 years just to reach the inner edge of the Oort Cloud.",
-tl:"Ang Kuiper Belt ay malawak na singsing ng mga nagyeyelong bagay lampas sa Neptune, kung saan naroon si Pluto. Mas malayo pa ang Oort Cloud, na pinagmumulan ng maraming kometa."});
+fun:"The Voyager probes will take about 300 years just to reach the inner edge of the Oort Cloud."});
 
 ADDART({id:"spaceweather",t:"Space Weather and Auroras",c:"Space and Astronomy",i:"🌌",w:"Space weather",r:["sun","earthplanet","magnet","sat","aurora"],
 p:[["Storms from the Sun","Space weather is the changing conditions in space caused by the Sun, such as solar flares and blasts of charged particles."],["Lights in the sky","When charged particles reach Earth, they can make the sky glow with auroras near the poles."],["Effects on technology","Strong solar storms can disturb satellites, radio, GPS and power grids."]],
@@ -35,5 +33,4 @@ s2:[["The Carrington Event","On 1 September 1859, the astronomer Richard Carring
 sp:["Where to see the northern lights","The best places to see auroras are under the auroral ovals, which circle the magnetic poles. In the north, these include northern Norway, Sweden, Finland, Iceland, Greenland, Alaska and northern Canada; in the south, Antarctica, and sometimes southern New Zealand and Tasmania. Auroras are best seen on clear, dark winter nights far from city lights."],
 g:[["Solar wind","A stream of charged particles flowing from the Sun"],["Coronal mass ejection","A huge burst of magnetized gas from the Sun’s corona"],["Geomagnetic storm","A disturbance of Earth’s magnetic field caused by the Sun"],["Aurora","Natural colored light in the sky near the poles"]],
 f:["The northern lights are called the aurora borealis.","The Sun’s activity follows a cycle of about 11 years.","Jupiter has the strongest auroras in the solar system."],
-fun:"Jupiter’s auroras are bigger than the whole Earth.",
-tl:"Ang space weather ay mga pagbabago sa kalawakan na dulot ng Araw, gaya ng solar flare. Kapag umabot sa Daigdig ang mga partikulong ito, maaaring lumitaw ang aurora malapit sa mga polo at maapektuhan ang mga satellite at kuryente."});
+fun:"Jupiter’s auroras are bigger than the whole Earth."});

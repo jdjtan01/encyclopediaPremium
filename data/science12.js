@@ -9,8 +9,7 @@ s2:[["Hooke’s Micrographia","In 1665 the English scientist Robert Hooke publis
 sp:["Leeuwenhoek’s teeth","In 1683 Antonie van Leeuwenhoek scraped some white material from between his teeth, mixed it with clean rainwater and looked at it through one of his tiny handmade microscopes. He was astonished to see many very small living creatures moving about, some darting like fish, others spinning in circles. He wrote that there were more animals in his mouth than there were people in the whole Netherlands. He had observed bacteria, though it would take nearly two centuries before scientists understood their role in disease. Van Leeuwenhoek kept his lens-making methods secret, and for many years no one could match his microscopes."],
 g:[["Microscope","An instrument that magnifies tiny objects"],["Lens","A curved piece of glass that bends light"],["Magnification","How much larger an object appears"],["Resolution","The ability to show fine detail"]],
 f:["Robert Hooke named cells.","Van Leeuwenhoek first saw bacteria.","Electron microscopes can show atoms."],
-fun:"A Foldscope paper microscope can be made from a flat sheet and costs about the price of a candy bar.",
-tl:"Ang mikroskopyo ay instrumento na nagpapalaki sa maliliit na bagay. Sa pamamagitan nito, natuklasan ang mga cell at bakterya. Kaya ng makabagong electron microscope na ipakita ang mga atom."});
+fun:"A Foldscope paper microscope can be made from a flat sheet and costs about the price of a candy bar."});
 
 ADDART({id:"fractions",t:"Fractions and Decimals",c:"Mathematics",i:"½",w:"Fraction",r:["percent","zero","alg","measure","negativenumbers"],
 p:[["Parts of a whole","A fraction shows a part of a whole, like one half."],["Numerator and denominator","The top and bottom numbers have special names."],["Another way to write them","Decimals are another way of writing fractions."]],
@@ -22,8 +21,7 @@ s2:[["Egyptian fractions","Ancient Egyptians wrote most fractions as sums of uni
 sp:["The third-pound burger","In the 1980s, the A&W restaurant chain in the United States introduced a third-pound burger to compete with McDonald’s quarter-pounder. It offered more meat for the same price and did well in taste tests. Yet it did not sell well. According to the company’s owner, research found that many customers thought a third of a pound was smaller than a quarter of a pound, because three is smaller than four. The story is often told to show why understanding fractions matters, since a larger denominator actually means smaller pieces."],
 g:[["Fraction","A number showing part of a whole"],["Numerator","The top number of a fraction"],["Denominator","The bottom number of a fraction"],["Decimal","A number written using tenths, hundredths and so on"]],
 f:["One half equals 0.5.","Percent means out of one hundred.","Egyptians wrote fractions as sums of unit fractions."],
-fun:"The fraction 1/7 as a decimal repeats the digits 142857 forever.",
-tl:"Ang praksyon ay bilang na nagpapakita ng bahagi ng kabuuan, tulad ng kalahati. Ang numerator ay nasa itaas at ang denominator ay nasa ibaba. Ang decimal ay isa pang paraan ng pagsulat ng praksyon."});
+fun:"The fraction 1/7 as a decimal repeats the digits 142857 forever."});
 
 ADDART({id:"topology",t:"Topology",c:"Mathematics",i:"🍩",w:"Topology",r:["shapes","euclid","graphs","infin","maps"],
 p:[["Rubber-sheet geometry","Topology studies shapes that can be stretched without tearing."],["Donut and mug","To a topologist, a donut and a coffee mug are the same shape."],["Bridges and knots","Topology began with a puzzle about seven bridges."]],
@@ -35,8 +33,7 @@ s2:[["The seven bridges","The city of Königsberg, now Kaliningrad in Russia, ha
 sp:["Perelman’s refusals","For nearly a century, mathematicians tried and failed to prove the Poincaré conjecture. Then, in late 2002, a reclusive Russian mathematician named Grigori Perelman quietly posted a series of papers on the internet. Over the next few years, experts checked his work and confirmed that he had solved the problem. In 2006 he was awarded the Fields Medal, often called the Nobel Prize of mathematics, but he declined it. In 2010 he was offered a one-million-dollar Millennium Prize and declined that too, reportedly saying that he felt the contributions of another mathematician, Richard Hamilton, were equally important. Perelman then withdrew from mathematics and public life."],
 g:[["Topology","The study of shapes under stretching and bending"],["Genus","The number of holes in a surface"],["Möbius strip","A surface with only one side"],["Conjecture","A mathematical statement not yet proven"]],
 f:["To a topologist, a donut and a mug are the same.","A Möbius strip has only one side.","Euler founded topology with a bridge puzzle."],
-fun:"Topology proves that somewhere on Earth, the horizontal wind is always perfectly still.",
-tl:"Ang topology ay sangay ng matematika na nag-aaral ng mga hugis na maaaring banatin o baluktutin nang hindi pinupunit. Para sa topology, magkapareho ang donut at tasa dahil parehong may isang butas. Nagsimula ito sa palaisipan ni Euler tungkol sa pitong tulay."});
+fun:"Topology proves that somewhere on Earth, the horizontal wind is always perfectly still."});
 
 ADDART({id:"carbondating",t:"Radiocarbon Dating",c:"Science",i:"🦴",w:"Radiocarbon dating",r:["isotopes","radioact","archaeology","fossils","carbonchem"],
 p:[["A natural clock","Radiocarbon dating measures the age of once-living things."],["Carbon-14","It uses a radioactive form of carbon that decays at a known rate."],["Up to 50,000 years","It works for remains up to about 50,000 years old."]],
@@ -48,8 +45,7 @@ s2:[["Testing the method","To prove that his method worked, Willard Libby tested
 sp:["Libby’s atomic clock","In the 1940s, Willard Libby, a chemist who had worked on the Manhattan Project, had an idea: if cosmic rays steadily produced carbon-14, then every living thing should contain the same proportion, and that amount should decline at a known rate after death. Many colleagues doubted that such tiny amounts could be measured. Libby and his students at the University of Chicago built sensitive detectors shielded from background radiation. In 1949 they published dates for samples of known age, and the results matched. Libby called it an atomic clock, and in 1960 he received the Nobel Prize in Chemistry."],
 g:[["Isotope","A form of an element with a different number of neutrons"],["Half-life","The time for half of a radioactive substance to decay"],["Calibration","Adjusting measurements to match known standards"],["Carbon-14","A radioactive form of carbon"]],
 f:["Carbon-14 has a half-life of about 5,730 years.","Radiocarbon dating works on once-living things.","Willard Libby invented the method."],
-fun:"Nuclear bomb tests left a carbon-14 signal that scientists now use to date wines and catch ivory smugglers.",
-tl:"Ang radiocarbon dating ay paraan upang malaman ang edad ng mga bagay na dating buhay. Ginagamit nito ang carbon-14, na nabubulok sa kilalang bilis. Nakatulong ito sa pagtukoy ng edad ng mga labi sa Tabon Caves sa Palawan."});
+fun:"Nuclear bomb tests left a carbon-14 signal that scientists now use to date wines and catch ivory smugglers."});
 
 ADDART({id:"nitrogencycle",t:"The Nitrogen Cycle",c:"Science",i:"🔄",w:"Nitrogen cycle",r:["soil","eco","microbe","agri","wcycle"],
 p:[["Air full of nitrogen","Nitrogen makes up about 78 percent of the air."],["Needed by life","All living things need nitrogen to build proteins and DNA."],["Bacteria at work","Bacteria turn nitrogen gas into forms plants can use."]],
@@ -61,5 +57,4 @@ s2:[["Feeding billions","In 1909 the German chemist Fritz Haber found a way to c
 sp:["Bread from air","At the start of the 20th century, scientists warned that the world was running out of natural fertilizers such as guano, bird droppings mined from islands off Peru, and nitrate deposits from the deserts of Chile. In 1898 the British scientist William Crookes predicted a coming wheat famine unless chemists found a way to capture nitrogen from the air. Within about a decade, Fritz Haber did just that, using high pressure, high temperature and an iron catalyst to make ammonia. The process was soon described as making bread from air. Today it uses about one to two percent of the world’s energy and supports the food supply of billions of people."],
 g:[["Nitrogen fixation","Turning nitrogen gas into usable compounds"],["Legume","A plant such as a bean that hosts nitrogen-fixing bacteria"],["Nitrate","A form of nitrogen plants absorb"],["Fertilizer","A substance that adds nutrients to soil"]],
 f:["Nitrogen makes up about 78 percent of the air.","Beans host bacteria that fix nitrogen.","The Haber–Bosch process makes ammonia fertilizer."],
-fun:"About half the nitrogen atoms in your body may have passed through a fertilizer factory.",
-tl:"Ang nitrogen cycle ay ang paggalaw ng nitrogen sa hangin, lupa, tubig at mga buhay na bagay. Ginagawang magagamit ng mga bakterya ang nitrogen mula sa hangin para sa mga halaman. Ang munggo at iba pang legume ay nagdaragdag ng nitrogen sa lupa."});
+fun:"About half the nitrogen atoms in your body may have passed through a fertilizer factory."});

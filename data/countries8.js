@@ -12,8 +12,7 @@ s2:[["Ancient civilizations","Long before the Inca, the coast and mountains of P
 sp:["Machu Picchu","High on a ridge above the Urubamba River, the Inca built Machu Picchu in the mid-1400s, probably as a royal estate for the emperor Pachacuti. Its temples, terraces and houses of fitted stone were never found by the Spanish. Local farmers knew of it, and in 1911 the American explorer Hiram Bingham brought it to world attention. Today it is a UNESCO World Heritage Site visited by more than a million people a year."],
 g:[["Inca","The empire and people that ruled the Andes in the 1400s and early 1500s"],["Quechua","The language of the Inca, still spoken by millions"],["Quipu","Knotted cords used by the Inca to keep records"],["Conquistador","A Spanish conqueror in the Americas"],["Ceviche","Raw fish cured in citrus juice, Peru’s national dish"]],
 f:["Peru has more than 3,000 varieties of potato.","The Inca kept records with knotted strings, not writing.","Lake Titicaca is often called the highest navigable lake in the world."],
-fun:"Peru grows more than 3,000 kinds of potato.",
-tl:"Ang Peru ay bansa sa baybaying Pasipiko ng Timog Amerika, na may disyerto, kabundukang Andes at gubat ng Amazon. Dito ang puso ng Imperyong Inca at ang tanyag na Machu Picchu."});
+fun:"Peru grows more than 3,000 kinds of potato."});
 
 ADDART({id:"kenyacountry",t:"Kenya",c:"Countries and Places",i:"🦁",w:"Kenya",r:["rift","lion","giraffe","elephant","athletics","decol"],
 p:[["On the equator","Kenya lies on the equator in East Africa, with a coast on the Indian Ocean and Lake Victoria in the west."],["Land of safaris","Its savannas and national parks are home to lions, elephants, giraffes and the great wildebeest migration."],["Cradle of humankind","Some of the oldest fossils of human ancestors have been found around Lake Turkana in northern Kenya."]],
@@ -25,8 +24,7 @@ s2:[["Our oldest ancestors","Fossils found around Lake Turkana include some of t
 sp:["The great migration","Every year, about 1.5 million wildebeest, along with hundreds of thousands of zebras and gazelles, travel in a great loop through Tanzania’s Serengeti and Kenya’s Maasai Mara, following the rains and fresh grass. Around July they reach the Mara River, where they plunge across in huge herds while crocodiles wait in the water. It is one of the greatest wildlife spectacles on Earth and a mainstay of Kenya’s tourism."],
 g:[["Savanna","A tropical grassland with scattered trees"],["Rift valley","A long valley formed where Earth’s crust pulls apart"],["Swahili","A Bantu language and culture of the East African coast"],["Safari","A journey to watch or photograph wild animals, from the Swahili for journey"],["Mau Mau","An uprising against British rule in Kenya in the 1950s"]],
 f:["Kenya is one of the world’s largest exporters of black tea.","The word safari comes from Swahili and means journey.","Mount Kenya, on the equator, has glaciers."],
-fun:"The word safari comes from Swahili, meaning journey.",
-tl:"Ang Kenya ay bansa sa Silangang Aprika na tinatawid ng ekwador at ng Great Rift Valley. Kilala ito sa mga hayop sa safari, sa mga mahuhusay na mananakbo at sa kabiserang Nairobi."});
+fun:"The word safari comes from Swahili, meaning journey."});
 
 ADDART({id:"ethiopiacountry",t:"Ethiopia",c:"Countries and Places",i:"☕",w:"Ethiopia",r:["rift","coffee","christ","nile","decol","evo"],
 p:[["The roof of Africa","Ethiopia is a landlocked country in the Horn of Africa, built around high plateaus and mountains split by the Great Rift Valley."],["Never colonized","Apart from an Italian occupation from 1936 to 1941, Ethiopia kept its independence when nearly all of Africa was colonized."],["Home of coffee","Coffee is believed to have first been used in Ethiopia, where the coffee ceremony is still a cherished tradition."]],
@@ -38,5 +36,4 @@ s2:[["Lucy and our ancestors","In 1974 scientists in the Afar region found much 
 sp:["The legend of Kaldi","A famous legend says that a goat herder named Kaldi, in the highlands of Ethiopia, noticed his goats dancing with energy after eating red berries from a certain shrub. Curious, he tried them himself. Whether or not the story is true, wild coffee plants do grow in Ethiopia’s forests, and coffee was probably first used there before spreading to Yemen in the 1400s and from there to the rest of the world."],
 g:[["Plateau","A large area of high, fairly flat land"],["Horn of Africa","The peninsula of northeastern Africa that juts into the Arabian Sea"],["Ge’ez","An ancient Ethiopian language and the script used to write Amharic"],["Orthodox church","Here, the Ethiopian Orthodox Tewahedo Church, one of the oldest Christian churches"],["Obelisk","A tall, four-sided stone pillar"]],
 f:["Ethiopia’s calendar has 13 months.","The skeleton of Lucy, 3.2 million years old, was found in Ethiopia in 1974.","Addis Ababa means new flower in Amharic."],
-fun:"Ethiopia’s calendar has 13 months.",
-tl:"Ang Ethiopia ay bansa sa Sungay ng Aprika na may matataas na talampas. Hindi ito nasakop nang matagal ng mga Europeo, at dito unang nakilala ang kape at natagpuan ang fossil na si Lucy."});
+fun:"Ethiopia’s calendar has 13 months."});

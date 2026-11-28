@@ -9,8 +9,7 @@ s2:[["Gifts and trade","The fleets carried silk, porcelain, lacquer and gold to 
 sp:["A sultan of Sulu in China","In 1417 Paduka Batara, sultan of Sulu, sailed to China with about 340 people to meet the Yongle Emperor. On the journey home he fell ill and died in Dezhou. The emperor ordered a royal tomb built, and some of the sultan’s family stayed in China. Their descendants still live there today."],
 g:[["Admiral","A commander of a fleet of ships"],["Envoy","A messenger sent by a ruler"],["Dynasty","A line of rulers from the same family"],["Porcelain","Fine, hard pottery first made in China"]],
 f:["Zheng He’s first fleet may have had more than 300 ships.","One of his fleets brought a giraffe to China in 1414.","His voyages began 87 years before Columbus crossed the Atlantic."],
-fun:"Zheng He’s fleets sailed to East Africa decades before Europeans reached Asia by sea.",
-tl:"Si Zheng He ay almirante ng Tsina na namuno sa pitong malalaking paglalayag sa Karagatang Indian mula 1405 hanggang 1433. Narating ng kanyang mga barko ang Timog-Silangang Asya, India, Arabia at Aprika."});
+fun:"Zheng He’s fleets sailed to East Africa decades before Europeans reached Asia by sea."});
 
 ADDART({id:"ibnbattuta",t:"Ibn Battuta",c:"People",i:"🧭",w:"Ibn Battuta",r:["islam","marcopolo","silk"],
 p:[["The great traveler","Ibn Battuta was a Moroccan scholar who traveled for nearly 30 years in the 1300s."],["Across three continents","He visited lands from West Africa to China, covering about 120,000 kilometers."],["His book","His travels were written down in a famous book called the Rihla, meaning The Journey."]],
@@ -22,8 +21,7 @@ s2:[["How far he went","Ibn Battuta’s journeys covered about 120,000 kilometer
 sp:["The traveler who kept going","Ibn Battuta set out only to visit Mecca, but in Alexandria a holy man told him he would travel to India and China. He took it as a sign. After the pilgrimage he made a rule never to travel the same road twice if he could avoid it, and he kept exploring for the rest of his travels."],
 g:[["Hajj","The pilgrimage to Mecca that Muslims try to make once in their lives"],["Rihla","A book describing a journey"],["Caravan","A group of travelers, often with camels, crossing a desert"],["Sultan","A Muslim ruler"]],
 f:["Ibn Battuta traveled about 120,000 kilometers.","He was away from Morocco for 24 years.","A crater on the Moon is named after him."],
-fun:"Ibn Battuta traveled about three times as far as Marco Polo.",
-tl:"Si Ibn Battuta ay iskolar mula Morocco na naglakbay nang halos 30 taon noong 1300s, mula Aprika hanggang Tsina. Isinulat ang kanyang mga paglalakbay sa aklat na tinatawag na Rihla."});
+fun:"Ibn Battuta traveled about three times as far as Marco Polo."});
 
 ADDART({id:"columbus",t:"Christopher Columbus",c:"People",i:"🧭",w:"Christopher Columbus",r:["explor","magellan","aztec"],
 p:[["Across the Atlantic","Christopher Columbus was an Italian sailor who crossed the Atlantic Ocean for Spain in 1492."],["Looking for Asia","He hoped to reach Asia by sailing west and believed until his death that he had."],["Two worlds meet","His voyages began lasting contact between Europe and the Americas, with huge effects on both."]],
@@ -35,5 +33,4 @@ s2:[["Not the first","Columbus was not the first person to reach the Americas. I
 sp:["A small world","Columbus believed Earth was much smaller than it is and that Asia stretched farther east. He calculated that Japan lay about 4,000 kilometers west of the Canary Islands; the real distance is about 19,000 kilometers. Had the Americas not been in the way, his ships would have run out of food and water long before reaching Asia."],
 g:[["Voyage","A long journey by sea"],["Columbian Exchange","The transfer of plants, animals and diseases between the Americas and the rest of the world"],["Indigenous","Belonging to the original people of a place"],["Immunity","The body’s ability to resist a disease"]],
 f:["Columbus believed until his death that he had reached Asia.","The Americas are named after Amerigo Vespucci.","Chili peppers from the Americas became central to cooking in India, Thailand and Korea."],
-fun:"Columbus thought Japan was about 4,000 kilometers west of the Canary Islands; it is about 19,000.",
-tl:"Si Christopher Columbus ay manlalayag mula Genoa na tumawid sa Karagatang Atlantiko para sa Espanya noong 1492. Inakala niyang narating niya ang Asya, ngunit nagbukas ang kanyang paglalayag ng ugnayan ng Europa at ng Amerika."});
+fun:"Columbus thought Japan was about 4,000 kilometers west of the Canary Islands; it is about 19,000."});

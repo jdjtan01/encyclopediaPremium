@@ -9,8 +9,7 @@ s2:[["Changing state","Melting turns a solid into a liquid, and freezing turns i
 sp:["Why ice floats","When water freezes, its molecules line up in an open, six-sided pattern held together by hydrogen bonds, leaving more space between them than in liquid water. That makes ice about 9 percent less dense than water. The same six-sided pattern is why snowflakes have six arms."],
 g:[["Matter","Anything that has mass and takes up space"],["Evaporation","A liquid changing into a gas"],["Condensation","A gas changing into a liquid"],["Sublimation","A solid changing straight into a gas"]],
 f:["Ice floats because water expands when it freezes.","Water boils at a lower temperature on high mountains.","Stars are made of plasma, the fourth state of matter."],
-fun:"Most of the visible matter in the universe is plasma, the state of matter in stars.",
-tl:"Ang materya ay maaaring solido, likido, gas o plasma, depende sa galaw ng maliliit na partikula nito. Kapag pinainit o pinalamig, nagbabago ang anyo nito, gaya ng pagkatunaw ng yelo at pagkulo ng tubig."});
+fun:"Most of the visible matter in the universe is plasma, the state of matter in stars."});
 
 ADDART({id:"reactions",t:"Chemical Reactions",c:"Science",i:"⚗️",w:"Chemical reaction",r:["atom","acid","alchemy"],
 p:[["Making new substances","In a chemical reaction, substances change into new substances with different properties."],["Everywhere around us","Cooking, rusting, burning and digestion are all chemical reactions."],["Nothing is lost","Atoms are rearranged in a reaction but never created or destroyed."]],
@@ -22,8 +21,7 @@ s2:[["Burning","Burning, or combustion, is a fast reaction between a fuel and ox
 sp:["The father of modern chemistry","Antoine Lavoisier named oxygen and hydrogen, showed that burning is a reaction with oxygen and wrote one of the first modern chemistry textbooks in 1789. He also worked as a tax collector for the French king, and in 1794, during the French Revolution, he was executed. A fellow scientist said it took a moment to cut off his head, but France might not produce another like it in a hundred years."],
 g:[["Reactant","A substance that takes part in a reaction"],["Product","A substance made by a reaction"],["Catalyst","Something that speeds up a reaction without being used up"],["Exothermic","Giving out heat"]],
 f:["Atoms are never created or destroyed in a chemical reaction.","Rusting is a slow chemical reaction.","Ammonia made from air helps feed billions of people."],
-fun:"The browning of toast, grilled meat and roasted coffee is the same chemical reaction.",
-tl:"Sa reaksiyong kemikal, nagiging bagong sustansiya ang mga sangkap, gaya ng pagluluto, pagkalawang at pagsunog. Hindi nawawala o nalilikha ang mga atom; nagbabago lamang ang pagkakaayos nila."});
+fun:"The browning of toast, grilled meat and roasted coffee is the same chemical reaction."});
 
 ADDART({id:"plastics",t:"Plastics and Polymers",c:"Science",i:"🧴",w:"Plastic",r:["reactions","pacific","seaturtle","polymers"],
 p:[["Long-chain molecules","Plastics are made of polymers, very long molecules built from many small repeating units."],["Useful everywhere","Light, cheap and easy to shape, plastics are used for packaging, clothes, cars, toys and medical equipment."],["A pollution problem","Plastic lasts for hundreds of years, and huge amounts end up in rivers and oceans."]],
@@ -35,5 +33,4 @@ s2:[["The plastic age","Bakelite, made in 1907, was used for telephones, radios 
 sp:["Plastic-eating bacteria","In 2016 scientists in Japan found bacteria at a bottle recycling site that had evolved to digest PET, the plastic used in drink bottles. The bacteria use two enzymes to break the plastic into its building blocks. Researchers have since improved the enzymes in the hope of recycling plastic bottles back into new ones."],
 g:[["Polymer","A very long molecule made of repeating units"],["Monomer","A small molecule that links up to make a polymer"],["Microplastic","A piece of plastic smaller than 5 millimeters"],["Single-use","Made to be used once and thrown away"]],
 f:["Only about 9 percent of all plastic ever made has been recycled.","DNA, silk and rubber are natural polymers.","Microplastics have been found in Arctic ice and the deepest oceans."],
-fun:"Silk, rubber, starch and DNA are all natural polymers, like plastics.",
-tl:"Ang plastik ay gawa sa polymer, mahahabang molekula na binubuo ng maraming maliliit na yunit. Kapaki-pakinabang ito ngunit tumatagal nang daan-daang taon, kaya malaking problema ang basurang plastik sa mga ilog at dagat."});
+fun:"Silk, rubber, starch and DNA are all natural polymers, like plastics."});

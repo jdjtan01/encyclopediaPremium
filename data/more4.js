@@ -10,8 +10,7 @@ s2:[["Early rockets","The Chinese used gunpowder rockets as fireworks and weapon
 sp:["The balloon rocket","You can make a rocket at home. Thread a string through a straw and tie the string tight across a room. Blow up a balloon, hold its neck closed and tape it to the straw. When you let go, air rushes out of the balloon and pushes it along the string, showing Newton’s third law in action."],
 g:[["Thrust","The pushing force produced by a rocket engine"],["Oxidizer","A substance that supplies oxygen for burning"],["Stage","A section of a rocket with its own engines and fuel"],["Orbit","The curved path of an object around a planet or star"]],
 f:["Rockets carry their own oxygen because there is no air in space.","Goddard’s first liquid-fuel rocket flew for 2.5 seconds.","The Saturn V was about 111 meters tall."],
-fun:"Robert Goddard’s first liquid-fuel rocket in 1926 flew for just 2.5 seconds.",
-tl:"Ang rocket ay sasakyang lumilipad sa pamamagitan ng pagbuga ng mainit na gas mula sa likuran nito. Ito lamang ang makinang kayang magdala ng tao at satellite sa kalawakan, at may sarili itong oxygen dahil walang hangin doon."});
+fun:"Robert Goddard’s first liquid-fuel rocket in 1926 flew for just 2.5 seconds."});
 
 ADDART({id:"jwst",t:"The James Webb Space Telescope",c:"Space and Astronomy",i:"🔭",w:"James Webb Space Telescope",r:["scope","hubble","bigbang"],
 p:[["The largest space telescope","The James Webb Space Telescope is the largest and most powerful telescope ever sent into space."],["Seeing heat","It sees mainly infrared light, letting it look through dust and back to the early universe."],["A million miles away","It orbits the Sun about 1.5 million kilometers from Earth."]],
@@ -23,8 +22,7 @@ s2:[["Launch and unfolding","Webb launched on 25 December 2021 aboard a European
 sp:["Six-sided mirrors","Webb’s mirror is made of 18 hexagons because six-sided shapes fit together without gaps and form a nearly circular mirror. Each segment can be moved by tiny motors in steps smaller than one ten-thousandth of a hair’s width, so all 18 act as one perfect mirror. About 48 grams of gold coats the whole mirror."],
 g:[["Infrared","Light with longer wavelengths than we can see, felt as heat"],["Exoplanet","A planet orbiting a star other than the Sun"],["Deep field","A long-exposure image of a small patch of sky full of distant galaxies"],["Nebula","A cloud of gas and dust in space"]],
 f:["Webb’s mirror is coated with about 48 grams of gold.","Its sunshield is about the size of a tennis court.","Webb launched on Christmas Day 2021."],
-fun:"The James Webb Space Telescope’s sunshield is about the size of a tennis court.",
-tl:"Ang James Webb Space Telescope ang pinakamalaking teleskopyo na ipinadala sa kalawakan noong 2021. Gamit ang infrared, nakikita nito ang mga unang galaxy matapos ang Big Bang at ang hangin ng mga planeta sa ibang bituin."});
+fun:"The James Webb Space Telescope’s sunshield is about the size of a tennis court."});
 
 ADDART({id:"flower",t:"Flowers and Pollination",c:"Animals and Nature",i:"🌺",w:"Flower",r:["bee","butterfly","photo"],
 p:[["How plants reproduce","A flower is the part of a plant that makes seeds."],["Helpers","Insects, birds, bats and the wind carry pollen from flower to flower."],["Most plants flower","Flowering plants make up about nine out of ten kinds of plant on Earth."]],
@@ -36,10 +34,9 @@ s2:[["Wind-pollinated plants","Grasses, rice, corn and many trees are pollinated
 sp:["The bee’s-eye view","Many flowers have patterns that people cannot see but bees can, because bees see ultraviolet light. Under an ultraviolet camera, a plain yellow flower may show a dark bull’s-eye or lines leading to its center, like runway lights guiding a plane. Scientists call these nectar guides."],
 g:[["Stamen","The male part of a flower that makes pollen"],["Pistil","The female part of a flower that holds the ovules"],["Pollination","Moving pollen from one flower to another"],["Nectar","A sweet liquid flowers make to attract animals"]],
 f:["About nine out of ten kinds of plant are flowering plants.","Bees can see ultraviolet patterns on flowers.","Orchids make up roughly one in ten flowering plant species."],
-fun:"Some flowers have ultraviolet patterns that guide bees like runway lights.",
-tl:"Ang bulaklak ang bahagi ng halaman na gumagawa ng buto. Dinadala ng mga bubuyog, paruparo, ibon, paniki at hangin ang pollen mula sa isang bulaklak patungo sa iba; ang sampaguita ang pambansang bulaklak ng Pilipinas."});
+fun:"Some flowers have ultraviolet patterns that guide bees like runway lights."});
 
-ADDART({id:"fungi",t:"Fungi and Mushrooms",c:"Animals and Nature",i:"🍄",w:"Fungus",r:["eco","penicil","trees"],
+ADDART({id:"fungi",t:"Fungi and Mushrooms",c:"Animals and Nature",i:"🍄",w:"Fungus",r:["eco","penicil","trees","mycorrhiza"],
 p:[["Neither plant nor animal","Fungi, including mushrooms, molds and yeasts, form their own kingdom of life."],["Nature’s recyclers","Fungi break down dead plants and animals, returning nutrients to the soil."],["Food and medicine","Fungi give us mushrooms, bread, cheese, soy sauce and medicines such as penicillin."]],
 l:"Fungi are living things that form a kingdom of their own, separate from plants and animals. They include mushrooms, molds, yeasts and mildews. Fungi cannot make their own food as plants do; instead they absorb it from their surroundings. As decomposers and partners of plants, they are essential to life on land, and they give people food, drinks and medicines.",
 s:[["What is a fungus?","Fungi were once grouped with plants, but they have no chlorophyll and cannot photosynthesize. Their cell walls contain chitin, the same material as insect shells. Genetic studies show that fungi are actually more closely related to animals than to plants."],["Mycelium","The main body of most fungi is a hidden network of fine threads called hyphae, which together form the mycelium. It spreads through soil, wood or food, releasing enzymes that break it down and absorbing the nutrients. A mushroom is only the fruiting body, the part that makes spores."],["Spores","Fungi reproduce by spores, tiny cells released in enormous numbers. A single mushroom can release billions of spores, carried by wind, water and animals. If a spore lands somewhere damp with food, it grows into a new mycelium."],["Decomposers","Fungi and bacteria break down fallen leaves, dead wood and dead animals. Without them, forests would be buried under dead material and nutrients would not return to the soil. Some fungi can even break down tough wood fibers that few other living things can digest."]],
@@ -49,5 +46,4 @@ s2:[["Partners of plants","About nine out of ten land plants live in partnership
 sp:["The wood wide web","Under a forest floor, fungal threads link the roots of many trees. Studies have shown that carbon and nutrients can move between trees through these networks, which some call the wood wide web. Scientists still debate how much trees really help one another this way, but the networks themselves are real and vast."],
 g:[["Mycelium","The network of threads that forms the main body of a fungus"],["Spore","A tiny cell that can grow into a new fungus"],["Decomposer","A living thing that breaks down dead material"],["Lichen","A partnership of a fungus and an alga or bacterium"]],
 f:["Fungi are more closely related to animals than to plants.","A honey fungus in Oregon covers about 9 square kilometers.","Penicillin comes from a mold."],
-fun:"Fungi are more closely related to animals than to plants.",
-tl:"Ang fungi, gaya ng kabute, amag at lebadura, ay may sariling kaharian na hiwalay sa halaman at hayop. Binubulok nila ang mga patay na bagay upang bumalik ang sustansiya sa lupa, at pinagmumulan sila ng pagkain at gamot gaya ng penicillin."});
+fun:"Fungi are more closely related to animals than to plants."});

@@ -9,8 +9,7 @@ s2:[["The world’s largest election","India holds the largest elections in the 
 sp:["Ink on the finger","Many countries mark voters’ fingers with indelible ink to stop people from voting more than once. The ink contains silver nitrate, which stains the skin when exposed to light and lasts for days. India began using it in 1962, and it has since been used in elections across Asia, Africa and Latin America, including in the Philippines. A purple or black fingertip has become a proud symbol of having voted."],
 g:[["Ballot","A paper or electronic form used to vote"],["Suffrage","The right to vote"],["Referendum","A direct vote by citizens on a question"],["Turnout","The share of eligible voters who vote"]],
 f:["The secret ballot began in Australia in 1856.","New Zealand women won the vote in 1893.","Filipino women voted in a suffrage plebiscite in 1937."],
-fun:"The word ostracism comes from the pottery shards Athenians used to vote someone into exile.",
-tl:"Ang halalan ay paraan ng pagpili ng mga pinuno sa pamamagitan ng pagboto. Sa demokrasya, may pantay na boto ang bawat mamamayan at lihim ang pagboto. Unang bumoto ang kababaihang Pilipino sa plebisito noong 1937."});
+fun:"The word ostracism comes from the pottery shards Athenians used to vote someone into exile."});
 
 ADDART({id:"constitution",t:"Constitutions",c:"Economics and Society",i:"📜",w:"Constitution",r:["democ","law","hrights","phgov","malolos"],
 p:[["The rules of a country","A constitution is the basic set of rules that sets up a government and limits its powers."],["Rights and powers","Constitutions describe how leaders are chosen and protect the rights of citizens."],["Supreme law","In most countries, the constitution is the highest law, above all other laws."]],
@@ -22,8 +21,7 @@ s2:[["Constitutions of the Philippines","The Philippines has had several constit
 sp:["The Malolos Constitution","In 1898, during the revolution against Spain, Filipino delegates met at Barasoain Church in Malolos, Bulacan, to write a constitution. Approved and promulgated in January 1899, it established a republic with a strong legislature and a bill of rights, separated church and state and declared that sovereignty resides in the people. The First Philippine Republic it created was short-lived because of the war with the United States, but it remains a symbol of Filipino self-government."],
 g:[["Constitution","The basic rules that set up and limit a government"],["Amendment","A change to a constitution"],["Bill of rights","A list of basic rights and freedoms"],["Judicial review","A court’s power to strike down unconstitutional laws"]],
 f:["The US Constitution of 1787 is the oldest written national constitution in use.","India has the longest constitution.","The Philippines ratified its current constitution in 1987."],
-fun:"The United Kingdom has no single written constitution document.",
-tl:"Ang saligang batas o konstitusyon ang pangunahing hanay ng mga tuntunin na nagtatatag ng pamahalaan at naglilimita sa kapangyarihan nito. Pinoprotektahan din nito ang karapatan ng mamamayan. Ang kasalukuyang Saligang Batas ng Pilipinas ay pinagtibay noong 1987."});
+fun:"The United Kingdom has no single written constitution document."});
 
 ADDART({id:"monarchy",t:"Monarchy",c:"Economics and Society",i:"👑",w:"Monarchy",r:["democ","constitution","sulu","japan","tongacountry"],
 p:[["Kings and queens","A monarchy is a form of government with a king, queen, emperor or other monarch as head of state."],["Usually inherited","In most monarchies, the crown passes down within a royal family."],["Old and new","Some monarchs hold great power, while in many democracies the monarch’s role is mainly ceremonial."]],
@@ -35,8 +33,7 @@ s2:[["Japan’s imperial family","Japan’s imperial family claims an unbroken l
 sp:["Queen Elizabeth II","Queen Elizabeth II became queen of the United Kingdom and other realms in 1952, at age 25, and reigned until her death in September 2022, a total of 70 years and 214 days. She was the longest-reigning British monarch and the second-longest-reigning monarch of a sovereign country in recorded history, after Louis XIV. During her reign, the British Empire gave way to the Commonwealth, a voluntary association of 56 countries."],
 g:[["Monarch","A king, queen, emperor or other hereditary ruler"],["Absolute monarchy","A monarchy where the ruler holds supreme power"],["Constitutional monarchy","A monarchy limited by a constitution"],["Abdicate","To give up the throne"]],
 f:["About 40 countries have monarchs.","Malaysia’s king is elected every five years.","Nepal became a republic in 2008."],
-fun:"Malaysia’s king is chosen from among nine state rulers and serves for five years.",
-tl:"Ang monarkiya ay uri ng pamahalaan na may hari, reyna o emperador bilang pinuno ng estado. Karaniwang namamana ang korona. Sa ilang bansa, malawak ang kapangyarihan ng monarka; sa iba, seremonyal lamang ang tungkulin nito."});
+fun:"Malaysia’s king is chosen from among nine state rulers and serves for five years."});
 
 ADDART({id:"journalism",t:"News and Journalism",c:"Economics and Society",i:"📰",w:"Journalism",r:["print","tv","radio","socialmedia","hrights"],
 p:[["Telling people what happens","Journalism is the work of gathering, checking and reporting news and information."],["From newspapers to phones","News has traveled by handwritten bulletins, printed papers, radio, television and the internet."],["Watchdogs of power","A free press helps citizens hold governments and powerful people to account."]],
@@ -48,8 +45,7 @@ s2:[["Journalism in the Philippines","The first newspaper in the Philippines, De
 sp:["The Acta Diurna","Around 59 BCE, Julius Caesar ordered that a record of public events be posted daily in the Roman Forum. Written on boards, the Acta Diurna, or daily acts, reported on government decisions, trials, births, deaths, marriages and even gladiator contests. Scribes copied the news and sent it to readers across the empire. It was one of the earliest known forms of a government news bulletin."],
 g:[["Journalist","A person who gathers and reports news"],["Source","A person or document that provides information"],["Press freedom","The right to report without censorship"],["Fact-checking","Checking whether claims are true"]],
 f:["Ancient Rome posted daily news bulletins.","The first printed newspaper appeared in 1605.","Maria Ressa won the Nobel Peace Prize in 2021."],
-fun:"Ancient Rome had a daily news bulletin called the Acta Diurna.",
-tl:"Ang pamamahayag o journalism ay pangangalap, pagsusuri at pag-uulat ng balita. Mahalaga ang malayang pamamahayag sa demokrasya. Si Maria Ressa ang unang Pilipinong nanalo ng Nobel Prize, noong 2021."});
+fun:"Ancient Rome had a daily news bulletin called the Acta Diurna."});
 
 ADDART({id:"tourism",t:"Tourism and Travel",c:"Economics and Society",i:"🧳",w:"Tourism",r:["trade","flight","rail","boracay","urban"],
 p:[["Seeing the world","Tourism means traveling for pleasure, to visit places, meet people and experience other cultures."],["A giant industry","Tourism employs millions of people and is a major part of many countries’ economies."],["Travel with care","Responsible tourism protects places and respects local communities."]],
@@ -61,8 +57,7 @@ s2:[["Tourism in the Philippines","The Philippines attracts visitors with its be
 sp:["Thomas Cook’s first trip","On 5 July 1841, Thomas Cook, a cabinetmaker and temperance campaigner, arranged for about 500 people to travel by train from Leicester to a meeting in Loughborough, about 18 kilometers away, for a shilling each, including food. The trip was a success, and Cook began organizing tours across Britain, then Europe, Egypt and around the world. His company became one of the most famous names in travel for more than 175 years."],
 g:[["Tourism","Travel for pleasure, culture or business"],["Package tour","A trip with transport, lodging and activities sold together"],["Ecotourism","Nature travel that protects the environment"],["Overtourism","Too many tourists in one place"]],
 f:["About 1.4 billion international tourist trips were made in 2024.","Thomas Cook organized an early package tour in 1841.","World Tourism Day is on 27 September."],
-fun:"The first package tour in 1841 cost a shilling per person and included food.",
-tl:"Ang turismo ay paglalakbay para sa kasiyahan, kultura o negosyo. Nagbibigay ito ng hanapbuhay sa milyon-milyong tao. Sa Pilipinas, kilala ang Boracay, Palawan, Bohol at Banaue."});
+fun:"The first package tour in 1841 cost a shilling per person and included food."});
 
 ADDART({id:"noodles",t:"Noodles",c:"Food and Agriculture",i:"🍜",w:"Noodle",r:["wheat","rice","phfood","china","japan"],
 p:[["A world favorite","Noodles are long strips of dough, eaten in soups, stir-fries and sauces around the world."],["Very old food","The oldest known noodles, found in China, are about 4,000 years old."],["Pancit and more","In the Philippines, pancit is a favorite dish at celebrations, symbolizing long life."]],
@@ -74,8 +69,7 @@ s2:[["Instant noodles","In 1958 Momofuku Ando, working in a shed in Osaka, Japan
 sp:["Momofuku Ando","Momofuku Ando, born in 1910 in Taiwan when it was under Japanese rule, was troubled by the long lines of hungry people waiting for noodle soup in postwar Japan. After a year of experiments in a backyard shed, he found that frying noodles in hot oil dried them and left tiny holes that let them soften quickly in hot water. He launched Chicken Ramen in 1958. A museum about instant noodles in Osaka and Yokohama honors his invention."],
 g:[["Noodle","A long strip of dough cooked in water or broth"],["Pancit","Filipino noodle dishes"],["Durum wheat","A hard wheat used for pasta"],["Lamian","Chinese hand-pulled noodles"]],
 f:["The oldest noodles are about 4,000 years old.","Instant noodles were invented in 1958.","Long noodles symbolize long life."],
-fun:"The world eats more than 100 billion servings of instant noodles every year.",
-tl:"Ang noodles ay mahahabang piraso ng masa na kinakain sa sabaw, gisado at iba pa. Ang pinakamatandang noodles ay natagpuan sa Tsina, mga 4,000 taon na ang edad. Sa Pilipinas, ang pancit ay simbolo ng mahabang buhay."});
+fun:"The world eats more than 100 billion servings of instant noodles every year."});
 
 ADDART({id:"badminton",t:"Badminton",c:"Sports",i:"🏸",w:"Badminton",r:["olymp","tennis","volley","phsport","indonesiacountry"],
 p:[["Racquets and a shuttlecock","Badminton is a sport in which players hit a feathered shuttlecock over a high net with light racquets."],["Fastest racquet sport","A smash can send the shuttlecock flying faster than in any other racquet sport."],["Loved in Asia","Badminton is hugely popular in China, Indonesia, Malaysia, India, Japan, Korea and the Philippines."]],
@@ -87,8 +81,7 @@ s2:[["Speed of the smash","The badminton smash is the fastest shot in any racque
 sp:["Why is it called badminton?","The game takes its name from Badminton House in Gloucestershire, England, the country estate of the Duke of Beaufort. In 1873 guests there played a version of the game brought back by officers from India, and it became known as the Badminton game. The first official rules were drawn up in 1877, and the Badminton Association of England was founded in 1893."],
 g:[["Shuttlecock","The feathered projectile hit in badminton"],["Smash","A powerful downward shot"],["Rally","An exchange of shots until a point is won"],["Doubles","A match between two pairs of players"]],
 f:["Badminton became an Olympic sport in 1992.","A shuttlecock has 16 feathers.","The badminton smash is the fastest shot in racquet sports."],
-fun:"A badminton smash has been measured at 565 km/h.",
-tl:"Ang badminton ay isport kung saan pinapalo ng mga manlalaro ang shuttlecock na may balahibo sa ibabaw ng mataas na net. Ito ang pinakamabilis na racquet sport. Napakapopular ito sa Asya, kasama ang Pilipinas."});
+fun:"A badminton smash has been measured at 565 km/h."});
 
 ADDART({id:"festivals",t:"Festivals Around the World",c:"Religion and Philosophy",i:"🎆",w:"Festival",r:["phfest","relig","hindu","islam","christ"],
 p:[["Times to celebrate","Festivals are special days or seasons when communities celebrate together."],["Many reasons","People celebrate harvests, new years, religious events, seasons and history."],["Lights, food and music","Festivals bring lights, feasts, music, dancing, costumes and gift-giving."]],
@@ -100,5 +93,4 @@ s2:[["Day of the Dead","In Mexico, the Día de los Muertos, on 1 and 2 November,
 sp:["Lunar New Year","Lunar New Year falls on the second new moon after the winter solstice, between late January and mid-February. In China, hundreds of millions of people travel home for family reunion dinners, the largest annual human migration on Earth. Homes are cleaned to sweep away bad luck, doors are decorated with red paper couplets and children receive red envelopes with money. Each year is associated with one of 12 animals of the zodiac. Chinese Filipinos celebrate it too, and it is a public holiday in the Philippines."],
 g:[["Festival","A day or period of celebration"],["Lunar calendar","A calendar based on the cycles of the Moon"],["Ofrenda","An altar for the dead in the Day of the Dead"],["Patron saint","A saint believed to protect a place or group"]],
 f:["Diwali is a festival of lights.","The Day of the Dead is celebrated on 1 and 2 November.","Lunar New Year sees the largest annual human migration."],
-fun:"Christmas in the Philippines starts in September, making it one of the longest holiday seasons in the world.",
-tl:"Ang pista o festival ay mga espesyal na araw ng pagdiriwang ng komunidad. Ipinagdiriwang ang ani, bagong taon, relihiyosong okasyon at kasaysayan. Kabilang dito ang Lunar New Year, Diwali, Eid, Pasko at ang Sinulog."});
+fun:"Christmas in the Philippines starts in September, making it one of the longest holiday seasons in the world."});

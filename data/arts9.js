@@ -9,8 +9,7 @@ s2:[["Where the name comes from","The origin of the word kundiman is uncertain. 
 sp:["A serenade by moonlight","Picture a quiet town in the early 1900s. Late in the evening, a group of young men gathers outside a house with capiz windows. One carries a guitar, another perhaps a banduria. The suitor clears his throat and begins to sing a kundiman, telling of a love so deep that he would give his life for it. Neighbors may peek out from their windows. Inside, the young woman listens, and if she approves, she slides open her window or her family invites the singers in for refreshments. If not, the window stays closed. The harana was a gentle and public way of courting, and kundiman were its finest songs."],
 g:[["Kundiman","A traditional Filipino song of love and longing"],["Harana","A serenade sung outside a woman’s home"],["Art song","A classical song for voice and piano"],["Triple time","A rhythm with three beats in each measure"]],
 f:["The kundiman is a Filipino love song.","Many kundiman expressed love for the country.","Bayan Ko was written in 1928."],
-fun:"A popular explanation says the word kundiman comes from kung hindi man, meaning if it were not so, though no one is certain.",
-tl:"Ang kundiman ay tradisyonal na awit ng pag-ibig, pananabik at pagmamahal. Maraming kundiman ang nagpahayag ng pag-ibig sa bayan sa wika ng romansa. Ginawa itong klasikong awit ng mga kompositor tulad nina Francisco Santiago at Nicanor Abelardo."});
+fun:"A popular explanation says the word kundiman comes from kung hindi man, meaning if it were not so, though no one is certain."});
 
 ADDART({id:"weaving",t:"Weaving and Textiles",c:"Crafts",i:"🧵",w:"Weaving",r:["fastfashion","silk","indrev","comp","phfolk"],
 p:[["Making cloth","Weaving is the craft of interlacing threads to make cloth."],["An ancient art","People have woven fabrics for thousands of years using looms."],["Philippine traditions","The Philippines has rich weaving traditions, from piña to t’nalak and inabel."]],
@@ -22,8 +21,7 @@ s2:[["Weaving and the Industrial Revolution","Weaving played a central part in t
 sp:["The dream weavers of Lake Sebu","Around Lake Sebu in South Cotabato, T’boli women have woven t’nalak for generations. The process takes weeks or even months. Abaca fibers are stripped, dried and knotted together into long threads. Following a design held in memory, the weaver ties parts of the threads tightly so they resist dye, then soaks them in natural dyes made from roots and leaves. Finally she weaves the cloth on a backstrap loom, leaning back to keep the threads taut. Many T’boli weavers say the patterns come to them in dreams, gifts from the spirit of the abaca. This is why they are known as dream weavers."],
 g:[["Warp","The lengthwise threads held tight on a loom"],["Weft","The crosswise threads woven over and under the warp"],["Loom","A frame for weaving cloth"],["Ikat","A technique of dyeing threads before weaving"]],
 f:["Weaving uses warp and weft threads.","Jacquard’s punched-card loom inspired computers.","Piña cloth is woven from pineapple leaf fibers."],
-fun:"Punched cards used to control weaving looms in 1804 later helped inspire the first computers.",
-tl:"Ang paghahabi ay sining ng paggawa ng tela sa pamamagitan ng pagsasalabid ng mga sinulid. Mayaman ang Pilipinas sa tradisyon ng paghahabi tulad ng piña ng Aklan, t’nalak ng T’boli at inabel ng Ilocos. Ginagamit sa paghahabi ang habihan o loom."});
+fun:"Punched cards used to control weaving looms in 1804 later helped inspire the first computers."});
 
 ADDART({id:"manga",t:"Manga",c:"Comics",i:"📚",w:"Manga",r:["anime","comics","japan","childlit","kdrama"],
 p:[["Japanese comics","Manga are comics and graphic novels from Japan."],["Read right to left","Manga are traditionally read from right to left."],["A global phenomenon","Manga are read by millions of people around the world."]],
@@ -35,8 +33,7 @@ s2:[["Early roots","Japanese art has a long tradition of humorous and story-tell
 sp:["Drawing a weekly manga","Creating a weekly manga is demanding work. A manga artist, or mangaka, may produce around 20 pages every week, often for years. The artist plans the story, sketches rough layouts called name, and discusses them with an editor before drawing the final pages. Assistants help with backgrounds, shading and special effects. Deadlines are strict because the magazine prints every week, and some famous artists have described working through the night. Readers’ votes help decide whether a new series continues or ends, so artists feel great pressure to keep their stories exciting."],
 g:[["Manga","Japanese comics and graphic novels"],["Mangaka","A manga artist"],["Tankōbon","A collected volume of manga chapters"],["Webtoon","A digital comic designed for vertical scrolling"]],
 f:["Manga are read from right to left.","Osamu Tezuka is called the god of manga.","One Piece is one of the best-selling comics ever."],
-fun:"The word manga can be translated as whimsical or random pictures.",
-tl:"Ang manga ay komiks mula sa Japan na binabasa mula kanan pakaliwa. Saklaw nito ang halos lahat ng paksa at mambabasa. Kilala ito sa buong mundo, kabilang ang Pilipinas, at maraming manga ang ginawang anime."});
+fun:"The word manga can be translated as whimsical or random pictures."});
 
 ADDART({id:"ceramics",t:"Pottery and Ceramics",c:"Crafts",i:"🏺",w:"Pottery",r:["sculpture","chineseart","archaeology","silk","islamicart"],
 p:[["Art from clay","Pottery and ceramics are objects made from clay and hardened by heat."],["One of the oldest crafts","People have made pottery for more than 20,000 years."],["Philippine treasures","The Manunggul Jar is a famous ancient Philippine burial jar."]],
@@ -48,5 +45,4 @@ s2:[["Chinese porcelain","Chinese potters perfected porcelain over many centurie
 sp:["The boat of souls","Sitting on top of the Manunggul Jar is one of the most moving sculptures of ancient Southeast Asia. A small boat carries two figures, one steering with a paddle and the other sitting with arms crossed over the chest, a position associated with burial. The boat’s prow is carved with a face. Archaeologists think the scene shows a soul traveling to the afterlife, guided by a ferryman, reflecting a belief that the spirits of the dead journeyed across water. The swirling red-painted designs on the jar’s body add to its beauty. Nearly three thousand years old, the jar connects modern Filipinos with the beliefs of their ancestors."],
 g:[["Ceramics","Objects made from clay and hardened by heat"],["Kiln","An oven used to fire pottery"],["Glaze","A glassy coating on pottery"],["Porcelain","A hard, white, fine ceramic"]],
 f:["Pottery is over 20,000 years old.","Porcelain is called china in English.","The Manunggul Jar is a Philippine National Treasure."],
-fun:"In English, fine porcelain is called china because it was first made in China.",
-tl:"Ang palayok at seramika ay mga bagay na yari sa luwad na pinatigas sa apoy. Isa ito sa pinakamatandang sining ng tao. Ang Manunggul Jar ng Palawan ay isang tanyag na sinaunang banga at Pambansang Kayamanan ng Pilipinas."});
+fun:"In English, fine porcelain is called china because it was first made in China."});

@@ -9,8 +9,7 @@ s2:[["A gift of thanks","During World War II, the Dutch royal family sheltered i
 sp:["The search for a black tulip","Breeders spent centuries trying to grow a black tulip, inspired partly by Alexandre Dumas’s 1850 novel The Black Tulip. Varieties such as ‘Queen of Night’ are a very deep purple, close to black."],
 g:[["Bulb","An underground bud with food-storing leaves"],["Tepal","A petal-like part of a flower"],["Speculative bubble","When prices rise far above real value, then crash"],["Genus","A group of closely related species"]],
 f:["Wild tulips come from the mountains of Central Asia.","Tulip bulbs need a cold winter to flower.","Striped ‘broken’ tulips were caused by a virus."],
-fun:"Tulip petals are edible, and during the Dutch ‘Hunger Winter’ of 1944–45, starving people ate tulip bulbs to survive.",
-tl:"Ang tulip ay bulaklak ng tagsibol na tumutubo mula sa bulb at nagmula sa mga bundok ng Gitnang Asya at Turkey. Noong 1637, tumaas nang husto at saka bumagsak ang presyo ng tulip sa Netherlands."});
+fun:"Tulip petals are edible, and during the Dutch ‘Hunger Winter’ of 1944–45, starving people ate tulip bulbs to survive."});
 
 ADDART({id:"bonsai",t:"Bonsai",c:"Plants",i:"🪴",w:"Bonsai",r:["japan","trees","urbanfarm","china","buddh"],
 p:[["Trees in pots","Bonsai is the art of growing miniature trees in containers."],["From China to Japan","It developed from Chinese penjing and was refined in Japan."],["Living for centuries","Some bonsai trees are hundreds of years old."]],
@@ -22,8 +21,7 @@ s2:[["The Hiroshima survivor","A Japanese white pine trained by the Yamaki famil
 sp:["Penjing and saikei","In Chinese penjing, trees are often combined with rocks, water and tiny figures to create whole landscapes. A related Japanese art, saikei, arranges several trees and stones in a tray to form a miniature scene."],
 g:[["Pruning","Cutting branches or roots to shape a plant"],["Wiring","Wrapping wire around branches to bend them"],["Penjing","Chinese art of miniature landscapes"],["Cascade","A style where the tree hangs below the pot"]],
 f:["Bonsai are normal trees kept small, not special dwarf species.","Most bonsai must live outdoors.","Some bonsai are hundreds of years old."],
-fun:"Some bonsai trees sell for more than a million dollars, and a pine at a 1981 exhibition in Japan was reported to sell for about 1.3 million dollars.",
-tl:"Ang bonsai ay sining ng pagpapalaki ng maliliit na puno sa paso at paghuhubog sa mga ito na parang malalaking puno. Nagmula ito sa penjing ng China at pinino sa Japan, at may mga bonsai na daan-daang taon na ang edad."});
+fun:"Some bonsai trees sell for more than a million dollars, and a pine at a 1981 exhibition in Japan was reported to sell for about 1.3 million dollars."});
 
 ADDART({id:"roses",t:"Roses",c:"Plants",i:"🌹",w:"Rose",r:["flower","weddings","urbanfarm","fruits","ukcountry"],
 p:[["A favorite flower","Roses are woody shrubs with fragrant flowers, grown for thousands of years."],["Thousands of varieties","There are about 300 wild species and tens of thousands of garden varieties."],["Symbol of love","Roses carry meanings of love, beauty and politics."]],
@@ -35,8 +33,7 @@ s2:[["The Peace rose","A French breeder, Francis Meilland, created a pale yellow
 sp:["The oldest rose","The ‘Thousand-year Rose’ climbing the wall of Hildesheim Cathedral in Germany is often said to be the oldest living rose. It survived the destruction of the cathedral in a 1945 air raid; its roots sprouted again from the rubble."],
 g:[["Rose hip","The fruit of a rose"],["Hybrid tea","A popular type of modern garden rose"],["Attar","Fragrant oil made from flowers"],["Prickle","A sharp outgrowth from a stem’s skin"]],
 f:["Apples and strawberries belong to the rose family.","Rose oil takes thousands of kilograms of petals per kilogram.","Roses have prickles, not true thorns."],
-fun:"Rose hips contain more vitamin C than oranges, and during World War II, British children collected them to make syrup.",
-tl:"Ang rosas ay makahoy na halamang may mabangong bulaklak na pinalalaki na sa loob ng libu-libong taon. Mga 300 ang ligaw na uri nito at sampu-sampung libo ang uri sa hardin, at sumisimbolo ito ng pag-ibig."});
+fun:"Rose hips contain more vitamin C than oranges, and during World War II, British children collected them to make syrup."});
 
 ADDART({id:"plantsenses",t:"How Plants Sense and Communicate",c:"Plants",i:"🌱",w:"Plant perception (physiology)",r:["photo","leaves","roots","fungi","carnivplant"],
 p:[["Plants sense the world","Plants detect light, gravity, touch, water and chemicals."],["Chemical messages","Plants release chemicals that warn neighbors and attract helpers."],["No brain needed","Plants respond without nerves or brains, through cells and hormones."]],
@@ -48,8 +45,7 @@ s2:[["Plants that click","In 2023, Israeli scientists reported that tomato and t
 sp:["The sensitive plant","Mimosa pudica folds its leaflets when touched by moving water out of cells at the base of each leaf. Experiments in 2014 showed that plants dropped repeatedly without harm stopped folding, suggesting they ‘learned’ to ignore the harmless disturbance, and remembered for weeks."],
 g:[["Hormone","A chemical messenger in a living thing"],["Tropism","Growth toward or away from something, like light"],["Mycorrhiza","A partnership between plant roots and fungi"],["Ultrasonic","Sound too high-pitched for humans to hear"]],
 f:["Venus flytraps count touches before closing.","Roots sense gravity using heavy starch grains.","Stressed tomato plants make ultrasonic clicks."],
-fun:"Freshly cut grass smells the way it does because the damaged blades release chemicals as a distress signal.",
-tl:"Nararamdaman ng halaman ang liwanag, grabidad, haplos, tubig at kemikal kahit walang utak o nerbiyos. Naglalabas ito ng mga kemikal na nagbababala sa kapwa halaman at umaakit ng mga tumutulong laban sa peste."});
+fun:"Freshly cut grass smells the way it does because the damaged blades release chemicals as a distress signal."});
 
 ADDART({id:"herbs",t:"Herbs",c:"Plants",i:"🌿",w:"Herb",r:["spice","medicinalplants","urbanfarm","photo","plantbased"],
 p:[["Useful leaves","Herbs are plants whose leaves, flowers or seeds are used in cooking, medicine and fragrance."],["Ancient remedies","Many modern medicines came from plants used as herbal remedies."],["Easy to grow","Herbs like basil, mint and parsley grow well in small gardens and pots."]],
@@ -61,8 +57,7 @@ s2:[["Tu Youyou and artemisinin","In the 1970s, Chinese scientist Tu Youyou sear
 sp:["Coriander and genes","Some people think fresh coriander (cilantro) tastes like soap. Studies suggest this is partly genetic: people with certain variations in a smell-receptor gene are more sensitive to soapy-smelling chemicals in the leaves."],
 g:[["Herb","A plant used for flavor, medicine or scent; also a non-woody plant"],["Spice","A flavoring from seeds, bark, roots or fruit"],["Aromatic","Having a strong, pleasant smell"],["Physic garden","A garden of medicinal plants"]],
 f:["Mint, basil and rosemary are all in the mint family.","Aspirin was developed from a chemical in willow bark.","Some people’s genes make coriander taste like soap."],
-fun:"Members of the mint family have square stems, which you can feel by rolling a stem between your fingers.",
-tl:"Ang herbs ay mga halamang ginagamit ang dahon, bulaklak o buto sa pagluluto, gamot at pabango. Maraming modernong gamot, gaya ng aspirin, ang nagmula sa mga halamang ginamit noon bilang lunas."});
+fun:"Members of the mint family have square stems, which you can feel by rolling a stem between your fingers."});
 
 ADDART({id:"olives",t:"Olives",c:"Food and Agriculture",i:"🫒",w:"Olive",r:["med","greece","agri","climchange","spaincountry"],
 p:[["A Mediterranean tree","The olive tree has been grown for thousands of years around the Mediterranean."],["Fruit and oil","Olives are eaten cured and pressed for olive oil."],["Symbol of peace","The olive branch is a symbol of peace."]],
@@ -74,8 +69,7 @@ s2:[["The olive branch","Offering an olive branch has meant making peace since a
 sp:["Why fresh olives are bitter","Fresh olives contain a bitter chemical called oleuropein. Curing with water, salt or lye over weeks or months breaks it down. Some olives, such as the Thrubolea of Greece, ripen partly on the tree and are less bitter."],
 g:[["Curing","Treating food to preserve it or remove bitterness"],["Extra virgin","The highest grade of olive oil"],["Brine","Salty water used to preserve food"],["Evergreen","A tree that keeps its leaves all year"]],
 f:["Green and black olives can grow on the same tree.","Fresh olives are too bitter to eat.","Some olive trees are over 2,000 years old."],
-fun:"Ancient Greek athletes rubbed olive oil on their bodies before exercising and scraped it off afterward with a curved tool called a strigil.",
-tl:"Ang olibo ay punong tumutubo sa paligid ng Mediterranean sa loob ng libu-libong taon. Kinakain ang bunga nito matapos i-cure at ginagawang langis, at simbolo ng kapayapaan ang sanga nito."});
+fun:"Ancient Greek athletes rubbed olive oil on their bodies before exercising and scraped it off afterward with a curved tool called a strigil."});
 
 ADDART({id:"grapes",t:"Grapes and Vineyards",c:"Food and Agriculture",i:"🍇",w:"Grape",r:["fruits","vines","agri","francecountry","domestication"],
 p:[["Ancient fruit","Grapes were among the first fruits people domesticated."],["Wine, raisins and juice","Grapes are eaten fresh, dried into raisins and made into wine and juice."],["Saved by grafting","An American insect nearly destroyed Europe’s vineyards in the 1800s."]],
@@ -87,8 +81,7 @@ s2:[["Raisins","Raisins are grapes dried in the sun or by machines, concentratin
 sp:["Ice wine","In Canada and Germany, some grapes are left on the vine until they freeze in winter. Pressing the frozen grapes squeezes out a small amount of very sweet juice, made into a dessert wine called ice wine."],
 g:[["Vineyard","A farm or field of grapevines"],["Grafting","Joining part of one plant onto the roots of another"],["Fermentation","Yeast turning sugar into alcohol"],["Rootstock","The root part of a grafted plant"]],
 f:["Grapes were domesticated about 11,000 years ago.","The oldest known wine comes from Georgia.","Grapes and raisins are poisonous to dogs."],
-fun:"Grapes held near a flame in a microwave oven can spark balls of glowing plasma, an effect scientists explained in a 2019 study, though trying it can damage the oven.",
-tl:"Ang ubas ay isa sa mga unang prutas na inalagaan ng tao mga 11,000 taon na ang nakalipas. Kinakain ito nang sariwa, pinatutuyo bilang pasas at ginagawang alak at juice."});
+fun:"Grapes held near a flame in a microwave oven can spark balls of glowing plasma, an effect scientists explained in a 2019 study, though trying it can damage the oven."});
 
 ADDART({id:"wifi",t:"Wi-Fi",c:"Technology",i:"📶",w:"Wi-Fi",r:["internet","radio","smartphone","smarthome","cybersecurity"],
 p:[["Wireless internet","Wi-Fi connects devices to networks and the internet using radio waves."],["A global standard","Wi-Fi follows IEEE 802.11 standards, first published in 1997."],["Everywhere","Billions of devices use Wi-Fi in homes, offices and public places."]],
@@ -100,8 +93,7 @@ s2:[["Does Wi-Fi stand for anything?","Wi-Fi is not short for ‘wireless fideli
 sp:["Wi-Fi and health","Wi-Fi uses low-power radio waves that do not have enough energy to damage cells or DNA. The World Health Organization and other health bodies say there is no evidence that Wi-Fi signals at normal levels harm health."],
 g:[["Router","A device that directs data between networks"],["Bandwidth","How much data can be sent per second"],["Encryption","Scrambling data so only intended users can read it"],["Gigahertz","Billions of cycles per second"]],
 f:["Wi-Fi does not stand for ‘wireless fidelity’.","Wi-Fi standards were first published in 1997.","Walls and metal weaken Wi-Fi signals."],
-fun:"Microwave ovens use frequencies close to Wi-Fi’s 2.4 GHz band, which is why a running microwave can sometimes slow down a nearby Wi-Fi connection.",
-tl:"Ang Wi-Fi ay teknolohiyang nag-uugnay ng mga device sa network at internet gamit ang radio waves. Batay ito sa mga pamantayang IEEE 802.11 na unang inilabas noong 1997, at bilyun-bilyong device na ang gumagamit nito."});
+fun:"Microwave ovens use frequencies close to Wi-Fi’s 2.4 GHz band, which is why a running microwave can sometimes slow down a nearby Wi-Fi connection."});
 
 ADDART({id:"radar",t:"Radar",c:"Technology",i:"📡",w:"Radar",r:["radio","ww2","weatherforecast","airports","microwave"],
 p:[["Seeing with radio waves","Radar finds objects by sending radio waves and timing their echoes."],["Born for war","Radar was developed rapidly before and during World War II."],["Everyday uses","Radar guides planes and ships, forecasts weather and helps cars."]],
@@ -113,8 +105,7 @@ s2:[["From radar to microwave ovens","In 1945, Percy Spencer, an engineer workin
 sp:["Bats and dolphins","Bats and dolphins use echolocation, sending out sound waves and listening to echoes, which works on the same principle as radar. Sonar, used by ships to detect submarines and map the seafloor, uses sound instead of radio waves."],
 g:[["Echo","A reflected wave"],["Doppler effect","A change in wave frequency caused by motion"],["Magnetron","A device that produces powerful microwaves"],["Sonar","A system that uses sound echoes"]],
 f:["Radar stands for radio detection and ranging.","The microwave oven grew out of radar research.","Radar helped Britain in the Battle of Britain."],
-fun:"Early radar operators were puzzled by mysterious blips they called ‘angels’, which turned out to be flocks of birds, insects and weather.",
-tl:"Ang radar ay sistemang gumagamit ng radio waves upang matukoy ang mga bagay at sukatin ang layo, direksyon at bilis nito. Mabilis itong nabuo bago at noong World War II at ginagamit ngayon sa eroplano, barko, panahon at kotse."});
+fun:"Early radar operators were puzzled by mysterious blips they called ‘angels’, which turned out to be flocks of birds, insects and weather."});
 
 ADDART({id:"jetengine",t:"Jet Engines",c:"Technology",i:"✈️",w:"Jet engine",r:["flight","airports","rocket","steam","ww2"],
 p:[["Pushing air backward","Jet engines suck in air, burn fuel and blast hot gas out the back."],["Two inventors","Frank Whittle and Hans von Ohain invented the jet engine separately in the 1930s."],["Shrinking the world","Jet airliners made fast, affordable long-distance travel possible."]],
@@ -126,8 +117,7 @@ s2:[["Bird strikes","Birds sucked into jet engines can damage them. In January 2
 sp:["Hero’s engine","About 2,000 years ago, Hero of Alexandria described the aeolipile, a sphere that spun as steam jets shot out of two bent nozzles. It used the same reaction principle as jet engines but was treated as a curiosity."],
 g:[["Thrust","The force that pushes an aircraft forward"],["Turbine","A wheel turned by flowing gas or liquid"],["Compressor","A device that squeezes air"],["Turbofan","A jet engine with a large front fan"]],
 f:["The first jet flight was on 27 August 1939.","Most modern airliners use turbofan engines.","Contrails are made of ice crystals."],
-fun:"The fan blades of large jet engines spin so fast that their tips can move faster than the speed of sound.",
-tl:"Ang jet engine ay humihigop ng hangin, nagsusunog ng gasolina at nagbubuga ng mainit na gas sa likod. Inimbento ito nina Frank Whittle at Hans von Ohain noong 1930s, at pinabilis nito ang paglalakbay sa buong mundo."});
+fun:"The fan blades of large jet engines spin so fast that their tips can move faster than the speed of sound."});
 
 ADDART({id:"helicopters",t:"Helicopters",c:"Technology",i:"🚁",w:"Helicopter",r:["flight","drones","davinci","marsrovers","firefighters"],
 p:[["Rotating wings","Helicopters fly using spinning rotor blades."],["Hover and land anywhere","They can take off vertically, hover and fly in any direction."],["Rescue workers","Helicopters rescue people, fight fires and carry patients."]],
@@ -139,8 +129,7 @@ s2:[["Why a tail rotor?","When an engine spins the main rotor one way, the helic
 sp:["Flying on Mars","Mars’s atmosphere is only about 1 percent as dense as Earth’s, making flight very hard. Ingenuity’s blades were extra long and spun at about 2,500 revolutions per minute, several times faster than a normal helicopter’s, to generate enough lift."],
 g:[["Rotor","The spinning blades of a helicopter"],["Hover","To stay in one place in the air"],["Torque","A twisting force"],["Collective and cyclic","The main helicopter flight controls"]],
 f:["Leonardo da Vinci sketched a helicopter-like machine around 1489.","Most helicopters need a tail rotor to stop spinning.","A helicopter flew on Mars in 2021."],
-fun:"The word helicopter comes from the Greek words helix, ‘spiral’, and pteron, ‘wing’.",
-tl:"Ang helicopter ay lumilipad gamit ang umiikot na mga rotor blade, kaya kaya nitong lumipad nang patayo, manatili sa ere at lumipad sa anumang direksyon. Ginagamit ito sa pagsagip, paglaban sa sunog at pagdadala ng pasyente."});
+fun:"The word helicopter comes from the Greek words helix, ‘spiral’, and pteron, ‘wing’."});
 
 ADDART({id:"washingmachine",t:"Washing Machines",c:"Technology",i:"🧺",w:"Washing machine",r:["elec","feminism","weaving","soap","indrev"],
 p:[["Laundry made easy","Washing machines clean clothes with water, detergent and motion."],["Freeing time","They saved people, mostly women, many hours of hard work each week."],["Ever more efficient","Modern machines use much less water and energy than older ones."]],
@@ -152,8 +141,7 @@ s2:[["The washing machine and the internet","Economist Ha-Joon Chang argued in 2
 sp:["Before washing machines","In many places, laundry day involved carrying water, heating it over a fire, scrubbing with lye soap, rinsing, wringing through rollers called mangles and hanging clothes to dry. A family’s weekly wash could take ten hours or more."],
 g:[["Detergent","A chemical that removes dirt and grease"],["Agitator","A post in the drum that moves clothes"],["Centrifugal force","The outward push felt by spinning objects"],["Laundromat","A shop with coin-operated washing machines"]],
 f:["Electric washing machines were sold from about 1908.","Front-loaders use less water than top-loaders.","Washing synthetic clothes releases microplastics."],
-fun:"Hans Rosling famously called the washing machine ‘the greatest invention of the industrial revolution’, because it freed time for reading and learning.",
-tl:"Ang washing machine ay naglilinis ng damit gamit ang tubig, sabon at paggalaw. Nakatipid ito ng maraming oras ng mabigat na trabaho, karamihan ng kababaihan, at mas kaunting tubig at kuryente ang gamit ng mga makabago."});
+fun:"Hans Rosling famously called the washing machine ‘the greatest invention of the industrial revolution’, because it freed time for reading and learning."});
 
 ADDART({id:"prosthetics",t:"Prosthetics",c:"Health and the Body",i:"🦾",w:"Prosthesis",r:["olymp","robot","printing3d","nervous","egypt"],
 p:[["Replacing body parts","Prostheses are artificial limbs and body parts."],["Ancient history","An artificial toe from ancient Egypt is about 3,000 years old."],["High-tech limbs","Modern prosthetics can be controlled by muscle signals and even give a sense of touch."]],
@@ -165,8 +153,7 @@ s2:[["Running blades","Carbon-fiber running blades, shaped like the letter J, st
 sp:["The Cairo toe","The Cairo toe, made of wood and leather, was found attached to the foot of a mummy of a noblewoman. Tests with volunteers in 2011 showed that replicas helped people walk comfortably in Egyptian-style sandals, suggesting it was a working prosthesis rather than decoration."],
 g:[["Prosthesis","An artificial body part"],["Amputation","Removal of a limb"],["Myoelectric","Controlled by muscle electrical signals"],["Socket","The part of a prosthesis that fits the body"]],
 f:["The oldest known working prosthesis is an Egyptian toe.","Some prosthetic hands can restore a sense of touch.","The Jaipur Foot has helped over a million people."],
-fun:"Pirates in stories often have peg legs and hooks, but real wooden peg legs were common among soldiers and sailors who lost limbs before modern medicine.",
-tl:"Ang prosthesis ay artipisyal na bahagi ng katawan gaya ng paa o kamay. Mga 3,000 taon na ang isang artipisyal na daliri ng paa mula sa sinaunang Egypt, at kayang kontrolin ng ilang makabagong prosthesis gamit ang senyas ng kalamnan."});
+fun:"Pirates in stories often have peg legs and hooks, but real wooden peg legs were common among soldiers and sailors who lost limbs before modern medicine."});
 
 ADDART({id:"motors",t:"Electric Motors",c:"Technology",i:"⚙️",w:"Electric motor",r:["elec","magnet","circuits","currents","ev"],
 p:[["Electricity into motion","Electric motors turn electrical energy into movement using magnetism."],["Everywhere","Motors run fans, washing machines, trains, elevators and electric cars."],["A big energy user","Electric motors use almost half of the world’s electricity."]],
@@ -178,8 +165,7 @@ s2:[["Motors in your home","A typical home may contain dozens of electric motors
 sp:["Faraday’s spinning wire","In September 1821, Michael Faraday hung a wire into a bowl of mercury with a magnet in the middle. When he passed a current through the wire, it circled around the magnet: the first demonstration of electricity producing continuous motion."],
 g:[["Electromagnetism","The link between electricity and magnetism"],["Commutator","A switch that reverses current in a motor"],["Induction motor","An AC motor with no brushes"],["Rare earths","A group of metals used in strong magnets"]],
 f:["Motors use about 45% of the world’s electricity.","Faraday made the first electric motor in 1821.","A generator is a motor working in reverse."],
-fun:"Your phone’s vibration comes from a tiny motor spinning an off-center weight, which shakes the whole phone.",
-tl:"Ginagawang galaw ng electric motor ang enerhiyang elektrikal gamit ang magnetismo. Nagpapatakbo ito ng bentilador, tren, elevator at electric car, at halos kalahati ng kuryente sa mundo ang ginagamit ng mga motor."});
+fun:"Your phone’s vibration comes from a tiny motor spinning an off-center weight, which shakes the whole phone."});
 
 ADDART({id:"planetdefense",t:"Planetary Defense",c:"Space Exploration",i:"☄️",w:"Planetary defense",r:["comet","asteroidbelt","meteors","dino","scope"],
 p:[["Protecting Earth","Planetary defense means finding and stopping dangerous asteroids and comets."],["DART’s success","In 2022, NASA’s DART spacecraft changed an asteroid’s orbit by crashing into it."],["Finding them first","Telescopes search the sky for objects that could hit Earth."]],
@@ -191,8 +177,7 @@ s2:[["How big is dangerous?","Objects smaller than about 25 meters usually burn 
 sp:["The Torino scale","Scientists rate the hazard of a possible asteroid impact on the Torino scale from 0 (no hazard) to 10 (certain global catastrophe). Apophis briefly reached level 4 after its discovery in 2004, and 2024 YR4 reached level 3, before both were ruled out as Earth impactors."],
 g:[["Near-Earth object","An asteroid or comet whose orbit comes close to Earth’s"],["Deflection","Changing an object’s path"],["Impactor","An object that hits another"],["Kinetic impact","Changing an asteroid’s orbit by hitting it"]],
 f:["DART changed an asteroid’s orbit in 2022.","The Chelyabinsk meteor injured about 1,500 people.","Apophis will pass close to Earth in 2029."],
-fun:"When Apophis passes Earth in 2029, it will come closer than some satellites and may be visible to the naked eye from parts of the world.",
-tl:"Ang planetary defense ay pagtuklas at pagpigil sa mapanganib na mga asteroid at kometa. Noong 2022, binago ng DART spacecraft ng NASA ang orbit ng isang asteroid sa pamamagitan ng pagbangga rito."});
+fun:"When Apophis passes Earth in 2029, it will come closer than some satellites and may be visible to the naked eye from parts of the world."});
 
 ADDART({id:"lagrange",t:"Lagrange Points",c:"Space and Astronomy",i:"🎯",w:"Lagrange point",r:["grav","jwst","sun","jupiter","asteroidbelt"],
 p:[["Parking spots in space","Lagrange points are places where gravity and orbital motion balance."],["Five points","Every pair of large bodies, like the Sun and Earth, has five."],["Home of telescopes","The James Webb Space Telescope orbits the Sun–Earth L2 point."]],
@@ -204,8 +189,7 @@ s2:[["Space dust clouds","Faint clouds of dust, called Kordylewski clouds, may g
 sp:["Webb’s journey to L2","The James Webb Space Telescope launched on 25 December 2021 and reached its halo orbit around the Sun–Earth L2 point on 24 January 2022, about 1.5 million kilometers from Earth, four times farther than the Moon."],
 g:[["Equilibrium","A state where forces balance"],["Halo orbit","A looping orbit around a Lagrange point"],["Trojan asteroid","An asteroid sharing a planet’s orbit at L4 or L5"],["Unstable","Easily pushed away from balance"]],
 f:["Every pair of orbiting bodies has five Lagrange points.","Jupiter has thousands of Trojan asteroids.","The James Webb Space Telescope orbits L2."],
-fun:"Jupiter’s Trojan asteroids are named after heroes of the Trojan War: Greeks mostly at L4 and Trojans at L5, though a couple of ‘spies’ ended up in the wrong camp.",
-tl:"Ang Lagrange points ay mga lugar sa kalawakan kung saan nagbabalanse ang grabidad at galaw ng orbit. Mayroong lima nito sa bawat pares ng malalaking katawan, at nasa L2 ng Araw at Earth ang James Webb Space Telescope."});
+fun:"Jupiter’s Trojan asteroids are named after heroes of the Trojan War: Greeks mostly at L4 and Trojans at L5, though a couple of ‘spies’ ended up in the wrong camp."});
 
 ADDART({id:"seasons",t:"The Seasons",c:"Space and Astronomy",i:"🍂",w:"Season",r:["stonehenge","sun","climate","calendars","monsoon"],
 p:[["Tilted Earth","Seasons happen because Earth’s axis is tilted about 23.4 degrees."],["Not about distance","Earth is actually closest to the Sun in early January."],["Opposite hemispheres","When it is summer in the north, it is winter in the south."]],
@@ -217,8 +201,7 @@ s2:[["Astronomical and meteorological seasons","Astronomers start the seasons at
 sp:["The midnight sun","North of the Arctic Circle and south of the Antarctic Circle, the Sun stays above the horizon all day for at least one day in summer, and at the poles for about six months. In winter, these regions have a ‘polar night’ when the Sun does not rise."],
 g:[["Axis","An imaginary line around which a planet spins"],["Solstice","The day with the longest or shortest daylight"],["Equinox","When day and night are about equal"],["Hemisphere","Half of the Earth"]],
 f:["Seasons are caused by Earth’s tilt, not its distance from the Sun.","Earth is closest to the Sun in January.","Uranus has 42-year seasons."],
-fun:"Because Earth moves faster when closer to the Sun, northern winter is about five days shorter than northern summer.",
-tl:"Nagkakaroon ng mga panahon dahil nakatagilid nang mga 23.4 digri ang aksis ng Earth, hindi dahil sa layo nito sa Araw. Kapag tag-init sa hilaga, taglamig naman sa timog."});
+fun:"Because Earth moves faster when closer to the Sun, northern winter is about five days shorter than northern summer."});
 
 ADDART({id:"spacewalks",t:"Spacewalks",c:"Space Exploration",i:"👩‍🚀",w:"Extravehicular activity",r:["astronauts","iss","gagarin","hubblest","commspace"],
 p:[["Working outside","A spacewalk is when an astronaut leaves a spacecraft to work in space."],["First in 1965","Alexei Leonov made the first spacewalk on 18 March 1965."],["Building the ISS","Hundreds of spacewalks built and maintain the International Space Station."]],
@@ -230,8 +213,7 @@ s2:[["Records","Russian cosmonaut Anatoly Solovyev holds the record for the most
 sp:["Training underwater","NASA’s Neutral Buoyancy Laboratory in Houston is a pool 62 meters long and 12 meters deep containing full-size models of parts of the space station. Astronauts train there in spacesuits for about seven hours for every hour they will spend spacewalking."],
 g:[["EVA","Extravehicular activity, a spacewalk"],["Tether","A safety line"],["Pressurized","Filled with air at a set pressure"],["Decompression sickness","Illness caused by gas bubbles forming in the body"]],
 f:["The first spacewalk was in 1965.","The first commercial spacewalk was in 2024.","Astronauts train for spacewalks in giant pools."],
-fun:"After his spacewalk, Alexei Leonov became an artist and painted some of the first artworks made in space, using colored pencils aboard Voskhod 2.",
-tl:"Ang spacewalk ay kapag lumabas ang astronaut sa sasakyang pangkalawakan upang magtrabaho sa kalawakan. Ginawa ni Alexei Leonov ang unang spacewalk noong 18 Marso 1965, at daan-daang spacewalk ang ginawa upang buuin ang ISS."});
+fun:"After his spacewalk, Alexei Leonov became an artist and painted some of the first artworks made in space, using colored pencils aboard Voskhod 2."});
 
 ADDART({id:"spaceports",t:"Spaceports",c:"Space Exploration",i:"🛫",w:"Spaceport",r:["rocket","commspace","sputnik","gagarin","apollo"],
 p:[["Where rockets launch","Spaceports are sites for launching and sometimes landing spacecraft."],["Near the equator","Launch sites near the equator give rockets a speed boost from Earth’s spin."],["A growing number","New spaceports are being built around the world for commercial launches."]],
@@ -243,8 +225,7 @@ s2:[["Why so close to the equator?","Earth’s surface at the equator moves east
 sp:["Launching from the sea","Rockets have also been launched from ships and floating platforms, which can move to the equator. SpaceX lands rocket boosters on autonomous drone ships at sea so they can be reused."],
 g:[["Spaceport","A site for launching spacecraft"],["Launch pad","The platform a rocket launches from"],["Downrange","The area a rocket flies over after launch"],["Cosmodrome","A Russian term for spaceport"]],
 f:["Baikonur is the world’s first and largest spaceport.","Rockets launch eastward to use Earth’s spin.","Starbase in Texas became a city in 2025."],
-fun:"Cosmonauts launching from Baikonur traditionally stop on the way to the pad to relieve themselves on the bus’s rear wheel, as Yuri Gagarin is said to have done in 1961.",
-tl:"Ang spaceport ay lugar para sa paglulunsad at minsan paglapag ng mga sasakyang pangkalawakan. Binibigyan ng dagdag na bilis ng pag-ikot ng Earth ang mga rocket na inilulunsad malapit sa ekwador."});
+fun:"Cosmonauts launching from Baikonur traditionally stop on the way to the pad to relieve themselves on the bus’s rear wheel, as Yuri Gagarin is said to have done in 1961."});
 
 ADDART({id:"solarsails",t:"Solar Sails",c:"Space Exploration",i:"⛵",w:"Solar sail",r:["sun","light","rocket","sailing","sat"],
 p:[["Sailing on sunlight","Solar sails push spacecraft using the pressure of sunlight."],["No fuel needed","They can keep accelerating as long as sunlight shines on them."],["Tested in space","Japan’s IKAROS first flew a solar sail between planets in 2010."]],
@@ -256,5 +237,4 @@ s2:[["Kepler’s idea","In 1608, Johannes Kepler noticed that comet tails point 
 sp:["IKAROS","The name IKAROS stands for Interplanetary Kite-craft Accelerated by Radiation Of the Sun, a reference to Icarus of Greek myth, who flew too close to the Sun. Its sail was thinner than a human hair and also carried thin-film solar cells to generate power."],
 g:[["Photon","A particle of light"],["Momentum","The quantity of motion an object has"],["Propulsion","The force that moves a vehicle"],["Boom","A long pole that holds a sail open"]],
 f:["Sunlight can push a spacecraft.","Solar sails need no fuel.","IKAROS was the first interplanetary solar sail."],
-fun:"Johannes Kepler imagined sailing to the stars in 1608, more than 400 years before the first solar sail flew.",
-tl:"Ang solar sail ay nagtutulak sa sasakyang pangkalawakan gamit ang presyon ng sikat ng araw sa malaking manipis na tela. Hindi ito nangangailangan ng gasolina, at ang IKAROS ng Japan ang unang gumamit nito sa pagitan ng mga planeta noong 2010."});
+fun:"Johannes Kepler imagined sailing to the stars in 1608, more than 400 years before the first solar sail flew."});

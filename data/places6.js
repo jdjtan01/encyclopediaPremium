@@ -11,8 +11,7 @@ s2:[["Droughts","From the late 1960s to the 1980s, the Sahel suffered severe dro
 sp:["Replastering the Great Mosque of Djenné","Each year, before the rainy season, thousands of people in the town of Djenné in Mali take part in the Crepissage, a festival to repair their great mud mosque. For days beforehand, mud is mixed in pits and left to ferment. Then, on the chosen day, men and boys race up ladders and wooden beams that stick out from the walls, while women and girls carry water and mud. Working together, to music and cheers, they smooth a fresh layer of mud over the whole building, protecting it for another year."],
 g:[["Semi-arid","Having little rain, but more than a desert"],["Savanna","A grassland with scattered trees"],["Herder","A person who looks after grazing animals"],["Land degradation","The decline of land’s ability to support plants and farming"],["Trans-Saharan trade","Trade carried across the Sahara Desert by camel caravans"]],
 f:["Sahel means shore in Arabic.","The Great Mosque of Djenné is the largest mud-brick building.","The Great Green Wall began in 2007."],
-fun:"Each year, the people of Djenné replaster their huge mud mosque together in a festival.",
-tl:"Ang Sahel ay tuyong lupain sa timog ng Disyerto ng Sahara na umaabot mula Atlantiko hanggang Dagat Pula. Dito umusbong ang mga imperyo ng Ghana, Mali at Songhai. Ngayon, humaharap ito sa tagtuyot at kaguluhan, ngunit may mga pagsisikap na muling pagtamnan ang lupain."});
+fun:"Each year, the people of Djenné replaster their huge mud mosque together in a festival."});
 
 ADDART({id:"patagonia",t:"Patagonia",c:"Geography",i:"🏔️",w:"Patagonia",r:["andes","argentinacountry","chilecountry","penguin","darwin","iceage"],
 p:[["The end of the world","Patagonia is the wild southern tip of South America."],["Ice and wind","It has huge glaciers, jagged peaks and fierce winds."],["Giant dinosaurs","Some of the largest dinosaurs ever found lived in Patagonia."]],
@@ -24,8 +23,7 @@ s2:[["Magellan and the giants","In 1520, sailors on Ferdinand Magellan’s exped
 sp:["Darwin in Patagonia","When Charles Darwin explored Patagonia in 1833 and 1834 during the voyage of HMS Beagle, he found fossils of giant extinct mammals, such as ground sloths and glyptodonts, huge armored relatives of armadillos. He noticed that they resembled smaller living animals of the same region. This puzzle, along with his observations of rheas and of the Galápagos Islands, helped lead him to his theory of evolution. He also described the vast, empty plains of Patagonia as haunting his memory."],
 g:[["Steppe","A large, dry, treeless grassland"],["Ice field","A large area of connected glaciers"],["Guanaco","A wild South American relative of the llama"],["Rhea","A large, flightless South American bird"],["Glacier","A slowly moving mass of ice"]],
 f:["Patagonia is shared by Argentina and Chile.","Welsh is still spoken by some Patagonians.","Giant dinosaurs such as Patagotitan were found there."],
-fun:"Some people in Patagonia still speak Welsh, brought by settlers in 1865.",
-tl:"Ang Patagonia ay malawak na rehiyon sa timog na dulo ng Timog Amerika na kahati ng Argentina at Chile. Kilala ito sa malalaking glacier, malakas na hangin at mga fossil ng higanteng dinosaur."});
+fun:"Some people in Patagonia still speak Welsh, brought by settlers in 1865."});
 
 ADDART({id:"polynesia",t:"Polynesia",c:"Geography",i:"🛶",w:"Polynesia",r:["pacific","hawaii","nzcountry","samoacountry","tongacountry","explor"],
 p:[["Many islands","Polynesia is a huge triangle of islands in the Pacific Ocean."],["Master navigators","Polynesians crossed thousands of kilometers of ocean using stars, waves and birds."],["Shared roots","Polynesian peoples share related languages and cultures."]],
@@ -37,8 +35,7 @@ s2:[["Languages","Polynesian languages, such as Māori, Hawaiian, Samoan, Tongan
 sp:["Reading the ocean","Polynesian navigators were trained from childhood to read the ocean. They memorized the points on the horizon where dozens of stars rise and set, creating a star compass. They could feel different swells passing under the canoe, even at night, and notice how islands far over the horizon bend these swells. Clouds that gather over islands, the greenish reflection of lagoons on clouds and the flight paths of seabirds returning to land at dusk all pointed the way. With this knowledge, they found tiny islands in the vastness of the Pacific."],
 g:[["Polynesia","The many islands of the central and southern Pacific"],["Wayfinding","Traditional navigation without instruments"],["Mana","Spiritual power and prestige"],["Tapu","Sacred or forbidden; the origin of the word taboo"],["Moai","Giant stone statues of Rapa Nui"]],
 f:["Polynesia means many islands.","New Zealand was settled around 1250–1300 CE.","The words taboo and tattoo come from Polynesian languages."],
-fun:"The English words taboo and tattoo come from Polynesian languages.",
-tl:"Ang Polynesia ay malawak na rehiyon ng mga pulo sa Pasipiko, mula Hawai‘i hanggang New Zealand at Rapa Nui. Ang mga Polynesian ay mahuhusay na manlalayag na gumamit ng mga bituin at alon. Kamag-anak ng mga wikang Polynesian ang Filipino."});
+fun:"The English words taboo and tattoo come from Polynesian languages."});
 
 ADDART({id:"centralasia",t:"Central Asia",c:"Geography",i:"🐎",w:"Central Asia",r:["silk","mongol","ibnsina","islam","russiacountry","chinacountry"],
 p:[["The heart of Asia","Central Asia lies between China, Russia, Iran and Afghanistan."],["The Silk Road","Great Silk Road cities such as Samarkand and Bukhara grew rich on trade."],["Nomads and horses","Nomadic herders on horseback have lived on its steppes for thousands of years."]],
@@ -50,8 +47,7 @@ s2:[["Scholars of the golden age","Central Asia produced some of the greatest sc
 sp:["The Door to Hell","In the Karakum Desert of Turkmenistan lies the Darvaza gas crater, a pit about 70 meters wide that has been burning for decades. According to the most common account, in 1971 Soviet geologists drilling for gas accidentally caused the ground to collapse, and the crater began leaking methane gas. To stop the gas from spreading, they set it on fire, expecting it to burn out in a few weeks. It is still burning, glowing orange at night, and is nicknamed the Door to Hell. Turkmenistan’s government has discussed putting it out."],
 g:[["Steppe","A vast, dry, treeless grassland"],["Yurt","A round, portable felt tent used by nomads"],["Oasis","A fertile place with water in a desert"],["Madrasa","An Islamic school or college"],["Nomad","A person who moves from place to place with herds"]],
 f:["Central Asia includes five countries ending in -stan.","The word algorithm comes from al-Khwarizmi.","The first human in space was launched from Kazakhstan."],
-fun:"A gas crater in Turkmenistan has been burning since about 1971.",
-tl:"Ang Gitnang Asya ay binubuo ng Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan at Uzbekistan. Dumaan dito ang Silk Road, kasama ang mga lungsod ng Samarkand at Bukhara. Naging malaya ang limang bansa noong 1991."});
+fun:"A gas crater in Turkmenistan has been burning since about 1971."});
 
 ADDART({id:"lagos",t:"Lagos",c:"Countries and Places",i:"🏙️",w:"Lagos",r:["nigeriacountry","cinema","urban","slavetrade","brazilcountry","africacolon"],
 p:[["Africa’s megacity","Lagos is one of the largest and fastest-growing cities in Africa."],["City of lagoons","It is built on islands and the mainland around a large lagoon."],["Culture capital","Lagos is a center of Nollywood films and Afrobeats music."]],
@@ -63,8 +59,7 @@ s2:[["Music","Lagos is the birthplace of Afrobeat, created in the 1970s by Fela 
 sp:["Eko Atlantic","Along Lagos’s Atlantic shore, a new city district called Eko Atlantic is being built on land reclaimed from the sea. Since the late 2000s, millions of metric tons of sand have been dredged from the ocean floor and protected by a sea wall made of thousands of concrete blocks, called the Great Wall of Lagos. Supporters see it as a modern business district protecting the coast from erosion; critics argue it serves mainly the wealthy and may worsen flooding elsewhere. It shows both the ambition and the inequality of the growing megacity."],
 g:[["Megacity","A city with more than 10 million people"],["Lagoon","A shallow body of water separated from the sea"],["Oba","A traditional Yoruba king"],["Afrobeats","A popular West African music style"],["Informal settlement","An area of unplanned housing, often without services"]],
 f:["Lagos was Nigeria’s capital until 1991.","Its Yoruba name is Èkó.","Fela Kuti created Afrobeat in Lagos."],
-fun:"Lagos is being extended into the sea with a new district built on reclaimed land.",
-tl:"Ang Lagos ang pinakamalaking lungsod ng Nigeria at isa sa pinakamalalaki sa Aprika. Ito ang sentro ng negosyo, ng pelikulang Nollywood at ng musikang Afrobeats."});
+fun:"Lagos is being extended into the sea with a new district built on reclaimed land."});
 
 ADDART({id:"saopaulo",t:"São Paulo",c:"Countries and Places",i:"🌆",w:"São Paulo",r:["brazilcountry","rio","coffee","japancountry","soccer","urban"],
 p:[["Giant of the south","São Paulo is the largest city in South America."],["City of immigrants","People from Italy, Japan, Lebanon and many other countries made it their home."],["Brazil’s engine","It is Brazil’s richest city and business center."]],
@@ -76,8 +71,7 @@ s2:[["Little Tokyo","In 1908 the ship Kasato Maru brought the first Japanese imm
 sp:["The Week of Modern Art","In February 1922, a group of young artists, writers and musicians held a Week of Modern Art at São Paulo’s Municipal Theatre. They presented bold paintings, poems and music that broke with European traditions and celebrated Brazil’s mixed Indigenous, African and European roots. Some audiences booed and threw things. Afterwards the writer Oswald de Andrade proposed that Brazilian culture should devour foreign influences and transform them into something new. The event launched Brazilian modernism and shaped Brazilian art for decades."],
 g:[["Metropolitan area","A city together with its surrounding suburbs and towns"],["Favela","An informal neighborhood in a Brazilian city"],["Bandeirante","A colonial explorer from São Paulo"],["Biennial","An event held every two years"],["Immigrant","A person who moves to live in another country"]],
 f:["São Paulo is the largest city in South America.","It has the largest Japanese community outside Japan.","São Paulo banned billboards in 2007."],
-fun:"São Paulo banned outdoor billboards in 2007.",
-tl:"Ang São Paulo ang pinakamalaking lungsod sa Brazil at sa buong Timog Amerika. Lungsod ito ng mga imigrante, kabilang ang pinakamalaking komunidad ng mga Hapones sa labas ng Japan."});
+fun:"São Paulo banned outdoor billboards in 2007."});
 
 ADDART({id:"mexicocity",t:"Mexico City",c:"Countries and Places",i:"🌮",w:"Mexico City",r:["mexicocountry","aztec","kahlo","quake","olymp","soccer"],
 p:[["City on a lake","Mexico City was built on the ruins of the Aztec capital, Tenochtitlan, on a lake."],["High and huge","It is one of the largest cities in the world, at over 2,200 meters above sea level."],["Sinking city","Parts of the city sink many centimeters each year."]],
@@ -89,5 +83,4 @@ s2:[["The sinking city","Because the city was built on soft lake clay and pumps 
 sp:["The stone of the moon goddess","On 21 February 1978, electrical workers digging in central Mexico City struck a huge carved stone. It turned out to be a giant disk showing Coyolxauhqui, the Aztec moon goddess, dismembered by her brother, the war god Huitzilopochtli. The discovery led archaeologists to excavate the Templo Mayor, the great twin temple at the heart of Tenochtitlan, which had been buried under colonial buildings for more than 450 years. The site and its museum now reveal thousands of Aztec offerings and treasures."],
 g:[["Tenochtitlan","The capital city of the Aztec Empire"],["Chinampa","An artificial island used for farming"],["New Spain","The Spanish colony that included Mexico and governed the Philippines"],["Mural","A large painting on a wall"],["Subsidence","The gradual sinking of land"]],
 f:["Mexico City was built on the Aztec capital Tenochtitlan.","It lies about 2,240 meters above sea level.","Parts of the city sink many centimeters each year."],
-fun:"Workers digging for an electric cable discovered the Aztecs’ great temple in 1978.",
-tl:"Ang Mexico City ang kabisera ng Mexico at isa sa pinakamalalaking lungsod sa mundo. Itinayo ito sa guho ng Tenochtitlan, ang kabisera ng mga Aztec. Mula rito pinamahalaan ng Espanya ang Pilipinas noong panahon ng New Spain."});
+fun:"Workers digging for an electric cable discovered the Aztecs’ great temple in 1978."});

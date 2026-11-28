@@ -9,8 +9,7 @@ s2:[["Convolutional networks","Convolutional neural networks, developed by Yann 
 sp:["Reading the mail","One of the first successful uses of neural networks was reading handwritten numbers. In the late 1980s and 1990s, Yann LeCun and colleagues at Bell Labs trained a convolutional network called LeNet to recognize digits. By the late 1990s, systems based on it were reading a large share of the handwritten checks processed in the United States, years before the deep learning boom."],
 g:[["Artificial neuron","A simple unit that combines inputs and passes on a signal"],["Weight","A number that sets the strength of a connection"],["Backpropagation","A method for adjusting weights to reduce errors"],["GPU","A graphics processing unit, a chip that does many calculations at once"]],
 f:["The first mathematical model of a neuron was published in 1943.","Graphics chips made deep learning practical.","The human brain uses about 20 watts of power."],
-fun:"The human brain runs on about 20 watts, roughly the power of a dim light bulb.",
-tl:"Ang neural network ay sistemang pang-kompyuter na hango nang bahagya sa mga nerve cell ng utak. Binubuo ito ng mga layer ng simpleng yunit na natututo mula sa datos, at ito ang nagpapaandar sa karamihan ng makabagong AI."});
+fun:"The human brain runs on about 20 watts, roughly the power of a dim light bulb."});
 
 ADDART({id:"llm",t:"Large Language Models",c:"Technology",i:"💬",w:"Large language model",r:["ai","neural","mlearn","aisafety","langevo"],
 p:[["Models of language","Large language models are AI systems trained on enormous amounts of text to understand and generate language."],["Chatbots","They power chatbots and assistants that can answer questions, write, translate, summarize and help with computer code."],["Powerful but imperfect","They can be very useful, but they can also make mistakes and state false information confidently."]],
@@ -22,8 +21,7 @@ s2:[["Hallucinations","Because LLMs generate text that sounds likely, they somet
 sp:["What is a token?","Language models do not read whole words but tokens, pieces of text that may be a word, part of a word or a punctuation mark. A common English word might be one token, while a rare or long word may be split into several. On average, an English word is about one and a third tokens. Models have a limit, called a context window, on how many tokens they can consider at once."],
 g:[["Large language model","An AI system trained on huge amounts of text to understand and generate language"],["Token","A small piece of text processed by a language model"],["Hallucination","A false statement produced confidently by an AI model"],["Fine-tuning","Further training of a model for a particular purpose"]],
 f:["Large language models generate text one token at a time.","The transformer was introduced in 2017.","LLMs can state false information confidently, so facts should be checked."],
-fun:"A language model reads text in pieces called tokens; an average English word is about one and a third tokens.",
-tl:"Ang large language model ay uri ng AI na sinanay sa napakaraming teksto upang umunawa at bumuo ng wika. Ito ang nagpapaandar sa mga chatbot. Kapaki-pakinabang ito, ngunit maaari ring magkamali, kaya dapat suriin ang mahahalagang impormasyon."});
+fun:"A language model reads text in pieces called tokens; an average English word is about one and a third tokens."});
 
 ADDART({id:"compvision",t:"Computer Vision",c:"Technology",i:"👁️",w:"Computer vision",r:["neural","mlearn","camera","eye","robot"],
 p:[["Teaching computers to see","Computer vision is the field of AI that helps computers understand images and videos."],["All around us","It unlocks phones by face, reads text in photos, sorts packages and helps cars detect pedestrians."],["From pixels to meaning","A computer sees an image as a grid of numbers and must learn to find objects, faces and actions in them."]],
@@ -35,5 +33,4 @@ s2:[["Medical imaging","Computer vision systems help doctors analyze X-rays, CT 
 sp:["The summer project","In 1966, at the Massachusetts Institute of Technology, Seymour Papert launched the Summer Vision Project, hoping students could build a significant part of a visual system in a single summer. The goal turned out to be far harder than expected. Researchers often tell the story to show how difficult it is to teach machines what humans do effortlessly."],
 g:[["Pixel","A tiny dot that is the smallest part of a digital image"],["Object detection","Finding and locating objects in an image"],["Segmentation","Labeling each pixel of an image by what it shows"],["Lidar","A sensor that measures distance using laser light"]],
 f:["To a computer, an image is a grid of numbers.","ImageNet contains over 14 million labeled images.","Tiny invisible changes can fool computer vision systems."],
-fun:"In 1966 researchers thought teaching a computer to see could be done in a single summer.",
-tl:"Ang computer vision ay larangan ng AI na tumutulong sa kompyuter na maunawaan ang mga larawan at video. Ginagamit ito sa pagbubukas ng telepono gamit ang mukha, pagbasa ng teksto sa larawan at pagtulong sa mga sasakyan na makakita ng tao."});
+fun:"In 1966 researchers thought teaching a computer to see could be done in a single summer."});

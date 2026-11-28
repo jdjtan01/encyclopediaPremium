@@ -11,8 +11,7 @@ s2:[["The Cheonggyecheon","For decades, the Cheonggyecheon stream was covered by
 sp:["Namsan Tower","N Seoul Tower stands on Namsan, a mountain in the middle of the city, offering views across Seoul. Couples attach ‘love locks’ to the railings around it, and the tower is lit up at night with colors that can show the level of air pollution."],
 g:[["Hanok","A traditional Korean house"],["Hanbok","Traditional Korean clothing"],["Joseon","The Korean dynasty that ruled from 1392 to 1910"],["Hallyu","The Korean Wave of popular culture"]],
 f:["The name Seoul means ‘capital’.","About half of South Korea’s people live in the Seoul metropolitan area.","Seoul changed hands four times during the Korean War."],
-fun:"Seoul’s subway trains have heated seats in winter.",
-tl:"Ang Seoul ang kabisera at pinakamalaking lungsod ng South Korea, sa tabi ng Ilog Han. Kabisera na ito mula pa noong 1394, at ngayon ay sentro ng teknolohiya at ng Korean Wave."});
+fun:"Seoul’s subway trains have heated seats in winter."});
 
 ADDART({id:"venice",t:"Venice",c:"Countries and Places",i:"🛶",w:"Venice",r:["italycountry","renais","ships","silk","tourism"],
 p:[["A city on water","Venice is built on more than a hundred small islands in a lagoon in northeast Italy."],["A sea power","For a thousand years, the Republic of Venice was a great trading and naval power."],["Under threat","Rising seas, flooding and mass tourism challenge the city today."]],
@@ -24,8 +23,7 @@ s2:[["Gondolas","Gondolas are long, flat-bottomed boats steered by a gondolier s
 sp:["Acqua alta","When strong winds and high tides combine, water rises over the lowest parts of the city, especially St Mark’s Square. In November 2019, the water reached 1.87 meters above normal, the second-highest on record, flooding much of the city and damaging St Mark’s Basilica."],
 g:[["Lagoon","A shallow body of water separated from the sea"],["Doge","The elected ruler of the Venetian Republic"],["Gondola","A traditional flat-bottomed Venetian rowing boat"],["Acqua alta","An exceptionally high tide that floods Venice"]],
 f:["Venice has about 400 bridges.","The Venice Film Festival is the oldest film festival in the world.","Venetian buildings stand on wooden piles driven into the mud."],
-fun:"There are no cars in the historic center of Venice; even ambulances and fire engines are boats.",
-tl:"Ang Venice ay lungsod sa hilagang-silangan ng Italya na itinayo sa mahigit isandaang maliliit na pulo sa isang lagoon. Naging makapangyarihang republika ito sa kalakalan, at ngayon ay hinaharap nito ang pagbaha at napakaraming turista."});
+fun:"There are no cars in the historic center of Venice; even ambulances and fire engines are boats."});
 
 ADDART({id:"moscow",t:"Moscow",c:"Countries and Places",i:"🕌",w:"Moscow",r:["russiacountry","russrev","coldwar","ussrfall","napoleon"],
 p:[["Russia’s capital","Moscow is the capital and largest city of Russia."],["The Kremlin","At its heart is the Kremlin, a walled fortress that is the seat of government."],["A long history","It grew from a small medieval town into the center of a vast state."]],
@@ -37,8 +35,7 @@ s2:[["The Moscow Metro","When the first Metro line opened in 1935, Soviet leader
 sp:["St Basil’s Cathedral","St Basil’s Cathedral was built on Red Square by order of Ivan the Terrible to celebrate military victories. It is made up of nine chapels, each with its own brightly painted onion dome. According to legend, Ivan had the architects blinded so they could never build anything so beautiful again, but historians consider this a myth."],
 g:[["Kremlin","A fortress in a Russian city, especially the one in Moscow"],["Tsar","The title of the emperors of Russia"],["Onion dome","A rounded dome that comes to a point, like an onion"],["Metro","An underground railway system"]],
 f:["Red Square’s name comes from a word that once meant both ‘red’ and ‘beautiful’.","The Kremlin walls have 20 towers.","Moscow’s Metro opened in 1935."],
-fun:"The Kremlin’s main towers are topped with red stars that are lit from inside and slowly turn with the wind.",
-tl:"Ang Moscow ang kabisera at pinakamalaking lungsod ng Russia. Nasa puso nito ang Kremlin, isang napapaderang kuta na upuan ng pamahalaan, at lumaki ito mula sa maliit na bayan hanggang maging sentro ng isang malawak na bansa."});
+fun:"The Kremlin’s main towers are topped with red stars that are lit from inside and slowly turn with the wind."});
 
 ADDART({id:"buenosaires",t:"Buenos Aires",c:"Countries and Places",i:"💃",w:"Buenos Aires",r:["argentinacountry","latinind","soccer","megacities","opera"],
 p:[["Argentina’s capital","Buenos Aires is the capital and largest city of Argentina, on the Río de la Plata."],["Birthplace of tango","The tango dance and music were born in its port neighborhoods."],["Paris of South America","Its grand avenues and theaters earned it this nickname."]],
@@ -50,8 +47,7 @@ s2:[["The birth of tango","Tango developed in the late 19th century in the poor 
 sp:["La Boca","La Boca, an old port neighborhood settled by Italian immigrants, is famous for its brightly painted houses made of corrugated metal, said to have been painted with leftover paint from the shipyards. Its street Caminito is lined with tango dancers and artists, and it is home to the Boca Juniors football club."],
 g:[["Porteño","A person from Buenos Aires"],["Tango","A dance and music that began in Buenos Aires and Montevideo"],["Estuary","The wide mouth of a river where it meets the sea"],["Lunfardo","Slang from Buenos Aires"]],
 f:["Buenos Aires means ‘fair winds’ or ‘good airs’ in Spanish.","Its underground railway opened in 1913.","Pope Francis was born in Buenos Aires in 1936."],
-fun:"Many porteños eat dinner at 10 pm or later.",
-tl:"Ang Buenos Aires ang kabisera at pinakamalaking lungsod ng Argentina, sa pampang ng Río de la Plata. Dito isinilang ang tango, at tinatawag itong ‘Paris ng Timog Amerika’ dahil sa malalapad na kalye at teatro."});
+fun:"Many porteños eat dinner at 10 pm or later."});
 
 ADDART({id:"dubai",t:"Dubai",c:"Countries and Places",i:"🏗️",w:"Dubai",r:["uaecountry","skyscrapers","desert","tourism","trade"],
 p:[["A desert boomtown","Dubai grew from a small trading port into a global city in a few decades."],["Record-breaking towers","It is home to the Burj Khalifa, the tallest building in the world."],["A city of newcomers","Most of its residents were born in other countries."]],
@@ -63,8 +59,7 @@ s2:[["The Burj Khalifa","The Burj Khalifa, opened in January 2010, is 828 meters
 sp:["Dubai Creek and the abra","Dubai Creek divides the old city into two parts, Deira and Bur Dubai. Small wooden boats called abras have ferried people across it for generations and still carry passengers for a small fare, past traditional sailing ships called dhows loaded with goods."],
 g:[["Emirate","A territory ruled by an emir; the UAE has seven"],["Souk","A traditional Arab market"],["Expatriate","A person living outside their home country"],["Desalination","Removing salt from seawater"]],
 f:["The Burj Khalifa is 828 meters tall.","Most Dubai residents were born outside the UAE.","Dubai’s metro trains have no drivers."],
-fun:"Because the Burj Khalifa is so tall, people at the top can watch the sun set a few minutes after people at the bottom.",
-tl:"Ang Dubai ay lungsod sa United Arab Emirates na mabilis na lumaki mula sa maliit na daungan tungo sa pandaigdigang lungsod. Narito ang Burj Khalifa, ang pinakamataas na gusali sa mundo, at karamihan sa mga residente nito ay mula sa ibang bansa."});
+fun:"Because the Burj Khalifa is so tall, people at the top can watch the sun set a few minutes after people at the bottom."});
 
 ADDART({id:"stonehenge",t:"Stonehenge",c:"Countries and Places",i:"🪨",w:"Stonehenge",r:["stoneage","archaeology","sun","ukcountry","caveart"],
 p:[["A prehistoric monument","Stonehenge is a ring of huge standing stones in southern England, built about 5,000 years ago."],["Stones from afar","Some stones were brought from Wales, over 200 kilometers away."],["Lined up with the sun","It is aligned with sunrise at the summer solstice and sunset at the winter solstice."]],
@@ -76,8 +71,7 @@ s2:[["The Altar Stone","The large Altar Stone at the center of Stonehenge was lo
 sp:["Durrington Walls","About 3 kilometers from Stonehenge lies Durrington Walls, a huge henge enclosure where archaeologists found the remains of houses and enormous amounts of pig bones from feasts held around midwinter. It may have been where the builders of Stonehenge lived and celebrated."],
 g:[["Neolithic","The New Stone Age, when farming began"],["Sarsen","A type of hard sandstone used for Stonehenge’s large stones"],["Trilithon","Two upright stones with a third laid across the top"],["Solstice","The longest or shortest day of the year"]],
 f:["The biggest sarsen stones weigh around 25 metric tons.","Some bluestones traveled over 200 kilometers from Wales.","Stonehenge’s builders used woodworking joints to fix stones together."],
-fun:"Stonehenge is older than the Great Pyramid of Giza; its first stage was built several centuries earlier.",
-tl:"Ang Stonehenge ay sinaunang bilog ng malalaking nakatayong bato sa timog Inglatera, itinayo mga 5,000 taon na ang nakararaan. Ang ilang bato ay dinala mula sa Wales, at nakahanay ito sa pagsikat ng araw tuwing summer solstice."});
+fun:"Stonehenge is older than the Great Pyramid of Giza; its first stage was built several centuries earlier."});
 
 ADDART({id:"chichenitza",t:"Chichén Itzá",c:"Countries and Places",i:"🛕",w:"Chichen Itza",r:["maya","aztec","mexicocountry","archaeology","constellations"],
 p:[["A great Maya city","Chichén Itzá was one of the largest cities of the Maya, in Mexico’s Yucatán Peninsula."],["The pyramid of Kukulcán","Its famous step pyramid has 365 steps, one for each day of the year."],["A shadow serpent","At the equinoxes, a shadow like a snake appears on its stairs."]],
@@ -89,8 +83,7 @@ s2:[["The serpent of light","At the spring and autumn equinoxes, the late-aftern
 sp:["A clapping echo","If you clap your hands in front of the stairs of El Castillo, the echo sounds like a chirp. Scientists have suggested it resembles the call of the quetzal, a bird sacred to the Maya, though no one knows if the effect was intended."],
 g:[["Cenote","A natural sinkhole filled with groundwater"],["Kukulcán","The Maya feathered serpent god"],["Equinox","A day when day and night are about equal in length"],["Mesoamerica","The region of ancient civilizations in Mexico and Central America"]],
 f:["El Castillo has 365 steps in total.","The Great Ball Court is about 168 meters long.","A smaller pyramid is hidden inside El Castillo."],
-fun:"Clapping in front of El Castillo makes an echo that sounds like a bird’s chirp.",
-tl:"Ang Chichén Itzá ay isa sa pinakamalalaking lungsod ng mga Maya sa Yucatán, Mexico. Ang tanyag na piramide nito ay may 365 baitang, at tuwing equinox ay may aninong parang ahas na lumilitaw sa hagdan nito."});
+fun:"Clapping in front of El Castillo makes an echo that sounds like a bird’s chirp."});
 
 ADDART({id:"easterisland",t:"Easter Island (Rapa Nui)",c:"Countries and Places",i:"🗿",w:"Easter Island",r:["polynesia","chilecountry","deforestation","archaeology","pacific"],
 p:[["A remote island","Easter Island lies in the Pacific Ocean, about 3,500 kilometers off the coast of Chile."],["Giant statues","Its people carved nearly a thousand huge stone figures called moai."],["Polynesian voyagers","It was settled by Polynesian navigators who crossed the Pacific in canoes."]],
@@ -102,8 +95,7 @@ s2:[["The birdman contest","In later centuries, the Rapa Nui held a yearly conte
 sp:["Rano Raraku","Rano Raraku is the volcanic crater where most moai were carved. Nearly 400 statues remain there, many buried up to their shoulders in soil, so that only their heads show. The largest unfinished moai, still attached to the rock, is about 21 meters long."],
 g:[["Moai","A giant stone statue of Easter Island"],["Ahu","A stone platform on which moai stood"],["Rongorongo","An undeciphered script of Easter Island"],["Polynesia","A region of the Pacific with over 1,000 islands"]],
 f:["The island’s Polynesian name is Rapa Nui.","Nearly 400 moai remain at the quarry where they were carved.","The rongorongo script has never been deciphered."],
-fun:"Many moai have full bodies buried underground; only their heads and shoulders are visible.",
-tl:"Ang Easter Island o Rapa Nui ay malayong pulo sa Pasipiko na sakop ng Chile. Doon gumawa ang mga tao ng halos isang libong malalaking estatwang bato na tinatawag na moai, at ito ay tinirhan ng mga Polynesian na naglayag sa karagatan."});
+fun:"Many moai have full bodies buried underground; only their heads and shoulders are visible."});
 
 ADDART({id:"pompeii",t:"Pompeii",c:"History",i:"🌋",w:"Pompeii",r:["rome","volc","archaeology","italycountry","greece"],
 p:[["Buried by a volcano","Pompeii was a Roman town buried by the eruption of Mount Vesuvius in AD 79."],["Frozen in time","Its houses, streets, paintings and even food survived under the ash."],["A window on Roman life","Excavations since 1748 have revealed how ordinary Romans lived."]],
@@ -115,8 +107,7 @@ s2:[["Herculaneum","The nearby town of Herculaneum was buried even deeper, by py
 sp:["Vesuvius today","Mount Vesuvius last erupted in 1944 and is considered one of the most dangerous volcanoes in the world, because about 3 million people live nearby. Scientists monitor it constantly, and authorities have evacuation plans for the surrounding towns."],
 g:[["Pumice","A light, porous volcanic rock full of air bubbles"],["Pyroclastic flow","A fast avalanche of hot gas, ash and rock"],["Excavation","Digging carefully to uncover remains"],["Fresco","A painting made on wet plaster"]],
 f:["Pliny the Younger wrote the first eyewitness account of a volcanic eruption.","About two-thirds of Pompeii has been excavated.","Bakers’ loaves of bread were found preserved in Pompeii’s ovens."],
-fun:"Graffiti found in Pompeii includes election posters, jokes and a message saying, in effect, ‘I was here’.",
-tl:"Ang Pompeii ay bayang Romano na natabunan ng pagputok ng Bundok Vesuvius noong AD 79. Napreserba ng abo ang mga bahay, kalye, larawan at maging pagkain nito, kaya nakikita natin kung paano namuhay ang mga Romano."});
+fun:"Graffiti found in Pompeii includes election posters, jokes and a message saying, in effect, ‘I was here’."});
 
 ADDART({id:"titanic",t:"The Titanic",c:"History",i:"🚢",w:"Titanic",r:["ships","glaciers","explor","radio","ukcountry"],
 p:[["An ‘unsinkable’ ship","The Titanic was the largest ship in the world when it sailed in 1912."],["A night of disaster","It hit an iceberg on its first voyage and sank, killing more than 1,500 people."],["Lessons learned","The disaster led to new rules for safety at sea."]],
@@ -128,8 +119,7 @@ s2:[["Finding the wreck","For decades, people searched for the Titanic. In 1985,
 sp:["The band played on","The ship’s eight musicians famously continued playing to calm passengers as the Titanic sank. None of them survived. Their bravery became one of the most remembered stories of the disaster."],
 g:[["Maiden voyage","A ship’s first journey"],["Hull","The main body of a ship"],["Iceberg","A large floating mass of ice broken from a glacier"],["SOS","An international distress signal in Morse code"]],
 f:["The Titanic had lifeboats for only about half the people on board.","It sank about 2 hours and 40 minutes after hitting the iceberg.","The wreck lies about 3,800 meters below the surface."],
-fun:"The iceberg that sank the Titanic probably broke off a glacier in Greenland.",
-tl:"Ang Titanic ang pinakamalaking barko sa mundo nang maglayag ito noong 1912. Tumama ito sa isang iceberg sa unang biyahe at lumubog, na ikinamatay ng mahigit 1,500 tao, kaya nagkaroon ng mga bagong patakaran sa kaligtasan sa dagat."});
+fun:"The iceberg that sank the Titanic probably broke off a glacier in Greenland."});
 
 ADDART({id:"museums",t:"Museums",c:"Arts and Literature",i:"🏛️",w:"Museum",r:["archaeology","sculpture","modernart","libraries","tourism"],
 p:[["Keeping treasures","Museums collect, care for and display objects of art, history and science."],["Open to all","The first public museums opened in the 1600s and 1700s."],["More than displays","Museums also do research, teach and help communities remember their past."]],
@@ -141,8 +131,7 @@ s2:[["The Louvre","The Louvre in Paris, a former royal palace, holds about 35,00
 sp:["The Smithsonian","The Smithsonian Institution in the United States is the world’s largest museum, education and research complex, with 21 museums and a national zoo, most of them in Washington, D.C. It was founded in 1846 with money left by James Smithson, a British scientist who never visited the United States, and entry to its museums is free."],
 g:[["Curator","A person who looks after and researches a museum collection"],["Conservator","An expert who repairs and protects objects"],["Exhibit","An object or group of objects on display"],["Repatriation","Returning objects to their place of origin"]],
 f:["Only a small part of most museums’ collections is on display at any time.","International Museum Day is held on 18 May.","The Smithsonian has 21 museums."],
-fun:"The Louvre’s Mona Lisa is only about 77 centimeters tall.",
-tl:"Ang museo ay nangongolekta, nag-iingat at nagpapakita ng mga bagay na may kinalaman sa sining, kasaysayan at agham. Nagbukas sa publiko ang mga unang museo noong 1600 at 1700, at nagsasaliksik at nagtuturo rin ang mga ito."});
+fun:"The Louvre’s Mona Lisa is only about 77 centimeters tall."});
 
 ADDART({id:"libraries",t:"Libraries",c:"Arts and Literature",i:"📚",w:"Library",r:["writing","paper","print","novel","museums"],
 p:[["Collections of knowledge","Libraries collect books and other materials for people to read and study."],["Ancient roots","Libraries existed in ancient Mesopotamia, Egypt and China."],["Free to all","Public libraries let anyone borrow books and use computers for free."]],
@@ -154,10 +143,9 @@ s2:[["Saving Timbuktu’s manuscripts","In 2012, armed groups occupied Timbuktu 
 sp:["The Dewey Decimal system","Melvil Dewey, an American librarian, created his system in 1876, dividing knowledge into ten main classes numbered from 000 to 999, such as 500 for science and 900 for history and geography. Each book gets a number based on its subject, so that books on the same topic sit together on the shelves."],
 g:[["Librarian","A person who manages a library and helps people find information"],["Catalog","A list of all the items in a library"],["Archive","A collection of historical records and documents"],["E-book","A book in digital form"]],
 f:["Ashurbanipal’s library included the Epic of Gilgamesh.","The Library of Congress holds more than 170 million items.","Andrew Carnegie funded over 2,500 libraries."],
-fun:"Some libraries lend unusual things, such as tools, musical instruments, seeds and even fishing rods.",
-tl:"Ang aklatan ay koleksiyon ng mga aklat at iba pang mapagkukunan ng impormasyon. May mga aklatan na noong sinaunang panahon, at ngayon ay malayang nakapanghihiram ng aklat at nakagagamit ng computer ang sinuman sa mga pampublikong aklatan."});
+fun:"Some libraries lend unusual things, such as tools, musical instruments, seeds and even fishing rods."});
 
-ADDART({id:"boardgames",t:"Board Games",c:"How We Live",i:"🎲",w:"Board game",r:["chess","prob","egypt","videogames","mesop"],
+ADDART({id:"boardgames",t:"Board Games",c:"How We Live",i:"🎲",w:"Board game",r:["chess","prob","egypt","videogames","mesop","tradingcards"],
 p:[["Ancient fun","People have played board games for at least 5,000 years."],["Luck and skill","Some games depend on dice, others on pure strategy."],["A modern boom","Board games have become popular again in the 21st century."]],
 l:"A board game is a game played by moving pieces on a marked board according to rules. Board games are among the oldest forms of play: the ancient Egyptians played senet more than 5,000 years ago, and the Royal Game of Ur was played in Mesopotamia around 4,500 years ago. Games such as go, chess, mancala, backgammon and pachisi developed in different parts of the world and spread along trade routes. Some games are based on luck, using dice; others are pure strategy; many mix both. In the 20th century, mass-produced games such as Monopoly and Scrabble became household names, and since the 1990s a new wave of designer games has made board gaming a fast-growing hobby.",
 s:[["The oldest games","Senet, played on a board of 30 squares, was popular in ancient Egypt and placed in tombs, including Tutankhamun’s, as it became linked to the journey of the soul. The Royal Game of Ur, found in royal tombs in Mesopotamia, was a race game played with tetrahedral dice; its rules were reconstructed from a cuneiform tablet."],["Strategy games","Go, played with black and white stones on a grid, began in China over 2,500 years ago and is known for its simple rules and enormous depth. Chess developed in India around the 6th century as chaturanga and spread through Persia and the Islamic world to Europe. Mancala games, in which seeds are sown in rows of pits, are played across Africa and Asia."],["Family games","Monopoly, published in 1935, was based on The Landlord’s Game, designed by Lizzie Magie in 1904 to show the problems of land monopolies. Scrabble was invented by architect Alfred Butts in the 1930s. Games such as ludo, adapted from India’s pachisi, and snakes and ladders, from an Indian game about virtue and vice, became family favorites."],["The modern board game boom","In 1995, The Settlers of Catan from Germany helped start a new era of ‘designer’ board games, focusing on strategy, cooperation and limited luck. Board game cafés, online crowdfunding and digital versions have helped the hobby grow, and millions of people now play regularly."]],
@@ -167,8 +155,7 @@ s2:[["AlphaGo","Go was long considered too complex for computers to master. In 2
 sp:["Mancala","Mancala is a family of ‘count and capture’ games played with seeds, pebbles or shells in rows of pits, often dug in the ground or carved in wood. Versions such as oware in West Africa and bao in East Africa are played with great skill and speed, and the games may be thousands of years old."],
 g:[["Strategy","Planning ahead to reach a goal"],["Dice","Small cubes with numbered sides used to create chance"],["Race game","A game where players try to move pieces to the finish first"],["Mancala","A family of games played by sowing seeds in pits"]],
 f:["Senet boards were found in Tutankhamun’s tomb.","Go is played on a board of 19 by 19 lines.","Monopoly grew out of a game designed to criticize landlords."],
-fun:"There are more possible positions in go than there are atoms in the observable universe.",
-tl:"Ang board game ay larong ginagalaw ang mga piyesa sa isang board ayon sa mga patakaran. Mahigit 5,000 taon nang nilalaro ng tao ang mga ito, mula sa senet ng Ehipto hanggang chess at go, at sumikat muli ang mga ito ngayon."});
+fun:"There are more possible positions in go than there are atoms in the observable universe."});
 
 ADDART({id:"tundra",t:"The Tundra",c:"Geography",i:"🦌",w:"Tundra",r:["arctic","antarc","climchange","iceage","glaciers"],
 p:[["A treeless land","The tundra is a cold, treeless region in the far north and on high mountains."],["Frozen ground","Beneath the surface lies permafrost, ground that stays frozen all year."],["Summer life","In the short summer, flowers bloom and millions of birds arrive to nest."]],
@@ -180,8 +167,7 @@ s2:[["The permafrost carbon store","Arctic permafrost holds roughly twice as muc
 sp:["The midnight sun","North of the Arctic Circle, the sun does not set for days or weeks around the summer solstice, a phenomenon called the midnight sun. Plants grow around the clock during this time, making the most of the short summer, while in winter the sun may not rise at all."],
 g:[["Biome","A large area with a particular climate, plants and animals"],["Permafrost","Ground that stays frozen for two or more years"],["Lichen","A partnership of a fungus and an alga"],["Alpine","Relating to high mountains"]],
 f:["The tundra receives about as little precipitation as some deserts.","The word tundra comes from a Sámi word meaning ‘treeless plain’ or ‘high land’.","Arctic foxes can survive temperatures of around −50°C."],
-fun:"Lemmings do not jump off cliffs; that myth was spread partly by a staged scene in a 1958 nature film.",
-tl:"Ang tundra ay malamig na lupaing walang puno sa dulong hilaga at sa matataas na bundok. Sa ilalim nito ay may permafrost na laging nagyeyelo, at sa maikling tag-init ay namumulaklak ang mga halaman at dumarating ang milyun-milyong ibon."});
+fun:"Lemmings do not jump off cliffs; that myth was spread partly by a staged scene in a 1958 nature film."});
 
 ADDART({id:"mammoth",t:"Woolly Mammoths",c:"Animals and Nature",i:"🦣",w:"Woolly mammoth",r:["elephant","iceage","extinction","fossils","caveart"],
 p:[["Ice Age giants","Woolly mammoths were huge, hairy relatives of elephants that lived during the Ice Age."],["Built for cold","They had thick fur, small ears and a layer of fat to survive freezing steppes."],["Gone but not forgotten","The last mammoths died out about 4,000 years ago."]],
@@ -193,8 +179,7 @@ s2:[["Lyuba","Lyuba was found in 2007 by a reindeer herder on the Yamal Peninsul
 sp:["Mammoths and elephants","Woolly mammoths were most closely related to Asian elephants, from which their lineage split millions of years ago. DNA from frozen mammoths has allowed scientists to read much of their genome and discover genes for thick hair, fat storage and tolerance of cold."],
 g:[["Steppe","A large, dry, treeless grassland"],["Tusk","A very long tooth that sticks out of an animal’s mouth"],["Extinction","When a species dies out completely"],["Genome","All the genetic information of an organism"]],
 f:["Woolly mammoths were about the same size as African elephants.","Some mammoths survived until about 4,000 years ago.","Ivory from mammoth tusks is still found in the Siberian permafrost."],
-fun:"Some woolly mammoths were still alive when the Great Pyramid of Giza was built.",
-tl:"Ang woolly mammoth ay malaking mabalahibong kamag-anak ng elepante na nabuhay noong Panahon ng Yelo. May makapal itong balahibo at maliliit na tainga para sa lamig, at namatay ang huling mammoth mga 4,000 taon na ang nakararaan."});
+fun:"Some woolly mammoths were still alive when the Great Pyramid of Giza was built."});
 
 ADDART({id:"neanderthals",t:"Neanderthals",c:"History",i:"🦴",w:"Neanderthal",r:["humanorigins","stoneage","dna","caveart","iceage"],
 p:[["Our close relatives","Neanderthals were ancient humans who lived in Europe and western Asia."],["Skilled and clever","They made tools, controlled fire, buried their dead and may have made art."],["Part of us","Most people today carry a little Neanderthal DNA."]],
@@ -206,8 +191,7 @@ s2:[["Reading ancient DNA","Swedish scientist Svante Pääbo and his team extrac
 sp:["Not so brutish","Early reconstructions showed Neanderthals as hunched, brutish cave men, partly based on the skeleton of an old man with arthritis. Modern research shows they walked upright like us, were skilled toolmakers and lived in complex social groups. Dressed in modern clothes, a Neanderthal might not stand out much in a crowd."],
 g:[["Species","A group of living things that can breed together"],["Fossil","The preserved remains of an ancient living thing"],["Genome","All the genetic information of an organism"],["Interbreeding","Different groups having children together"]],
 f:["Neanderthals had brains as large as, or larger than, modern humans.","Most people outside Africa have some Neanderthal DNA.","The species was named after the Neander Valley in Germany."],
-fun:"Neanderthals used birch tar as glue to attach stone tools to wooden handles.",
-tl:"Ang mga Neanderthal ay sinaunang tao na nanirahan sa Europa at kanlurang Asya. Gumawa sila ng kasangkapan, gumamit ng apoy at naglibing ng patay, at karamihan sa mga tao ngayon ay may kaunting DNA nila."});
+fun:"Neanderthals used birch tar as glue to attach stone tools to wooden handles."});
 
 ADDART({id:"suezcanal",t:"The Suez Canal",c:"Geography",i:"⚓",w:"Suez Canal",r:["egyptcountry","ships","trade","coldwar","panamacountry"],
 p:[["A shortcut between seas","The Suez Canal links the Mediterranean Sea and the Red Sea through Egypt."],["Saving thousands of kilometers","Ships can avoid sailing around Africa."],["A vital trade route","A large share of world trade passes through it."]],
@@ -219,8 +203,7 @@ s2:[["The Ever Given","On 23 March 2021, strong winds pushed the Ever Given, a 4
 sp:["The Panama Canal","The Suez Canal’s counterpart in the Americas, the Panama Canal, opened in 1914 and links the Atlantic and Pacific Oceans. Unlike Suez, it uses locks to lift ships about 26 meters over the hills of Panama to a large artificial lake and back down again."],
 g:[["Canal","An artificial waterway for boats or irrigation"],["Lock","A section of canal with gates that raises or lowers boats"],["Chokepoint","A narrow route where traffic can easily be blocked"],["Nationalize","When a government takes over ownership of a company"]],
 f:["The Suez Canal is about 193 kilometers long.","It has no locks.","The Ever Given blocked it for six days in 2021."],
-fun:"Going through the Suez Canal can save a ship sailing between Europe and Asia several thousand kilometers and more than a week at sea.",
-tl:"Ang Suez Canal ay daluyang-tubig sa Ehipto na nag-uugnay sa Dagat Mediteraneo at Dagat Pula. Hindi na kailangang umikot ang mga barko sa Africa, kaya mahalaga itong ruta ng pandaigdigang kalakalan."});
+fun:"Going through the Suez Canal can save a ship sailing between Europe and Asia several thousand kilometers and more than a week at sea."});
 
 ADDART({id:"concrete",t:"Concrete",c:"Technology",i:"🏗️",w:"Concrete",r:["skyscrapers","bridges","rome","climchange","architecture"],
 p:[["The world’s building material","Concrete is the most widely used human-made material on Earth."],["Ancient invention","The Romans built with concrete 2,000 years ago."],["A climate challenge","Making cement produces a large share of the world’s carbon emissions."]],
@@ -232,8 +215,7 @@ s2:[["The Pantheon","The Pantheon in Rome has a concrete dome 43.3 meters across
 sp:["Reinforced concrete","Steel bars, called rebar, are placed inside concrete before it sets. The concrete resists squeezing, and the steel resists stretching, so together they make beams and columns far stronger than either alone. A French gardener, Joseph Monier, patented the idea in 1867 to make stronger flowerpots."],
 g:[["Cement","A powder that binds concrete together when mixed with water"],["Aggregate","The sand and gravel in concrete"],["Hydration","The chemical reaction between cement and water"],["Rebar","Steel bars used to reinforce concrete"]],
 f:["Concrete is the most widely used human-made material.","The Pantheon’s dome has lasted nearly 1,900 years.","Concrete keeps getting stronger for years after it is poured."],
-fun:"Reinforced concrete was patented by a gardener who wanted stronger flowerpots.",
-tl:"Ang kongkreto ay materyales sa pagtatayo na gawa sa semento, tubig, buhangin at graba. Ito ang pinakamalawak na ginagamit na gawang-taong materyales, ginamit na ng mga Romano, ngunit malaki ang ambag ng paggawa ng semento sa carbon emissions."});
+fun:"Reinforced concrete was patented by a gardener who wanted stronger flowerpots."});
 
 ADDART({id:"carthage",t:"Carthage",c:"History",i:"🐘",w:"Ancient Carthage",r:["phoenicians","rome","tunisiacountry","ships","greece"],
 p:[["A Phoenician city","Carthage was founded by Phoenicians in North Africa, in what is now Tunisia."],["A sea empire","It became a great trading and naval power in the western Mediterranean."],["Rome’s rival","It fought three wars with Rome and was destroyed in 146 BC."]],
@@ -245,8 +227,7 @@ s2:[["Hannibal’s elephants","In 218 BC, Hannibal led an army of tens of thousa
 sp:["The cothon","Carthage’s military harbor was a circular basin with an island in the middle, where the admiral’s headquarters stood. Covered sheds around the edge could hold over 200 warships. The outline of the harbor can still be seen today in a suburb of Tunis."],
 g:[["Punic","Relating to Carthage and its people"],["Phoenicians","A seafaring people of the eastern Mediterranean"],["Suffete","An elected chief official of Carthage"],["Siege","Surrounding a city to force it to surrender"]],
 f:["Carthage’s name means ‘new city’.","Hannibal crossed the Alps with war elephants.","Rome rebuilt Carthage about a century after destroying it."],
-fun:"A Roman story claims the Romans sowed salt on Carthage’s fields, but historians think this was invented much later.",
-tl:"Ang Carthage ay sinaunang lungsod sa Hilagang Africa, sa ngayon ay Tunisia, na itinatag ng mga Phoenician. Naging makapangyarihang imperyo ito sa dagat at kalaban ng Roma, hanggang wasakin ito noong 146 BC."});
+fun:"A Roman story claims the Romans sowed salt on Carthage’s fields, but historians think this was invented much later."});
 
 ADDART({id:"asante",t:"The Asante Empire",c:"History",i:"👑",w:"Ashanti Empire",r:["ghanacountry","africacolon","slavetrade","mali","benin"],
 p:[["A West African power","The Asante Empire was a powerful kingdom in what is now Ghana."],["The Golden Stool","A sacred stool covered in gold symbolized the soul of the nation."],["Resisting Britain","The Asante fought several wars against British forces in the 1800s."]],
@@ -258,5 +239,4 @@ s2:[["Yaa Asantewaa","In 1900, when the British governor demanded that the Golde
 sp:["Gold weights","Asante goldsmiths and traders used thousands of tiny brass weights to measure gold dust. Made by the lost-wax casting method, they were shaped like animals, people, tools and symbols, many illustrating proverbs. Today they are prized as works of art."],
 g:[["Asantehene","The king of the Asante"],["Akan","A large group of peoples in Ghana and Côte d’Ivoire"],["Kente","A brightly colored woven cloth of Ghana"],["Queen Mother","A senior female leader in Akan societies"]],
 f:["No one, not even the king, sits on the Golden Stool.","Gold dust was used as money in the Asante Empire.","Kente cloth is woven in narrow strips."],
-fun:"The Golden Stool was hidden during the 1900 war, and the British never captured it.",
-tl:"Ang Imperyong Asante ay makapangyarihang kaharian sa ngayon ay Ghana sa Kanlurang Africa. Sinasagisag ng Golden Stool ang kaluluwa ng bansa, at ilang ulit silang lumaban sa mga British noong 1800."});
+fun:"The Golden Stool was hidden during the 1900 war, and the British never captured it."});

@@ -9,8 +9,7 @@ s2:[["Dangers discovered","Early X-ray workers did not know the rays were harmfu
 sp:["The hand with the ring","Just before Christmas in 1895, Wilhelm Röntgen asked his wife, Anna Bertha, to place her hand on a photographic plate in front of his mysterious tube. After about 15 minutes, the developed plate showed the ghostly bones of her fingers and the dark band of her wedding ring. It was the first X-ray photograph of a human body part. Röntgen sent copies to fellow scientists on 1 January 1896, and newspapers around the world printed it. The image made the invisible visible and became one of the most famous pictures in the history of science."],
 g:[["X-ray","High-energy invisible light that can pass through soft tissue"],["Fluorescent","Glowing when struck by radiation"],["CT scan","A detailed X-ray image made with a computer"],["Crystallography","Studying the arrangement of atoms using X-rays"]],
 f:["Röntgen discovered X-rays in 1895.","He received the first Nobel Prize in Physics.","The X in X-ray means unknown."],
-fun:"The X in X-ray stands for unknown, because Röntgen did not know what the rays were.",
-tl:"Ang X-ray ay di-nakikitang liwanag na tumatagos sa balat at kalamnan ngunit hinaharangan ng buto. Natuklasan ito ni Wilhelm Röntgen noong 1895. Ginagamit ito sa medisina, sa paliparan at sa agham."});
+fun:"The X in X-ray stands for unknown, because Röntgen did not know what the rays were."});
 
 ADDART({id:"doublehelix",t:"The Discovery of the Double Helix",c:"History of Science",i:"🧬",w:"Molecular structure of Nucleic Acids",r:["dna","rfranklin","genome","xrays","mendel"],
 p:[["The shape of life","In 1953 scientists discovered that DNA is shaped like a twisted ladder."],["A team effort","Watson, Crick, Franklin and Wilkins all contributed to the discovery."],["A key to biology","The double helix explained how genetic information is copied."]],
@@ -22,8 +21,7 @@ s2:[["Rosalind Franklin","Rosalind Franklin’s careful X-ray work was essential
 sp:["The secret of life at the Eagle pub","The Eagle, a pub near the Cavendish Laboratory in Cambridge, was where scientists often ate lunch. According to James Watson’s memoir, on 28 February 1953, after he and Francis Crick realized how the bases of DNA fit together, Crick strode in and told everyone within hearing that they had found the secret of life. Whether he said exactly those words is debated, but the story became legend. In 2003, on the 50th anniversary of the discovery, a blue plaque was unveiled at the pub, and visitors still come to see where the announcement was said to have been made."],
 g:[["DNA","The molecule that carries genetic instructions"],["Double helix","Two strands twisted around each other"],["Base pair","Two chemical bases joined across the DNA ladder"],["X-ray crystallography","Using X-rays to find the arrangement of atoms"]],
 f:["The double helix was published in 1953.","Rosalind Franklin took Photo 51.","A pairs with T and G with C."],
-fun:"Crick is said to have announced the discovery of the secret of life in a pub.",
-tl:"Ang double helix ay ang hugis ng DNA, na parang baluktot na hagdan. Inilathala ito nina Watson at Crick noong 1953 gamit ang mga larawang X-ray ni Rosalind Franklin. Ipinaliwanag nito kung paano kinokopya ang impormasyong genetiko."});
+fun:"Crick is said to have announced the discovery of the secret of life in a pub."});
 
 ADDART({id:"insulin",t:"The Discovery of Insulin",c:"History of Science",i:"💉",w:"History of insulin",r:["diabetes","hormone","penicil","vacc","antibiotics"],
 p:[["A life-saving hormone","Insulin is a hormone that controls the amount of sugar in the blood."],["A medical miracle","Its discovery in 1921 turned a deadly disease into a manageable one."],["Sold for a dollar","Its discoverers sold the patent for just one dollar each."]],
@@ -35,8 +33,7 @@ s2:[["Sharing the credit","The 1923 Nobel Prize went to Banting and Macleod. Ban
 sp:["The ward of sleeping children","Before insulin, children with type 1 diabetes were often kept on starvation diets in hospital wards, where many fell into comas. According to a story often told about the early days of insulin, doctors went from bed to bed injecting the sleeping children with the new extract. Before they had reached the last bed, the first children were waking up from their comas, while families wept with joy. Whether every detail is exact or not, the story captures how insulin seemed like a miracle, turning a death sentence into a manageable condition."],
 g:[["Insulin","A hormone that controls blood sugar"],["Pancreas","An organ that makes insulin and digestive juices"],["Diabetes","A disease in which blood sugar is too high"],["Biotechnology","Using living things, such as bacteria, to make products"]],
 f:["Insulin was discovered in Toronto in 1921.","The first patient was 14-year-old Leonard Thompson.","World Diabetes Day is Banting’s birthday, 14 November."],
-fun:"The discoverers of insulin sold their patent for one dollar each.",
-tl:"Ang insulin ay hormone na kumokontrol sa asukal sa dugo. Natuklasan ito sa Toronto noong 1921 nina Banting at Best. Bago nito, karaniwang namamatay ang may type 1 diabetes. Nailigtas nito ang milyun-milyong buhay."});
+fun:"The discoverers of insulin sold their patent for one dollar each."});
 
 ADDART({id:"dreams",t:"Dreams",c:"Health and the Body",i:"💭",w:"Dream",r:["sleep","brain","memory","emotions","psychology"],
 p:[["Stories in sleep","Dreams are images, feelings and stories the mind experiences during sleep."],["Everyone dreams","Most people dream several times a night but forget most dreams."],["Why we dream","Scientists have several theories, but dreams are still a mystery."]],
@@ -48,8 +45,7 @@ s2:[["Theories of dreaming","Sigmund Freud thought dreams expressed hidden wishe
 sp:["The snake that bit its tail","In the 1860s, the German chemist August Kekulé was trying to work out the structure of benzene, a puzzling molecule with six carbon atoms. Years later, in 1890, he told a famous story: dozing by the fire, he saw atoms dancing before his eyes, forming chains that twisted like snakes. Then one snake seized its own tail, whirling in a ring. He woke with the idea that benzene’s atoms form a ring, which turned out to be correct. Some historians doubt the story, but it remains one of the most famous examples of a dream inspiring science."],
 g:[["Dream","Images and stories experienced during sleep"],["REM sleep","A stage of sleep with rapid eye movements and vivid dreams"],["Lucid dream","A dream in which you know you are dreaming"],["Nightmare","A frightening dream"]],
 f:["Most vivid dreams happen during REM sleep.","REM sleep was discovered in 1953.","Most dreams are forgotten within minutes."],
-fun:"A chemist said the shape of a molecule came to him in a dream of a snake biting its tail.",
-tl:"Ang panaginip ay mga larawan at kuwento na nararanasan habang natutulog, karaniwan sa REM sleep. Lahat ng tao ay nananaginip ngunit madalas makalimutan ito. Hindi pa lubos na alam kung bakit tayo nananaginip."});
+fun:"A chemist said the shape of a molecule came to him in a dream of a snake biting its tail."});
 
 ADDART({id:"habits",t:"How Habits Work",c:"Health and the Body",i:"🔁",w:"Habit",r:["brain","memory","psychology","sleep","exercise"],
 p:[["Automatic actions","Habits are actions we do automatically, often without thinking."],["Cue and reward","Habits follow a pattern of cue, routine and reward."],["Changing habits","Good habits can be built and bad ones changed with practice."]],
@@ -61,8 +57,7 @@ s2:[["Building good habits","Tips for building habits include starting very smal
 sp:["The myth of 21 days","Where does the popular idea that it takes 21 days to form a habit come from? It is often traced to a 1960 book, Psycho-Cybernetics, by the American plastic surgeon Maxwell Maltz, who noticed that his patients took about 21 days to get used to their new appearance. He wrote that it takes a minimum of about 21 days for old mental images to dissolve. Over time, the minimum was forgotten and 21 days became a rule. Research has since shown that habits often take much longer to form and that the time varies greatly from person to person."],
 g:[["Habit","A behavior repeated until it becomes automatic"],["Cue","A trigger that starts a habit"],["Basal ganglia","Brain structures involved in movement and habits"],["Conditioning","Learning to link a signal with a response"]],
 f:["Habits follow a cue, routine and reward loop.","A 2009 study found habits take about 66 days on average.","The 21-day rule is a myth."],
-fun:"The idea that habits take 21 days to form came from a plastic surgeon’s observations.",
-tl:"Ang ugali o habit ay gawaing naging awtomatiko dahil paulit-ulit na ginagawa. Sumusunod ito sa pattern na cue, routine at reward. Sa karaniwan, mga 66 na araw bago mabuo ang bagong ugali."});
+fun:"The idea that habits take 21 days to form came from a plastic surgeon’s observations."});
 
 ADDART({id:"illusions",t:"Optical Illusions",c:"Health and the Body",i:"👁️",w:"Optical illusion",r:["eye","brain","light","modernart","psychology"],
 p:[["Tricking the eye","Optical illusions are images that make us see something different from reality."],["The brain fills in","Illusions show that the brain interprets what the eyes see."],["Art and science","Artists and scientists use illusions to explore how vision works."]],
@@ -74,8 +69,7 @@ s2:[["The dress","In February 2015, a photo of a striped dress went viral as peo
 sp:["The dress that divided the internet","On 26 February 2015, a Scottish woman posted a photograph of a dress that her daughter’s future mother-in-law planned to wear to a wedding. Friends could not agree on its colors. Within hours, millions of people worldwide were arguing: blue and black, or white and gold? Celebrities joined in, and news programs covered the debate. The dress was in fact blue and black. Scientists studied why people saw it so differently, and their research showed how much the brain’s guesses about lighting shape the colors we see."],
 g:[["Optical illusion","An image that tricks visual perception"],["Perception","The brain’s interpretation of signals from the senses"],["Retina","The light-sensitive layer at the back of the eye"],["Ambiguous image","A picture that can be seen in two ways"]],
 f:["Illusions show that the brain interprets what we see.","The duck-rabbit drawing was published in 1892.","The viral dress of 2015 was blue and black."],
-fun:"Films work because of an illusion: still pictures shown quickly look like motion.",
-tl:"Ang optical illusion ay larawang nagpapakita ng iba sa tunay na nandoon. Nangyayari ito dahil binibigyang-kahulugan ng utak ang nakikita ng mata. Ginagamit ito ng mga siyentipiko at artista."});
+fun:"Films work because of an illusion: still pictures shown quickly look like motion."});
 
 ADDART({id:"symbiosis",t:"Symbiosis",c:"Science",i:"🐠",w:"Symbiosis",r:["eco","microbiome","coral","fungi","evo"],
 p:[["Living together","Symbiosis is a close, long-term relationship between different species."],["Helping each other","In mutualism, both partners benefit."],["Inside our cells","Even parts of our cells began as partnerships with bacteria."]],
@@ -87,8 +81,7 @@ s2:[["Coral and algae","Reef-building corals contain tiny algae called zooxanthe
 sp:["The bird that leads people to honey","In parts of Africa, a small bird called the greater honeyguide has a remarkable partnership with people. The bird guides honey hunters to wild bees’ nests hidden in trees, flying ahead and calling. The hunters open the nest and take the honey, and the bird feeds on the leftover wax and larvae. In 2016 scientists working with Yao honey hunters in Mozambique showed that the birds respond to a special call, a trill followed by a grunt, used by the hunters to recruit them. It is one of the few known cases of wild animals and humans cooperating as partners."],
 g:[["Symbiosis","A close, long-term relationship between species"],["Mutualism","A relationship in which both partners benefit"],["Parasite","An organism that lives on or in a host and harms it"],["Lichen","A partnership between a fungus and algae or bacteria"]],
 f:["Symbiosis means living together.","Mitochondria were once free-living bacteria.","Most land plants partner with fungi on their roots."],
-fun:"In Africa, a wild bird leads people to honey and shares the reward.",
-tl:"Ang symbiosis ay malapit at pangmatagalang ugnayan ng dalawang magkaibang uri ng buhay. Sa mutualism, parehong nakikinabang, gaya ng clownfish at sea anemone, at ng coral at algae."});
+fun:"In Africa, a wild bird leads people to honey and shares the reward."});
 
 ADDART({id:"metamorph",t:"Metamorphosis",c:"Animals and Nature",i:"🦋",w:"Metamorphosis",r:["butterfly","frog","insect","beetle","dragonfly"],
 p:[["Changing shape","Metamorphosis is a dramatic change in body form as an animal grows."],["Caterpillar to butterfly","Butterflies transform completely inside a chrysalis."],["Tadpole to frog","Frogs change from swimming tadpoles into air-breathing adults."]],
@@ -100,5 +93,4 @@ s2:[["Why metamorphosis?","Having different young and adult forms lets each stag
 sp:["Remembering life as a caterpillar","Can a butterfly or moth remember its life as a caterpillar, even though its body and brain are reorganized inside the pupa? In a 2008 experiment, scientists at Georgetown University in the United States trained tobacco hornworm caterpillars to avoid a particular smell by pairing it with a mild shock. After the caterpillars turned into adult moths, many of them still avoided the smell. The results suggested that some memories can survive the dramatic transformation of metamorphosis, a surprising discovery about how nervous systems change."],
 g:[["Metamorphosis","A dramatic change in form during development"],["Larva","The young, wingless feeding stage of an insect"],["Pupa","The resting stage in which an insect transforms"],["Nymph","A young insect that resembles the adult"]],
 f:["Complete metamorphosis has four stages.","Tadpoles change into frogs.","Some moths may remember their caterpillar days."],
-fun:"Some moths seem to remember things they learned as caterpillars.",
-tl:"Ang metamorphosis ay malaking pagbabago ng anyo ng hayop habang lumalaki. Ang uod ay nagiging paru-paro sa loob ng chrysalis, at ang butete ay nagiging palaka."});
+fun:"Some moths seem to remember things they learned as caterpillars."});

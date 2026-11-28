@@ -9,8 +9,7 @@ s2:[["Lascaux","In September 1940, four teenagers in southwestern France followe
 sp:["The oldest story","The painting on Sulawesi dated in 2024 shows three human-like figures interacting with a wild pig. Scientists think it may be the oldest known depiction of a story, more than 51,000 years old. Some of the figures appear to have animal features, suggesting that even at this early date, people imagined beings that were part human and part animal."],
 g:[["Prehistoric","From the time before written records"],["Ocher","A natural earth pigment, red or yellow"],["Stencil","An image made by spraying paint around an object"],["Figurative art","Art that represents real things, such as animals or people"]],
 f:["The oldest known painting is at least 51,200 years old, in Indonesia.","Lascaux Cave was closed to visitors in 1963 to protect its paintings.","Altamira was discovered by a young girl in 1879."],
-fun:"The Altamira cave paintings were discovered by a young girl who looked up at the ceiling.",
-tl:"Ang sining sa kuweba ay mga larawang ipininta o inukit ng mga sinaunang tao sa dingding ng kuweba libu-libong taon na ang nakalipas. Ang pinakamatandang kilalang larawan ay nasa Sulawesi, Indonesia, mahigit 51,000 taon na ang edad."});
+fun:"The Altamira cave paintings were discovered by a young girl who looked up at the ceiling."});
 
 ADDART({id:"architecture",t:"Architecture",c:"Arts and Literature",i:"🏛️",w:"Architecture",r:["gothic","pyramids","tajmahal","bridges","urban"],
 p:[["The art of building","Architecture is the art and science of designing buildings and other structures."],["Styles through time","Each era and culture has created its own styles, from ancient temples to modern skyscrapers."],["Useful and beautiful","Good architecture combines strength, usefulness and beauty."]],
@@ -22,8 +21,7 @@ s2:[["Domes","Domes have long been used to create vast, impressive spaces. Rome�
 sp:["Form follows function","The American architect Louis Sullivan, who designed early skyscrapers in Chicago, wrote in 1896 that form ever follows function, meaning that a building’s shape should grow from its purpose. The phrase became a motto of modern architecture. Critics later argued that buildings also need beauty, character and a sense of place, not just efficiency."],
 g:[["Architect","A person who designs buildings"],["Column","An upright pillar that supports a structure"],["Dome","A rounded roof shaped like half a sphere"],["Modernism","A style that favors simple forms and new materials"]],
 f:["The Pantheon’s dome is still the largest unreinforced concrete dome in the world.","The Burj Khalifa is 828 meters tall.","Zaha Hadid was the first woman to win the Pritzker Prize."],
-fun:"Gaudí’s Sagrada Família in Barcelona has been under construction since 1882.",
-tl:"Ang arkitektura ay sining at agham ng pagdidisenyo ng mga gusali. Iba-iba ang istilo nito sa bawat panahon at kultura, mula sa mga piramide at templo hanggang sa mga modernong skyscraper."});
+fun:"Gaudí’s Sagrada Família in Barcelona has been under construction since 1882."});
 
 ADDART({id:"photography",t:"Photography",c:"Arts and Literature",i:"📷",w:"Photography",r:["camera","light","cinema","smartphone"],
 p:[["Writing with light","Photography means writing with light: making images by capturing light on a sensitive surface."],["Invented in the 1820s and 1830s","The first lasting photographs were made in France, and photography spread around the world within years."],["Everyone a photographer","Today, with smartphones, people take well over a trillion photos every year."]],
@@ -35,8 +33,7 @@ s2:[["Recording history","Photographs have recorded history since the 1850s. Mat
 sp:["Muybridge’s galloping horse","In the 1870s, people argued about whether a galloping horse ever has all four hooves off the ground. In 1878, Eadweard Muybridge set up a row of 12 cameras along a racetrack in California, each triggered by a thread as the horse passed. His photographs showed that all four hooves do leave the ground, with the legs tucked underneath. His work led toward motion pictures."],
 g:[["Exposure","The amount of light that reaches film or a sensor"],["Aperture","The adjustable opening that lets light into a camera"],["Shutter","The part of a camera that opens and closes to let in light"],["Negative","An image with reversed light and dark, used to make prints"]],
 f:["Photography means writing with light in Greek.","The first digital camera took 23 seconds to record an image.","Muybridge proved that a galloping horse lifts all four hooves at once."],
-fun:"The first digital camera, built in 1975, weighed about 4 kilograms.",
-tl:"Ang potograpiya ay sining at agham ng paggawa ng larawan gamit ang liwanag. Naimbento ito noong 1820s at 1830s sa Pransiya, at ngayon ay halos lahat ng tao ay kumukuha ng larawan gamit ang telepono."});
+fun:"The first digital camera, built in 1975, weighed about 4 kilograms."});
 
 ADDART({id:"comics",t:"Comics and Manga",c:"Arts and Literature",i:"💭",w:"Comics",r:["anim","novel","japancountry","fairy","manga"],
 p:[["Stories in pictures","Comics tell stories through sequences of drawings, usually with speech bubbles and captions."],["Many traditions","Comic traditions include American comic books, Japanese manga, Franco-Belgian bandes dessinées and the komiks of the Philippines."],["Read by millions","Comics and manga are among the world’s most popular forms of reading and inspire films, cartoons and games."]],
@@ -48,5 +45,4 @@ s2:[["Franco-Belgian comics","In France and Belgium, comics are called bandes de
 sp:["Reading right to left","Traditional Japanese books are read from right to left, so most manga printed in English and other languages keeps this order: readers start at what Westerners would call the back of the book and read the panels from right to left. Early translations flipped the pages into a mirror image, but fans preferred the original layout, which keeps the artist’s design."],
 g:[["Panel","A single frame in a comic"],["Speech balloon","A shape containing a character’s words"],["Manga","Japanese comics"],["Graphic novel","A long, book-length comic"]],
 f:["Superman first appeared in 1938.","Manga is usually read from right to left.","Maus was the first graphic novel to win a Pulitzer Prize."],
-fun:"In France and Belgium, comics are called the ninth art.",
-tl:"Ang komiks ay nagkukuwento gamit ang sunud-sunod na larawan, karaniwang may speech balloon. Kabilang dito ang American comic books, manga ng Hapon at komiks ng Pilipinas, gaya ng Darna ni Mars Ravelo."});
+fun:"In France and Belgium, comics are called the ninth art."});

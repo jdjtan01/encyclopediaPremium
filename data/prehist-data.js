@@ -27,7 +27,22 @@ dimetrodon:["Synapsid (mammal relative)","Meat",295,272,4.6,1.8,250,"dimetro","A
 megalodon:["Shark","Whales, seals",23,3.6,24,5.5,94000,"shark","Up to about 24 m long",[["Calvert Cliffs, Maryland",38.4,-76.4],["Bone Valley, Florida",27.8,-81.8],["Lee Creek, North Carolina",35.4,-76.8],["Sacaco, Peru",-15.5,-74.7],["Malta",35.9,14.4],["Beaumaris, Australia",-37.98,145.05],["Saitama, Japan",36.0,139.1]]],
 smilodon:["Saber-toothed cat","Large mammals",2.5,0.01,1.9,1.25,400,"cat","About 1.9 m long",[["La Brea Tar Pits, California",34.06,-118.36],["Lagoa Santa, Brazil",-19.63,-43.9],["Pampas, Argentina",-34.6,-60.0],["Florida",29.6,-82.4]]],
 dunkleosteus:["Placoderm (armored fish)","Fish",382,358,4.1,1.1,1000,"placo","About 4 m long",[["Cleveland, Ohio",41.5,-81.7],["Anti-Atlas, Morocco",31.0,-4.6]]],
-mammoth:["Mammal (elephant relative)","Plants",0.8,0.004,4.5,3,6000,"mammoth","About 3 m tall at the shoulder",[["Yakutia, Siberia",66.0,129.0],["Wrangel Island, Russia",71.2,-179.5],["Fairbanks, Alaska",64.8,-147.7],["Yukon, Canada",64.0,-139.4],["North Sea floor",53.5,3.0]]]
+mammoth:["Mammal (elephant relative)","Plants",0.8,0.004,4.5,3,6000,"mammoth","About 3 m tall at the shoulder",[["Yakutia, Siberia",66.0,129.0],["Wrangel Island, Russia",71.2,-179.5],["Fairbanks, Alaska",64.8,-147.7],["Yukon, Canada",64.0,-139.4],["North Sea floor",53.5,3.0]]],
+tiktaalik:["Lobe-finned fish (tetrapod relative)","Fish and small animals",376,374,2.7,0.5,0,"mosa","Up to about 2.7 m long",[["Ellesmere Island, Canada",78.6,-81.0]]],
+anomalocaris:["Radiodont (early arthropod relative)","Small animals",518,505,0.38,0.08,0,"trilo","Up to about 38 cm long",[["Burgess Shale, Canada",51.43,-116.47],["Chengjiang, China",24.67,102.98]]],
+meganeura:["Griffenfly (giant insect)","Insects",305,299,0.7,0.2,0,"ptero","Wingspan about 70 cm",[["Commentry, France",46.29,2.74]]],
+brontosaurus:["Sauropod dinosaur","Plants",156,146,22,8,15000,"sauropod","About 22 m long",[["Como Bluff, Wyoming",41.9,-106.0],["Morrison Formation, Utah",39.0,-110.0],["Garden Park, Colorado",38.55,-105.2]]],
+pachycephalosaurus:["Pachycephalosaur dinosaur","Plants",70,66,4.5,1.8,450,"ornitho","About 4.5 m long",[["Hell Creek, Montana",47.5,-106.6],["Lance Formation, Wyoming",43.1,-104.5],["South Dakota",45.3,-102.6]]],
+therizinosaurus:["Therizinosaur dinosaur","Plants",71,69,9.5,5,5000,"theropod","About 9–10 m long",[["Nemegt Formation, Mongolia",43.5,101.0]]],
+elasmosaurus:["Plesiosaur (sea reptile)","Fish and squid-like animals",81,80,10,1.6,0,"plesio","About 10 m long",[["Western Kansas",38.9,-101.8]]],
+livyatan:["Sperm whale relative","Whales, seals and dolphins",9.9,8.9,14,3.5,0,"whale","About 12–17 m long (estimates vary)",[["Pisco Formation, Peru",-14.4,-75.9]]],
+woollyrhino:["Mammal (rhinoceros)","Grasses and other plants",0.45,0.014,3.4,2,1800,"rhino","About 3.2–3.6 m long",[["Yakutia, Siberia",68.0,140.0],["Starunia, Ukraine",48.7,24.4],["Chauvet Cave, France (cave art)",44.39,4.42]]],
+groundsloths:["Mammal (giant ground sloth)","Plants",3.6,0.012,6,3,4000,"sloth","About 6 m long (Megatherium)",[["Luján, Argentina",-34.57,-59.1],["Tarija, Bolivia",-21.5,-64.7],["Punta Alta, Argentina (Darwin’s finds)",-38.88,-62.07]]],
+direwolf:["Mammal (canid)","Large mammals",0.25,0.013,1.6,0.8,68,"cat","About 1.6 m long",[["La Brea Tar Pits, California",34.06,-118.36],["Evansville, Indiana",37.97,-87.56],["Florida",29.6,-82.4],["Valley of Mexico",19.4,-99.1]]],
+ichthyosaurs:["Marine reptile (ichthyosaur)","Fish and squid-like animals",250,94,15,3,0,"shark","Most 2–4 m; Shonisaurus about 15 m (shown)",[["Lyme Regis, England",50.72,-2.94],["Holzmaden, Germany",48.63,9.53],["Berlin–Ichthyosaur State Park, Nevada",38.88,-117.6],["Blue Anchor, Somerset (Ichthyotitan)",51.18,-3.39]]],
+rhamphorhynchus:["Pterosaur","Fish and squid-like animals",151,148,1.8,0.4,0,"ptero","Wingspan up to about 1.8 m",[["Solnhofen, Germany",48.89,10.99]]],
+basilosaurus:["Early whale","Fish, sharks, smaller whales",41.3,33.9,18,2.2,0,"mosa","About 15–20 m long",[["Wadi Al-Hitan, Egypt",29.27,30.04],["Ouachita Parish, Louisiana",32.5,-92.1],["Clarke County, Alabama",31.7,-87.8]]],
+glyptodon:["Mammal (armadillo relative)","Plants",3.2,0.011,3.3,1.5,2000,"ankylo","Up to about 3.5 m long",[["Pampas, Argentina",-35.5,-60.0],["Uruguay",-33.5,-56.5],["Tarija, Bolivia",-21.5,-64.7]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
@@ -51,6 +66,10 @@ trilo:[[100,50],[95,22],[76,0,1],[70,16],[40,20],[10,34],[0,50],[10,66],[40,80],
 dimetro:[[0,76,1],[20,66],[30,57],[32,40],[40,10],[48,0],[56,4],[64,20],[68,46],[78,50],[86,44],[100,52],[98,64],[86,66],[78,64],[75,74],[81,100,1],[72,100,1],[66,80],[52,80],[42,80],[46,100,1],[37,100,1],[30,80],[18,74]],
 cat:[[0,36,1],[8,28],[20,22],[40,20],[60,15],[70,13],[78,5],[90,7],[100,18],[98,26],[93,28],[91,42,1],[88,29],[82,31],[76,44],[76,70],[78,100,1],[70,100,1],[66,72],[61,58],[40,60],[30,64],[33,100,1],[25,100,1],[20,72],[14,56],[10,40],[4,42]],
 mammoth:[[0,40,1],[4,34],[20,20],[48,7],[60,3],[72,7],[80,20],[84,40],[86,70],[91,86],[85,88],[80,70],[76,52],[72,57],[72,100,1],[61,100,1],[60,67],[40,67],[33,65],[33,100,1],[22,100,1],[18,60],[8,48]],
+plesio:[[0,52,1],[10,46],[22,40],[34,38],[44,42],[60,30],[78,16],[92,8],[98,7],[100,10,1],[96,13],[90,13],[76,22],[58,38],[48,50],[46,62],[38,80,1],[34,62],[26,62],[20,64],[12,80,1],[12,62],[6,56]],
+sloth:[[0,74,1],[10,62],[22,48],[36,30],[52,22],[66,24],[76,32],[84,40],[92,40],[100,48],[98,56],[90,58],[84,56],[80,62],[84,96],[90,100,1],[76,100,1],[72,74],[60,76],[46,76],[42,100,1],[28,100,1],[28,80],[16,74]],
+rhino:[[0,40,1],[6,30],[24,18],[48,10],[62,14],[74,22],[84,26],[92,22],[97,6,1],[96,30],[100,40],[98,52],[88,54],[78,56],[76,66],[78,100,1],[68,100,1],[66,72],[42,72],[38,100,1],[28,100,1],[26,70],[14,62],[8,46]],
+whale:[[0,30,1],[6,44],[12,50],[30,40],[55,30],[80,26],[94,30],[100,44],[98,60],[86,66],[70,68],[62,70],[56,86,1],[52,70],[30,66],[14,58],[0,72,1],[6,52]],
 human:[[30,14],[70,14],[78,52,1],[70,52,1],[66,28],[65,52],[66,100,1],[53,100,1],[50,58],[47,100,1],[34,100,1],[35,52],[34,28],[30,52,1],[22,52,1]]
 };
 // Extra strokes drawn over a body, in the same 100 × 100 box (tusks, eyes and so on).
@@ -86,5 +105,13 @@ dimetrodon:["b9b73c89-7609-4524-b068-7c7c7f566979",1536/932,"Alessio Ciaffi","CC
 megalodon:["4c45a2bc-81a2-4b4a-a91a-3decdec14499",1536/687,"Oliver E. Demuth and Cooper et al. (2020), vectorized by Russell Engelman","CC BY 4.0","https://creativecommons.org/licenses/by/4.0/"],
 smilodon:["34680fdb-ef6f-424a-8e02-0e42cf0d4efe",1536/870,"Ivan Iofrida","CC BY 4.0","https://creativecommons.org/licenses/by/4.0/"],
 dunkleosteus:["4596b37e-326c-4475-9fab-e34f1f8281d2",1536/856,"Russell Engelman","CC BY 4.0","https://creativecommons.org/licenses/by/4.0/"],
-mammoth:["f39f0aa9-97f1-4982-976c-07ffb78a4682",1536/1032,"Kamil S. Jaron","CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/"]
+mammoth:["f39f0aa9-97f1-4982-976c-07ffb78a4682",1536/1032,"Kamil S. Jaron","CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/"],
+tiktaalik:["69a2c852-0bd4-4086-b8c8-8d5d0bcdb916",1536/500,"Dave Souza (vectorized by T. Michael Keesey)","CC BY-SA 3.0","https://creativecommons.org/licenses/by-sa/3.0/"],
+anomalocaris:["c3b75f48-d943-422b-9234-dc56b39ae01a",1507/1536,"Amy Beauvois","CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/","h",.38],
+meganeura:["b7b2895c-f9c3-436a-8efa-d80b14fe0918",1725/1611,"Joseba Iza","CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/","w",.7],
+brontosaurus:["9dd4ab50-08fe-42bb-9af3-2787c9c75387",1536/563,"artrociraptor","CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/"],
+pachycephalosaurus:["6105ff49-0bd0-477c-8bef-41b0c39fdca9",1174/582,"Emily Willoughby","CC BY-SA 3.0","https://creativecommons.org/licenses/by-sa/3.0/"],
+livyatan:["ee0f1d67-96c3-4db6-a850-b107fdeedd88",1950/623,"Darius Nau","CC BY 3.0","https://creativecommons.org/licenses/by/3.0/"],
+woollyrhino:["e6d3526b-9ce9-4144-96e0-b2587b4c6a74",1536/973,"Steven Traver","CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/"],
+direwolf:["d913b75d-3055-48e2-b597-78cfbceac165",1466/955,"Margot Michaud","CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/"]
 };

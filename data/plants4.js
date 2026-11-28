@@ -9,8 +9,7 @@ s2:[["Invaders in the Philippines","Common invasive plants in the Philippines in
 sp:["A hall for a moth","In the early 1900s, prickly pear cacti covered vast areas of Queensland and New South Wales in Australia, forming dense, spiny thickets that made farmland useless. Farmers tried poison and fire with little success. Scientists searched the Americas for natural enemies and found a small moth from Argentina whose caterpillars tunnel into prickly pear pads. Beginning in 1926, billions of moth eggs were distributed across the infested land. Within about a decade, the cactus had collapsed across huge areas, and the land was returned to farming. Grateful residents of the town of Boonarga built the Cactoblastis Memorial Hall in honor of the insect, perhaps the only building in the world dedicated to a moth."],
 g:[["Invasive species","A non-native species that spreads harmfully"],["Native species","A species that occurs naturally in an area"],["Biological control","Using natural enemies to control pests"],["Hagonoy","A Filipino name for an invasive shrub"]],
 f:["Water hyacinth is invasive in the Philippines.","Most introduced plants do not become invasive.","A moth controlled prickly pear in Australia."],
-fun:"An Australian town built a memorial hall to honor a moth that destroyed invasive cacti.",
-tl:"Ang invasive na halaman ay mga halamang dinala sa ibang lugar na mabilis kumalat at nakasisira sa kalikasan at sakahan. Halimbawa nito sa Pilipinas ang water hyacinth sa mga ilog at lawa. Mahirap itong alisin kapag kumalat na."});
+fun:"An Australian town built a memorial hall to honor a moth that destroyed invasive cacti."});
 
 ADDART({id:"narra",t:"Narra",c:"Plants",i:"🌳",w:"Pterocarpus indicus",r:["trees","sampaguita","deforestation","giantrees","conservation"],
 p:[["National tree","The narra is the national tree of the Philippines."],["Prized wood","Its beautiful, hard wood is valued for furniture."],["Golden blooms","It produces fragrant yellow flowers for a few days a year."]],
@@ -22,8 +21,7 @@ s2:[["A national symbol","In 1934 Governor-General Frank Murphy issued a proclam
 sp:["Golden rain","One morning in the dry season, residents of a Philippine university campus notice that the tall narra trees lining the main road have changed overnight. Their crowns are covered in tiny yellow flowers, and a sweet fragrance fills the air. Bees hum among the branches. Students stop to take photos. By the next day, the flowers begin to fall, covering the road and sidewalks in a golden carpet. Within a few days, the show is over, and the trees return to green. Because the blooming is so brief and spectacular, many Filipinos remember the first time they saw the national tree in full flower."],
 g:[["National tree","A tree chosen as a symbol of a country"],["Heartwood","The dense inner wood of a tree"],["Buttress root","A wide root that supports a large tree"],["Moratorium","A temporary ban"]],
 f:["Narra is the national tree of the Philippines.","Its wood ranges from gold to red.","It blooms for only a few days at a time."],
-fun:"Water soaked with narra wood shavings can glow blue under certain light.",
-tl:"Ang narra ang pambansang puno ng Pilipinas mula 1934. Mahalaga ang matigas at magandang kahoy nito sa paggawa ng muwebles. Namumulaklak ito ng mabangong dilaw na bulaklak sa loob lamang ng ilang araw."});
+fun:"Water soaked with narra wood shavings can glow blue under certain light."});
 
 ADDART({id:"sampaguita",t:"Sampaguita",c:"Plants",i:"🌼",w:"Jasminum sambac",r:["flower","narra","phfest","orchids","relig"],
 p:[["National flower","The sampaguita is the national flower of the Philippines."],["Sweet fragrance","Its small white flowers have a strong, sweet scent."],["Strings of flowers","Sampaguita garlands are sold outside churches and offered to guests."]],
@@ -35,8 +33,7 @@ s2:[["Name and legend","A popular Filipino legend says the name sampaguita comes
 sp:["The flower vendor’s evening","As the sun sets over Manila, a woman sits near the steps of a church with a basket of fresh sampaguita picked that afternoon on a farm in Laguna. Working quickly, she threads the tiny white buds onto strings, adding a red ribbon and a small rosebud or ilang-ilang flower to finish each garland. As churchgoers arrive for evening Mass, she calls out softly, offering garlands for a few pesos. Some buyers hang the garlands on the rearview mirrors of their cars, filling them with fragrance; others place them before statues of saints. By night, the buds open, and the sweet scent of the national flower drifts through the streets."],
 g:[["Sampaguita","The Philippine national flower, a type of jasmine"],["Garland","A string of flowers"],["Kwintas","A Filipino word for necklace or garland"],["Essential oil","A fragrant oil extracted from plants"]],
 f:["Sampaguita is the Philippine national flower.","It is also a national flower of Indonesia.","Its flowers bloom in the evening."],
-fun:"A popular legend says the name sampaguita comes from sumpa kita, meaning I promise you.",
-tl:"Ang sampaguita ang pambansang bulaklak ng Pilipinas mula 1934. Mabango ang maliliit at puting bulaklak nito. Ginagawa itong kwintas na iniaalay sa mga panauhin at sa mga imahen sa simbahan."});
+fun:"A popular legend says the name sampaguita comes from sumpa kita, meaning I promise you."});
 
 ADDART({id:"abaca",t:"Abaca",c:"Plants",i:"🧵",w:"Abacá",r:["weaving","coconut","agri","clothing","phfood"],
 p:[["Manila hemp","Abaca fiber is known worldwide as Manila hemp."],["A banana relative","Abaca looks like a banana plant."],["Mostly Philippine","The Philippines produces most of the world’s abaca."]],
@@ -48,8 +45,7 @@ s2:[["Abaca and history","In the 19th century, demand for Manila hemp rope from 
 sp:["The dream weavers of Lake Sebu","On the shores of Lake Sebu in the mountains of South Cotabato, a T’boli woman sits at a backstrap loom, her body leaning back to keep the threads tight. The warp threads are abaca fibers that have been tied in intricate patterns and dyed using roots and leaves, a process that can take weeks. She weaves slowly, the dark cloth growing a few centimeters at a time, revealing patterns of crocodiles, frogs and human figures. In T’boli belief, these patterns come to weavers in dreams, and a dream weaver may not copy designs from others. When finished, the t’nalak may be used in ceremonies, given as a gift or sold, carrying the weaver’s vision to the world."],
 g:[["Abaca","A Philippine plant grown for its strong fiber"],["Manila hemp","The international name for abaca fiber"],["T’nalak","A sacred abaca cloth of the T’boli"],["Tuxy","A strip of abaca leaf sheath before stripping"]],
 f:["Abaca is related to the banana.","The Philippines produces most of the world’s abaca.","Abaca is used in tea bags."],
-fun:"Abaca fiber is used in tea bags and in some countries’ banknotes.",
-tl:"Ang abaka ay halamang katutubo sa Pilipinas na kahawig ng saging at itinatanim para sa matibay na hibla nito. Kilala ito sa buong mundo bilang Manila hemp. Ang Pilipinas ang pinakamalaking prodyuser ng abaka sa mundo."});
+fun:"Abaca fiber is used in tea bags and in some countries’ banknotes."});
 
 ADDART({id:"lichens",t:"Lichens",c:"Plants",i:"🪨",w:"Lichen",r:["fungi","ferns","pollution","soil","arctic"],
 p:[["A partnership","A lichen is a fungus living together with algae or bacteria."],["Pioneers","Lichens can grow on bare rock and help make soil."],["Clean air signs","Many lichens are sensitive to air pollution."]],
@@ -61,5 +57,4 @@ s2:[["Discovering the partnership","For centuries, lichens were thought to be si
 sp:["Lichens in space","In 2005 scientists from Spain and other European countries placed samples of two lichen species inside a small container on the outside of a Russian satellite. Once in orbit, the container opened, exposing the lichens to the vacuum of space, extreme temperatures and strong ultraviolet and cosmic radiation for about 15 days. When the capsule returned to Earth, the scientists rehydrated the lichens and found that they were still alive and able to carry out photosynthesis normally. The experiment suggested that some life forms might survive short journeys through space and helped scientists think about the limits of life."],
 g:[["Lichen","A partnership of a fungus and algae or bacteria"],["Symbiosis","Two different organisms living closely together"],["Cyanobacteria","Bacteria that can make food from sunlight"],["Lichenometry","Using lichen size to date rock surfaces"]],
 f:["A lichen is a partnership between organisms.","Lichens can survive in outer space.","Litmus comes from lichens."],
-fun:"Lichens have survived more than two weeks exposed to outer space.",
-tl:"Ang lichen ay samahan ng fungus at algae o bakterya na namumuhay nang magkasama. Kaya nitong tumubo sa hubad na bato at tumutulong sa pagbuo ng lupa. Maraming lichen ang hindi nabubuhay sa maruming hangin, kaya ginagamit ito upang sukatin ang kalidad ng hangin."});
+fun:"Lichens have survived more than two weeks exposed to outer space."});

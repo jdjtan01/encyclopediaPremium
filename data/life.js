@@ -9,8 +9,7 @@ s2:[["Families and migration","Millions of Filipinos work overseas to support th
 sp:["Balikbayan boxes","Filipinos working abroad often send large cardboard boxes, called balikbayan boxes, filled with gifts for their families: canned food, chocolates, clothes, toiletries and toys. The tradition grew in the 1980s, as more Filipinos worked overseas. Families eagerly await the boxes, which are filled over months. They have become a symbol of the love and sacrifice of overseas Filipino workers for their families back home."],
 g:[["Nuclear family","Parents and their children"],["Extended family","A family including grandparents, aunts, uncles and cousins"],["Kinship","Family relationships recognized by a society"],["Mano","A Filipino gesture of respect to elders"]],
 f:["The Family Code of the Philippines was enacted in 1987.","The International Day of Families is on 15 May.","Families around the world are getting smaller."],
-fun:"Balikbayan boxes sent by Filipinos abroad can take months to fill with gifts.",
-tl:"Ang pamilya ay grupo ng mga taong magkakaugnay sa dugo, kasal o pag-ampon na nagmamalasakit sa isa't isa. Iba-iba ang anyo nito. Sa Pilipinas, mahalaga ang malapit na ugnayan ng pinalawak na pamilya at paggalang sa nakatatanda."});
+fun:"Balikbayan boxes sent by Filipinos abroad can take months to fill with gifts."});
 
 ADDART({id:"education",t:"Education and Schools",c:"Economics and Society",i:"🏫",w:"Education",r:["malala","alphabet","langevo","family","print"],
 p:[["Learning for life","Education is the process of learning knowledge, skills and values, at home, in school and throughout life."],["Schools around the world","Most children today attend school, though millions still cannot."],["A human right","Education is recognized as a basic human right."]],
@@ -22,8 +21,7 @@ s2:[["Education in the Philippines","During the Spanish era, education was mostl
 sp:["Fatima al-Fihri","In 859 Fatima al-Fihri, a young woman whose family had moved from Kairouan in present-day Tunisia to Fez in Morocco, used her inheritance to build a mosque and center of learning, al-Qarawiyyin. It grew into a famous university where scholars studied religion, law, mathematics, astronomy and medicine. It still operates today, and it is often cited, including by Guinness World Records, as the oldest existing educational institution in the world to grant degrees."],
 g:[["Literacy","The ability to read and write"],["Curriculum","The subjects taught in a school"],["Vocational training","Education for specific jobs or trades"],["Thomasites","American teachers sent to the Philippines in the early 1900s"]],
 f:["Al-Qarawiyyin was founded by Fatima al-Fihri in 859.","The University of Santo Tomas is the oldest university in Asia.","World Teachers’ Day is on 5 October."],
-fun:"The University of Santo Tomas in Manila, founded in 1611, is older than Harvard.",
-tl:"Ang edukasyon ay proseso ng pagkatuto ng kaalaman, kasanayan at pagpapahalaga, sa tahanan, paaralan at sa buong buhay. Kinikilala ito bilang karapatang pantao. Ang Unibersidad ng Santo Tomas, itinatag noong 1611, ang pinakamatandang unibersidad sa Asya."});
+fun:"The University of Santo Tomas in Manila, founded in 1611, is older than Harvard."});
 
 ADDART({id:"clothing",t:"Clothing and Fashion",c:"Arts and Literature",i:"👘",w:"Clothing",r:["silk","bangladeshcountry","phfest","photography","plasticwaste"],
 p:[["More than covering","Clothing protects the body, but also expresses identity, culture and style."],["Ancient invention","People have worn clothes for at least tens of thousands of years."],["Traditional and modern","From the barong Tagalog to jeans, clothing reflects history and creativity."]],
@@ -35,8 +33,7 @@ s2:[["The barong Tagalog","The barong Tagalog is an embroidered, lightweight shi
 sp:["Piña, fabric from pineapples","Piña cloth is a delicate, translucent fabric woven from the fibers of pineapple leaves, a Philippine tradition centered in Aklan. Workers scrape the leaves to extract fine fibers, which are knotted together and woven by hand on looms. Weaving a piece can take weeks. Piña was prized in the 1800s and exported to Europe. Today it is used for barong Tagalog and special garments, and the craft is being revived by weavers and designers."],
 g:[["Textile","A woven or knitted fabric"],["Fiber","A thread-like strand used to make cloth"],["Haute couture","High-end, custom-made fashion"],["Fast fashion","Cheap, quickly produced trendy clothing"]],
 f:["The barong Tagalog is often made from piña fabric.","Jeans were patented in 1873.","Silk was first produced in China."],
-fun:"Piña cloth is woven from the fibers of pineapple leaves.",
-tl:"Ang damit ay nagpoprotekta sa katawan at nagpapahayag ng pagkakakilanlan at kultura. Matagal nang nagsusuot ng damit ang tao. Sa Pilipinas, kilala ang barong Tagalog na kadalasang gawa sa piña at ang terno na may butterfly sleeves."});
+fun:"Piña cloth is woven from the fibers of pineapple leaves."});
 
 ADDART({id:"toys",t:"Toys and Games",c:"Sports",i:"🪀",w:"Toy",r:["chess","videogames","phsport","family","education"],
 p:[["Play is ancient","People have played with toys and games for thousands of years."],["Learning through play","Play helps children grow, learn skills and make friends."],["From sungka to LEGO","Toys and games range from traditional games to modern inventions."]],
@@ -48,5 +45,4 @@ s2:[["Larong Pinoy","Traditional Filipino games, called larong Pinoy, are played
 sp:["The Royal Game of Ur","In the 1920s, the archaeologist Leonard Woolley excavated royal tombs at Ur in present-day Iraq and found beautiful game boards decorated with shell and colored stone, about 4,500 years old. For a long time, no one knew the rules. Then a clay tablet from about 177 BCE, written by a Babylonian scribe, was found to describe how to play. It was a race game, using dice, a bit like backgammon. Today people play the Royal Game of Ur again using the reconstructed rules."],
 g:[["Toy","An object made for play"],["Board game","A game played by moving pieces on a board"],["Mancala","A family of games played by moving seeds through pits"],["Larong Pinoy","Traditional Filipino games"]],
 f:["Senet is one of the oldest board games.","Pedro Flores helped make the yo-yo popular in America.","The Rubik’s Cube has over 43 quintillion arrangements."],
-fun:"A Filipino immigrant, Pedro Flores, started the yo-yo craze in the United States.",
-tl:"Libu-libong taon nang naglalaro ang tao gamit ang mga laruan at laro. Tumutulong ang paglalaro sa paglaki at pagkatuto ng mga bata. Kabilang sa larong Pinoy ang patintero, tumbang preso at sungka, at isang Pilipino ang nagpasikat ng yo-yo sa Amerika."});
+fun:"A Filipino immigrant, Pedro Flores, started the yo-yo craze in the United States."});

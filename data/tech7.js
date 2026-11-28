@@ -9,8 +9,7 @@ s2:[["Faces and photos","Phones and photo apps use AI to recognize faces, sort p
 sp:["Spam, the first AI many people met","One of the earliest kinds of AI that millions of people used every day was the spam filter. In the early 2000s, email inboxes were flooded with unwanted advertising and scams. Programs began using a statistical method called Bayesian filtering, which learned which words and patterns appeared more often in spam than in real messages. As users marked emails as spam, the filters improved. Today, email services block the great majority of spam before people ever see it."],
 g:[["Artificial intelligence","Computer systems that perform tasks that normally need human intelligence"],["Recommendation system","Software that suggests content based on past behavior"],["Chatbot","A program that converses with people in text or speech"],["Bias","An unfair leaning for or against certain people or ideas"]],
 f:["ChatGPT was launched in November 2022.","Spam filters were among the first everyday AI tools.","The Philippines has had a Data Privacy Act since 2012."],
-fun:"Spam filters were one of the first kinds of AI millions of people used daily.",
-tl:"Ginagamit ang artificial intelligence araw-araw sa mga cellphone at app, gaya ng pagsasalin ng wika, mapa, at mga chatbot. Kapaki-pakinabang ito ngunit maaaring magkamali, kaya dapat suriin ang mahahalagang impormasyon."});
+fun:"Spam filters were one of the first kinds of AI millions of people used daily."});
 
 ADDART({id:"selfdriving",t:"Self-Driving Cars",c:"Technology",i:"🚘",w:"Self-driving car",r:["cars","ai","compvision","ev","robot"],
 p:[["Cars that drive themselves","Self-driving cars use sensors and AI to steer, speed up and brake without a human driver."],["Robotaxis","Driverless taxis already carry passengers in some cities in the United States and China."],["Big questions","Safety, laws and jobs are major questions for self-driving vehicles."]],
@@ -22,8 +21,7 @@ s2:[["The DARPA challenges","In 2004 the US Defense Advanced Research Projects A
 sp:["Stanley crosses the desert","In October 2005, 23 robot vehicles lined up in the Mojave Desert for the second DARPA Grand Challenge, a 212-kilometer course of dirt roads, tunnels and mountain passes. A year earlier, none had finished. This time, a blue Volkswagen Touareg named Stanley, built by a team from Stanford University led by Sebastian Thrun, drove the whole course by itself in under seven hours, winning the $2 million prize. Stanley used lasers, cameras and machine learning, and it now rests in the Smithsonian’s National Museum of American History."],
 g:[["Autonomous","Able to operate without human control"],["Lidar","A sensor that measures distance using laser light"],["Robotaxi","A self-driving taxi with no human driver"],["Adaptive cruise control","A system that keeps a safe distance from the car ahead"]],
 f:["Stanley won the DARPA Grand Challenge in 2005.","Automation is described in six levels.","Robotaxis carry passengers in parts of the US and China."],
-fun:"In the first DARPA desert challenge in 2004, no robot car got more than about 12 kilometers.",
-tl:"Ang self-driving car ay sasakyang nagmamaneho nang mag-isa gamit ang mga sensor at artificial intelligence. May mga robotaxi na sa ilang lungsod sa Estados Unidos at Tsina, ngunit may mga tanong pa tungkol sa kaligtasan at trabaho."});
+fun:"In the first DARPA desert challenge in 2004, no robot car got more than about 12 kilometers."});
 
 ADDART({id:"turingtest",t:"The Turing Test",c:"Technology",i:"💬",w:"Turing test",r:["ai","aihistory","llm","comp","turing"],
 p:[["Can machines think?","In 1950, Alan Turing asked whether machines can think and proposed a test."],["The imitation game","If a judge chatting by text cannot tell a computer from a human, the computer passes."],["Still debated","Whether passing the test proves real intelligence is still argued about."]],
@@ -35,8 +33,7 @@ s2:[["The Loebner Prize","From 1991 to the late 2010s, the Loebner Prize held ye
 sp:["Eugene Goostman","In June 2014, at an event at the Royal Society in London, a chatbot called Eugene Goostman, presented as a 13-year-old boy from Ukraine, convinced 33 percent of judges that it was human in five-minute conversations. The organizers announced that the Turing test had been passed for the first time. Critics quickly objected: pretending to be a young teenager writing in his second language made odd or evasive answers seem natural. The episode showed how easily the test can be gamed and fueled debate about what it really measures."],
 g:[["Turing test","A test of whether a machine can imitate human conversation"],["Chatbot","A program that converses with people"],["CAPTCHA","An online test that tells humans and computers apart"],["Chinese Room","A thought experiment questioning whether computers understand"]],
 f:["Alan Turing proposed his test in 1950.","ELIZA was created in 1966.","A CAPTCHA is a reverse Turing test."],
-fun:"Every time you solve a CAPTCHA, you are taking a kind of Turing test.",
-tl:"Ang Turing test ay pagsubok kung kayang gayahin ng makina ang pakikipag-usap ng tao. Iminungkahi ito ni Alan Turing noong 1950. Pinagtatalunan pa rin kung ang pagpasa rito ay patunay ng tunay na talino."});
+fun:"Every time you solve a CAPTCHA, you are taking a kind of Turing test."});
 
 ADDART({id:"geothermal",t:"Geothermal Energy",c:"Technology",i:"♨️",w:"Geothermal energy",r:["renew","volc","phpower","iceland","kenyacountry"],
 p:[["Heat from the Earth","Geothermal energy uses heat from deep inside the Earth."],["Steady power","Unlike sun and wind, it can produce electricity day and night."],["A Philippine strength","The Philippines is one of the world’s largest geothermal power producers."]],
@@ -48,8 +45,7 @@ s2:[["Geothermal in the Philippines","Sitting on the Pacific Ring of Fire, the P
 sp:["Five light bulbs at Larderello","Larderello, in Tuscany, Italy, had long been known for its steaming vents and boric acid industry. On 4 July 1904, Prince Piero Ginori Conti connected a small generator to a steam-driven engine using natural steam from the ground and lit five light bulbs. It was the first time geothermal energy had produced electricity. By 1913 a commercial geothermal power plant was operating there, and Larderello still generates geothermal electricity more than a century later."],
 g:[["Geothermal","Relating to heat from inside the Earth"],["Geyser","A hot spring that shoots water and steam into the air"],["Heat pump","A device that moves heat from one place to another"],["Ring of Fire","A zone of volcanoes and earthquakes around the Pacific Ocean"]],
 f:["Geothermal electricity was first produced in Italy in 1904.","The Philippines is a top geothermal producer.","Iceland heats most homes with geothermal water."],
-fun:"The world’s first geothermal electricity lit just five light bulbs.",
-tl:"Ang geothermal energy ay init mula sa loob ng Daigdig. Ginagamit ito sa paggawa ng kuryente at pagpapainit. Isa ang Pilipinas sa pinakamalalaking gumagamit ng geothermal na kuryente, gaya sa Tiwi, Makban at Tongonan."});
+fun:"The world’s first geothermal electricity lit just five light bulbs."});
 
 ADDART({id:"hydrogen",t:"Hydrogen Energy",c:"Technology",i:"💧",w:"Hydrogen economy",r:["renew","battery","ev","elec","climchange"],
 p:[["A clean fuel","When hydrogen is used as a fuel, its only waste product is water."],["Made, not mined","Most hydrogen must be produced from other substances using energy."],["Many shades","Hydrogen is called grey, blue or green depending on how it is made."]],
@@ -61,5 +57,4 @@ s2:[["Hydrogen today","Most hydrogen produced today is used to make ammonia for 
 sp:["The village powered by natural hydrogen","In 1987, workers drilling for water near the village of Bourakébougou in Mali, West Africa, found something unexpected: a gas that flowed from the well. Decades later, in 2012, it was confirmed to be almost pure hydrogen, produced naturally underground, and a company began using it to generate electricity for the village. Bourakébougou became the first place known to use natural hydrogen as a fuel. The discovery sparked a worldwide search for underground deposits of natural, or white, hydrogen."],
 g:[["Fuel cell","A device that turns hydrogen and oxygen into electricity"],["Electrolysis","Using electricity to split a substance such as water"],["Green hydrogen","Hydrogen made using renewable electricity"],["Ammonia","A compound of nitrogen and hydrogen used in fertilizers"]],
 f:["Using hydrogen as fuel produces only water.","Most hydrogen today comes from natural gas.","Fuel cells powered the Apollo spacecraft."],
-fun:"A village in Mali generates electricity from natural hydrogen found underground.",
-tl:"Ang hydrogen ay maaaring gamitin bilang panggatong na tubig lamang ang dumi. Karamihan ng hydrogen ngayon ay gawa sa natural gas, ngunit ang green hydrogen ay gawa gamit ang kuryente mula sa araw at hangin."});
+fun:"A village in Mali generates electricity from natural hydrogen found underground."});

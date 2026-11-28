@@ -10,8 +10,7 @@ s2:[["The Laguna Copperplate","The Laguna Copperplate Inscription, found in 1989
 sp:["The balangay boats","In 1976 archaeologists in Butuan, Agusan del Norte, began uncovering the remains of large wooden plank boats called balangay, the oldest dated to about 320 CE. Built without nails, with planks joined by wooden pegs and lashings, they could carry dozens of people across the seas. In 2009 a team sailed a replica balangay around Southeast Asia."],
 g:[["Barangay","A village community led by a datu"],["Datu","A chief or ruler of a barangay"],["Babaylan","A spiritual leader and healer"],["Austronesian","A family of peoples and languages spread across the Pacific and Indian oceans"]],
 f:["The Laguna Copperplate, from 900 CE, is the oldest known Philippine document.","The word barangay comes from balangay, a kind of boat.","Homo luzonensis lived in Cagayan at least 50,000 years ago."],
-fun:"The word barangay comes from balangay, the boats in which early settlers sailed.",
-tl:"Bago dumating ang mga Espanyol, may maunlad nang pamayanan sa kapuluan. Namuhay ang mga tao sa mga barangay na pinamumunuan ng datu, nakipagkalakalan sa Tsina at Timog-Silangang Asya, at sumulat gamit ang sariling mga titik gaya ng baybayin."});
+fun:"The word barangay comes from balangay, the boats in which early settlers sailed."});
 
 ADDART({id:"baybayin",t:"Baybayin",c:"Languages",i:"✍️",w:"Baybayin",r:["phlang","precol","alphabet"],
 p:[["A Philippine script","Baybayin is a writing system used in the Philippines before and during early Spanish rule."],["Syllables, not letters","Each basic symbol stands for a consonant followed by the sound a."],["Alive today","Baybayin appears on banknotes, logos and art, and related scripts are still used by Mangyan and Tagbanwa communities."]],
@@ -23,8 +22,7 @@ s2:[["Cousins in Southeast Asia","Baybayin belongs to a family of scripts descen
 sp:["The ambahan","The Hanunó’o Mangyan of Mindoro write ambahan, poems of seven-syllable lines, on bamboo using a related script carved with a knife. Ambahan are recited or chanted to give advice, express love or teach. Young people learn the script so they can read and write ambahan, keeping one of the oldest Philippine writing traditions alive."],
 g:[["Abugida","A script in which each symbol is a consonant with a built-in vowel"],["Kudlit","A mark that changes the vowel sound of a baybayin symbol"],["Script","A system of written symbols"],["Ambahan","A Mangyan poem often written on bamboo"]],
 f:["Baybayin comes from the Tagalog word baybay, to spell.","The name alibata was only invented in 1914.","Philippine banknotes show the word Pilipino in baybayin."],
-fun:"The word Pilipino is written in baybayin on Philippine banknotes.",
-tl:"Ang baybayin ay katutubong sistema ng pagsulat sa Pilipinas bago at noong unang panahon ng mga Espanyol. Bawat simbolo ay katinig na may tunog na a, at binabago ng kudlit ang patinig nito."});
+fun:"The word Pilipino is written in baybayin on Philippine banknotes."});
 
 ADDART({id:"indig",t:"Indigenous Peoples of the Philippines",c:"Philippines",i:"🪶",w:"Indigenous peoples of the Philippines",r:["banaue","phbio","phlang"],
 p:[["Many peoples","More than 100 Indigenous groups live in the Philippines, from the mountains of the Cordillera to the forests of Mindanao."],["Living traditions","They keep their own languages, beliefs, crafts, music and ways of caring for the land."],["Rights by law","The Indigenous Peoples’ Rights Act of 1997 recognizes their rights to their ancestral lands and cultures."]],
@@ -36,8 +34,7 @@ s2:[["The Igorot of the Cordillera","The peoples of the Cordillera mountains of 
 sp:["Apo Whang-od","Maria Oggay, known as Apo Whang-od, is a Kalinga tattoo artist from Buscalan who has tapped traditional tattoos by hand with a thorn and soot ink for about 90 years. Once given to warriors and women, these tattoos are now sought by visitors from around the world. In 2023, aged about 106, she appeared on the cover of Vogue Philippines."],
 g:[["Indigenous","Belonging to the original peoples of a place"],["Ancestral domain","Land that a community has held since time immemorial"],["Lumad","A Cebuano word for the non-Muslim Indigenous peoples of Mindanao"],["T’nalak","A sacred abaca cloth woven by the T’boli"]],
 f:["More than 100 Indigenous groups live in the Philippines.","The Hudhud chants can take days to perform.","Apo Whang-od has been tattooing for about 90 years."],
-fun:"T’boli weavers say the patterns of t’nalak cloth come to them in their dreams.",
-tl:"Mahigit 100 katutubong grupo ang naninirahan sa Pilipinas, gaya ng mga Igorot, Aeta, Mangyan at Lumad. Kinikilala ng Indigenous Peoples’ Rights Act ng 1997 ang kanilang karapatan sa lupang ninuno at kultura."});
+fun:"T’boli weavers say the patterns of t’nalak cloth come to them in their dreams."});
 
 ADDART({id:"martiallaw",t:"Martial Law in the Philippines",c:"Philippines",i:"⚖️",w:"Martial law under Ferdinand Marcos",r:["marcos","ninoy","edsa"],
 p:[["Military rule","On 21 September 1972, President Ferdinand Marcos placed the Philippines under martial law."],["Rule by decree","Congress was closed, opponents were arrested and the press was controlled."],["Lasting debate","Martial law was formally lifted in 1981, but Marcos held power until the People Power Revolution of 1986."]],
@@ -49,8 +46,7 @@ s2:[["The economy","In the early years of martial law, the economy grew and the 
 sp:["The radio that would not stop","When martial law closed most news outlets, the Catholic station Radio Veritas and underground newspapers such as Ang Pahayagang Malaya and the mimeographed sheets of student groups kept spreading news. In February 1986, Radio Veritas called people to EDSA to protect soldiers who had broken away from Marcos, helping start the People Power Revolution."],
 g:[["Martial law","Military rule that replaces normal civilian government"],["Decree","An order with the force of law made by a ruler"],["Curfew","A rule requiring people to stay indoors at certain times"],["Reparations","Payments made to repair a wrong"]],
 f:["Martial law was declared in 1972 and formally lifted in 1981.","More than 11,000 victims were recognized under a 2013 law.","The 1987 Constitution limits martial law to 60 days."],
-fun:"The 1987 Constitution limits any declaration of martial law to 60 days unless Congress extends it.",
-tl:"Idineklara ni Pangulong Ferdinand Marcos ang batas militar noong 21 Setyembre 1972. Isinara ang Kongreso, kinontrol ang media at ikinulong ang mga kritiko, at maraming biktima ng paglabag sa karapatang pantao hanggang sa EDSA noong 1986."});
+fun:"The 1987 Constitution limits any declaration of martial law to 60 days unless Congress extends it."});
 
 ADDART({id:"ofw",t:"Filipinos Overseas",c:"Philippines",i:"✈️",w:"Overseas Filipinos",r:["phecon","labor","trade"],
 p:[["A global people","About 10 million Filipinos live or work outside the Philippines."],["Overseas Filipino workers","Around 2 million work abroad at any one time as nurses, seafarers, caregivers, engineers and domestic workers."],["Remittances","Money sent home by Filipinos abroad supports millions of families and a large part of the economy."]],
@@ -62,8 +58,7 @@ s2:[["Bagong bayani","Overseas workers are often called bagong bayani, new heroe
 sp:["Flor Contemplacion","Flor Contemplacion was a Filipina domestic worker in Singapore who was convicted of murder and executed in March 1995, despite appeals from the Philippine government and doubts raised about the case. Her death caused nationwide grief and anger, strained relations with Singapore and led Congress to pass the Migrant Workers and Overseas Filipinos Act that year."],
 g:[["OFW","Overseas Filipino worker, employed abroad on contract"],["Remittance","Money sent home by someone working away"],["Balikbayan","A Filipino returning home from abroad"],["Seafarer","A person who works on a ship"]],
 f:["About 10 million Filipinos live or work abroad.","Remittances reached about US$38 billion in 2024.","June 7 is Migrant Workers Day in the Philippines."],
-fun:"Balikbayan boxes are often filled slowly over many months before being shipped home.",
-tl:"Mga 10 milyong Pilipino ang naninirahan o nagtatrabaho sa ibang bansa, at mga 2 milyon ang OFW sa anumang panahon. Malaki ang naitutulong ng kanilang padala sa pamilya at ekonomiya, ngunit malaki rin ang sakripisyo ng pagkakalayo."});
+fun:"Balikbayan boxes are often filled slowly over many months before being shipped home."});
 
 ADDART({id:"tubbataha",t:"Tubbataha Reefs",c:"Philippines",i:"🐠",w:"Tubbataha Reef",r:["reef","palawan","seaturtle"],
 p:[["A jewel of the Sulu Sea","Tubbataha Reefs Natural Park protects two huge coral atolls in the middle of the Sulu Sea."],["World Heritage","It was declared a UNESCO World Heritage Site in 1993."],["Teeming with life","Its waters hold hundreds of kinds of coral and fish, sharks, turtles and seabirds."]],
@@ -75,8 +70,7 @@ s2:[["Diving season","Tubbataha can only be visited by liveaboard dive boats fro
 sp:["The ranger station","Tubbataha’s rangers live in shifts of about two months at a time on a small station built on stilts above the reef, with only the sea, the coral and the seabirds around them. They patrol in boats day and night, check visiting vessels and record wildlife. Their dedication has helped keep Tubbataha one of the healthiest reefs on Earth."],
 g:[["Atoll","A ring-shaped coral reef around a lagoon"],["Lagoon","A shallow body of water separated from the sea by a reef"],["Coral bleaching","When stressed corals lose the algae that give them color and food"],["Marine protected area","An area of sea where activities are limited to protect nature"]],
 f:["Tubbataha has about half of the world’s known coral species.","Rangers guard Tubbataha all year round.","Tubbataha became a World Heritage Site in 1993."],
-fun:"Tubbataha’s reefs are home to about half of all coral species known in the world.",
-tl:"Ang Tubbataha Reefs Natural Park ay protektadong bahura sa gitna ng Dagat Sulu, sakop ng Palawan. Isa itong UNESCO World Heritage Site mula 1993 at tahanan ng daan-daang uri ng korales at isda."});
+fun:"Tubbataha’s reefs are home to about half of all coral species known in the world."});
 
 ADDART({id:"apo",t:"Mount Apo",c:"Philippines",i:"⛰️",w:"Mount Apo",r:["mindanao","eagle","volc"],
 p:[["The highest peak","Mount Apo, at 2,954 meters, is the highest mountain in the Philippines."],["A sleeping volcano","It is a potentially active volcano with steaming vents near its summit."],["Grandfather of mountains","Apo means elder or grandfather, and the mountain is sacred to the peoples who live around it."]],
@@ -88,8 +82,7 @@ s2:[["Climbing Apo","Climbing Mount Apo usually takes two to four days. Popular 
 sp:["Apo Sandawa","Many Indigenous peoples around the mountain call it Apo Sandawa. In their stories, the mountain is the dwelling of powerful spirits and the resting place of ancestors. Before climbing, some guides make offerings and ask permission. Their traditions remind climbers that Mount Apo is not only a challenge but a sacred home to be respected."],
 g:[["Stratovolcano","A tall, cone-shaped volcano built from layers of lava and ash"],["Solfatara","A volcanic vent that releases steam and sulfur gases"],["Mossy forest","A cool, misty forest where trees are covered in moss"],["Geothermal","Using heat from inside the Earth"]],
 f:["Mount Apo is the highest mountain in the Philippines.","Apo means elder or grandfather.","Steam and sulfur still rise from vents near its summit."],
-fun:"Apo, the name of the country’s highest mountain, means elder or grandfather.",
-tl:"Ang Bundok Apo ang pinakamataas na bundok sa Pilipinas sa taas na 2,954 metro, sa Mindanao. Isa itong bulkang maaaring aktibo, tahanan ng Philippine eagle, at sagrado sa mga katutubong naninirahan sa paligid nito."});
+fun:"Apo, the name of the country’s highest mountain, means elder or grandfather."});
 
 ADDART({id:"phgov",t:"Government of the Philippines",c:"Philippines",i:"🏛️",w:"Government of the Philippines",r:["independence","martiallaw","democ"],
 p:[["A democratic republic","The Philippines is a democratic republic with a president elected by the people."],["Three branches","Power is divided among the executive, the legislature and the judiciary."],["The 1987 Constitution","The country’s highest law was ratified by the people in 1987, after the People Power Revolution."]],
@@ -101,5 +94,4 @@ s2:[["Local government","The Philippines is divided into 82 provinces and about 
 sp:["The Bill of Rights","Article III of the 1987 Constitution, the Bill of Rights, protects freedoms such as speech, the press, religion and peaceful assembly, the right to due process, protection against unreasonable searches and the right of the accused to remain silent and to have a lawyer. It also bans torture and secret detention, lessons drawn from the martial law years."],
 g:[["Republic","A state in which power rests with the people and their elected representatives"],["Plebiscite","A direct vote of the people on an important question"],["Impeachment","Charging a high official with wrongdoing in order to remove them"],["Party-list","A system that gives seats in the House to groups and sectors"]],
 f:["The president serves a single six-year term.","The Senate has 24 members elected by the whole country.","The barangay is the smallest unit of government."],
-fun:"Filipinos aged 15 to 30 elect their own barangay youth councils, the Sangguniang Kabataan.",
-tl:"Ang Pilipinas ay demokratiko at republikanong estado na sumusunod sa Saligang Batas ng 1987. Hinati ang kapangyarihan sa tatlong sangay: ang ehekutibo na pinamumunuan ng pangulo, ang Kongreso at ang hudikatura."});
+fun:"Filipinos aged 15 to 30 elect their own barangay youth councils, the Sangguniang Kabataan."});

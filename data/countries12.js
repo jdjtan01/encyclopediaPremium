@@ -12,8 +12,7 @@ s2:[["Tok Pisin","With so many languages, people need a common one. Tok Pisin, a
 sp:["Over 800 languages","Papua New Guinea has more than 800 living languages, about 12 percent of all the languages in the world, though it has only about one-tenth of one percent of the world’s people. Many are spoken by only a few thousand people living in neighboring valleys. Mountains, rivers and swamps kept groups apart for thousands of years, letting their languages grow very different from each other."],
 g:[["Creole","A language that develops from a mix of languages"],["Clan","A large group of families who share an ancestor"],["Sing-sing","A festival gathering with traditional dancing and song"],["Referendum","A vote by the people on a single question"]],
 f:["Papua New Guinea has more languages than any other country.","Its flag shows a bird of paradise.","Farming began in its highlands thousands of years ago."],
-fun:"Papua New Guinea has more than 800 languages, more than any other country.",
-tl:"Ang Papua New Guinea ay bansa sa silangang bahagi ng pulo ng New Guinea. Mahigit 800 wika ang ginagamit dito, higit sa alinmang bansa. Naging malaya ito mula sa Australia noong 1975."});
+fun:"Papua New Guinea has more than 800 languages, more than any other country."});
 
 ADDART({id:"fijicountry",t:"Fiji",c:"Countries and Places",i:"🏝️",w:"Fiji",r:["pacific","reef","climchange","nzcountry","australiacountry"],
 p:[["An island nation","Fiji is made up of more than 330 islands in the South Pacific, about a third of them inhabited."],["A meeting place","Fiji lies where Melanesian and Polynesian cultures meet, and it has a large community with roots in India."],["Rugby champions","Fiji’s rugby sevens team won Olympic gold in 2016 and again at the Tokyo Games held in 2021; the first gold was also Fiji’s first-ever Olympic medal."]],
@@ -25,8 +24,7 @@ s2:[["Kava","Kava, called yaqona in Fiji, is a drink made from the ground root o
 sp:["Bula!","Bula is the Fijian greeting, meaning life and wishing good health. Visitors to Fiji hear it everywhere, and it is often shouted with a big smile. On Fridays, many Fijians wear bula shirts, colorful patterned shirts, to work. Vinaka means thank you, and moce is goodbye."],
 g:[["Atoll","A ring-shaped coral island around a lagoon"],["Indenture","A labor contract binding workers for a fixed number of years"],["Kava","A traditional drink made from a pepper plant root"],["Coup","A sudden, illegal seizure of power"]],
 f:["Fiji won its first Olympic medal, a gold, in rugby sevens in 2016.","It has more than 330 islands.","The 180th meridian passes through Fiji."],
-fun:"The 180° line of longitude passes through Fiji, though the International Date Line bends around it.",
-tl:"Ang Fiji ay bansang may mahigit 330 pulo sa Timog Pasipiko. Kilala ito sa mga bahura, sa rugby at sa pagbating bula. Naging malaya ito mula sa Britanya noong 1970."});
+fun:"The 180° line of longitude passes through Fiji, though the International Date Line bends around it."});
 
 ADDART({id:"moroccocountry",t:"Morocco",c:"Countries and Places",i:"🏺",w:"Morocco",r:["sahara","islam","spaincountry","med","arabic"],
 p:[["Africa’s northwest corner","Morocco lies just 14 kilometers from Europe across the Strait of Gibraltar, with coasts on both the Atlantic and the Mediterranean."],["Amazigh and Arab","Its people and culture blend Amazigh (Berber), Arab, African and Andalusian traditions."],["Old cities","Cities such as Fez and Marrakesh have walled old towns called medinas, with markets that have bustled for centuries."]],
@@ -38,5 +36,4 @@ s2:[["Fez and Marrakesh","The medina of Fez, with about 9,000 lanes, is one of t
 sp:["Western Sahara","Morocco controls most of Western Sahara, a desert territory to its south that Spain left in 1975. The Polisario Front, a movement of the Sahrawi people, seeks independence for the territory and fought a war with Morocco until a ceasefire in 1991. The United Nations considers it a non-self-governing territory, and its final status remains disputed between Morocco and the Polisario Front."],
 g:[["Medina","The old walled part of a North African city"],["Amazigh","The Indigenous people of North Africa, also called Berbers"],["Protectorate","A territory controlled and protected by a stronger state"],["Tagine","A slow-cooked stew and the clay pot it is cooked in"]],
 f:["Al-Qarawiyyin in Fez, founded in 859, is often called the world’s oldest university.","Morocco has the world’s largest phosphate reserves.","It was the first African team to reach a World Cup semifinal."],
-fun:"The oldest continually operating university in the world, Al-Qarawiyyin, was founded by a woman, Fatima al-Fihri.",
-tl:"Ang Morocco ay kaharian sa hilagang-kanlurang Africa, malapit sa Espanya. Kilala ito sa kabundukang Atlas, sa disyertong Sahara, sa mga lumang lungsod gaya ng Fez at Marrakesh, at sa pagkaing tagine."});
+fun:"The oldest continually operating university in the world, Al-Qarawiyyin, was founded by a woman, Fatima al-Fihri."});

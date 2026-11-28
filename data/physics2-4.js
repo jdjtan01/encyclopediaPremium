@@ -9,8 +9,7 @@ s2:[["Ignition","On 5 December 2022, the National Ignition Facility in Californi
 sp:["Always 30 years away","Fusion researchers sometimes joke that practical fusion power has been 30 years away for the last 70 years. The challenges are huge, but progress has been real: experiments have reached the temperatures of stars, held plasmas for minutes and, in 2022, released more fusion energy than the lasers delivered. Whether fusion will power homes by the 2040s or later remains an open question."],
 g:[["Fusion","Joining light atomic nuclei to form a heavier one"],["Fission","Splitting a heavy atomic nucleus"],["Plasma","A hot gas of charged particles, the fourth state of matter"],["Tokamak","A doughnut-shaped machine that holds plasma with magnetic fields"]],
 f:["The Sun converts about 4 million metric tons of mass into energy every second.","Fusion ignition was first achieved in 2022.","Deuterium for fusion can be extracted from seawater."],
-fun:"Every second, the Sun converts about 4 million metric tons of matter into energy.",
-tl:"Ang nuclear fusion ay pagsasama ng magagaang na nukleyo ng atomo upang bumuo ng mas mabigat, na naglalabas ng napakalaking enerhiya. Ito ang nagpapaliwanag sa Araw. Sinisikap ng mga siyentipiko na gamitin ito para sa malinis na kuryente."});
+fun:"Every second, the Sun converts about 4 million metric tons of matter into energy."});
 
 ADDART({id:"superconduct",t:"Superconductivity",c:"Science",i:"🧲",w:"Superconductivity",r:["magnet","elec","quantum","thermo"],
 p:[["Zero resistance","Superconductors are materials that conduct electricity with no resistance at all when cooled below a certain temperature."],["Floating magnets","They push away magnetic fields, which can make magnets float above them."],["Used every day","Superconducting magnets are used in hospital MRI scanners, particle accelerators and some high-speed trains."]],
@@ -22,5 +21,4 @@ s2:[["High-temperature superconductors","In 1986 Georg Bednorz and Alex Müller 
 sp:["A floating magnet","One of the most famous physics demonstrations is a small magnet hovering above a dark disk of high-temperature superconductor cooled with liquid nitrogen, wisps of cold vapor drifting around it. Because the superconductor expels and pins magnetic fields, the magnet stays locked in place, and it can even be spun or pushed along a track like a tiny maglev train."],
 g:[["Superconductor","A material that conducts electricity with zero resistance when cold enough"],["Resistance","Opposition to the flow of electric current"],["Critical temperature","The temperature below which a material becomes superconducting"],["Meissner effect","The expulsion of magnetic fields from a superconductor"]],
 f:["Superconductivity was discovered in 1911.","MRI scanners use superconducting magnets.","John Bardeen is the only person to win the Nobel Prize in Physics twice."],
-fun:"A current in a superconducting loop can flow for years without any power source.",
-tl:"Ang superconductivity ay kalagayan kung saan dumadaloy ang kuryente nang walang resistensya kapag pinalamig ang materyal. Ginagamit ito sa MRI scanner, particle accelerator at maglev train."});
+fun:"A current in a superconducting loop can flow for years without any power source."});

@@ -9,8 +9,7 @@ s2:[["Eradicating smallpox","Smallpox killed hundreds of millions of people over
 sp:["The last case of smallpox","On 26 October 1977, a hospital cook named Ali Maow Maalin in Merca, Somalia, developed the rash of smallpox. He became the last person to catch the disease naturally. WHO teams traced and vaccinated everyone he had contact with, and no further cases followed. Maalin recovered and later worked as a vaccinator in the campaign against polio. After two more years of checking, WHO declared smallpox eradicated on 8 May 1980."],
 g:[["Public health","Protecting and improving the health of populations"],["Eradication","Completely eliminating a disease worldwide"],["Pandemic","A disease outbreak spreading across many countries"],["Specialized agency","An independent UN organization for a specific field"]],
 f:["WHO was founded on 7 April 1948.","Smallpox was declared eradicated in 1980.","WHO’s Western Pacific office is in Manila."],
-fun:"World Health Day, 7 April, marks the founding of WHO.",
-tl:"Ang World Health Organization ay ahensiya ng United Nations para sa pandaigdigang kalusugan. Itinatag ito noong 1948. Nasa Maynila ang tanggapan nito para sa Kanlurang Pasipiko. Ang pinakamalaking tagumpay nito ang pagpuksa sa bulutong."});
+fun:"World Health Day, 7 April, marks the founding of WHO."});
 
 ADDART({id:"nato",t:"NATO",c:"Economics and Society",i:"🛡️",w:"NATO",r:["coldwar","ww2","un","ukrainecountry","swedencountry"],
 p:[["An alliance for defense","NATO, the North Atlantic Treaty Organization, is a military alliance of countries in Europe and North America."],["All for one","Its key principle is that an attack on one member is an attack on all."],["Growing membership","Founded with 12 members in 1949, it now has 32."]],
@@ -22,8 +21,7 @@ s2:[["Expansion and debate","NATO’s expansion eastward after the Cold War has 
 sp:["Article 5 after 9/11","NATO was created mainly to defend Europe from a Soviet attack. But the only time Article 5 has been invoked was after the 11 September 2001 terrorist attacks on the United States. The next day, NATO allies declared the attacks an attack on all members. NATO aircraft patrolled American skies, and allied forces later served in Afghanistan. Many soldiers from European and Canadian forces died there."],
 g:[["Alliance","An agreement between countries to cooperate, especially for defense"],["Collective defense","The principle that members defend each other"],["Warsaw Pact","The Soviet-led alliance of the Cold War"],["Consensus","Agreement by all members"]],
 f:["NATO was founded in 1949.","Article 5 was invoked only after the 11 September attacks.","Sweden became NATO’s 32nd member in 2024."],
-fun:"NATO’s collective defense clause has been invoked only once, after an attack on the United States.",
-tl:"Ang NATO ay alyansang militar ng mga bansa sa Europa at Hilagang Amerika na itinatag noong 1949. Ang pangunahing prinsipyo nito ay ang pag-atake sa isang miyembro ay pag-atake sa lahat. Mayroon itong 32 miyembro ngayon."});
+fun:"NATO’s collective defense clause has been invoked only once, after an attack on the United States."});
 
 ADDART({id:"africanunion",t:"The African Union",c:"Economics and Society",i:"🌍",w:"African Union",r:["africacolon","decol","nkrumah","ethiopiacountry","un"],
 p:[["Uniting a continent","The African Union is an organization of 55 African countries working for unity, peace and development."],["From the OAU","It replaced the Organisation of African Unity, founded in 1963."],["Big ambitions","Its goals include a continent-wide free trade area and its long-term plan, Agenda 2063."]],
@@ -35,5 +33,4 @@ s2:[["The African Continental Free Trade Area","The African Continental Free Tra
 sp:["Africa Day","On 25 May 1963, in Addis Ababa, Emperor Haile Selassie of Ethiopia hosted leaders of 32 African nations as they signed the charter of the Organisation of African Unity. Many of them had led their countries to independence only months or a few years before. The day is now celebrated as Africa Day, with cultural events, concerts and discussions about the continent’s future in Africa and around the world."],
 g:[["Pan-Africanism","A movement for unity among African peoples"],["Free trade area","A region where countries trade with few tariffs"],["Coup","A sudden, illegal seizure of government power"],["Diaspora","People living outside their ancestral homeland"]],
 f:["The African Union has 55 members.","Africa Day is celebrated on 25 May.","The AU joined the G20 in 2023."],
-fun:"By number of countries, the African Continental Free Trade Area is the largest free trade area in the world.",
-tl:"Ang African Union ay samahan ng 55 bansang Aprikano para sa pagkakaisa, kapayapaan at kaunlaran. Pinalitan nito ang Organisation of African Unity na itinatag noong 1963. Nasa Addis Ababa ang punong-tanggapan nito."});
+fun:"By number of countries, the African Continental Free Trade Area is the largest free trade area in the world."});

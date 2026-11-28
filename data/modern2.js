@@ -9,8 +9,7 @@ s2:[["Filipinos around the world","Millions of Filipinos live and work abroad as
 sp:["The Global Compact for Migration","In December 2018, more than 150 countries met in Marrakesh, Morocco, and adopted the Global Compact for Safe, Orderly and Regular Migration, the first international agreement covering all aspects of migration. It is not legally binding but sets out shared goals, such as saving lives on migration routes, fighting human trafficking, reducing the costs of sending remittances and helping migrants integrate. Some countries refused to join, saying it threatened their sovereignty, while supporters saw it as a step toward cooperation on an issue no country can manage alone."],
 g:[["Migrant","A person who moves to live in another place"],["Refugee","A person forced to flee their country because of persecution or war"],["Asylum","Protection given by a country to a refugee"],["Remittance","Money sent home by a migrant worker"]],
 f:["More than 300 million people live outside their country of birth.","The Refugee Convention was adopted in 1951.","The Philippines is one of the largest receivers of remittances."],
-fun:"Remittances to developing countries are larger than all foreign aid combined.",
-tl:"Ang migrasyon ay paglipat ng tao sa ibang lugar o bansa upang manirahan. Mahigit 300 milyong tao ang nakatira sa labas ng bansang sinilangan nila. Ang mga refugee ay napilitang tumakas dahil sa digmaan o pag-uusig. Milyun-milyong Pilipino ang nagtatrabaho sa ibang bansa."});
+fun:"Remittances to developing countries are larger than all foreign aid combined."});
 
 ADDART({id:"foodsecurity",t:"Hunger and Food Security",c:"Economics and Society",i:"🥣",w:"Food security",r:["agri","rice","greenrev","climchange","inequality","foodwaste"],
 p:[["Enough food for all","Food security means everyone always has enough safe, nutritious food."],["Hunger today","Hundreds of millions of people still go hungry."],["Causes","Conflict, climate shocks and poverty are the main drivers of hunger."]],
@@ -22,8 +21,7 @@ s2:[["Children","Children suffer most from hunger. Undernutrition in the first 1
 sp:["The community pantry","In April 2021, during the COVID-19 lockdowns, a young woman named Ana Patricia Non set up a small bamboo cart of vegetables, rice and canned goods on Maginhawa Street in Quezon City, with a sign inviting people to give what they could and take only what they needed. Photos spread online, and within days hundreds of community pantries had appeared across the Philippines, run by neighbors, farmers, churches and students. The movement showed how ordinary people could respond to hunger with solidarity, and similar pantries appeared in other countries."],
 g:[["Food security","Reliable access to enough safe, nutritious food"],["Malnutrition","Poor nutrition from too little, too much or the wrong food"],["Stunting","Being too short for one’s age because of poor nutrition"],["Famine","Extreme food shortage causing widespread deaths"]],
 f:["About 670 million people faced hunger in 2024.","World Food Day is 16 October.","The World Food Programme won the 2020 Nobel Peace Prize."],
-fun:"The Philippine community pantry movement began with one bamboo cart in 2021.",
-tl:"Ang food security ay ang pagkakaroon ng sapat, ligtas at masustansiyang pagkain ng lahat sa lahat ng oras. Mga 670 milyong tao pa rin ang nagugutom. Ang digmaan, pagbabago ng klima at kahirapan ang pangunahing sanhi."});
+fun:"The Philippine community pantry movement began with one bamboo cart in 2021."});
 
 ADDART({id:"waterscarcity",t:"The Water Crisis",c:"Geography",i:"🚰",w:"Water scarcity",r:["sanitation","wcycle","climchange","agri","water"],
 p:[["Not enough water","Billions of people face water shortages for part of the year."],["Safe to drink","Around two billion people lack safely managed drinking water."],["Using water wisely","Farming uses most of the world’s fresh water."]],
@@ -35,8 +33,7 @@ s2:[["Day Zero","In 2018, after three years of drought, the city of Cape Town in
 sp:["Saving water at home","Simple habits can save large amounts of water. Turning off the tap while brushing teeth can save several liters each time. Fixing a dripping faucet can save thousands of liters a year. Taking shorter showers, using a dipper and pail instead of a long shower, collecting rainwater for plants and washing full loads of clothes all help. In many Filipino homes, the tabo and timba, the dipper and pail, have long been an efficient way of bathing that uses far less water than a shower."],
 g:[["Water scarcity","Not having enough fresh water to meet needs"],["Aquifer","An underground layer of rock that holds water"],["Desalination","Removing salt from seawater"],["Virtual water","Water used to produce food and goods"]],
 f:["Only about 3 percent of Earth’s water is fresh.","Farming uses about 70 percent of fresh water.","World Water Day is 22 March."],
-fun:"Cape Town residents halved their water use in 2018 to avoid Day Zero.",
-tl:"Ang kakulangan sa tubig ay kawalan ng sapat na tubig-tabang. Halos 2 bilyong tao ang walang ligtas na inuming tubig. Agrikultura ang gumagamit ng karamihan ng tubig-tabang. Sa Metro Manila, nagkaroon ng krisis sa tubig noong 2019."});
+fun:"Cape Town residents halved their water use in 2018 to avoid Day Zero."});
 
 ADDART({id:"energytransition",t:"The Energy Transition",c:"Technology",i:"🔋",w:"Energy transition",r:["renew","solarpower","ev","fossilfuels","climchange"],
 p:[["From fossil fuels to clean energy","Countries are shifting from coal, oil and gas to cleaner energy sources."],["Solar on the rise","Solar and wind power have become the cheapest electricity in many places."],["A big challenge","The change raises questions about cost, jobs and reliability."]],
@@ -48,8 +45,7 @@ s2:[["The Philippines","The Philippines relies heavily on imported coal and oil 
 sp:["The first silicon solar cell","In 1954, three scientists at Bell Laboratories in the United States, Daryl Chapin, Calvin Fuller and Gerald Pearson, created the first practical silicon solar cell, which turned sunlight directly into electricity. At a press demonstration, it powered a toy Ferris wheel and a small radio transmitter. Newspapers predicted it could one day harness the limitless energy of the sun. At first, solar cells were so expensive that they were used mainly on satellites, starting with Vanguard 1 in 1958. Today, after decades of improvement and mass production, solar power is one of the cheapest sources of electricity on Earth."],
 g:[["Energy transition","The shift from fossil fuels to low-carbon energy"],["Renewable energy","Energy from sources that are naturally replenished"],["Grid","The network that delivers electricity"],["Just transition","A fair shift that supports affected workers and communities"]],
 f:["Solar panel prices have fallen about 90 percent since 2010.","The Paris Agreement was adopted in 2015.","The Philippines stopped approving new coal plants in 2020."],
-fun:"The first silicon solar cell powered a toy Ferris wheel in 1954.",
-tl:"Ang energy transition ay ang paglipat mula sa karbon, langis at gas tungo sa malinis na enerhiya gaya ng araw, hangin at geothermal. Layunin nitong bawasan ang mga gas na nagdudulot ng pagbabago ng klima."});
+fun:"The first silicon solar cell powered a toy Ferris wheel in 1954."});
 
 ADDART({id:"sdgs",t:"The Sustainable Development Goals",c:"Economics and Society",i:"🎯",w:"Sustainable Development Goals",r:["un","foodsecurity","inequality","climchange","education"],
 p:[["Seventeen goals","The Sustainable Development Goals are 17 global goals for a better world by 2030."],["For everyone","They cover poverty, hunger, health, education, equality, climate and more."],["Mixed progress","Progress has been uneven, and many targets are off track."]],
@@ -61,8 +57,7 @@ s2:[["Progress so far","Before 2020, the world made progress on goals such as re
 sp:["Everyone had a say","Unlike most international agreements, written mainly by diplomats, the Sustainable Development Goals were shaped with input from millions of people. From 2013 to 2015, the United Nations held consultations in nearly 100 countries and ran a global online survey called MY World, in which more than seven million people, many of them young people in developing countries, voted on the issues most important to them. A good education, better health care and an honest and responsive government came out on top. Their votes influenced the final list of 17 goals."],
 g:[["Sustainable development","Meeting today’s needs without harming future generations"],["Target","A specific aim within a goal"],["Indicator","A measurement used to track progress"],["Marginalized","Pushed to the edges of society"]],
 f:["The SDGs were adopted in 2015.","There are 17 goals and 169 targets.","The deadline for the goals is 2030."],
-fun:"Millions of people voted online on which issues the global goals should include.",
-tl:"Ang Sustainable Development Goals ay 17 layunin ng United Nations para sa mas mabuting mundo pagsapit ng 2030. Kabilang dito ang pagwawakas ng kahirapan at gutom, kalusugan, edukasyon, pagkakapantay-pantay at pangangalaga sa klima."});
+fun:"Millions of people voted online on which issues the global goals should include."});
 
 ADDART({id:"inequality",t:"Poverty and Inequality",c:"Economics and Society",i:"⚖️",w:"Economic inequality",r:["gdp","labor","taxes","sdgs","phecon"],
 p:[["Rich and poor","Inequality is the gap between those who have more and those who have less."],["Extreme poverty","Hundreds of millions of people live on just a few dollars a day."],["Progress and gaps","Extreme poverty has fallen greatly, but large gaps remain."]],
@@ -74,8 +69,7 @@ s2:[["Poverty in the Philippines","The share of Filipinos living below the natio
 sp:["The elephant curve","In 2013 the economists Christoph Lakner and Branko Milanović drew a graph showing how incomes around the world grew between 1988 and 2008. It looked like an elephant. The rising back showed large gains for the middle of the global distribution, mostly people in Asian countries such as China, India and Indonesia. The dip at the base of the trunk showed little growth for the working and middle classes of rich countries. The raised tip of the trunk showed huge gains for the world’s richest 1 percent. The elephant curve became a famous picture of how globalization shaped who gained and who did not."],
 g:[["Poverty","Lacking enough resources to meet basic needs"],["Inequality","Uneven sharing of income, wealth or opportunities"],["Gini coefficient","A number measuring income inequality"],["Cash transfer","Money given directly to people, often by a government"]],
 f:["Extreme poverty has fallen sharply since 1990.","The Gini coefficient measures inequality.","The Philippines’ 4Ps program began in 2008."],
-fun:"A famous graph of global income growth is called the elephant curve because of its shape.",
-tl:"Ang kahirapan ay kakulangan sa pangunahing pangangailangan, habang ang inequality ay ang hindi pantay na hatian ng yaman. Malaki na ang ibinaba ng matinding kahirapan sa mundo, ngunit malaki pa rin ang agwat ng mayaman at mahirap."});
+fun:"A famous graph of global income growth is called the elephant curve because of its shape."});
 
 ADDART({id:"worldpop",t:"World Population",c:"Geography",i:"👨‍👩‍👧",w:"World population",r:["urban","megacities","agingworld","migration","indiacountry"],
 p:[["Eight billion","The world’s population passed 8 billion in 2022."],["Slowing growth","Families are getting smaller in most countries."],["A peak ahead","The UN expects the population to peak later this century."]],
@@ -87,8 +81,7 @@ s2:[["The 7 billionth baby","To mark the world reaching 7 billion people, the Un
 sp:["From one billion to eight","It took the whole of human history, hundreds of thousands of years, for the world’s population to reach 1 billion, around the year 1804. The second billion took about 123 years, reached in 1927. The third billion took only 33 years, in 1960. After that, a new billion was added every 12 to 15 years: 4 billion in 1974, 5 billion in 1987, 6 billion in 1999, 7 billion in 2011 and 8 billion in 2022. Because birth rates are falling, the next billion is expected to take longer, and the population may never reach 11 billion."],
 g:[["Population","The number of people living in an area"],["Fertility rate","The average number of children born per woman"],["Census","An official count of a population"],["Demographic dividend","Economic growth from having many working-age people"]],
 f:["The world population passed 8 billion in 2022.","India became the most populous country in 2023.","A Filipino baby was a symbolic 7 billionth baby."],
-fun:"A baby born in Manila in 2011 was celebrated as one of the symbolic 7 billionth people.",
-tl:"Lumampas sa 8 bilyon ang populasyon ng mundo noong 2022. Bumabagal na ang paglaki nito dahil mas kaunti na ang anak ng mga pamilya. Ang India na ang may pinakamaraming tao mula 2023."});
+fun:"A baby born in Manila in 2011 was celebrated as one of the symbolic 7 billionth people."});
 
 ADDART({id:"megacities",t:"Megacities",c:"Geography",i:"🌃",w:"Megacity",r:["urban","worldpop","manila","tokyo","lagos"],
 p:[["Giant cities","A megacity is a city with more than 10 million people."],["Growing fast","Most megacities are in Asia, Africa and Latin America."],["Big challenges","Traffic, housing, floods and pollution are major problems."]],
@@ -100,8 +93,7 @@ s2:[["Informal settlements","Around a billion people live in slums or informal s
 sp:["Tokyo, the city that works","Greater Tokyo has long been one of the largest urban areas on Earth, with tens of millions of people. Yet it is known for being remarkably clean, safe and efficient. Its rail network carries billions of passengers a year, with trains so punctual that delays of a minute or two can prompt apologies. At Shinjuku Station, one of the busiest in the world, millions of people pass through each day. Tokyo’s mix of dense neighborhoods, mixed land uses and excellent public transport is often studied by planners from other megacities."],
 g:[["Megacity","A city with more than 10 million people"],["Metropolitan area","A city and its surrounding suburbs"],["Urban heat island","A city area hotter than its surroundings"],["Informal settlement","An area of unplanned housing, often without services"]],
 f:["A megacity has more than 10 million people.","Only two cities had over 10 million people in 1950.","Metro Manila has 16 cities and one municipality."],
-fun:"In 1950 only two cities in the world had more than 10 million people.",
-tl:"Ang megacity ay lungsod na may mahigit 10 milyong tao. Karamihan sa mga ito ay nasa Asya, Aprika at Latin Amerika, kabilang ang Metro Manila. Malaki ang hamon ng trapiko, pabahay, baha at polusyon sa mga ito."});
+fun:"In 1950 only two cities in the world had more than 10 million people."});
 
 ADDART({id:"agingworld",t:"Ageing Societies",c:"Economics and Society",i:"👵",w:"Population ageing",r:["aging","worldpop","japancountry","family","ofw"],
 p:[["Living longer","People around the world are living longer than ever before."],["More older people","In many countries, older people make up a growing share of the population."],["New challenges","Ageing societies must plan for pensions, health care and care for the elderly."]],
@@ -113,8 +105,7 @@ s2:[["Caregivers from the Philippines","Many Filipinos work abroad as caregivers
 sp:["The mano","In the Philippines, a young person greeting an older relative or elder often takes the elder’s right hand and gently presses its back to their own forehead, saying mano po. The gesture, called the mano or pagmamano, shows respect and asks for a blessing, and the elder may reply, God bless you. It is commonly done when arriving at or leaving a relative’s home and after church. The custom is a daily reminder of the respect many Filipino families give to older generations, a value that shapes how elders are cared for at home."],
 g:[["Population ageing","A rise in the share of older people in a population"],["Life expectancy","The average number of years a person is expected to live"],["Pension","Regular payments to retired people"],["Centenarian","A person aged 100 or older"]],
 f:["People aged 65+ outnumber children under five since 2018.","Japan is one of the oldest countries by age.","South Korea became super-aged in 2024."],
-fun:"Since 2018, the world has had more people over 65 than children under five.",
-tl:"Ang pagtanda ng populasyon ay ang pagdami ng matatanda dahil humahaba ang buhay at kaunti na ang anak. Ang Japan ay isa sa may pinakamaraming matatanda. Sa Pilipinas, iginagalang ang matatanda sa pamamagitan ng pagmamano."});
+fun:"Since 2018, the world has had more people over 65 than children under five."});
 
 ADDART({id:"fastfashion",t:"Fast Fashion",c:"Economics and Society",i:"👕",w:"Fast fashion",r:["clothing","plasticwaste","labor","recycling","waterscarcity"],
 p:[["Cheap and fast","Fast fashion is cheap, trendy clothing produced quickly and in huge amounts."],["Hidden costs","It has large effects on the environment and on garment workers."],["Buying better","Secondhand clothes, repairs and buying less are alternatives."]],
@@ -126,5 +117,4 @@ s2:[["Rana Plaza","On 24 April 2013, the Rana Plaza building near Dhaka, Banglad
 sp:["Who made my clothes?","After the Rana Plaza disaster in 2013, the designers Carry Somers and Orsola de Castro founded Fashion Revolution, a movement to make the fashion industry more transparent and fair. Each year around the anniversary of the collapse, during Fashion Revolution Week, people around the world post photos of themselves wearing their clothes inside out, showing the labels, and asking brands on social media: who made my clothes? Garment workers, in turn, hold signs saying I made your clothes. The campaign has pushed many brands to publish lists of their factories."],
 g:[["Fast fashion","Cheap, trendy clothing made and sold quickly"],["Garment worker","A person who makes clothes in a factory"],["Microplastics","Tiny pieces of plastic, including fibers from synthetic clothes"],["Greenwashing","Making misleading claims about being environmentally friendly"]],
 f:["Clothing production roughly doubled from 2000 to 2014.","The Rana Plaza collapse in 2013 killed more than 1,100 people.","Ukay-ukay shops sell secondhand clothes in the Philippines."],
-fun:"Each year people wear their clothes inside out to ask brands who made them.",
-tl:"Ang fast fashion ay murang damit na mabilis na ginagawa at sumusunod sa uso. May malaking epekto ito sa kalikasan at sa mga manggagawa. Mga alternatibo ang ukay-ukay, pagkukumpuni ng damit at pagbili nang mas kaunti."});
+fun:"Each year people wear their clothes inside out to ask brands who made them."});

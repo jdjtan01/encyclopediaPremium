@@ -9,8 +9,7 @@ s2:[["Reading with fingers","Because fingertips are so sensitive, they can read.
 sp:["The two-point test","Try this with a friend: close your eyes while your friend gently touches your skin with either one or two pencil tips held close together. On your fingertip you can probably tell when there are two points even if they are only a few millimeters apart. On your forearm they need to be much farther apart, and on your back they may need to be several centimeters apart before you can feel two separate points. The test, first used by the German scientist Ernst Weber in the 1830s, shows how densely packed touch receptors are in different parts of the body."],
 g:[["Somatosensory system","The body system that senses touch, temperature, pain and position"],["Receptor","A sensor that responds to a particular stimulus"],["Proprioception","The sense of the position and movement of body parts"],["Haptic","Relating to the sense of touch"]],
 f:["Fingertips are among the most sensitive parts of the body.","Braille lets people read with their fingers.","A chili receptor also senses heat."],
-fun:"Chili peppers feel hot because their chemical capsaicin triggers the same receptor that senses real heat.",
-tl:"Ang pandama ay nagbibigay-daan upang maramdaman ang diin, tekstura, init, lamig at sakit sa pamamagitan ng balat. Milyon-milyong receptor sa balat ang nagpapadala ng signal sa utak. Lalong sensitibo ang dulo ng daliri at mga labi."});
+fun:"Chili peppers feel hot because their chemical capsaicin triggers the same receptor that senses real heat."});
 
 ADDART({id:"reflexes",t:"Reflexes",c:"Human Body",i:"🦵",w:"Reflex",r:["nervous","spine","brain","muscles","eye"],
 p:[["Automatic actions","A reflex is a fast, automatic response to something, without thinking."],["Protecting the body","Reflexes such as blinking and pulling away from heat protect us from harm."],["Baby reflexes","Newborn babies have special reflexes that fade as they grow."]],
@@ -22,8 +21,7 @@ s2:[["Descartes and the fire","The French philosopher René Descartes, in the 16
 sp:["The yawn and the sneeze","Some reflexes are surprising. Sneezing can be triggered not only by dust or pepper but, in some people, by suddenly looking at bright sunlight, an inherited trait called the photic sneeze reflex. Yawning is partly a reflex, too, and it is famously contagious: seeing, hearing or even reading about yawning can make people yawn. Scientists are still not sure why we yawn or why it spreads, though theories include cooling the brain and signaling tiredness to others. Did you yawn while reading this?"],
 g:[["Reflex","A fast, automatic response to a stimulus"],["Reflex arc","The nerve pathway of a reflex"],["Stimulus","Something that causes a response"],["Conditioned reflex","A learned response to a signal"]],
 f:["Many reflexes are controlled by the spinal cord.","Blinking is a protective reflex.","Babies grip fingers by reflex."],
-fun:"Some people sneeze when they suddenly look at bright sunlight, an inherited reflex nicknamed the ACHOO syndrome.",
-tl:"Ang reflex ay mabilis at kusang tugon ng katawan nang hindi nag-iisip, tulad ng pagkurap at paghila ng kamay mula sa mainit na bagay. Kadalasan itong kinokontrol ng spinal cord. Pinoprotektahan nito ang katawan mula sa pinsala."});
+fun:"Some people sneeze when they suddenly look at bright sunlight, an inherited reflex nicknamed the ACHOO syndrome."});
 
 ADDART({id:"sunsafety",t:"Sun Safety",c:"Health",i:"🧴",w:"Sunscreen",r:["skin","cancer","extremeheat","light","eye"],
 p:[["Sunlight and health","Sunlight helps the body make vitamin D, but too much can harm the skin and eyes."],["Ultraviolet rays","Invisible ultraviolet, or UV, rays cause sunburn and skin damage."],["Staying protected","Shade, clothing, hats, sunglasses and sunscreen protect against UV."]],
@@ -35,8 +33,7 @@ s2:[["How sunscreen works","Sunscreens contain ingredients that absorb or reflec
 sp:["Slip, slop, slap","In 1981 Australia, which has one of the highest skin cancer rates in the world, launched a famous public health campaign featuring a cartoon seagull named Sid. Its catchy slogan urged people to slip on a shirt, slop on sunscreen and slap on a hat. Later versions added seek shade and slide on sunglasses. The campaign became part of everyday life in Australia, changing habits at beaches and schools. Studies later found that skin cancer rates among younger Australians began to fall, and other countries have adapted the idea for their own sun safety campaigns."],
 g:[["Ultraviolet","Invisible rays from the Sun that can harm skin and eyes"],["UV Index","A scale showing the strength of UV rays"],["SPF","Sun protection factor, a measure of sunscreen strength against UVB"],["Melanoma","A dangerous type of skin cancer"]],
 f:["UV rays pass through clouds.","SPF 30 blocks about 97 percent of UVB.","Sunlight helps the body make vitamin D."],
-fun:"Snow, sand and water reflect UV rays, so you can get sunburned even while sitting in the shade at the beach.",
-tl:"Ang sun safety ay pag-iingat sa balat at mata mula sa nakapipinsalang ultraviolet o UV na sinag ng Araw. Nagdudulot ang labis na UV ng sunburn at kanser sa balat. Nakatutulong ang lilim, payong, sumbrero, salaming pang-araw at sunscreen."});
+fun:"Snow, sand and water reflect UV rays, so you can get sunburned even while sitting in the shade at the beach."});
 
 ADDART({id:"stroke",t:"Stroke",c:"Disease and Medicine",i:"🧠",w:"Stroke",r:["brain","heartdisease","blood","exercise","firstaid"],
 p:[["A brain attack","A stroke happens when blood flow to part of the brain is blocked or a blood vessel bursts."],["Act fast","Quick treatment can save brain cells and lives."],["Preventable","Controlling blood pressure and healthy habits greatly reduce the risk."]],
@@ -48,8 +45,7 @@ s2:[["Stroke in the Philippines","Stroke and other diseases of the heart and blo
 sp:["Time is brain","One morning, a woman notices that her father’s smile looks lopsided and he cannot lift his right arm. His words come out slurred. Remembering a television campaign about stroke, she calls for an ambulance instead of waiting to see whether he gets better. At the hospital, a scan shows a clot blocking an artery in his brain, and doctors quickly give him clot-dissolving medicine. Within hours his arm begins to move again. Doctors often share stories like this to show how recognizing the signs and acting fast can make the difference between recovery and lifelong disability."],
 g:[["Stroke","Sudden loss of blood flow to part of the brain"],["Ischemic stroke","A stroke caused by a blocked blood vessel"],["Hemorrhagic stroke","A stroke caused by bleeding in the brain"],["Hypertension","High blood pressure"]],
 f:["High blood pressure is the biggest stroke risk factor.","BE FAST helps people spot a stroke.","Many strokes can be prevented."],
-fun:"The old name for stroke, apoplexy, comes from a Greek word meaning struck down suddenly.",
-tl:"Ang stroke ay nangyayari kapag naharangan o pumutok ang ugat ng dugo sa utak. Mahalaga ang agarang paggamot upang mailigtas ang utak. Maiiwasan ito sa pagkontrol ng altapresyon at malusog na pamumuhay."});
+fun:"The old name for stroke, apoplexy, comes from a Greek word meaning struck down suddenly."});
 
 ADDART({id:"asthma",t:"Asthma",c:"Disease and Medicine",i:"🫁",w:"Asthma",r:["lungs","allergy","immune","hygiene","exercise"],
 p:[["Narrowed airways","Asthma is a long-term condition in which the airways in the lungs become swollen and narrow."],["Wheezing and coughing","It causes coughing, wheezing, chest tightness and shortness of breath."],["Can be controlled","With the right medicines and care, most people with asthma live full, active lives."]],
@@ -61,5 +57,4 @@ s2:[["Who gets asthma","Asthma often starts in childhood and is one of the most 
 sp:["A spray can for medicine","In the 1950s, people with asthma used bulky glass nebulizers with rubber bulbs to breathe in medicine. They were fragile and hard to carry. According to the company’s history, Susie Maison, the 13-year-old daughter of the president of Riker Laboratories in California, asked why her asthma medicine could not be put in a spray can like her mother’s hairspray. Engineers took up the challenge and developed a small canister that released an exact dose of medicine with each puff. Launched in 1956, the metered-dose inhaler became one of the most widely used medical devices in the world."],
 g:[["Asthma","A long-term condition that narrows the airways"],["Bronchi","The main airways leading into the lungs"],["Inhaler","A device that delivers medicine into the lungs"],["Trigger","Something that sets off asthma symptoms"]],
 f:["Asthma narrows the airways of the lungs.","Inhalers deliver medicine straight to the lungs.","The metered-dose inhaler was invented in 1956."],
-fun:"The word asthma comes from an ancient Greek word meaning panting or short of breath.",
-tl:"Ang hika ay pangmatagalang sakit kung saan namamaga at kumikitid ang daanan ng hangin sa baga. Nagdudulot ito ng ubo, paghuni sa paghinga at hirap huminga. Nakokontrol ito ng tamang gamot gaya ng inhaler."});
+fun:"The word asthma comes from an ancient Greek word meaning panting or short of breath."});

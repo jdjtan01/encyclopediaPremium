@@ -19,23 +19,23 @@ window.SUBJECTS=[
 ["Sea Life","Creatures of the oceans and coral reefs.","whale whaling shark wshark octopus mollusc crustacean seahorse jelly seaturtle tubbataha fishes coral dugongs rays echinoderms eels squid tuna salmon deepsea narwhals lobsters pufferfish cuttlefish"],
 ["Reptiles and Amphibians","Scaly hunters, frogs, turtles and lizards.","snake lizard croc frog turtle chameleon salamander tuatara komodo seasnakes geckos pythons cobras monitorlizards axolotls iguanas"],
 ["Insects and Minibeasts","Insects, spiders, worms and other small creatures.","insect butterfly bee ants termite spider beetle dragonfly mosquito worms locusts fireflies mantises scorpions wasps honeybees ladybugs cicadas tardigrades"],
-["Animal Lives", "How animals behave, change and live alongside people.", "animalbehavior metamorph domestication"]]],
+["Animal Lives", "How animals behave, change and live alongside people.", "animalbehavior metamorph domestication animalmig hibernation camouflage venom animalcomm animalintel animalhomes nocturnal echolocation parentalcare"]]],
 ["Plants and Ecosystems","🌿",["#0d7d3f", "#9ef0a0"],"The green world and the webs of life",
 "Plants feed almost every living thing on Earth and fill the air with oxygen. This subject explores flowers, trees and forests, the fungi and microbes that recycle life, how living things depend on each other, and the cells and genes that make life work.",
 ["photo", "trees", "rafflesia", "eco"],[
 ["Plants and Flowers", "Green plants, flowers and how they grow.", "photo flower leaves roots seeds fruits plantsenses ferns cactus carnivplant orchids rafflesia tulips roses sunflowers sampaguita herbs medicinalplants poisonousplants invasiveplants aquaticplants vines grasses bamboo abaca coconut bonsai"],
-["Trees and Forests", "The tallest, oldest and most useful plants.", "trees giantrees redwoods conifers palms oaks maples eucalyptus baobab narra cherryblossoms"],
-["Algae, Fungi and Microbes", "Living things that are neither plants nor animals.", "seaweeds kelp lichens fungi microbe"],
-["Ecosystems and Conservation", "Webs of life and how people protect them.", "eco foodchains symbiosis phbio extinction conservation trophyhunting zoos"],
-["How Life Works", "Cells, genes and the story of evolution.", "cell dna genome mendel evo classification"]]],
+["Trees and Forests", "The tallest, oldest and most useful plants.", "trees giantrees redwoods conifers palms oaks maples eucalyptus baobab narra cherryblossoms rainforests figtrees treerings"],
+["Algae, Fungi and Microbes", "Living things that are neither plants nor animals.", "seaweeds kelp lichens fungi microbe plankton algae slimemolds yeast bacteria viruses mycorrhiza"],
+["Ecosystems and Conservation", "Webs of life and how people protect them.", "eco foodchains symbiosis phbio extinction conservation trophyhunting zoos carboncycle decomposers endangered keystone rewilding protectedareas"],
+["How Life Works", "Cells, genes and the story of evolution.", "cell dna genome mendel evo classification adaptation lifecycles celldivision proteins naturalselection homeostasis"]]],
 
 ["Prehistoric Life","🦖",["#6b5b0e","#e8d36a"],"Dinosaurs, deep time and lost worlds",
 "Life on Earth is billions of years old, and most of the creatures that ever lived are gone. This subject travels through deep time, from the first animals of the Cambrian seas to the dinosaurs, the flying and swimming reptiles of their age, and the giant mammals of the Ice Age, with a timeline, a fossil map and a size comparer.",
 ["trex","triceratops","megalodon","mammoth"],[
-["Deep Time","Earth’s calendar and the first animals.","geotime cambrian trilobites dunkleosteus dimetrodon fossils paleontology"],
-["Dinosaurs","The giants of the Mesozoic and their feathered descendants.","dino trex triceratops stegosaurus velociraptor brachiosaurus diplodocus spinosaurus ankylosaurus parasaurolophus allosaurus iguanodon argentinosaurus dinobirds archaeopteryx"],
-["Rulers of Sea and Sky","Flying reptiles, sea monsters and the biggest shark.","pterosaurs pteranodon quetzalcoatlus marinereptiles mosasaurus megalodon"],
-["Extinctions and the Ice Age","Great dyings, the asteroid and the giants of the cold.","massext kpgimpact iceagemammals mammoth smilodon humanorigins neanderthals"]]],
+["Deep Time","Earth’s calendar and the first animals.","geotime cambrian trilobites dunkleosteus dimetrodon fossils paleontology ediacaran anomalocaris tiktaalik meganeura originoflife snowballearth pangaea"],
+["Dinosaurs","The giants of the Mesozoic and their feathered descendants.","dino trex triceratops stegosaurus velociraptor brachiosaurus diplodocus spinosaurus ankylosaurus parasaurolophus allosaurus iguanodon argentinosaurus dinobirds archaeopteryx brontosaurus pachycephalosaurus therizinosaurus dinoeggs"],
+["Rulers of Sea and Sky","Flying reptiles, sea monsters and the biggest shark.","pterosaurs pteranodon quetzalcoatlus marinereptiles mosasaurus megalodon ammonites elasmosaurus livyatan ichthyosaurs rhamphorhynchus basilosaurus"],
+["Extinctions and the Ice Age","Great dyings, the asteroid and the giants of the cold.","massext kpgimpact iceagemammals mammoth smilodon humanorigins neanderthals woollyrhino groundsloths direwolf glyptodon dodo thylacine"]]],
 ["Space","🪐",["#312e81","#a5b4fc"],"Our place among the stars",
 "Beyond the sky lie planets, moons, stars and galaxies stretching across billions of light-years. This subject tours the Solar System, explains how stars live and die, and looks out to the galaxies and the edge of the observable universe.",
 ["solar","mars","milky","jupiter"],[
@@ -46,10 +46,10 @@ window.SUBJECTS=[
 ["apollo", "iss", "jwst", "voyager"],[
 ["Rockets and Launchers", "The machines that carry people and spacecraft into space.", "space rocket rocketengines saturnv sls reusablerockets starship spacex blueorigin ariane longmarch ionengines solarsails spaceports spaceelevators commspace spacetourism"],
 ["Astronauts and Space Stations", "Living and working in orbit, from the first flights to today.", "sputnik vostok projectmercury astronauts womeninspace spaceanimals soyuz shenzhou spaceshuttle buran shuttledisasters commercialcrew iss tiangong mir skylab salyut cargoships spacewalks spacesuits spacefood spacebody spaceradiation zerogravityflights"],
-["Missions to the Moon", "Landers, rovers and astronauts on our nearest neighbor.", "apollo apollo8 apollo13 lunaprogram rangersurveyor lunokhod lro chandrayaan changeprogram lunarlanders artemis artemisaccords moonbases"],
+["Missions to the Moon", "Landers, rovers and astronauts on our nearest neighbor.", "apollo apollo8 apollo13 lunaprogram rangersurveyor lunokhod lro chandrayaan changeprogram lunarlanders artemis artemisaccords moonbases apollo11 moonrocks artemisii"],
 ["Robots to the Planets", "Probes, landers and rovers sent across the solar system.", "marinerprogram pioneerprobes voyager vikinglanders marslanders marsrovers ingenuity marsorbiters insight hopeprobe tianwen marssamplereturn venusmissions messenger bepicolombo galileoprobe junoprobe cassini europaclipper juice dragonflytitan newhorizons parkerprobe ulysses dawnmission psyche lucymission hayabusa osirisrex rosetta cometmissions hera asteroidmining"],
 ["Telescopes and Satellites", "Eyes in orbit watching the universe and our own planet.", "sat orbits scope hubblest hubbleservicing jwst keplertelescope gaia chandra fermitelescope euclidroman weathersatellites earthobservation megaconstellations dsn spacesolar"],
-["Space Agencies and Space Issues", "Who explores space, and the problems it raises.", "spaceagencies isromissions jaxa philsa spacelaw spacejunk planetdefense astrobio"]]],
+["Space Agencies and Space Issues", "Who explores space, and the problems it raises.", "spaceagencies isromissions jaxa philsa spacelaw spacejunk planetdefense astrobio nasa esa roscosmos cnsa csa satellites spacemedicine spacemining"]]],
 
 ["Science and Numbers","🔬",["#1e5fbf","#8cc2ff"],"How the world works, and how we found out",
 "Science explains everything from falling apples to the light of distant stars, and mathematics gives it a language. This subject covers matter and energy, numbers and shapes, and the great discoveries that changed how we see the world.",
@@ -72,7 +72,7 @@ window.SUBJECTS=[
 "History is the story of how people built cities, empires and nations, and how ideas, trade and war changed the world. This subject travels from the first civilizations to the world wars and the decades since.",
 ["egypt","rome","renais","ww2"],[
 ["Ancient Worlds","The first cities, kingdoms and empires.","mesop egypt kush persia greece rome maya aksum phoenicians celts stoneage archaeology pompeii carthage babylon minoans olmecs"],
-["Asia Through the Ages","India, China, Japan, Korea and the Mongols.","indus china mongol precol sulu japan korea mughal seaempires khmer opium samurai"],
+["Asia Through the Ages","India, China, Japan, Korea and the Mongols.","indus china mongol precol sulu japan korea mughal seaempires khmer opium samurai mauryaempire srivijaya majapahit"],
 ["Middle Ages","Raiders, traders and great empires.","byzant caliphate viking crusades witchhunts inquisition silk mali zimbabwe benin ottoman aztec inca blackdeath medieurope castles magnacarta songhai"],
 ["Discovery and Revolution","New ideas, new lands and new nations.","renais reform explor lapulapu spanph slavetrade colonialism leopold2 trailoftears residentialschools usrev frrev latinind indrev meiji phrev malolos enlightenment secretsocieties uscivilwar africacolon phamwar pirates asante zulu"],
 ["The World Wars","Two global wars and the years between them.","wwi westernfront russrev versailles depression fascism gulag commonwealth ww2 stalingrad dday holocaust genocide armeniangenocide bosnianwar antisemitism eugenics comfortwomen nanjing pacificwar japocc atomicbomb"],
@@ -85,7 +85,7 @@ window.SUBJECTS=[
 ["Africa","Countries of the continent of a thousand languages.","nigeriacountry egyptcountry southafricacountry ethiopiacountry kenyacountry moroccocountry ghanacountry drccountry tanzaniacountry algeriacountry senegalcountry ugandacountry angolacountry zimbabwecountry rwandacountry mozambiquecountry camerooncountry cotedivoirecountry tunisiacountry"],
 ["Europe","Countries of a small but densely populated continent.","germanycountry francecountry russiacountry ukcountry italycountry spaincountry polandcountry netherlandscountry ukrainecountry greececountry swedencountry portugalcountry norwaycountry switzerlandcountry irelandcountry austriacountry finlandcountry"],
 ["The Americas","Countries of North, Central and South America.","usacountry canadacountry mexicocountry brazilcountry argentinacountry perucountry chilecountry colombiacountry cubacountry venezuelacountry ecuadorcountry boliviacountry jamaicacountry guatemalacountry costaricacountry panamacountry haiticountry uruguaycountry"],
-["Oceania","Countries of Australia and the Pacific islands.","australiacountry nzcountry pngcountry fijicountry samoacountry tongacountry vanuatucountry solomoncountry kiribaticountry polynesia uluru tasmania"],
+["Oceania","Countries of Australia and the Pacific islands.","australiacountry nzcountry pngcountry fijicountry samoacountry tongacountry vanuatucountry solomoncountry kiribaticountry palaucountry marshallcountry tuvalucountry polynesia uluru tasmania"],
 ["Cities and Landmarks","Great cities and famous places.","greatwall pyramids tajmahal machupicchu angkor banaue vigan paris newyork sydney manila cebu baguio tokyo cairo istanbul rio lagos saopaulo mexicocity london beijing mumbai nairobi petra colosseum intramuros chocolatehills undergroundriver seoul venice moscow buenosaires dubai stonehenge chichenitza kyoto hongkong bangkok toronto jerusalem shanghai losangeles chicago amsterdam barcelona vienna prague stpetersburg delhi capetown havana addisababa marrakesh eiffeltower statueofliberty alhambra hagiasophia sagradafamilia"],
 ["Islands","Island worlds and their peoples.","greenland borneo mindanao madag hawaii palawan iceland galapagos bohol boracay siargao easterisland luzon visayas davao iloilo"]]],
 
@@ -94,10 +94,10 @@ window.SUBJECTS=[
 ["einstein","gandhi","cleopatra","kahlo"],[
 ["Leaders and Rulers","Presidents, queens, kings, emperors and generals.","cleopatra alexander caesar mansamusa napoleon lincoln aguinaldo aluna quezon magsaysay marcos cory ashoka saladin sejong churchill fdr lenin stalin holodomor mussolini hitler saddam idiamin castro cheguevara pinochet franco gaddafi kimdynasty mao ataturk nehru"],
 ["Freedom and Reform","Campaigners for independence, rights and justice.","gandhi mandela mlk malala rizal bonifacio delpilar mabini silang sora ninoy bolivar toussaint nkrumah tubman gdelpilar romulo"],
-["Care and Faith","Lives devoted to healing, teaching, faith and the planet.","teresa nightingale keller lorenzoruiz maathai seacole dunant edhi tutu schweitzer romero wallenberg farmer"],
-["Faith and Thought","Founders of world religions and great philosophers.","buddha jesus muhammad confucius laozi socrates kant plato aristotle rumi"],
-["Scientists and Inventors","Minds that unlocked nature’s secrets.","einstein darwin newtonp lovelace rfranklin hawking fedelmundo ibnsina hypatia ramanujan kjohnson turing"],
-["Explorers","Journeys across the world and into space.","marcopolo ibnbattuta zhenghe columbus magellan armstrong tereshkova amundsen earhart gagarin tenzing cousteau"],
+["Care and Faith","Lives devoted to healing, teaching, faith and the planet.","teresa nightingale keller lorenzoruiz maathai seacole dunant edhi tutu schweitzer romero wallenberg farmer clarabarton janeaddams francisofassisi"],
+["Faith and Thought","Founders of world religions and great philosophers.","buddha jesus muhammad confucius laozi socrates kant plato aristotle rumi gurunanak martinluther descartes"],
+["Scientists and Inventors","Minds that unlocked nature’s secrets.","einstein darwin newtonp lovelace rfranklin hawking fedelmundo ibnsina hypatia ramanujan kjohnson turing faraday tesla chienshiungwu"],
+["Explorers","Journeys across the world and into space.","marcopolo ibnbattuta zhenghe columbus magellan armstrong tereshkova amundsen earhart gagarin tenzing cousteau vascodagama jamescook shackleton"],
 ["Artists and Champions","Painters, writers, musicians and athletes.","beethoven kahlo jluna balagtas salonga hidilyn pacquiao achebe garciamarquez tagore murasaki pele bach hokusai tolstoy cervantes muhammadali kipchoge"]]],
 
 ["Arts and Culture","🎨",["#6d28d9","#c9b8ff"],"Painting, stories, music and the stage",
@@ -119,16 +119,16 @@ window.SUBJECTS=[
 ["comp", "internet", "ai", "smartphone"],[
 ["Computers", "How computers work, from vacuum tubes to graphics chips.", "comp binary punchcards vacuumtubes chip personalcomputers laptops operatingsystems linux opensource officesoftware coding gpus microcontrollers datastorage usb screens touchscreens compression unicode quantumcomp bci cgi videogames"],
 ["The Internet and the Web", "The global network and what runs on it.", "internet worldwideweb webbrowsers searchengines email wikipedia youtube socialmedia streaming cloud datacenters subseacables fiberoptics ipaddresses wifi"],
-["Phones, Signals and Navigation", "Sending messages and finding the way.", "telegraph faxmachines smartphone textmessaging mobilenetworks gps radar sonar lidar machinetranslation vrar smarthome"],
+["Phones, Signals and Navigation", "Sending messages and finding the way.", "telegraph faxmachines smartphone textmessaging mobilenetworks gps radar sonar lidar machinetranslation vrar smarthome morsecode barcodes antennas"],
 ["Security and Privacy", "Keeping people, money and data safe.", "cybersecurity hacking passwords malware phishing captcha onlinescams facialrecognition surveillance dataprivacy darkweb deepfakes digitalid crypto atms creditcards"],
 ["Artificial Intelligence", "Machines that learn, see, talk and reason, and how to use them wisely.", "ai aihistory algorithm mlearn neural llm compvision aisafety aieveryday recommender selfdriving turingtest aiart voiceassistants"],
-["Growing Up Online", "Learning, sharing and staying well in a digital world.", "onlinelearning screentime cyberbullying digitaldivide misinformation"]]],
+["Growing Up Online", "Learning, sharing and staying well in a digital world.", "onlinelearning screentime cyberbullying digitaldivide misinformation digitalfootprint netiquette chatbots onlinegaming onlinesafety recalgorithms copyrightonline onlinecommunities"]]],
 
 ["How We Live","🏘️",["#c2410c","#fdba74"],"Money, beliefs, words, food and play",
 "People live together in families, towns and nations. This subject explains how we earn and trade, what the world’s great religions and thinkers teach, how languages work, where our food comes from and the sports we love.",
 ["money","relig","rice","olymp"],[
 ["Government and Society","Democracy, law, rights, taxes and cities.","democ populism law deathpenalty prisons torture euthanasia guncontrol hrights abortion racism affirmativeaction hatespeech lgbtrights taxes taxhavens billionaires urban phgov phdynasties porkbarrel floodcontrol indig elections constitution monarchy journalism censorship propaganda capitalism socialism liberalism nationalism feminism family education clothing who nato africanunion inuit maori aboriginal police organizedcrime drugtrade cannabis tobacco trafficking childlabor childsoldiers universities barangay phflag"],
-["Money and Work","Trade, banks, prices and jobs.","supdem money trade inflation gdp stockm insur labor phecon ofw tourism"],
+["Money and Work","Trade, banks, prices and jobs.","supdem money trade inflation gdp stockm insur labor phecon ofw tourism budgeting interestdebt unemployment remittances smallbiz unions"],
 ["Beliefs and Ideas","Religions and philosophies of the world.","relig hindu buddh judaism christ islam confu tao socr stoic phfest festivals cults ethics logic indianphil chinesephil existentialism sikhism shinto jainism indigrelig anthropology lunarnewyear phchristmas"],
 ["Languages","How people speak, write and sign.","langevo alphabet english spanish mandarin latin arabic signlang phlang baybayin japanese korean hindi french swahili malay writing"],
 ["Food and Farming","Crops, cooking and feeding the world.","agri rice wheat maize potato sugar spice coffee choco fish phfood noodles cheese pizza curry icecream olives grapes tomatoes apples bananas citrus chilies onions mangoes strawberries avocados pumpkins brassicas legumes pineapples vanilla cassava ginger"],
@@ -139,9 +139,9 @@ window.SUBJECTS=[
 ["sdgs","worldpop","covid19","esports"],[
 ["Global Challenges","Problems the whole world is working on together.","sdgs migration foodsecurity waterscarcity energytransition inequality biodivloss extremeheat airpollution sealevel foodwaste ewaste carbonfootprint microplastics"],
 ["Changing Societies","How populations, cities and lifestyles are changing.","worldpop megacities agingworld fastfashion housing loneliness urbanfarm verticalfarming labgrownmeat smartcities overtourism plantbased micromobility volunteering firefighters umbrellas weddings whistleblowers conspiracy newspapers"],
-["Work and Money Today","New ways of working, shopping and paying.","gigeconomy remotework ecommerce digitalpay costliving minimumwage startups automation financialliteracy fourdayweek ubi cryptocurrency postal"],
+["Work and Money Today","New ways of working, shopping and paying.","gigeconomy remotework ecommerce digitalpay costliving minimumwage startups automation financialliteracy fourdayweek ubi cryptocurrency postal banks retirement consumerrights"],
 ["Health and Science Today","Recent breakthroughs and the pandemic that changed the world.","covid19 mrna crispr gmos cloning animaltesting mentalyouth obesity aimedicine amr wearables genetherapy vaping telemedicine hospitals prosthetics pacemakers hearingaids"],
-["Pop Culture Today","Global trends in entertainment and play.","anime memes esports kdrama shortvideo superhero influencers podcasts cosplay fandom emoji realitytv themeparks"]]]
+["Pop Culture Today","Global trends in entertainment and play.","anime memes esports kdrama shortvideo superhero influencers podcasts cosplay fandom emoji realitytv themeparks fanfiction livestreaming tradingcards"]]]
 ];
 // Where the old sections went, for old links and for the quick-reference A–Z entries.
 window.OLDSEC={"Science":"Science and Numbers","History":"History","Geography":"Planet Earth","Technology":"Technology","Philippines":"Countries and Places","Arts and Literature":"Arts and Culture","Health and the Body":"The Human Body","Mathematics":"Science and Numbers","Religion and Philosophy":"How We Live","Animals and Nature":"Animal Kingdom","Space and Astronomy":"Space","Economics and Society":"How We Live","Food and Agriculture":"How We Live","Music":"Arts and Culture","Sports":"How We Live","Languages":"How We Live","History of Science":"Science and Numbers","People":"People"};

@@ -9,8 +9,7 @@ s2:[["How a muscle contracts","Each muscle is made of bundles of long cells call
 sp:["The muscles of a smile","Every expression on the human face is made by small muscles attached to the skin rather than to bones. A genuine smile uses muscles that lift the corners of the mouth and others that crinkle the skin around the eyes, while a polite, forced smile often moves only the mouth. The French doctor Guillaume Duchenne studied facial expressions in the 1800s by stimulating face muscles with electricity, and the true, eye-crinkling smile is still called the Duchenne smile. Facial muscles also help us chew, speak, blink and protect the eyes."],
 g:[["Tendon","A tough cord that attaches muscle to bone"],["Muscle fiber","A long cell that makes up muscle"],["Contraction","The shortening of a muscle"],["Sarcopenia","Loss of muscle mass and strength with age"]],
 f:["The body has more than 600 skeletal muscles.","The heart is made of cardiac muscle.","Muscles can only pull, never push."],
-fun:"The smallest muscle in the body, the stapedius in the middle ear, is only about a millimeter long.",
-tl:"Ang kalamnan ay tisyu na umiikli upang makagalaw ang katawan. Mayroon tayong mahigit 600 skeletal muscle, pati smooth muscle sa mga organo at cardiac muscle sa puso. Pinapalakas ang kalamnan ng ehersisyo at wastong pagkain."});
+fun:"The smallest muscle in the body, the stapedius in the middle ear, is only about a millimeter long."});
 
 ADDART({id:"lymphatic",t:"The Lymphatic System",c:"Human Body",i:"🫧",w:"Lymphatic system",r:["immune","blood","heart","cancer","digest"],
 p:[["The body’s drainage","The lymphatic system collects extra fluid from tissues and returns it to the blood."],["Fighting germs","Its lymph nodes filter out germs and help the immune system."],["Nodes and organs","It includes lymph vessels, lymph nodes, the spleen, the thymus and the tonsils."]],
@@ -22,8 +21,7 @@ s2:[["Discovering the system","For centuries doctors knew about blood vessels bu
 sp:["A hidden river","Most people know that blood circulates through the body, but few think about the second, quieter system flowing beside it. Every day, a few liters of fluid seep out of the blood into the spaces between cells. If it were not drained away, the body would swell like a sponge. The lymphatic system acts as a hidden river, gathering this fluid drop by drop, cleaning it as it passes through hundreds of lymph nodes, and pouring it back into large veins near the neck. Without it, the body could not keep its fluids balanced or fight off infections effectively."],
 g:[["Lymph","Clear fluid that flows through lymph vessels"],["Lymph node","A small organ that filters lymph and helps fight infection"],["Lymphocyte","A type of white blood cell that fights infection"],["Lacteal","A lymph vessel in the small intestine that absorbs fat"]],
 f:["The body has several hundred lymph nodes.","Swollen glands are usually lymph nodes fighting infection.","Lymph has no heart to pump it."],
-fun:"Lymph turns milky white after a fatty meal because of the fat it carries from the intestines.",
-tl:"Ang lymphatic system ay network ng mga sisidlan at lymph node na nag-iipon ng sobrang likido sa katawan at ibinabalik ito sa dugo. Sinasala ng mga lymph node ang mikrobyo at tumutulong sa immune system. Kasama rito ang spleen, thymus at tonsil."});
+fun:"Lymph turns milky white after a fatty meal because of the fat it carries from the intestines."});
 
 ADDART({id:"stress",t:"Stress",c:"Health",i:"😮‍💨",w:"Stress (biology)",r:["mental","hormone","sleep","exercise","emotions"],
 p:[["The body’s alarm","Stress is the body’s response to a challenge or threat."],["Helpful and harmful","Short bursts of stress can help us, but long-lasting stress can harm health."],["Coping","Sleep, exercise, talking to others and relaxing help people cope."]],
@@ -35,8 +33,7 @@ s2:[["Hans Selye","The Hungarian-Canadian scientist Hans Selye spent decades stu
 sp:["The five-minute calm-down","When stress builds up, simple techniques can help the body switch off its alarm. One popular method is box breathing: breathe in slowly for a count of four, hold for four, breathe out for four, and hold again for four, repeating several times. Another is the five senses exercise, in which a person names five things they can see, four they can touch, three they can hear, two they can smell and one they can taste. These techniques slow the heart rate and bring attention back to the present moment. They are used by students before exams, athletes before competitions and even soldiers and astronauts."],
 g:[["Stress","The body’s response to pressure or threat"],["Adrenaline","A hormone that prepares the body for action"],["Cortisol","A hormone released during longer periods of stress"],["Chronic stress","Stress that lasts a long time"]],
 f:["Adrenaline makes the heart beat faster.","Some stress can be helpful.","Talking to someone can reduce stress."],
-fun:"The word stress was borrowed from engineering, where it describes the force acting on a material such as a metal beam.",
-tl:"Ang stress ay natural na tugon ng katawan sa presyon o panganib. Nakatutulong ito kung panandalian, ngunit nakasasama kung matagal. Nakatutulong ang sapat na tulog, ehersisyo at pakikipag-usap sa ibang tao upang makayanan ito."});
+fun:"The word stress was borrowed from engineering, where it describes the force acting on a material such as a metal beam."});
 
 ADDART({id:"rabies",t:"Rabies",c:"Disease and Medicine",i:"🐕",w:"Rabies",r:["vacc","pasteur","dogs","immune","firstaid"],
 p:[["A deadly virus","Rabies is a viral disease that attacks the brain and is almost always fatal once symptoms begin."],["Spread by bites","Most human cases come from the bites of infected dogs."],["Preventable","Rabies can be prevented with prompt wound washing and vaccines."]],
@@ -48,8 +45,7 @@ s2:[["Pasteur’s gamble","In July 1885 a nine-year-old boy named Joseph Meister
 sp:["Joseph Meister’s story","Joseph Meister never forgot the man who saved his life. As an adult he worked as a caretaker at the Pasteur Institute in Paris, the research center founded in Louis Pasteur’s honor. According to a popular account, when German forces occupied Paris in 1940, Meister was still at his post. He died that year. Today World Rabies Day is held every 28 September, the anniversary of Pasteur’s death in 1895, to remind people that rabies is still a threat and that it can be prevented."],
 g:[["Rabies","A deadly viral disease that attacks the nervous system"],["Post-exposure prophylaxis","Vaccines and treatment given after a possible exposure"],["Hydrophobia","Fear of water, a symptom of rabies"],["Saliva","The liquid in the mouth that can carry the rabies virus"]],
 f:["Dogs cause most human rabies cases.","Rabies can be prevented with vaccines.","Wash any animal bite with soap and water."],
-fun:"Rabies gets its name from the Latin word rabies, meaning madness or rage.",
-tl:"Ang rabies ay nakamamatay na sakit na dulot ng virus na umaatake sa utak. Karaniwan itong naipapasa sa kagat ng asong may rabies. Maiiwasan ito sa agarang paghuhugas ng sugat gamit ang sabon at tubig at sa pagpapabakuna."});
+fun:"Rabies gets its name from the Latin word rabies, meaning madness or rage."});
 
 ADDART({id:"measles",t:"Measles",c:"Disease and Medicine",i:"🤒",w:"Measles",r:["vacc","immune","pandemic","pregnancy","hygiene"],
 p:[["Very contagious","Measles is one of the most contagious diseases known."],["Fever and rash","It causes high fever, cough, red eyes and a spreading rash."],["Prevented by vaccine","Two doses of measles vaccine give strong, long-lasting protection."]],
@@ -61,5 +57,4 @@ s2:[["A disease of history","Measles has afflicted humans for well over a thousa
 sp:["The disease that makes the immune system forget","In 2019 scientists published studies showing that measles does more than cause a rash and fever. The virus destroys many of the memory cells the immune system uses to recognize germs it has met before. After recovering, a child may lose part of their protection against diseases they had already fought off, a condition researchers called immune amnesia. This helps explain why, in the years after a measles epidemic, children often suffer more illnesses of other kinds. It is another reason doctors say preventing measles with vaccines protects children’s health far beyond the illness itself."],
 g:[["Measles","A highly contagious viral disease with fever and rash"],["Koplik spots","Small white spots inside the mouth, an early sign of measles"],["MMR","A combined vaccine against measles, mumps and rubella"],["Herd immunity","Protection of a community when most people are immune"]],
 f:["Measles spreads through the air.","Two vaccine doses protect about 97 percent of people.","In Filipino, measles is called tigdas."],
-fun:"The measles virus can stay infectious in the air of a room for up to two hours after an infected person has left.",
-tl:"Ang tigdas ay lubhang nakahahawang sakit na dulot ng virus na kumakalat sa hangin. Nagdudulot ito ng mataas na lagnat, ubo, mapupulang mata at pantal. Naiiwasan ito ng dalawang dosis ng bakuna."});
+fun:"The measles virus can stay infectious in the air of a room for up to two hours after an infected person has left."});

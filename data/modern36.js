@@ -9,8 +9,7 @@ s2:[["What not to put in","Wooden utensils, cast-iron pans, sharp knives and som
 sp:["Cooking in the dishwasher","Some cooks have experimented with ‘dishwasher cooking’, sealing salmon or vegetables in jars or bags and cooking them gently in the hot water of a wash cycle, a novelty that works like low-temperature sous-vide cooking."],
 g:[["Detergent","A cleaning chemical"],["Enzyme","A protein that speeds up chemical reactions"],["Cycle","One complete run of a machine"],["Condensation","Water vapor turning into liquid"]],
 f:["Josephine Cochrane invented the practical dishwasher.","Modern dishwashers often save water.","Cochrane’s company became part of KitchenAid."],
-fun:"Josephine Cochrane reportedly said, ‘If nobody else is going to invent a dishwashing machine, I’ll do it myself.’",
-tl:"Naglilinis ang dishwasher ng mga plato, tasa at kubyertos gamit ang wisik ng mainit na tubig. Inimbento ni Josephine Cochrane ang praktikal na dishwasher noong 1886, at kadalasang mas kaunting tubig ang gamit nito kaysa sa paghuhugas sa kamay."});
+fun:"Josephine Cochrane reportedly said, ‘If nobody else is going to invent a dishwashing machine, I’ll do it myself.’"});
 
 ADDART({id:"microphones",t:"Microphones",c:"Technology",i:"🎤",w:"Microphone",r:["sound","headphones","radio","phone","smartphone"],
 p:[["Capturing sound","Microphones turn sound waves into electrical signals."],["From telephones to studios","Microphones developed with the telephone and radio."],["Tiny chips","Smartphones use microphones on microchips."]],
@@ -22,8 +21,7 @@ s2:[["The word","The word ‘microphone’ was used in the 1820s for an acoustic
 sp:["Feedback","The loud squeal heard at concerts and speeches is acoustic feedback, caused when a microphone picks up sound from a nearby loudspeaker, which is amplified again in a loop. Positioning microphones behind speakers prevents it."],
 g:[["Diaphragm","A thin sheet that vibrates with sound"],["Capacitor","A device that stores electric charge"],["Cardioid","A heart-shaped pickup pattern"],["MEMS","Tiny mechanical devices built on chips"]],
 f:["Carbon microphones were used in telephones for about a century.","Phones use tiny microphones built like chips.","A dynamic microphone is like a loudspeaker in reverse."],
-fun:"David Edward Hughes demonstrated that his early microphone could make the sound of a fly walking on a box audible.",
-tl:"Ginagawang senyas na elektrikal ng mikropono ang mga alon ng tunog. Nabuo ito kasabay ng telepono at radyo, at gumagamit ang mga smartphone ng napakaliit na mikropono sa microchip."});
+fun:"David Edward Hughes demonstrated that his early microphone could make the sound of a fly walking on a box audible."});
 
 ADDART({id:"smokedetectors",t:"Smoke Detectors",c:"Technology",i:"🚨",w:"Smoke detector",r:["firefighters","radioact","elec","smarthome","sound"],
 p:[["Early warning","Smoke detectors sound an alarm when they sense smoke."],["Saving lives","They greatly reduce deaths in house fires."],["Two main types","Ionization and photoelectric detectors sense smoke differently."]],
@@ -35,8 +33,7 @@ s2:[["The accidental discovery","Walter Jaeger was trying to build a sensor for 
 sp:["The chirp","A smoke alarm that chirps every minute or so is usually warning that its battery is low. Many chirps happen at night because cooling temperatures reduce battery voltage."],
 g:[["Ionization","Giving atoms an electric charge"],["Photoelectric","Using light to detect something"],["Americium-241","A radioactive element used in smoke alarms"],["Carbon monoxide","A poisonous, odorless gas"]],
 f:["Working smoke alarms cut the risk of dying in a fire by about 60%.","Ionization alarms contain a tiny radioactive source.","Smoke alarms should be replaced about every ten years."],
-fun:"The first smoke detector was discovered by accident when an inventor lit a cigarette near a gas sensor that was not working.",
-tl:"Tumutunog ang smoke detector kapag nakadarama ito ng usok. Malaki ang ibinababa nito sa bilang ng namamatay sa sunog sa bahay, at may dalawang pangunahing uri: ionization at photoelectric."});
+fun:"The first smoke detector was discovered by accident when an inventor lit a cigarette near a gas sensor that was not working."});
 
 ADDART({id:"atms",t:"ATMs",c:"Technology",i:"🏧",w:"Automated teller machine",r:["money","digitalpay","cybersecurity","passwords","cryptocurrency"],
 p:[["Cash machines","ATMs let people withdraw cash and check accounts without a bank teller."],["First in London","The first cash machine opened in London in 1967."],["Fewer ATMs","As digital payments grow, the number of ATMs is falling in many countries."]],
@@ -48,8 +45,7 @@ s2:[["A gold ATM","Some ATMs dispense gold bars and coins, such as machines intr
 sp:["Radioactive vouchers","Customers using the first London cash machine inserted a paper voucher marked with carbon-14. The machine detected the radioactivity, matched it with a PIN and paid out a fixed amount of 10 pounds."],
 g:[["PIN","Personal identification number"],["Skimmer","A device that secretly copies card data"],["Teller","A bank employee who handles cash"],["Cashless","Using no physical money"]],
 f:["The first cash machine opened in London in 1967.","The first PIN was four digits because of a wife’s memory.","ATM numbers are falling in many countries."],
-fun:"The first person to use a cash machine was a television comedy actor, Reg Varney, in 1967.",
-tl:"Pinapayagan ng ATM ang mga tao na kumuha ng pera at tingnan ang account nang walang teller ng bangko. Binuksan ang unang cash machine sa London noong 1967, at bumababa na ang bilang ng ATM sa maraming bansa."});
+fun:"The first person to use a cash machine was a television comedy actor, Reg Varney, in 1967."});
 
 ADDART({id:"heatpumps",t:"Heat Pumps",c:"Technology",i:"♨️",w:"Heat pump",r:["refrigeration","thermo","energytransition","elec","climchange"],
 p:[["Moving heat","Heat pumps move heat from outside air, ground or water into buildings."],["Very efficient","They can deliver three or more units of heat for each unit of electricity."],["Cutting emissions","Heat pumps are key to replacing gas and oil boilers."]],
@@ -61,8 +57,7 @@ s2:[["Norway","Norway has one of the highest numbers of heat pumps per household
 sp:["Heat from rivers and sewers","Large heat pumps can warm whole districts using heat from rivers, the sea, sewage or data centers. Helsinki and Stockholm use heat pumps to recover heat from treated wastewater."],
 g:[["Refrigerant","A fluid that absorbs and releases heat"],["Compressor","A device that squeezes gas"],["Coefficient of performance","A measure of heat pump efficiency"],["Ground-source","Taking heat from the ground"]],
 f:["Heat pumps can deliver three to four times more heat than the electricity they use.","A refrigerator is a kind of heat pump.","European heat pump sales rose 11% in 2025."],
-fun:"Even air at −10°C contains plenty of heat energy, which a heat pump can extract and concentrate to warm a house.",
-tl:"Inililipat ng heat pump ang init mula sa hangin, lupa o tubig sa labas papasok sa mga gusali. Napakahusay nito, nakapagbibigay ng tatlo o higit pang yunit ng init sa bawat yunit ng kuryente, at mahalaga ito sa pagpapalit sa mga boiler na gumagamit ng gas at langis."});
+fun:"Even air at −10°C contains plenty of heat energy, which a heat pump can extract and concentrate to warm a house."});
 
 ADDART({id:"lidar",t:"Lidar",c:"Technology",i:"📡",w:"Lidar",r:["laser","radar","selfdriving","maya","smartphone"],
 p:[["Measuring with lasers","Lidar measures distances by timing reflected laser pulses."],["Seeing through forests","Airborne lidar reveals ruins hidden under jungle."],["Eyes of robots","Lidar helps self-driving cars and robots see in 3D."]],
@@ -74,8 +69,7 @@ s2:[["Lidar in your pocket","Some smartphones and tablets released from 2020 inc
 sp:["Angkor’s hidden cities","Lidar surveys in Cambodia in 2012 and 2015 revealed that the area around Angkor Wat once contained a vast urban landscape of roads, canals and neighborhoods hidden under forest, much larger than previously known."],
 g:[["Laser","A device producing a narrow, intense beam of light"],["Point cloud","A set of 3D points representing a surface"],["Altimeter","A device that measures height"],["Autonomous vehicle","A self-driving vehicle"]],
 f:["Lidar measures distances with laser pulses.","Lidar revealed tens of thousands of hidden Maya structures.","Some smartphones contain lidar scanners."],
-fun:"Apollo astronauts left mirrors on the Moon, and scientists still bounce lasers off them to measure the Moon’s distance to within millimeters.",
-tl:"Sinusukat ng lidar ang layo sa pamamagitan ng pagbilang ng oras ng bumabalik na mga pulso ng laser. Ibinubunyag ng lidar mula sa eroplano ang mga guho sa ilalim ng gubat, at tumutulong ito sa mga self-driving car at robot na makakita nang 3D."});
+fun:"Apollo astronauts left mirrors on the Moon, and scientists still bounce lasers off them to measure the Moon’s distance to within millimeters."});
 
 ADDART({id:"pacemakers",t:"Pacemakers",c:"Health and the Body",i:"💓",w:"Artificial cardiac pacemaker",r:["heart","heartdisease","surgery","battery","prosthetics"],
 p:[["Keeping the beat","Pacemakers send electrical pulses to keep the heart beating regularly."],["First implant in 1958","The first implantable pacemaker was fitted in Sweden in 1958."],["Smaller every year","Modern leadless pacemakers are smaller than a coin."]],
@@ -87,8 +81,7 @@ s2:[["Pacemakers and phones","Strong magnets and some electronic devices can int
 sp:["Wilson Greatbatch","American engineer Wilson Greatbatch invented a practical implantable pacemaker in 1958 after accidentally fitting the wrong resistor into a heart-recording device, which produced regular pulses. He later developed long-lasting lithium batteries for pacemakers."],
 g:[["Sinoatrial node","The heart’s natural pacemaker"],["Lead","A wire carrying pulses to the heart"],["Heart block","A blockage of the heart’s electrical signals"],["Defibrillator","A device that shocks the heart into a normal rhythm"]],
 f:["The first implanted pacemaker was fitted in 1958.","Arne Larsson received 26 pacemakers.","Leadless pacemakers are smaller than a coin."],
-fun:"Arne Larsson, the first person to receive an implanted pacemaker, lived to the age of 86.",
-tl:"Nagpapadala ang pacemaker ng mga pulsong elektrikal upang mapanatiling regular ang tibok ng puso. Inilagay ang unang implantable pacemaker sa Sweden noong 1958, at mas maliit pa sa barya ang mga makabagong leadless pacemaker."});
+fun:"Arne Larsson, the first person to receive an implanted pacemaker, lived to the age of 86."});
 
 ADDART({id:"fermiparadox",t:"The Fermi Paradox",c:"Space and Astronomy",i:"👽",w:"Fermi paradox",r:["astrobio","exoplanet","milky","ufos","radioastronomy"],
 p:[["Where is everybody?","The Fermi paradox asks why we see no sign of alien civilizations."],["A big galaxy","The Milky Way has billions of stars and planets, many possibly habitable."],["Many possible answers","Explanations range from rare life to aliens choosing to hide."]],
@@ -100,8 +93,7 @@ s2:[["Rare Earth","In their 2000 book Rare Earth, Peter Ward and Donald Brownlee
 sp:["The Wow! signal","On 15 August 1977, the Big Ear radio telescope in Ohio detected a strong, narrow radio signal from the constellation Sagittarius. Astronomer Jerry Ehman circled it on the printout and wrote ‘Wow!’. It lasted 72 seconds and was never heard again."],
 g:[["Paradox","A situation that seems contradictory"],["SETI","The Search for Extraterrestrial Intelligence"],["Habitable zone","The region around a star where liquid water could exist"],["Technosignature","Evidence of technology from another civilization"]],
 f:["Fermi asked ‘Where is everybody?’ in 1950.","The Drake equation estimates alien civilizations.","The Wow! signal was never detected again."],
-fun:"Even traveling at a small fraction of the speed of light, a civilization could in theory visit every star system in the Milky Way within a few million years, a short time compared with the galaxy’s age.",
-tl:"Tinatanong ng Fermi paradox kung bakit wala tayong nakikitang tanda ng sibilisasyon ng mga alien. Bilyun-bilyon ang bituin at planeta sa Milky Way, at maraming posibleng paliwanag, mula sa pagiging bihira ng buhay hanggang sa sadyang pagtatago ng mga alien."});
+fun:"Even traveling at a small fraction of the speed of light, a civilization could in theory visit every star system in the Milky Way within a few million years, a short time compared with the galaxy’s age."});
 
 ADDART({id:"terraforming",t:"Terraforming",c:"Space and Astronomy",i:"🪐",w:"Terraforming",r:["mars","venus","climchange","scifi","marsrovers"],
 p:[["Making new Earths","Terraforming means changing a planet to make it habitable for humans."],["Mars is the main target","Most ideas focus on warming and thickening Mars’s atmosphere."],["Science fiction for now","Terraforming would take centuries or longer, if it is possible at all."]],
@@ -113,8 +105,7 @@ s2:[["Terraforming in fiction","Kim Stanley Robinson’s Mars trilogy (1992–19
 sp:["Paraterraforming","Rather than changing a whole planet, ‘paraterraforming’ would enclose smaller areas, such as craters or canyons, under domes or roofs with breathable air, creating habitable spaces more quickly."],
 g:[["Terraforming","Changing a planet to be like Earth"],["Greenhouse gas","A gas that traps heat"],["Planetary protection","Rules to avoid contaminating other worlds"],["Solar wind","A stream of charged particles from the Sun"]],
 f:["The word terraforming was coined in 1942.","Mars’s air pressure is less than 1% of Earth’s.","Terraforming would take centuries or more."],
-fun:"Some terraforming ideas propose crashing icy comets into Mars to add water and gases to its atmosphere.",
-tl:"Ang terraforming ay pagbabago sa isang planeta upang matirhan ito ng tao. Karamihan ng ideya ay nakatuon sa pagpapainit at pagpapakapal ng atmospera ng Mars, ngunit aabutin ito ng daan-daang taon o higit pa, kung posible man."});
+fun:"Some terraforming ideas propose crashing icy comets into Mars to add water and gases to its atmosphere."});
 
 ADDART({id:"spaceelevators",t:"Space Elevators",c:"Space Exploration",i:"🛗",w:"Space elevator",r:["elevators","rocket","sat","space","scifi"],
 p:[["A cable to space","A space elevator would be a cable reaching from Earth into orbit."],["Cheaper than rockets","Climbers could carry cargo into space using electricity."],["No material yet","No known material is strong enough to build one on Earth."]],
@@ -126,8 +117,7 @@ s2:[["Inspired by the Eiffel Tower","Tsiolkovsky was inspired by the Eiffel Towe
 sp:["Clarke’s novel","In The Fountains of Paradise, Arthur C. Clarke imagined a space elevator rising from a mountain on an island based on Sri Lanka, where he lived. He said space elevators would be built ‘about 50 years after everyone stops laughing’."],
 g:[["Tether","A long cable"],["Geostationary orbit","An orbit that matches Earth’s rotation, about 36,000 km up"],["Counterweight","A mass that balances another"],["Carbon nanotube","A tiny, extremely strong tube of carbon atoms"]],
 f:["A space elevator would reach beyond 36,000 km.","No material is yet strong enough to build one.","Arthur C. Clarke popularized the idea in 1979."],
-fun:"A space elevator cable could be thinner than a sheet of paper but wider than a ribbon, a design meant to resist damage from small debris.",
-tl:"Ang space elevator ay mungkahing kable na aabot mula sa Earth hanggang sa orbit. Maaari itong magdala ng karga sa kalawakan gamit ang kuryente, ngunit wala pang materyal na sapat ang tibay upang itayo ito."});
+fun:"A space elevator cable could be thinner than a sheet of paper but wider than a ribbon, a design meant to resist damage from small debris."});
 
 ADDART({id:"keplertelescope",t:"The Kepler Space Telescope",c:"Space Exploration",i:"🔭",w:"Kepler space telescope",r:["exoplanet","keplerlaws","scope","jwst","astrobio"],
 p:[["Planet hunter","Kepler searched for planets around other stars."],["Thousands of discoveries","It found more than 2,600 confirmed exoplanets."],["Planets are common","Kepler showed that most stars have planets."]],
@@ -139,8 +129,7 @@ s2:[["Tabby’s Star","In 2015, citizen scientists studying Kepler data found a 
 sp:["William Borucki","NASA scientist William Borucki proposed the Kepler mission in the 1980s and had it rejected several times because many doubted that the technology could detect such tiny dips in brightness. He persisted for nearly 20 years before it was approved."],
 g:[["Exoplanet","A planet orbiting a star other than the Sun"],["Transit","A planet passing in front of its star"],["Habitable zone","Where liquid water could exist on a planet"],["Reaction wheel","A spinning wheel used to point a spacecraft"]],
 f:["Kepler found more than 2,600 confirmed exoplanets.","Kepler showed that most stars have planets.","Kepler watched about 150,000 stars at once."],
-fun:"Kepler’s detector could notice a dimming as small as that caused by a flea passing in front of a car headlight seen from far away.",
-tl:"Naghanap ang Kepler space telescope ng mga planeta sa paligid ng ibang bituin. Nakatuklas ito ng mahigit 2,600 kumpirmadong exoplanet at ipinakita nitong karamihan ng bituin ay may mga planeta."});
+fun:"Kepler’s detector could notice a dimming as small as that caused by a flea passing in front of a car headlight seen from far away."});
 
 ADDART({id:"vesta",t:"Vesta",c:"Space and Astronomy",i:"🪨",w:"4 Vesta",r:["asteroidbelt","ceres","ionengines","meteors","impactcraters"],
 p:[["A giant asteroid","Vesta is the second-largest object in the asteroid belt."],["A planet that never finished","It has a core, mantle and crust like a small planet."],["Pieces on Earth","Some meteorites that fall to Earth come from Vesta."]],
@@ -152,8 +141,7 @@ s2:[["A snowman of craters","Three craters lined up on Vesta, nicknamed the ‘S
 sp:["Named after a goddess","Vesta was the Roman goddess of the home and hearth, whose sacred fire in Rome was tended by the Vestal Virgins. The asteroid was the fourth to be discovered, after Ceres, Pallas and Juno."],
 g:[["Protoplanet","A body that began forming into a planet but did not finish"],["Basin","A very large, shallow crater"],["Meteorite","A space rock that reaches the ground"],["Basalt","A dark volcanic rock"]],
 f:["Vesta is the second-largest object in the asteroid belt.","About 5% of meteorites come from Vesta.","Vesta can sometimes be seen with the naked eye."],
-fun:"The central peak of Vesta’s Rheasilvia crater is about 20 kilometers high, more than twice as tall as Mount Everest.",
-tl:"Ang Vesta ang ikalawang pinakamalaking bagay sa asteroid belt. Mayroon itong core, mantle at crust tulad ng maliit na planeta, at ilang meteorite na bumabagsak sa Earth ay nagmumula rito."});
+fun:"The central peak of Vesta’s Rheasilvia crater is about 20 kilometers high, more than twice as tall as Mount Everest."});
 
 ADDART({id:"tianwen",t:"China’s Tianwen Missions",c:"Space Exploration",i:"🇨🇳",w:"Tianwen-1",r:["mars","marsrovers","spaceagencies","chandrayaan","phobosdeimos"],
 p:[["Questions to heaven","Tianwen means ‘questions to heaven’, after an ancient poem."],["Mars in one try","Tianwen-1 orbited, landed and drove on Mars on its first attempt."],["Asteroids and samples","Tianwen-2 reached a near-Earth asteroid in 2026."]],
@@ -165,5 +153,4 @@ s2:[["China’s space program","China has become a major space power, building t
 sp:["Qu Yuan’s questions","The ancient poem Tianwen, attributed to Qu Yuan, who lived about 2,300 years ago, consists of more than 170 questions about the heavens, nature, myth and history, reflecting curiosity about the universe."],
 g:[["Rover","A vehicle that drives on another world"],["Quasi-moon","An asteroid that appears to orbit Earth"],["Sample return","Bringing material from space to Earth"],["Hibernation","A dormant, inactive state"]],
 f:["Tianwen means ‘questions to heaven’.","Zhurong landed on Mars in 2021.","Tianwen-2 reached a quasi-moon of Earth in 2026."],
-fun:"Zhurong’s selfie with its lander was taken by a small remote camera the rover dropped on the ground before driving away.",
-tl:"Ang Tianwen ay programa ng China sa paggalugad sa mga planeta, at nangangahulugang ‘mga tanong sa langit’. Sa unang subok, nag-orbit, lumapag at nagmaneho sa Mars ang Tianwen-1, at narating ng Tianwen-2 ang isang asteroid noong 2026."});
+fun:"Zhurong’s selfie with its lander was taken by a small remote camera the rover dropped on the ground before driving away."});

@@ -9,10 +9,9 @@ s2:[["Sue and Stan","‘Sue’, found in South Dakota on August 12, 1990, by the
 sp:["Big, but not the biggest","T. rex was not the longest meat-eating dinosaur; Spinosaurus and perhaps Giganotosaurus were as long or longer. But T. rex was among the heaviest and had one of the most powerful bites of any land animal known."],
 g:[["Theropod","A group of mostly meat-eating, two-legged dinosaurs"],["Coprolite","Fossilized dung"],["Bite force","How hard an animal can press with its jaws"]],
 f:["T. rex lived closer in time to humans than to Stegosaurus.","Its largest teeth were about the size of a banana.","T. rex is the official state fossil of Montana."],
-fun:"Tyrannosaurus rex lived closer in time to us than to Stegosaurus.",
-tl:"Ang Tyrannosaurus rex ay isa sa pinakamalaking dinosaur na kumakain ng karne. Nabuhay ito sa Hilagang Amerika mga 68 hanggang 66 milyong taon na ang nakararaan at may napakalakas na kagat."});
+fun:"Tyrannosaurus rex lived closer in time to us than to Stegosaurus."});
 
-ADDART({id:"triceratops",t:"Triceratops",c:"Animals and Nature",i:"🦏",w:"Triceratops",r:["trex","dino","stegosaurus","ankylosaurus","paleontology"],
+ADDART({id:"triceratops",t:"Triceratops",c:"Animals and Nature",i:"🦏",w:"Triceratops",r:["trex","dino","stegosaurus","ankylosaurus","paleontology","pachycephalosaurus"],
 p:[["Three-horned face","Triceratops means ‘three-horned face’."],["A giant frill","A huge bony frill spread out from the back of its skull."],["A plant-eater","It used a parrot-like beak to snip tough plants."]],
 l:"Triceratops was a large, plant-eating dinosaur that lived in western North America about 68 to 66 million years ago, at the very end of the Cretaceous Period. It had a short horn on its nose, two long horns over its eyes, and a solid bony frill at the back of its skull. Adults reached about 8 to 9 meters long and weighed several metric tons. Triceratops lived at the same time and in the same places as Tyrannosaurus rex, which hunted it. It is one of the most common dinosaurs found in the rocks of the Hell Creek Formation.",
 s:[["A case of mistaken identity","In 1887, a pair of large horns found near Denver, Colorado, was described by Othniel Charles Marsh as belonging to a giant extinct bison. After more complete skulls were found in Wyoming, Marsh realized his mistake and in 1889 named the animal Triceratops."],["Horns and frill","Triceratops’s skull, including the frill, could be more than 2 meters long, one of the largest skulls of any land animal. Its horns and frill may have helped in defense, but they were probably also used to show off and recognize each other, and in shoving contests between rivals. Healed injuries on some skulls fit the shape of another Triceratops’s horns."],["Eating","Triceratops had a toothless beak at the front of its mouth and rows of hundreds of shearing teeth farther back. These teeth were arranged in groups called dental batteries, with new teeth constantly replacing worn ones. It probably ate low-growing plants such as ferns, cycads and palms."],["Fighting T. rex","Fossil Triceratops bones with T. rex tooth marks show that tyrannosaurs fed on them. Some bite marks on a Triceratops horn healed over, showing that the animal survived an attack."]],
@@ -22,8 +21,7 @@ s2:[["Torosaurus debate","Torosaurus was a similar dinosaur with a larger frill 
 sp:["A state symbol","Triceratops is the state fossil of South Dakota and the state dinosaur of Wyoming."],
 g:[["Frill","A bony shield at the back of the skull"],["Dental battery","Rows of tightly packed, replaceable teeth"],["Ceratopsian","A group of beaked, often horned plant-eating dinosaurs"]],
 f:["The first Triceratops horns were mistaken for those of a bison.","Its skull was one of the largest of any land animal.","Triceratops lived at the same time as T. rex."],
-fun:"Triceratops’s skull could be longer than a tall adult human.",
-tl:"Ang Triceratops ay dinosaur na kumakain ng halaman at may tatlong sungay at malaking pananggalang na buto sa ulo. Nabuhay ito kasabay ng T. rex sa Hilagang Amerika."});
+fun:"Triceratops’s skull could be longer than a tall adult human."});
 
 ADDART({id:"stegosaurus",t:"Stegosaurus",c:"Animals and Nature",i:"🦕",w:"Stegosaurus",r:["dino","allosaurus","diplodocus","ankylosaurus","paleontology"],
 p:[["Plates on its back","Stegosaurus had two rows of tall bony plates along its back."],["A spiked tail","Its tail ended in four long spikes."],["Jurassic giant","It lived about 155 to 145 million years ago."]],
@@ -35,10 +33,9 @@ s2:[["Sophie and Apex","‘Sophie’, at the Natural History Museum in London, i
 sp:["State fossil","Stegosaurus is the state fossil of Colorado, where its first fossils were found."],
 g:[["Thagomizer","The spiked tail of a stegosaur"],["Plate","A flat, upright bony structure on the back"],["Morrison Formation","Jurassic rocks of the western US rich in dinosaur fossils"]],
 f:["The name ‘thagomizer’ comes from a cartoon.","Stegosaurus’s plates were not strong enough to be armor.","Stegosaurus had a brain about the size of a lemon."],
-fun:"Scientists borrowed the word ‘thagomizer’ for Stegosaurus’s tail spikes from a 1982 cartoon.",
-tl:"Ang Stegosaurus ay dinosaur na kumakain ng halaman na may dalawang hanay ng malalaking plato sa likod at matutulis na tinik sa buntot. Nabuhay ito mga 155 hanggang 145 milyong taon na ang nakararaan."});
+fun:"Scientists borrowed the word ‘thagomizer’ for Stegosaurus’s tail spikes from a 1982 cartoon."});
 
-ADDART({id:"velociraptor",t:"Velociraptor",c:"Animals and Nature",i:"🦃",w:"Velociraptor",r:["dinobirds","dino","archaeopteryx","trex","birds"],
+ADDART({id:"velociraptor",t:"Velociraptor",c:"Animals and Nature",i:"🦃",w:"Velociraptor",r:["dinobirds","dino","archaeopteryx","trex","birds","therizinosaurus"],
 p:[["Swift thief","Velociraptor means ‘swift thief’."],["Turkey-sized","It was much smaller than in films, about the size of a turkey."],["Feathered hunter","It had feathers and a big sickle-shaped claw on each foot."]],
 l:"Velociraptor was a small, feathered, meat-eating dinosaur that lived in what is now Mongolia and China about 75 to 71 million years ago, during the Late Cretaceous Period. It was about 2 meters long, including its long tail, and weighed around 15 to 20 kilograms, roughly the size of a large turkey. Like its relatives, it had a large, curved claw on the second toe of each foot, which it held off the ground. Velociraptor is one of the dromaeosaurs, a group of dinosaurs closely related to birds, and fossil evidence shows that it had feathered wings.",
 s:[["Discovery","Velociraptor was found in the Gobi Desert in 1923 by Peter Kaisen, a member of an American Museum of Natural History expedition led by Roy Chapman Andrews. Henry Fairfield Osborn named it in 1924. Later expeditions from Mongolia, Poland, Russia and China found many more fossils."],["The Fighting Dinosaurs","In 1971, a Polish-Mongolian team found a Velociraptor and a Protoceratops locked together in combat. The Velociraptor’s claw was in the Protoceratops’s neck, and the Protoceratops was biting the Velociraptor’s arm. They were probably buried by a collapsing sand dune. The fossil is a national treasure of Mongolia."],["Feathers","In 2007, scientists found quill knobs, small bumps where large feathers attach, on a Velociraptor forearm bone. This shows that it had wing feathers like a bird’s, even though it could not fly. The feathers may have been used for display, for keeping eggs warm, or for balance while pinning prey."],["Hunting","Velociraptor probably hunted small animals, pinning them down with its feet and sickle claws, much as hawks and eagles do today. A fossil of a pterosaur bone in a Velociraptor’s gut shows that it also scavenged."]],
@@ -48,8 +45,7 @@ s2:[["Films versus fossils","Velociraptors in popular films were based partly on
 sp:["Not a pack hunter?","Films show raptors hunting in clever packs. Some fossil trackways suggest relatives walked in groups, but other studies of their teeth and growth suggest they may have behaved more like modern reptiles or birds of prey, so the idea of pack hunting is still debated."],
 g:[["Dromaeosaur","A family of feathered predatory dinosaurs closely related to birds"],["Quill knob","A bump on bone where large feathers attached"],["Sickle claw","A large curved claw on a raptor’s second toe"]],
 f:["Velociraptor was about the size of a turkey.","Velociraptor had feathered arms.","The ‘Fighting Dinosaurs’ fossil shows a Velociraptor and Protoceratops in combat."],
-fun:"A real Velociraptor was about the size of a turkey, not a person.",
-tl:"Ang Velociraptor ay maliit na dinosaur na kumakain ng karne at may balahibo. Kasinlaki lamang ito ng pabo at nabuhay sa Mongolia mga 75 hanggang 71 milyong taon na ang nakararaan."});
+fun:"A real Velociraptor was about the size of a turkey, not a person."});
 
 ADDART({id:"brachiosaurus",t:"Brachiosaurus",c:"Animals and Nature",i:"🦒",w:"Brachiosaurus",r:["diplodocus","argentinosaurus","dino","stegosaurus","allosaurus"],
 p:[["Arm lizard","Brachiosaurus means ‘arm lizard’, because its front legs were longer than its back legs."],["A giraffe-like giant","It held its long neck high to reach treetops."],["Jurassic heavyweight","It lived about 154 to 150 million years ago."]],
@@ -61,10 +57,9 @@ s2:[["Sauropods","Brachiosaurus belonged to the sauropods, the largest land anim
 sp:["A film star","Brachiosaurus became famous worldwide through a scene in the 1993 film Jurassic Park in which it rears up to feed from treetops."],
 g:[["Sauropod","A giant, long-necked, plant-eating dinosaur"],["Air sac","A balloon-like part of the breathing system found in birds and dinosaurs"],["Browser","An animal that eats leaves from trees and shrubs"]],
 f:["Brachiosaurus’s front legs were longer than its back legs.","The Berlin ‘Brachiosaurus’ is now called Giraffatitan.","Sauropods had hollow bones, like birds."],
-fun:"With its head raised, Brachiosaurus could have looked into a third-floor window.",
-tl:"Ang Brachiosaurus ay higanteng dinosaur na may mahabang leeg at kumakain ng dahon sa matataas na puno. Mas mahaba ang mga paa nito sa harap kaysa sa likod, kaya kahawig nito ang dyirap."});
+fun:"With its head raised, Brachiosaurus could have looked into a third-floor window."});
 
-ADDART({id:"diplodocus",t:"Diplodocus",c:"Animals and Nature",i:"🦕",w:"Diplodocus",r:["brachiosaurus","argentinosaurus","stegosaurus","allosaurus","dino"],
+ADDART({id:"diplodocus",t:"Diplodocus",c:"Animals and Nature",i:"🦕",w:"Diplodocus",r:["brachiosaurus","argentinosaurus","stegosaurus","allosaurus","dino","brontosaurus"],
 p:[["Double beam","Diplodocus means ‘double beam’, after bones under its tail."],["One of the longest","It was one of the longest dinosaurs, about 24 to 26 meters long."],["Dippy","Copies of a Diplodocus skeleton went to museums around the world."]],
 l:"Diplodocus was a long-necked, plant-eating sauropod dinosaur that lived in western North America during the Late Jurassic Period, about 154 to 152 million years ago. It was one of the longest dinosaurs known, reaching about 24 to 26 meters, but relatively light for its size, at around 12 to 15 metric tons. Most of its length came from its long neck and very long tail, which tapered to a thin, whip-like tip. Its peg-like teeth sat only at the front of its jaws and were used to strip leaves from plants.",
 s:[["Discovery and name","Othniel Charles Marsh named Diplodocus in 1878 from fossils found in Colorado. The name, meaning ‘double beam’, refers to the unusual two-pronged chevron bones under its tail, which may have protected blood vessels when the tail touched the ground."],["Dippy","In 1899, workers funded by the steel tycoon Andrew Carnegie found a nearly complete skeleton in Wyoming. Carnegie paid for plaster casts to be given to museums in London, Paris, Berlin, Vienna, Madrid, Moscow and other cities. The London cast, nicknamed ‘Dippy’, was displayed from 1905 and toured the United Kingdom from 2018."],["A whip tail","Diplodocus’s tail had about 80 bones and ended in a thin tip. Some scientists think it could be cracked like a whip to make a loud noise or to defend itself, though this is debated."],["Feeding","Diplodocus probably fed on ferns, horsetails and lower branches by swinging its long neck, rather than holding it high like Brachiosaurus. Its teeth wore out quickly and were replaced about every month."]],
@@ -74,8 +69,7 @@ s2:[["Neighbors","Diplodocus shared its world with other sauropods such as Apato
 sp:["Gifts of science","Carnegie’s gift of Diplodocus casts helped make dinosaurs famous around the world in the early 20th century, and many of the casts still stand in museums today."],
 g:[["Chevron","A small bone below a tail bone"],["Sauropod","A giant, long-necked, plant-eating dinosaur"],["Cast","A copy made by pouring material into a mold"]],
 f:["Diplodocus’s tail had about 80 bones.","Copies of Diplodocus were given to museums on several continents.","Diplodocus replaced its teeth about once a month."],
-fun:"A single Diplodocus was about as long as two school buses parked end to end.",
-tl:"Ang Diplodocus ay isa sa pinakamahabang dinosaur, mga 24 hanggang 26 metro ang haba. May mahaba itong leeg at buntot na parang latigo, at kumakain ito ng halaman."});
+fun:"A single Diplodocus was about as long as two school buses parked end to end."});
 
 ADDART({id:"spinosaurus",t:"Spinosaurus",c:"Animals and Nature",i:"🐊",w:"Spinosaurus",r:["trex","dino","paleontology","sahara","croc"],
 p:[["Spine lizard","Spinosaurus had a tall sail of spines on its back."],["Fish-eater","It had crocodile-like jaws and probably ate a lot of fish."],["Longer than T. rex","It may have been the longest meat-eating dinosaur."]],
@@ -87,8 +81,7 @@ s2:[["The sail","Scientists are not sure what the sail was for. It may have been
 sp:["A detective story","Rebuilding Spinosaurus has been like solving a puzzle with missing pieces. Each new fossil has changed scientists’ picture of what it looked like and how it lived, and the debate is likely to continue."],
 g:[["Sail","A tall fin of skin supported by long spines on the back"],["Spinosaurid","A family of fish-eating dinosaurs with long snouts"],["Holotype","The original specimen used to name a species"]],
 f:["The first Spinosaurus fossils were destroyed in World War II.","Spinosaurus’s back spines were more than 1.5 meters tall.","Spinosaurus may have been longer than T. rex."],
-fun:"Spinosaurus’s nostrils sat far back on its snout so it could breathe with its jaws in water.",
-tl:"Ang Spinosaurus ay malaking dinosaur na kumakain ng isda at may mataas na ‘layag’ sa likod. Nabuhay ito sa Hilagang Aprika at posibleng mas mahaba pa kaysa sa T. rex."});
+fun:"Spinosaurus’s nostrils sat far back on its snout so it could breathe with its jaws in water."});
 
 ADDART({id:"ankylosaurus",t:"Ankylosaurus",c:"Animals and Nature",i:"🐢",w:"Ankylosaurus",r:["triceratops","trex","stegosaurus","dino","paleontology"],
 p:[["Armored tank","Ankylosaurus was covered in bony armor plates."],["Club tail","Its tail ended in a heavy bony club."],["Lived with T. rex","It lived in North America at the end of the age of dinosaurs."]],
@@ -100,8 +93,7 @@ s2:[["Borealopelta","A relative of Ankylosaurus, Borealopelta, found in a Canadi
 sp:["Living tanks","With its low, wide body, heavy armor and club tail, Ankylosaurus is often compared to a tank, and it was well protected even from giant predators like T. rex."],
 g:[["Osteoderm","A bony plate in the skin"],["Ankylosaur","A group of armored plant-eating dinosaurs"],["Tendon","Tough tissue that connects muscle to bone"]],
 f:["Ankylosaurus could swing its tail club hard enough to break bone.","Even its eyelids may have been armored.","Ankylosaurus lived at the same time as T. rex."],
-fun:"A relative of Ankylosaurus was named Zuul after a monster in the 1984 film Ghostbusters.",
-tl:"Ang Ankylosaurus ay dinosaur na may makapal na baluting buto at buntot na parang pamalo. Kumakain ito ng halaman at nabuhay kasabay ng T. rex."});
+fun:"A relative of Ankylosaurus was named Zuul after a monster in the 1984 film Ghostbusters."});
 
 ADDART({id:"parasaurolophus",t:"Parasaurolophus",c:"Animals and Nature",i:"🎺",w:"Parasaurolophus",r:["iguanodon","dino","trex","triceratops","paleontology"],
 p:[["A musical crest","Parasaurolophus had a long, hollow, tube-like crest."],["A duck-billed dinosaur","It belonged to the hadrosaurs, or duck-billed dinosaurs."],["Herd animal","It may have used its crest to call to others."]],
@@ -113,8 +105,7 @@ s2:[["Duck-billed dinosaurs","Hadrosaurs were among the most common plant-eaters
 sp:["Hear a dinosaur","Museums have built models of the Parasaurolophus crest that visitors can blow through, producing a deep, foghorn-like sound."],
 g:[["Hadrosaur","A duck-billed, plant-eating dinosaur"],["Crest","A bony structure on the top of the head"],["CT scan","A scan using X-rays to see inside objects"]],
 f:["Parasaurolophus’s crest could make a sound like a trombone.","Hadrosaurs had hundreds of teeth.","Its crest was hollow."],
-fun:"Scientists have recreated the deep, trombone-like call that Parasaurolophus may have made through its crest.",
-tl:"Ang Parasaurolophus ay dinosaur na may tuka na parang pato at mahabang palong na guwang. Maaaring ginamit nito ang palong upang gumawa ng malalim na tunog para tumawag sa iba."});
+fun:"Scientists have recreated the deep, trombone-like call that Parasaurolophus may have made through its crest."});
 
 ADDART({id:"allosaurus",t:"Allosaurus",c:"Animals and Nature",i:"🦖",w:"Allosaurus",r:["stegosaurus","diplodocus","trex","brachiosaurus","dino"],
 p:[["Jurassic hunter","Allosaurus was the top predator of the Late Jurassic in North America."],["Different lizard","Its name means ‘different lizard’."],["Many fossils","It is one of the best-known large meat-eating dinosaurs."]],
@@ -126,8 +117,7 @@ s2:[["Bigger relatives","Allosaurus’s relatives include Saurophaganax, which m
 sp:["A different age","Allosaurus lived about 80 million years before Tyrannosaurus rex. The two never met; more time separates them than separates T. rex from us."],
 g:[["Theropod","A group of mostly meat-eating, two-legged dinosaurs"],["Serrated","Having a saw-like edge"],["Quarry","A place where fossils or rock are dug out"]],
 f:["More than 10,000 bones have been dug from Utah’s Cleveland-Lloyd Quarry.","‘Big Al’ had 19 injuries or infections.","Allosaurus is Utah’s state fossil."],
-fun:"The young Allosaurus ‘Big Al’ had 19 broken bones or infections during its life.",
-tl:"Ang Allosaurus ay malaking dinosaur na kumakain ng karne noong Huling Jurassic sa Hilagang Amerika. Libu-libong buto nito ang natagpuan sa Utah."});
+fun:"The young Allosaurus ‘Big Al’ had 19 broken bones or infections during its life."});
 
 ADDART({id:"iguanodon",t:"Iguanodon",c:"Animals and Nature",i:"👍",w:"Iguanodon",r:["paleontology","dino","parasaurolophus","fossils","geotime"],
 p:[["Iguana tooth","Iguanodon was named for teeth that looked like a giant iguana’s."],["Thumb spike","It had a sharp spike on each thumb."],["An early discovery","It was the second dinosaur ever to be scientifically named."]],
@@ -139,8 +129,7 @@ s2:[["Dinner in a dinosaur","On New Year’s Eve 1853, the sculptor Benjamin Wat
 sp:["Changing pictures","Iguanodon shows how science changes with new evidence. It went from a rhino-like reptile with a horn on its nose, to an upright kangaroo-like animal, to the four-legged dinosaur scientists picture today."],
 g:[["Ornithopod","A group of plant-eating dinosaurs, many walking on two legs"],["Megalosaurus","The first dinosaur to be scientifically named, in 1824"],["Reconstruction","A model of what an extinct animal looked like"]],
 f:["Iguanodon’s thumb spike was first put on its nose.","At least 38 Iguanodon skeletons were found in one Belgian coal mine.","Scientists once held a dinner party inside a model Iguanodon."],
-fun:"In 1853, scientists held a New Year’s Eve dinner party inside a model of an Iguanodon.",
-tl:"Ang Iguanodon ay dinosaur na kumakain ng halaman at may matulis na tinik sa hinlalaki. Ito ang ikalawang dinosaur na pinangalanan ng mga siyentipiko, noong 1825."});
+fun:"In 1853, scientists held a New Year’s Eve dinner party inside a model of an Iguanodon."});
 
 ADDART({id:"argentinosaurus",t:"Argentinosaurus",c:"Animals and Nature",i:"🦕",w:"Argentinosaurus",r:["brachiosaurus","diplodocus","dino","argentinacountry","paleontology"],
 p:[["A true giant","Argentinosaurus is one of the largest land animals ever known."],["From Argentina","It was found in Patagonia, in southern Argentina."],["Known from a few bones","Only parts of its skeleton have been found."]],
@@ -152,8 +141,7 @@ s2:[["The biggest dinosaur?","It is hard to know which dinosaur was the biggest,
 sp:["A rancher’s discovery","Argentinosaurus is one of many important fossils found by people who were not scientists. Its discovery helped make Patagonia one of the richest places in the world for dinosaur fossils."],
 g:[["Titanosaur","A group of giant sauropod dinosaurs"],["Sauropod","A giant, long-necked, plant-eating dinosaur"],["Patagonia","The southern region of Argentina and Chile"]],
 f:["Argentinosaurus was found by a rancher who thought it was petrified wood.","Some of its backbones are taller than an adult person.","It may have weighed as much as ten elephants."],
-fun:"The first Argentinosaurus bone was mistaken for a piece of petrified wood.",
-tl:"Ang Argentinosaurus ay isa sa pinakamalaking hayop na nabuhay sa lupa. Natagpuan ito sa Argentina at tinatayang 30 hanggang 35 metro ang haba."});
+fun:"The first Argentinosaurus bone was mistaken for a piece of petrified wood."});
 
 ADDART({id:"archaeopteryx",t:"Archaeopteryx",c:"Animals and Nature",i:"🐦",w:"Archaeopteryx",r:["dinobirds","birds","velociraptor","darwin","evo"],
 p:[["Ancient wing","Archaeopteryx means ‘ancient wing’."],["Part bird, part dinosaur","It had feathers and wings, but also teeth, claws and a bony tail."],["A famous fossil","It was discovered in Germany just two years after Darwin’s Origin of Species."]],
@@ -165,5 +153,4 @@ s2:[["How many are there?","Only about a dozen skeletons of Archaeopteryx are kn
 sp:["A link between groups","Archaeopteryx is often called a ‘missing link’. Scientists prefer the term ‘transitional fossil’, because it shows a mix of features from two groups rather than being the single ancestor of all birds."],
 g:[["Transitional fossil","A fossil that shows features of an older group and a newer one"],["Asymmetric feather","A feather with one side narrower than the other, used for flight"],["Solnhofen limestone","Fine-grained rock in Germany famous for perfect fossils"]],
 f:["Archaeopteryx had teeth.","Only about a dozen skeletons of Archaeopteryx are known.","It was found two years after Darwin’s Origin of Species."],
-fun:"Archaeopteryx had teeth, claws on its wings and a long bony tail, unlike any bird alive today.",
-tl:"Ang Archaeopteryx ay maliit na dinosaur na may balahibo at pakpak, pero may ngipin, kuko at mahabang buntot. Natagpuan ito sa Germany at nagpakita ng ugnayan ng mga dinosaur at ibon."});
+fun:"Archaeopteryx had teeth, claws on its wings and a long bony tail, unlike any bird alive today."});

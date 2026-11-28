@@ -9,8 +9,7 @@ s2:[["Carthage","According to tradition, Carthage was founded in 814 BCE by sett
 sp:["From Phoenician letters to ours","The first letter of the Phoenician alphabet was ʾaleph, meaning ox, drawn like an ox’s head; the second was bet, meaning house. The Greeks turned these into alpha and beta, the source of the word alphabet. Over centuries, the ox-head letter rotated and changed into our letter A. Many of the letters we use today can be traced back through Greek and Latin to Phoenician signs."],
 g:[["City-state","An independent city ruling its own territory"],["Alphabet","A writing system with letters for sounds"],["Colony","A settlement founded in a new land"],["Murex","A sea snail used to make purple dye"]],
 f:["The word alphabet comes from the first two Greek letters, based on Phoenician ones.","Carthage was a Phoenician colony.","Tyrian purple dye was made from sea snails."],
-fun:"The word Bible comes from Byblos, a Phoenician city that traded papyrus.",
-tl:"Ang mga Phoenician ay sinaunang mangangalakal at mandaragat mula sa baybayin ng Lebanon ngayon. Ang kanilang alpabeto ang pinagmulan ng alpabetong Griyego, Latin, Hebreo at Arabe. Kilala rin sila sa mamahaling pulang-ube na tina."});
+fun:"The word Bible comes from Byblos, a Phoenician city that traded papyrus."});
 
 ADDART({id:"celts",t:"The Celts",c:"History",i:"🍀",w:"Celts",r:["rome","greece","viking","langevo","fairy"],
 p:[["Peoples of ancient Europe","The Celts were groups of Iron Age peoples across much of Europe who shared related languages and cultures."],["Warriors and artists","They were known as fierce warriors and skilled metalworkers who made beautiful jewelry and swirling designs."],["Living languages","Celtic languages such as Irish, Scottish Gaelic, Welsh and Breton are still spoken today."]],
@@ -22,8 +21,7 @@ s2:[["Druids","Druids were the religious and learned class of Celtic society. Th
 sp:["Boudica","Boudica was queen of the Iceni people in eastern Britain. After her husband died, the Romans seized her kingdom, flogged her and mistreated her daughters. In 60 or 61 CE, she led a huge revolt, destroying the Roman towns of Camulodunum (Colchester), Londinium (London) and Verulamium (St Albans). The Roman governor eventually defeated her army. She has since become a symbol of resistance, and a bronze statue of her in a chariot stands in London."],
 g:[["Druid","A priest and scholar of the ancient Celts"],["Torc","A rigid metal neck ring worn by Celts"],["Hillfort","A fortified settlement on a hill"],["Gaul","The Roman name for the land of the Celts, roughly France"]],
 f:["Celts sacked Rome around 390 BCE.","Welsh and Irish are Celtic languages.","Halloween may have roots in the Celtic festival of Samhain."],
-fun:"Some Halloween traditions may come from the ancient Celtic festival of Samhain.",
-tl:"Ang mga Celt ay mga sinaunang mamamayan sa Europa na may magkakaugnay na wika at kultura. Kilala sila bilang mandirigma at mahuhusay na panday. Sinasalita pa rin ang mga wikang Celtic gaya ng Irish at Welsh."});
+fun:"Some Halloween traditions may come from the ancient Celtic festival of Samhain."});
 
 ADDART({id:"mughal",t:"The Mughal Empire",c:"History",i:"🕌",w:"Mughal Empire",r:["tajmahal","islam","hindu","indiacountry","partition"],
 p:[["Rulers of India","The Mughal Empire ruled much of the Indian subcontinent from 1526 to the 1700s."],["Wealth and splendor","It was one of the richest empires in the world, famous for its art, gardens and buildings."],["The Taj Mahal","The Mughal emperor Shah Jahan built the Taj Mahal as a tomb for his wife."]],
@@ -35,8 +33,7 @@ s2:[["A rich empire","In about 1700 the Mughal Empire was one of the largest eco
 sp:["The Taj Mahal","The Taj Mahal in Agra was built between about 1632 and 1653 by some 20,000 workers, including craftsmen from across the empire and beyond. Its white marble dome, minarets and inlaid decoration of semi-precious stones make it one of the most beautiful buildings in the world. It changes color with the light, appearing pinkish at dawn and golden at sunset. It was declared a UNESCO World Heritage Site in 1983 and is one of the New Seven Wonders of the World."],
 g:[["Dynasty","A series of rulers from the same family"],["Miniature painting","A small, detailed painting"],["Charbagh","A four-part Persian-style garden"],["Figurehead","A leader in name with little real power"]],
 f:["The Mughal Empire was founded in 1526.","Shah Jahan built the Taj Mahal for Mumtaz Mahal.","Akbar promoted tolerance among religions."],
-fun:"Shah Jahan spent his last years imprisoned in Agra Fort, looking out at the Taj Mahal.",
-tl:"Ang Imperyong Mughal ay namuno sa malaking bahagi ng subkontinenteng Indian mula 1526. Isa ito sa pinakamayamang imperyo, kilala sa sining at arkitektura. Ipinatayo ni Shah Jahan ang Taj Mahal para sa kanyang asawa."});
+fun:"Shah Jahan spent his last years imprisoned in Agra Fort, looking out at the Taj Mahal."});
 
 ADDART({id:"seaempires",t:"Srivijaya and Majapahit",c:"History",i:"🛕",w:"Majapahit",r:["sea","indonesiacountry","precol","buddh","silk"],
 p:[["Kingdoms of the sea","Srivijaya and Majapahit were powerful maritime empires based in what is now Indonesia."],["Controlling trade","They grew rich by controlling sea routes between China, India and the islands of Southeast Asia."],["Links to the Philippines","Their trade and culture reached the islands of the Philippines, as shown by ancient artifacts."]],
@@ -48,8 +45,7 @@ s2:[["The Laguna Copperplate Inscription","In 1989 a worker near Lumban, Laguna,
 sp:["Driving out the Mongols","In 1292 Kublai Khan sent a large fleet to punish a Javanese king who had insulted his envoy. When the Mongols arrived in 1293, that king had already been killed by a rival. The clever prince Raden Wijaya allied with the Mongols to defeat the rival, then turned on the Mongols themselves and drove them back to their ships. He founded Majapahit, named, according to legend, after a bitter maja fruit found at the site."],
 g:[["Maritime empire","An empire whose power is based on the sea"],["Strait","A narrow channel of water linking two seas"],["Tribute","Payment or gifts showing respect to a stronger state"],["Kawi","An old script used in Java and the Philippines"]],
 f:["Srivijaya controlled the Strait of Malacca.","Majapahit was founded in 1293.","The Laguna Copperplate Inscription dates from 900."],
-fun:"Indonesia’s first communications satellite was named Palapa after Gajah Mada’s oath.",
-tl:"Ang Srivijaya at Majapahit ay makapangyarihang imperyong pandagat sa Indonesia ngayon. Yumaman sila sa pagkontrol ng kalakalan sa dagat. Ipinapakita ng Laguna Copperplate Inscription (900) ang ugnayan ng Pilipinas sa kulturang ito."});
+fun:"Indonesia’s first communications satellite was named Palapa after Gajah Mada’s oath."});
 
 ADDART({id:"blackdeath",t:"The Black Death",c:"History",i:"💀",w:"Black Death",r:["pandemic","microbe","silk","mongol","antibiotics"],
 p:[["A deadly plague","The Black Death was a devastating plague pandemic that swept across Asia, Europe and Africa in the 1340s and 1350s."],["Spread by fleas","It was caused by bacteria carried by fleas living on rats and other animals."],["A changed world","It killed a large share of Europe’s people and transformed society."]],
@@ -61,8 +57,7 @@ s2:[["Quarantine","In 1377 the city of Ragusa, now Dubrovnik in Croatia, require
 sp:["The word quarantine","When plague kept returning to Europe after the Black Death, cities looked for ways to protect themselves. Ragusa made ships wait 30 days, a trentino, before landing. Venice built isolation hospitals on islands in its lagoon and later required ships to wait 40 days. The Italian word for 40, quaranta, gave English the word quarantine. During the COVID-19 pandemic, quarantine again became a familiar word around the world."],
 g:[["Plague","A serious infectious disease caused by Yersinia pestis"],["Bubo","A swollen lymph node, a sign of bubonic plague"],["Quarantine","Isolating people who may carry a disease"],["Feudalism","A medieval system in which peasants worked land for lords"]],
 f:["The Black Death was caused by bacteria spread by fleas.","It killed about a third to more than half of Europe’s people.","The word quarantine comes from the Italian for 40 days."],
-fun:"The word quarantine comes from the 40 days ships had to wait before landing in Venice.",
-tl:"Ang Black Death ay matinding salot noong 1340s at 1350s na kumalat sa Asya, Europa at Aprika. Dulot ito ng bakteryang dala ng mga pulgas sa daga. Napatay nito ang malaking bahagi ng populasyon ng Europa."});
+fun:"The word quarantine comes from the 40 days ships had to wait before landing in Venice."});
 
 ADDART({id:"greenrev",t:"The Green Revolution",c:"History",i:"🌾",w:"Green Revolution",r:["rice","wheat","agri","indiacountry","mexicocountry"],
 p:[["More food for the world","The Green Revolution was a period from the 1940s to the 1970s when new crop varieties and farming methods greatly increased harvests."],["Miracle rice","Scientists at the International Rice Research Institute in Los Baños, Laguna, created high-yield rice that spread across Asia."],["Benefits and costs","It saved millions from hunger but also brought environmental and social problems."]],
@@ -74,5 +69,4 @@ s2:[["Feeding a growing world","Between the 1960s and 2000, grain production in 
 sp:["IR8, the miracle rice","IR8 was created at IRRI by crossing a tall, vigorous Indonesian rice called Peta with a short Chinese-Taiwanese variety, Dee-geo-woo-gen. The result was a short, sturdy plant that did not fall over when heavily fertilized and could produce up to 5 to 10 metric tons per hectare, compared with 1 to 2 metric tons for many traditional varieties. Released in 1966, it helped prevent food shortages across Asia. It became a symbol of hope across the continent."],
 g:[["High-yielding variety","A crop bred to produce much more grain"],["Fertilizer","A substance added to soil to help plants grow"],["Irrigation","Supplying water to crops artificially"],["Gene bank","A collection that stores seeds for the future"]],
 f:["IRRI was founded in Los Baños, Laguna, in 1960.","IR8 was called miracle rice.","Norman Borlaug won the Nobel Peace Prize in 1970."],
-fun:"IRRI’s gene bank in Los Baños stores more than 100,000 types of rice.",
-tl:"Ang Green Revolution ay panahon mula 1940s hanggang 1970s kung kailan lubhang tumaas ang ani dahil sa bagong binhi at paraan ng pagsasaka. Ginawa sa IRRI sa Los Baños, Laguna ang IR8, ang tinaguriang miracle rice."});
+fun:"IRRI’s gene bank in Los Baños stores more than 100,000 types of rice."});

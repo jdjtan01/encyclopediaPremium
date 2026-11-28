@@ -9,8 +9,7 @@ s2:[["JUICE","The European Space Agency’s Jupiter Icy Moons Explorer, called J
 sp:["Galileo’s wandering stars","In January 1610 Galileo Galilei pointed his homemade telescope at Jupiter and noticed three small stars lined up near the planet. The next night, they had moved. Over the following nights, he saw a fourth, and realized that these were not stars at all but moons orbiting Jupiter. This showed that not everything in the heavens revolved around Earth, supporting the Sun-centered system of Copernicus. Galileo named them the Medicean Stars in honor of the powerful Medici family. Today they are called the Galilean moons, and Ganymede, the largest, is now known to be bigger than the planet Mercury."],
 g:[["Galilean moons","Jupiter’s four largest moons"],["Magnetic field","A region of magnetic force around an object"],["Aurora","Glowing light caused by charged particles"],["JUICE","A European mission to Jupiter’s icy moons"]],
 f:["Ganymede is the largest moon in the solar system.","It is bigger than Mercury.","It has its own magnetic field."],
-fun:"Ganymede may hold more water in its hidden ocean than all of Earth’s oceans combined.",
-tl:"Ang Ganymede ang pinakamalaking buwan sa sistemang solar, mas malaki pa sa planetang Mercury. Ito lamang ang buwang may sariling magnetic field. Maaaring may malaking karagatan sa ilalim ng yelo nito."});
+fun:"Ganymede may hold more water in its hidden ocean than all of Earth’s oceans combined."});
 
 ADDART({id:"callisto",t:"Callisto",c:"Astronomy",i:"🌑",w:"Callisto (moon)",r:["jupiter","ganymede","europa","io","moons"],
 p:[["Battered moon","Callisto has one of the most heavily cratered surfaces in the solar system."],["Ancient surface","Its surface has changed little for billions of years."],["Future base?","Scientists have imagined a human base on Callisto."]],
@@ -22,8 +21,7 @@ s2:[["A base on Callisto","In 2003 a NASA study explored the idea of sending ast
 sp:["A moon for astronauts","In 2003 a team of NASA scientists and engineers studied how humans might one day explore the outer solar system. They considered Jupiter’s moons and concluded that Callisto would be the best place for a base. Its distance from Jupiter keeps radiation levels relatively low, its surface is stable, and its ice could be melted for water and split into oxygen and hydrogen. From a base on Callisto, robots could be controlled in real time on Europa, searching its ocean for life. The study imagined a mission perhaps decades in the future, using advanced nuclear-powered spacecraft. For now, Callisto remains a quiet, ancient world waiting to be explored."],
 g:[["Crater","A bowl-shaped hole made by an impact"],["Impact basin","A very large crater"],["Tidal heating","Heat produced by gravitational squeezing"],["Galilean moon","One of Jupiter’s four largest moons"]],
 f:["Callisto is heavily cratered.","It is the third-largest moon in the solar system.","It may have a hidden ocean."],
-fun:"The rings around Callisto’s Valhalla basin reach about 1,800 kilometers from its center.",
-tl:"Ang Callisto ang ikalawang pinakamalaking buwan ng Jupiter at isa sa pinakamaraming crater sa sistemang solar. Halos hindi nagbago ang ibabaw nito sa bilyun-bilyong taon. Iminungkahi ito ng ilang siyentipiko bilang posibleng base ng tao sa hinaharap."});
+fun:"The rings around Callisto’s Valhalla basin reach about 1,800 kilometers from its center."});
 
 ADDART({id:"triton",t:"Triton",c:"Astronomy",i:"❄️",w:"Triton (moon)",r:["uranep","pluto","kuiper","voyager","moons"],
 p:[["Neptune’s giant moon","Triton is Neptune’s largest moon."],["Going backward","It orbits in the opposite direction to Neptune’s spin."],["Icy geysers","Voyager 2 saw dark plumes erupting from its surface."]],
@@ -35,8 +33,7 @@ s2:[["Voyager 2’s final world","On August 25, 1989, Voyager 2 flew past Neptun
 sp:["Geysers on the coldest moon","When Voyager 2’s images of Triton arrived on Earth in August 1989, scientists expected to see a frozen, inactive world. Instead, they noticed dozens of dark streaks on the pinkish surface, all pointing in the same direction, like smoke blown by the wind. Looking more closely, they found narrow columns of dark material rising straight up about 8 kilometers before being carried sideways by the thin atmosphere. These were geysers, erupting on a moon colder than almost anywhere else ever measured. The discovery showed that even the most distant and frigid worlds can be surprisingly active, and Triton became one of Voyager’s most memorable surprises."],
 g:[["Retrograde orbit","An orbit in the opposite direction to a planet’s spin"],["Kuiper Belt","A region of icy bodies beyond Neptune"],["Cryovolcanism","Eruptions of icy materials"],["Geyser","A jet of gas or liquid bursting from the ground"]],
 f:["Triton orbits Neptune backward.","It was probably captured from the Kuiper Belt.","Voyager 2 saw geysers on Triton."],
-fun:"Triton’s surface is one of the coldest places ever measured in the solar system.",
-tl:"Ang Triton ang pinakamalaking buwan ng Neptune. Umiikot ito nang pabaligtad, kaya pinaniniwalaang nahuli lamang ito mula sa Kuiper Belt. Nakakita ang Voyager 2 ng mga bumubugang geyser sa napakalamig nitong ibabaw."});
+fun:"Triton’s surface is one of the coldest places ever measured in the solar system."});
 
 ADDART({id:"ceres",t:"Ceres",c:"Astronomy",i:"🪨",w:"Ceres (dwarf planet)",r:["asteroidbelt","dwarfplanets","pluto","comet","solar"],
 p:[["Dwarf planet","Ceres is the largest object in the asteroid belt."],["First found","It was the first asteroid ever discovered, in 1801."],["Shining salts","The Dawn spacecraft found mysterious bright spots on its surface."]],
@@ -48,8 +45,7 @@ s2:[["The Dawn mission","NASA’s Dawn spacecraft, launched in 2007, used effici
 sp:["Lost and found","After discovering Ceres on January 1, 1801, Giuseppe Piazzi followed it for six weeks before illness and the object’s approach to the Sun interrupted his observations. Astronomers across Europe wanted to find it again, but with so few observations, no one could predict where it would reappear. Carl Friedrich Gauss, only 24 years old, developed a new mathematical method for calculating orbits from limited data. He predicted where Ceres would be months later. On December 31, 1801, almost exactly a year after its discovery, astronomers found Ceres very close to where Gauss said it would be. His methods became important tools in science and statistics."],
 g:[["Dwarf planet","A round body orbiting the Sun that has not cleared its orbit"],["Asteroid belt","A region of rocky objects between Mars and Jupiter"],["Cryovolcano","A volcano that erupts icy materials"],["Brine","Very salty water"]],
 f:["Ceres was the first asteroid discovered.","It is a dwarf planet.","Dawn found salt deposits on its surface."],
-fun:"The word cereal comes from Ceres, the Roman goddess the dwarf planet is named after.",
-tl:"Ang Ceres ang pinakamalaking bagay sa asteroid belt sa pagitan ng Mars at Jupiter, at isa itong dwarf planet. Natuklasan ito noong Enero 1, 1801. Natagpuan ng Dawn spacecraft ang matitingkad na deposito ng asin sa ibabaw nito."});
+fun:"The word cereal comes from Ceres, the Roman goddess the dwarf planet is named after."});
 
 ADDART({id:"alphacentauri",t:"Alpha Centauri",c:"Astronomy",i:"✨",w:"Alpha Centauri",r:["stars","exoplanet","binarystars","distances","astrobio"],
 p:[["Our nearest neighbors","Alpha Centauri is the closest star system to the Sun."],["Three stars","It includes two Sun-like stars and the red dwarf Proxima Centauri."],["A nearby planet","Proxima Centauri has at least one Earth-sized planet."]],
@@ -61,8 +57,7 @@ s2:[["Measuring the distance","In 1832 and 1833 the Scottish astronomer Thomas H
 sp:["A pinhole in the sky","In 1915 the Scottish-born astronomer Robert Innes, director of the Union Observatory in Johannesburg, South Africa, was comparing photographs of the sky taken years apart, looking for stars that had moved. He found a faint red star near Alpha Centauri that was moving across the sky at the same rate as its bright neighbors, suggesting that it belonged to the same system. Further measurements showed it was even closer to the Sun than Alpha Centauri A and B. Innes named it Proxima Centauri, from the Latin for nearest. More than a century later, astronomers found a planet orbiting it, making our nearest stellar neighbor even more intriguing."],
 g:[["Light-year","The distance light travels in one year"],["Red dwarf","A small, cool, dim star"],["Habitable zone","The region around a star where liquid water could exist"],["Parallax","The apparent shift of a star used to measure distance"]],
 f:["Alpha Centauri is the nearest star system.","Proxima Centauri is the closest single star.","Proxima b is an Earth-sized planet."],
-fun:"Light from Proxima Centauri takes about four years and three months to reach Earth.",
-tl:"Ang Alpha Centauri ang pinakamalapit na sistema ng bituin sa ating Araw, mga 4.3 light-year ang layo. Binubuo ito ng tatlong bituin, kabilang ang Proxima Centauri. May planetang kasinlaki ng Daigdig na umiikot sa Proxima Centauri."});
+fun:"Light from Proxima Centauri takes about four years and three months to reach Earth."});
 
 ADDART({id:"sirius",t:"Sirius",c:"Astronomy",i:"⭐",w:"Sirius",r:["stars","whitedwarfs","constellations","egypt","binarystars"],
 p:[["Brightest star","Sirius is the brightest star in the night sky."],["The Dog Star","It is in the constellation Canis Major, the Great Dog."],["A hidden companion","Sirius has a tiny white dwarf partner."]],
@@ -74,5 +69,4 @@ s2:[["Sirius in ancient Egypt","The ancient Egyptians called Sirius Sopdet. Afte
 sp:["The star that wobbled","In the 1830s and 1840s, the German astronomer Friedrich Bessel carefully measured the position of Sirius over many years. He noticed that, instead of moving in a straight line across the sky, Sirius followed a slightly wavy path. In 1844 he concluded that an unseen companion must be orbiting it, pulling it back and forth. For nearly two decades, no one could see the companion. Then, in 1862, Alvan Graham Clark, testing a new 18.5-inch telescope lens made by his father’s company in Massachusetts, pointed it at Sirius and spotted a faint point of light right beside it. It was Sirius B, later shown to be a white dwarf, a new and strange type of star."],
 g:[["Binary star","Two stars orbiting each other"],["White dwarf","The small, dense remains of a star"],["Heliacal rising","A star’s first appearance before dawn after being hidden"],["Luminosity","The total light a star gives off"]],
 f:["Sirius is the brightest star in the night sky.","It is about 8.6 light-years away.","Sirius B is a white dwarf."],
-fun:"The phrase dog days comes from Sirius, the Dog Star.",
-tl:"Ang Sirius ang pinakamaliwanag na bituin sa kalangitan sa gabi, at tinatawag itong Dog Star. May kasama itong maliit na white dwarf na tinatawag na Sirius B. Kitang-kita ito mula sa Pilipinas tuwing Disyembre hanggang Abril."});
+fun:"The phrase dog days comes from Sirius, the Dog Star."});

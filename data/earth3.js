@@ -9,8 +9,7 @@ s2:[["Geyser fields of the world","Besides Yellowstone, major geyser fields incl
 sp:["Old Faithful","Old Faithful was named in 1870 by members of the Washburn Expedition, who were impressed by how regularly it erupted. It is not the biggest geyser in Yellowstone, but it is one of the most predictable, so park rangers can forecast each eruption, usually within about ten minutes. Each eruption lasts from about one and a half to five minutes and can throw out tens of thousands of liters of boiling water."],
 g:[["Geyser","A hot spring that erupts water and steam"],["Superheated","Heated above its normal boiling point without boiling"],["Fumarole","A vent releasing volcanic steam and gases"],["Geothermal","Heat from inside the Earth"]],
 f:["About half of the world’s geysers are in Yellowstone.","The word geyser comes from Geysir in Iceland.","Saturn’s moon Enceladus has geysers of ice."],
-fun:"An enzyme from a microbe found in a Yellowstone hot spring helps scientists copy DNA.",
-tl:"Ang geyser ay bukal ng mainit na tubig na paminsan-minsang bumubuga ng tubig at singaw. Nabubuo ito kung saan pinapainit ng mainit na bato sa ilalim ng lupa ang tubig. Halos kalahati ng mga geyser sa mundo ay nasa Yellowstone."});
+fun:"An enzyme from a microbe found in a Yellowstone hot spring helps scientists copy DNA."});
 
 ADDART({id:"lakes",t:"Lakes",c:"Geography",i:"🏞️",w:"Lake",r:["taal","iceage","nile","water"],
 p:[["Bodies of water on land","A lake is a large body of water surrounded by land, filling a hollow in the ground."],["Many origins","Lakes form in basins carved by glaciers, in volcanic craters, in cracks in the crust and behind dams."],["Fresh and salty","Most lakes hold fresh water, but some, such as the Dead Sea, are saltier than the ocean."]],
@@ -22,8 +21,7 @@ s2:[["Lake Baikal","Lake Baikal in Siberia is the world’s deepest lake, at 1,6
 sp:["Lake Vostok","Lake Vostok lies beneath almost 4 kilometers of Antarctic ice, sealed off from the air for perhaps millions of years. It is one of the largest of hundreds of lakes hidden under the Antarctic ice sheet. Russian scientists drilled down to its surface in 2012. Researchers hope to learn whether microbes survive in this dark, cold world, which may resemble the hidden oceans on some moons."],
 g:[["Basin","A hollow in the land that can hold water"],["Rift lake","A lake formed where the crust is pulling apart"],["Reservoir","An artificial lake made by a dam"],["Oxbow lake","A curved lake left by a river"]],
 f:["Lake Baikal is the deepest lake in the world.","The Caspian Sea is the largest lake by area.","Titan has lakes of liquid methane."],
-fun:"Canada has more lakes than any other country in the world.",
-tl:"Ang lawa ay malaking anyong-tubig na napapaligiran ng lupa. Ang Caspian Sea ang pinakamalaking lawa, at ang Lake Baikal ang pinakamalalim. Ang Laguna de Bay ang pinakamalaking lawa sa Pilipinas."});
+fun:"Canada has more lakes than any other country in the world."});
 
 ADDART({id:"storms",t:"Hurricanes, Typhoons and Tornadoes",c:"Geography",i:"🌀",w:"Tropical cyclone",r:["phtyph","climate","climchange","tsunami"],
 p:[["Powerful storms","Hurricanes, typhoons and cyclones are giant spinning storms that form over warm oceans."],["One storm, three names","They are called hurricanes in the Atlantic, typhoons in the western Pacific and cyclones in the Indian Ocean."],["Twisting winds","Tornadoes are smaller but violent spinning columns of air reaching down from thunderstorms."]],
@@ -35,8 +33,7 @@ s2:[["Measuring storms","The Saffir–Simpson scale ranks hurricanes from Catego
 sp:["Hurricane hunters","Some aircraft fly straight into hurricanes on purpose. Hurricane hunter crews from the US Air Force and NOAA fly through the violent eyewall into the calm eye, dropping instruments called dropsondes that measure wind, pressure and temperature as they fall. Their data helps forecasters predict a storm’s path and strength more accurately."],
 g:[["Tropical cyclone","A large spinning storm formed over warm tropical seas"],["Eye","The calm center of a tropical cyclone"],["Storm surge","Seawater pushed onto land by a storm"],["Tornado","A violently rotating column of air from a thunderstorm"]],
 f:["Hurricanes and typhoons are the same kind of storm.","The eye of a cyclone is calm.","Lightning is hotter than the Sun’s surface."],
-fun:"Cyclones spin counterclockwise north of the equator and clockwise south of it.",
-tl:"Ang bagyo ay malakas na umiikot na unos na nabubuo sa mainit na dagat. Tinatawag itong hurricane sa Atlantiko, typhoon sa kanlurang Pasipiko at cyclone sa Indian Ocean. Ang buhawi o tornado ay maliit ngunit napakalakas na umiikot na hangin."});
+fun:"Cyclones spin counterclockwise north of the equator and clockwise south of it."});
 
 ADDART({id:"grasslands",t:"Grasslands and Savannas",c:"Geography",i:"🌾",w:"Grassland",r:["lion","elephant","desert","trees","rice"],
 p:[["Seas of grass","Grasslands are wide open lands where grasses are the main plants and trees are few."],["Many names","They are called prairies, steppes, pampas, veld and savannas in different parts of the world."],["Great herds","Grasslands support huge herds of grazing animals, from wildebeest to bison."]],
@@ -48,8 +45,7 @@ s2:[["The great migration","Each year, about 1.5 million wildebeest, along with 
 sp:["Grass that fights back","Grasses have developed clever defenses against grazing animals. Many contain tiny bits of silica, the material in sand and glass, which wear down the teeth of animals that eat them. In turn, horses, cows and other grazers evolved tall, tough teeth that keep growing or wear slowly. This long contest between grasses and grazers has shaped both over millions of years."],
 g:[["Savanna","A tropical grassland with scattered trees"],["Prairie","A temperate grassland of North America"],["Steppe","A dry, temperate grassland of Eurasia"],["Grazer","An animal that feeds mainly on grass"]],
 f:["Rice, wheat and maize are all grasses.","Grasses grow from the base, so they regrow after grazing.","About 1.5 million wildebeest migrate through the Serengeti."],
-fun:"Bamboo is a grass, and some kinds can grow almost a meter in a single day.",
-tl:"Ang grassland ay malawak na lupain kung saan damo ang pangunahing halaman at kakaunti ang puno. Tinatawag itong savanna, prairie, steppe at pampas sa iba't ibang lugar. Nakatira rito ang malalaking kawan ng hayop."});
+fun:"Bamboo is a grass, and some kinds can grow almost a meter in a single day."});
 
 ADDART({id:"kilimanjaro",t:"Mount Kilimanjaro",c:"Geography",i:"🏔️",w:"Mount Kilimanjaro",r:["everest","volc","kenyacountry","iceage","climchange"],
 p:[["Roof of Africa","Mount Kilimanjaro in Tanzania is the highest mountain in Africa, at 5,895 meters."],["A lone giant","It is the tallest freestanding mountain in the world, rising alone from the plains."],["Snow near the equator","Its summit has glaciers, even though it lies only about 330 kilometers from the equator."]],
@@ -61,5 +57,4 @@ s2:[["Disappearing ice","Kilimanjaro’s glaciers have shrunk by more than 80 pe
 sp:["A mountain alone","Unlike Everest, which is part of the Himalaya range, Kilimanjaro stands by itself, rising almost 5,000 meters above the surrounding plains. This makes it the tallest freestanding mountain on Earth. On clear days, it can be seen from Amboseli National Park in Kenya, where photographers capture elephants walking across the plains with the snowy peak behind them."],
 g:[["Dormant volcano","A volcano not erupting now but which could erupt again"],["Stratovolcano","A tall, cone-shaped volcano built of layers of lava and ash"],["Glacier","A slow-moving mass of ice"],["Altitude sickness","Illness caused by low oxygen at high altitude"]],
 f:["Kilimanjaro is the highest mountain in Africa.","Its summit is called Uhuru Peak, meaning freedom.","Kilimanjaro’s glaciers have shrunk by more than 80 percent."],
-fun:"Climbing Kilimanjaro is like traveling from the equator to the Arctic in a few days.",
-tl:"Ang Bundok Kilimanjaro sa Tanzania ang pinakamataas na bundok sa Africa, na may taas na 5,895 metro. Isa itong natutulog na bulkan, at may yelo sa tuktok nito kahit malapit ito sa ekwador."});
+fun:"Climbing Kilimanjaro is like traveling from the equator to the Arctic in a few days."});

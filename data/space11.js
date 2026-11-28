@@ -9,8 +9,7 @@ s2:[["A prediction just in time","In March 1979, three scientists, Stanton Peale
 sp:["The day Voyager found a volcano","On March 9, 1979, four days after Voyager 1 flew past Jupiter, Linda Morabito was studying an image of Io taken to help navigate the spacecraft. She deliberately brightened the image to see a faint star behind the moon. Instead, she saw a huge umbrella-shaped cloud rising from the edge of Io. At first she wondered if it was another moon peeking out from behind. But no moon belonged there. It was a volcanic plume, rising about 300 kilometers into space. For the first time, humans had seen an active volcano on another world, confirming a prediction published just days earlier."],
 g:[["Tidal heating","Heat produced by a moon being squeezed by gravity"],["Plume","A column of gas and dust rising from a volcano"],["Plasma torus","A ring of charged particles around Jupiter"],["Galilean moons","Jupiter’s four largest moons"]],
 f:["Io has hundreds of active volcanoes.","Io is slightly larger than Earth’s Moon.","Io was discovered by Galileo in 1610."],
-fun:"Tides on Io raise its solid rock surface by up to about 100 meters.",
-tl:"Ang Io ay buwan ng Jupiter na may pinakamaraming aktibong bulkan sa sistemang solar. Pinaiinit ito ng paghila ng grabidad ng Jupiter at ng ibang buwan. Natuklasan ito ni Galileo noong 1610."});
+fun:"Tides on Io raise its solid rock surface by up to about 100 meters."});
 
 ADDART({id:"enceladus",t:"Enceladus",c:"Astronomy",i:"❄️",w:"Enceladus",r:["saturn","astrobio","europa","titan","cassini"],
 p:[["Icy moon","Enceladus is a small, bright moon of Saturn covered in ice."],["Geysers","Jets of water spray from cracks near its south pole."],["A hidden ocean","Beneath its ice lies a global ocean of salty water."]],
@@ -22,8 +21,7 @@ s2:[["Could life exist there?","On Earth, hydrothermal vents on the dark seafloo
 sp:["Cassini’s surprise","When Cassini first flew past Enceladus in early 2005, its magnetometer detected something strange: Saturn’s magnetic field seemed to be bending around the moon, as if Enceladus had an atmosphere. That should have been impossible for such a small moon, whose weak gravity cannot hold onto gas. Mission planners decided to send Cassini much closer. In July 2005 the spacecraft passed just 175 kilometers above the surface and discovered the source: water vapor erupting from warm cracks at the south pole. Over the following years, Cassini flew through the plumes many times, even tasting them. A small, overlooked moon had become one of the most exciting places in the solar system."],
 g:[["Plume","A spray of gas and particles"],["Tiger stripes","Warm cracks at Enceladus’s south pole"],["Hydrothermal vent","A hot spring on a seafloor"],["Tidal heating","Heat from a moon being flexed by gravity"]],
 f:["Enceladus has a global ocean under its ice.","Its plumes feed Saturn’s E ring.","Enceladus is the most reflective body in the solar system."],
-fun:"Enceladus reflects almost all the sunlight that hits it, making it brighter than fresh snow.",
-tl:"Ang Enceladus ay maliit na buwan ng Saturn na nababalutan ng yelo. Bumubuga ito ng tubig mula sa mga bitak sa timog na polo nito. Sa ilalim ng yelo ay may karagatan ng maalat na tubig, kaya iniisip ng ilang siyentipiko na maaaring may buhay doon."});
+fun:"Enceladus reflects almost all the sunlight that hits it, making it brighter than fresh snow."});
 
 ADDART({id:"halley",t:"Halley’s Comet",c:"Astronomy",i:"☄️",w:"Halley's Comet",r:["comet","kuiper","meteors","newton","rosetta"],
 p:[["Once a lifetime","Halley’s Comet returns about every 76 years."],["A famous prediction","Edmond Halley predicted its return using Newton’s laws."],["Next visit","It will next pass near the Sun in 2061."]],
@@ -35,8 +33,7 @@ s2:[["Halley’s prediction","Edmond Halley, a friend of Isaac Newton, studied r
 sp:["The farmer who saw it first","As the year 1758 drew to a close, astronomers across Europe searched the skies for the comet Edmond Halley had predicted. Some doubted it would appear. Professional astronomers in France had calculated that the gravity of Jupiter and Saturn would delay its arrival, so they expected it in the spring of 1759. On Christmas night 1758, Johann Georg Palitzsch, a farmer near Dresden in Germany who loved astronomy, pointed his telescope at the sky and found a faint, fuzzy patch. It was the comet. It passed closest to the Sun in March 1759, within a month of the calculations. Halley had been dead for 16 years, but his prediction had come true."],
 g:[["Comet","An icy object that forms a glowing tail near the Sun"],["Nucleus","The solid center of a comet"],["Coma","The cloud of gas and dust around a comet’s nucleus"],["Orbital period","The time to complete one orbit"]],
 f:["Halley’s Comet returns about every 76 years.","It will return in 2061.","It causes two meteor showers each year."],
-fun:"Halley’s nucleus is darker than coal, even though comets are often called dirty snowballs.",
-tl:"Ang Kometa ni Halley ay bumabalik tuwing humigit-kumulang 76 na taon. Hinulaan ni Edmond Halley ang pagbabalik nito gamit ang mga batas ni Newton. Muli itong lalapit sa Araw sa taong 2061."});
+fun:"Halley’s nucleus is darker than coal, even though comets are often called dirty snowballs."});
 
 ADDART({id:"betelgeuse",t:"Betelgeuse",c:"Astronomy",i:"🔴",w:"Betelgeuse",r:["stars","supernova","constellations","pulsar","bh"],
 p:[["A red giant","Betelgeuse is a huge red supergiant star in Orion."],["A sudden fade","In 2019 and 2020 it faded dramatically."],["Future supernova","One day it will explode as a supernova."]],
@@ -48,8 +45,7 @@ s2:[["The Great Dimming","Beginning in October 2019, Betelgeuse faded until, by 
 sp:["Watching a giant fade","In late 2019, amateur and professional astronomers noticed something unusual: Betelgeuse, one of the most familiar stars in the sky, was fading. By February 2020, it had dropped from among the ten brightest stars to about the twenty-fifth. Social media buzzed with speculation that the star might be about to explode as a supernova. Astronomers urgently pointed telescopes at it. Images from the Very Large Telescope revealed that the southern half of the star had become much darker. Later analysis showed that Betelgeuse had burped out a bubble of gas that cooled and formed dust, acting like a veil. The star had not exploded, but the event gave scientists a rare view of how dying giant stars lose material."],
 g:[["Red supergiant","A huge, cool, bright star near the end of its life"],["Supernova","The explosion of a star"],["Light-year","The distance light travels in a year"],["Variable star","A star whose brightness changes"]],
 f:["Betelgeuse is in Orion.","It dimmed dramatically in 2019 and 2020.","It will one day explode as a supernova."],
-fun:"If Betelgeuse replaced the Sun, its surface would reach beyond the orbit of Mars.",
-tl:"Ang Betelgeuse ay napakalaking pulang bituin sa konstelasyong Orion. Biglang lumabo ito noong 2019 at 2020 dahil sa ulap ng alikabok. Balang araw, sasabog ito bilang isang supernova."});
+fun:"If Betelgeuse replaced the Sun, its surface would reach beyond the orbit of Mars."});
 
 ADDART({id:"magellanic",t:"The Magellanic Clouds",c:"Astronomy",i:"🌌",w:"Magellanic Clouds",r:["galaxies","milky","magellan","supernova","andromeda"],
 p:[["Neighbor galaxies","The Magellanic Clouds are two small galaxies near the Milky Way."],["Southern skies","They are best seen from the Southern Hemisphere."],["A famous supernova","A supernova exploded in the Large Magellanic Cloud in 1987."]],
@@ -61,5 +57,4 @@ s2:[["Supernova 1987A","In February 1987, astronomers saw a star explode in the 
 sp:["The night a star exploded","In the early hours of February 24, 1987, Ian Shelton, a Canadian astronomer working at Las Campanas Observatory in Chile, developed a photograph of the Large Magellanic Cloud. He noticed a bright star that had not been there the night before. He went outside, looked up, and could see it with his own eyes. Around the same time, other observers in Chile and New Zealand spotted it too. It was a supernova, the brightest seen since the time of Johannes Kepler in 1604. Meanwhile, neutrino detectors deep underground in Japan and the United States had already recorded a burst of particles from the dying star. For astronomers, it was the event of a lifetime."],
 g:[["Dwarf galaxy","A small galaxy with relatively few stars"],["Cepheid variable","A pulsing star used to measure distances"],["Supernova","The explosion of a star"],["Local Group","The group of galaxies that includes the Milky Way"]],
 f:["The Magellanic Clouds are galaxies.","Supernova 1987A exploded in the Large Magellanic Cloud.","They are best seen from the Southern Hemisphere."],
-fun:"Light from the Large Magellanic Cloud left it about 160,000 years ago, when early modern humans lived in Africa.",
-tl:"Ang Magellanic Clouds ay dalawang maliliit na galaxy na malapit sa Milky Way. Pinakamainam itong makita mula sa katimugang bahagi ng mundo. Noong 1987, may bituing sumabog bilang supernova sa Large Magellanic Cloud."});
+fun:"Light from the Large Magellanic Cloud left it about 160,000 years ago, when early modern humans lived in Africa."});

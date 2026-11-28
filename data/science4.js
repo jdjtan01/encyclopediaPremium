@@ -9,8 +9,7 @@ s2:[["Avogadro’s idea","In 1811 the Italian scientist Amedeo Avogadro proposed
 sp:["Why water is special","Water molecules are small but remarkable. Because oxygen pulls electrons more strongly than hydrogen, a water molecule is slightly negative at the oxygen end and slightly positive at the hydrogen ends. These charges let water molecules stick together through hydrogen bonds, so water is liquid at room temperature, dissolves many substances, and expands when it freezes, making ice float. Without these properties, life as we know it would not exist."],
 g:[["Molecule","A group of atoms joined by chemical bonds"],["Covalent bond","A bond in which atoms share electrons"],["Ion","An atom or group of atoms with an electric charge"],["Hydrogen bond","A weak attraction involving hydrogen atoms"]],
 f:["A water molecule has two hydrogen atoms and one oxygen atom.","Table salt is held together by ionic bonds.","Mirror-image molecules can smell different."],
-fun:"One form of the molecule carvone smells like spearmint, and its mirror image smells like caraway.",
-tl:"Ang molekula ay grupo ng dalawa o higit pang atom na pinagbubuklod ng chemical bond. Nagkakabit ang mga atom sa pamamagitan ng paghahati o pagbibigay ng electron. Ang hugis ng molekula ang nagpapasya kung paano ito kikilos."});
+fun:"One form of the molecule carvone smells like spearmint, and its mirror image smells like caraway."});
 
 ADDART({id:"measure",t:"Measurement and Units",c:"Science",i:"📐",w:"International System of Units",r:["timephys","scimeth","euclid","goldage"],
 p:[["How much, how long, how heavy","Measurement means finding the size, amount or degree of something using standard units."],["Metric for the world","Most of the world uses the metric system, built on units such as the meter and kilogram."],["Defined by nature","Today the basic units are defined by unchanging constants of nature."]],
@@ -22,8 +21,7 @@ s2:[["Goodbye, Le Grand K","From 1889 the kilogram was defined by a single plati
 sp:["Measuring the Earth to make the meter","In 1792 two French astronomers, Jean-Baptiste Delambre and Pierre Méchain, set out to measure the distance between Dunkirk and Barcelona, which lie on the same line of longitude, to calculate the length of the meter. Working through revolution and war, they climbed church towers and hills to measure angles. The survey took about seven years. Méchain worried for the rest of his life about a small error he had found in his measurements."],
 g:[["Unit","A standard quantity used in measurement"],["SI","The International System of Units"],["Precision","How consistent repeated measurements are"],["Absolute zero","The lowest possible temperature"]],
 f:["The SI has seven base units.","The kilogram was redefined in 2019.","A unit mix-up caused the loss of a Mars spacecraft."],
-fun:"The meter was originally based on the size of the Earth.",
-tl:"Ang pagsukat ay paghahambing ng dami gaya ng haba, bigat at oras sa isang pamantayang yunit. Ginagamit ng halos lahat ng bansa ang sistemang metriko. Sa Pilipinas, dating ginamit ang dangkal, dipa at ganta."});
+fun:"The meter was originally based on the size of the Earth."});
 
 ADDART({id:"machines",t:"Simple Machines",c:"Science",i:"⚙️",w:"Simple machine",r:["newton","energyphys","wheel","bicycle"],
 p:[["Making work easier","Simple machines are basic devices that make it easier to lift, move or split things."],["Six classic machines","They are the lever, wheel and axle, pulley, inclined plane, wedge and screw."],["Inside every machine","Complex machines, from bicycles to cranes, are built from simple machines."]],
@@ -35,8 +33,7 @@ s2:[["Archimedes and the lever","Archimedes of Syracuse understood levers so wel
 sp:["The screw that lifts water","Tradition credits Archimedes with inventing the water screw in the 200s BCE, though similar devices may have been used earlier in Egypt and Mesopotamia; some historians think they watered the Hanging Gardens of Babylon. Turning a hand crank, a single worker could lift a steady stream of water from a river or canal into a field. The same simple principle now moves grain, plastic pellets and even fish in modern factories and farms."],
 g:[["Lever","A bar that turns on a fixed point"],["Fulcrum","The pivot point of a lever"],["Mechanical advantage","How much a machine multiplies force"],["Compound machine","A machine made of two or more simple machines"]],
 f:["There are six classic simple machines.","Scissors are made of two levers.","A screw is an inclined plane wrapped around a rod."],
-fun:"Archimedes said that with a long enough lever and a place to stand, he could move the Earth.",
-tl:"Ang simple machine ay payak na kagamitang nagpapadali ng pag-angat, paggalaw o paghati ng mga bagay. Anim ang klasikong simple machine: lever, wheel and axle, pulley, inclined plane, wedge at screw."});
+fun:"Archimedes said that with a long enough lever and a place to stand, he could move the Earth."});
 
 ADDART({id:"percent",t:"Percentages and Ratios",c:"Mathematics",i:"💯",w:"Percentage",r:["stats","prob","alg","inflation","fib"],
 p:[["Parts of a hundred","A percentage is a number expressed as a part of 100, written with the sign %."],["Comparing amounts","Ratios compare two quantities, such as 3 cups of flour to 1 cup of sugar."],["Everywhere in life","Percentages and ratios are used in shopping, cooking, sports, maps, science and money."]],
@@ -48,8 +45,7 @@ s2:[["The percent sign","The % sign developed gradually from abbreviations of th
 sp:["Up 50%, down 50%","Imagine a toy costs 100 pesos. Its price rises by 50%, to 150 pesos. Then it falls by 50%. Is it back to 100? No: 50% of 150 is 75, so the new price is 75 pesos. Because each percentage is calculated from a different starting amount, equal percentage rises and falls do not cancel out. This surprising fact matters for prices, investments and populations."],
 g:[["Percentage","A number expressed as parts of 100"],["Ratio","A comparison of two quantities"],["Proportion","An equation stating that two ratios are equal"],["Percentage point","The difference between two percentages"]],
 f:["Percent means out of one hundred.","A 1:50,000 map scale means 1 cm stands for 500 m.","A 50% rise followed by a 50% fall leaves you lower than you started."],
-fun:"If a price rises 50% and then falls 50%, it ends up lower than it started.",
-tl:"Ang porsiyento ay bilang na ipinapahayag bilang bahagi ng 100, isinusulat na %. Ang ratio ay paghahambing ng dalawang dami. Ginagamit ang mga ito sa pamimili, pagluluto, mapa, agham at pera."});
+fun:"If a price rises 50% and then falls 50%, it ends up lower than it started."});
 
 ADDART({id:"friction",t:"Friction",c:"Science",i:"🛷",w:"Friction",r:["newton","energyphys","machines","thermo","cars"],
 p:[["A force that resists sliding","Friction is the force that resists the movement of one surface sliding across another."],["Useful and wasteful","Friction lets us walk, hold objects and stop cars, but it also wastes energy and wears things out."],["Heat from rubbing","Rubbing surfaces together turns motion into heat, which is why rubbing your hands warms them."]],
@@ -61,5 +57,4 @@ s2:[["Making fire","For tens of thousands of years, people have made fire using 
 sp:["Water on the sand","A painting in the ancient Egyptian tomb of Djehutihotep, from about 1900 BCE, shows a huge statue being dragged on a sledge while a man pours water onto the sand in front of it. For a long time, people thought this was a ritual. In 2014 physicists at the University of Amsterdam showed that the right amount of water stiffens sand so that the sledge does not dig in, roughly halving the force needed to pull it. The Egyptians had discovered a clever way to reduce friction."],
 g:[["Friction","A force that resists sliding between surfaces"],["Lubricant","A substance that reduces friction"],["Drag","Friction from air or water on a moving object"],["Tribology","The science of friction, wear and lubrication"]],
 f:["Friction turns motion into heat.","It is easier to keep something moving than to start it.","Ancient Egyptians wet sand to reduce friction."],
-fun:"Ancient Egyptians poured water on sand to make dragging giant statues easier.",
-tl:"Ang friction ay puwersang lumalaban sa pagdulas ng isang ibabaw sa isa pa. Dahil dito, nakalalakad tayo at nakahihinto ang sasakyan, ngunit nag-aaksaya rin ito ng enerhiya. Kapag pinagkiskis ang dalawang bagay, nagkakaroon ng init."});
+fun:"Ancient Egyptians poured water on sand to make dragging giant statues easier."});

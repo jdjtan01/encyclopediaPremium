@@ -11,8 +11,7 @@ s2:[["The Meeting of the Waters","Near Manaus, the dark, tea-colored Rio Negro m
 sp:["Pink river dolphins","The boto, or Amazon river dolphin, is the largest river dolphin in the world and is often pink, especially older males. Unlike ocean dolphins, it has a flexible neck that lets it turn its head to swim among flooded tree trunks. In local legends, botos can transform into handsome men who come ashore at night. Botos are endangered, threatened by fishing nets, dams, pollution and droughts."],
 g:[["Tributary","A river that flows into a larger river"],["Discharge","The volume of water a river carries"],["Basin","The land drained by a river and its tributaries"],["Tidal bore","A wave that travels up a river with the tide"]],
 f:["The Amazon carries more water than any other river.","No bridge crosses the main Amazon.","The Amazon is home to pink river dolphins."],
-fun:"Sailors once found fresh water in the ocean far from land because of the Amazon’s huge flow.",
-tl:"Ang Ilog Amazon ang may pinakamaraming tubig sa lahat ng ilog sa mundo. Dumadaloy ito sa Timog Amerika sa pinakamalaking tropikal na gubat. Walang tulay na tumatawid sa pangunahing ilog nito."});
+fun:"Sailors once found fresh water in the ocean far from land because of the Amazon’s huge flow."});
 
 ADDART({id:"yangtze",t:"The Yangtze River",c:"Geography",i:"🚢",w:"Yangtze",r:["chinacountry","china","hydropower","lakes","rice"],
 p:[["China’s longest river","The Yangtze is the longest river in Asia and the third-longest in the world."],["Heart of China","About a third of China’s people live in its basin."],["Three Gorges","It is home to the Three Gorges Dam, the world’s largest power station."]],
@@ -24,8 +23,7 @@ s2:[["The Three Gorges","The Three Gorges are spectacular canyons between Chongq
 sp:["Swimming the Yangtze","In 1966, at age 72, Mao Zedong swam in the Yangtze at Wuhan, an event widely publicized to show his strength at the start of the Cultural Revolution. Each year, Wuhan holds a mass swim across the river in his memory, drawing thousands of participants. The Yangtze’s currents are strong, and swimmers must be skilled and supported by safety boats."],
 g:[["Gorge","A narrow valley with steep rocky walls"],["Basin","The land drained by a river"],["Functionally extinct","Too few left for a species to survive"],["Reservoir","A lake created by a dam"]],
 f:["The Yangtze is the longest river in Asia.","About a third of China’s people live in the Yangtze basin.","The baiji dolphin was declared functionally extinct in 2006."],
-fun:"The Yangtze’s Chinese name, Chang Jiang, simply means Long River.",
-tl:"Ang Ilog Yangtze ang pinakamahabang ilog sa Asya at pangatlo sa mundo. Mga isang-katlo ng mamamayan ng Tsina ang nakatira sa paligid nito. Narito ang Three Gorges Dam, ang pinakamalaking planta ng kuryente sa mundo."});
+fun:"The Yangtze’s Chinese name, Chang Jiang, simply means Long River."});
 
 ADDART({id:"ganges",t:"The Ganges River",c:"Geography",i:"🪔",w:"Ganges",r:["hindu","indiacountry","bangladeshcountry","himal","wetlands"],
 p:[["Holy waters","The Ganges, or Ganga, is the most sacred river in Hinduism."],["From the Himalayas","It flows from a Himalayan glacier across northern India to the Bay of Bengal."],["Life for millions","Hundreds of millions of people depend on the Ganges and its basin."]],
@@ -37,8 +35,7 @@ s2:[["Varanasi","Varanasi, on the banks of the Ganges, is one of the oldest cont
 sp:["The descent of the Ganga","According to Hindu legend, King Bhagiratha prayed for the heavenly river Ganga to come down to Earth to free the souls of his ancestors. Ganga agreed, but her fall would have shattered the Earth, so the god Shiva caught her in his tangled hair and let her flow gently down in streams. A huge rock carving at Mamallapuram in southern India, from the 600s, is believed by many to show this story, with a natural cleft in the rock representing the river."],
 g:[["Ghat","Steps leading down to a river in India"],["Delta","Land formed where a river splits and meets the sea"],["Pilgrim","A person who travels to a sacred place"],["Echolocation","Finding objects by listening to echoes of sounds"]],
 f:["The Ganges is the most sacred river in Hinduism.","It begins at the Gangotri Glacier.","The Ganges–Brahmaputra delta is the world’s largest delta."],
-fun:"The Maha Kumbh Mela of 2025 was one of the largest gatherings of people in history.",
-tl:"Ang Ilog Ganges, o Ganga, ang pinakabanal na ilog sa Hinduismo. Nagmumula ito sa Himalayas at dumadaloy sa hilagang India hanggang Bay of Bengal. Daan-daang milyong tao ang umaasa rito."});
+fun:"The Maha Kumbh Mela of 2025 was one of the largest gatherings of people in history."});
 
 ADDART({id:"mississippi",t:"The Mississippi River",c:"Geography",i:"🛶",w:"Mississippi River",r:["usacountry","uscivilwar","wetlands","storms","jazz"],
 p:[["America’s great river","The Mississippi is the chief river of North America’s largest river system."],["Draining a continent","With its tributaries, it drains about 40 percent of the contiguous United States."],["River of stories","It inspired Mark Twain’s books and the birth of blues and jazz."]],
@@ -50,8 +47,7 @@ s2:[["Mark Twain’s river","Samuel Clemens, who wrote as Mark Twain, grew up in
 sp:["Cahokia","Around 1100 CE, Cahokia, near the Mississippi in present-day Illinois, was a thriving city of the Mississippian culture, with perhaps 10,000 to 20,000 people. Its largest earthwork, Monks Mound, covers about 6 hectares and stands about 30 meters high, one of the largest earthen structures in the Americas. The city declined by about 1350. Cahokia Mounds is a UNESCO World Heritage Site."],
 g:[["Levee","An embankment built to prevent river flooding"],["Lock","A chamber that raises or lowers boats between water levels"],["Barge","A flat-bottomed boat for carrying goods"],["Floodplain","Flat land beside a river that floods"]],
 f:["Mississippi means great river in Ojibwe.","Mark Twain was a Mississippi steamboat pilot.","The Mississippi basin drains about 40 percent of the contiguous US."],
-fun:"At its source in Minnesota, the Mississippi is narrow enough to step across.",
-tl:"Ang Ilog Mississippi ang pangunahing ilog ng Hilagang Amerika. Kasama ang mga sanga nito, dinadaluyan nito ang mga 40 porsiyento ng Estados Unidos. Naging inspirasyon ito ni Mark Twain at ng musikang blues at jazz."});
+fun:"At its source in Minnesota, the Mississippi is narrow enough to step across."});
 
 ADDART({id:"danube",t:"The Danube River",c:"Geography",i:"🎻",w:"Danube",r:["alps","rome","eu","wetlands","ottoman"],
 p:[["River of ten countries","The Danube flows through or along ten countries, more than any other river."],["Four capitals","Vienna, Bratislava, Budapest and Belgrade all stand on its banks."],["A famous waltz","It inspired one of the most famous waltzes ever written."]],
@@ -63,5 +59,4 @@ s2:[["The Blue Danube","In 1867 the Austrian composer Johann Strauss II wrote th
 sp:["A river of many names","Because it flows through so many countries, the Danube has many names: Donau in German, Dunaj in Slovak, Duna in Hungarian, Dunav in Serbian, Croatian and Bulgarian, Dunărea in Romanian and Dunai in Ukrainian. All come from the ancient name Danuvius, which may come from an old word for river. The river links peoples speaking Germanic, Slavic, Hungarian and Romance languages."],
 g:[["Gorge","A narrow valley with steep walls"],["Delta","Land formed at a river’s mouth"],["Frontier","A border region between territories"],["Waltz","A dance in triple time, popular in Vienna"]],
 f:["The Danube flows through or along ten countries.","Four capital cities stand on the Danube.","The Danube Delta is one of Europe’s largest wetlands."],
-fun:"The Blue Danube waltz is played every New Year’s Day in Vienna.",
-tl:"Ang Ilog Danube ang pangalawang pinakamahabang ilog sa Europa. Dumadaloy ito sa o sa hangganan ng sampung bansa, higit sa alinmang ilog. Apat na kabisera ang nasa pampang nito."});
+fun:"The Blue Danube waltz is played every New Year’s Day in Vienna."});

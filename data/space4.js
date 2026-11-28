@@ -9,8 +9,7 @@ s2:[["Ingenuity","Perseverance carried Ingenuity, a small helicopter weighing ab
 sp:["The sky crane","Curiosity and Perseverance were too heavy for airbags, which had cushioned earlier rovers bouncing onto the surface. Engineers invented the sky crane: a rocket-powered platform hovered about 20 meters above the ground and lowered the rover on cables. When the wheels touched down, the cables were cut and the platform flew away to crash at a safe distance. The bold idea worked perfectly both times."],
 g:[["Rover","A vehicle that drives across the surface of a planet or moon"],["Sky crane","A rocket platform that lowers a rover on cables"],["Organic molecule","A carbon-based molecule, a building block of life"],["Delta","Sediment deposited where a river enters a lake or sea"]],
 f:["Opportunity worked on Mars for over 14 years.","Ingenuity was the first helicopter to fly on another planet.","China landed its Zhurong rover on Mars in 2021."],
-fun:"The Opportunity rover was planned to last 90 days but worked for more than 14 years.",
-tl:"Ang Mars rover ay robot na sasakyan na naglalakbay sa ibabaw ng Mars para pag-aralan ito. Natuklasan ng mga rover na dati ay may mga lawa at ilog sa Mars. Kabilang dito ang Sojourner, Opportunity, Curiosity, Perseverance at ang Zhurong ng Tsina."});
+fun:"The Opportunity rover was planned to last 90 days but worked for more than 14 years."});
 
 ADDART({id:"asteroidbelt",t:"The Asteroid Belt",c:"Space and Astronomy",i:"🪨",w:"Asteroid belt",r:["comet","solar","jupiter","pluto","meteors"],
 p:[["Rocks between the planets","The asteroid belt is a ring-shaped region between Mars and Jupiter filled with rocky and metallic bodies."],["Leftovers","Asteroids are leftovers from the formation of the Solar System about 4.6 billion years ago."],["Mostly empty space","Despite the millions of asteroids, they are spread so far apart that spacecraft pass through safely."]],
@@ -22,8 +21,7 @@ s2:[["The Dawn mission","NASA’s Dawn spacecraft, launched in 2007 and powered 
 sp:["Bright spots on Ceres","As Dawn approached Ceres in 2015, it spotted mysterious bright spots shining from inside Occator Crater. Up close, they turned out to be deposits of sodium carbonate, a kind of salt, left behind when salty water rose from below and evaporated. The discovery suggests that Ceres may still have pockets of liquid brine deep beneath its surface, making this small world more active than once thought."],
 g:[["Asteroid","A small rocky or metallic body orbiting the Sun"],["Dwarf planet","A round body orbiting the Sun that has not cleared its orbit"],["Kirkwood gap","A gap in the belt caused by Jupiter’s gravity"],["Ion engine","A spacecraft engine that uses electrically charged particles"]],
 f:["Ceres was the first asteroid discovered.","The asteroid belt is mostly empty space.","Dawn orbited both Vesta and Ceres."],
-fun:"All the asteroids in the belt together weigh only a few percent as much as our Moon.",
-tl:"Ang asteroid belt ay rehiyon sa pagitan ng Mars at Jupiter na puno ng mga batong umiikot sa araw. Ito ay mga natira mula sa pagbuo ng Solar System. Ang Ceres ang pinakamalaking bagay rito."});
+fun:"All the asteroids in the belt together weigh only a few percent as much as our Moon."});
 
 ADDART({id:"spacesuits",t:"Spacesuits",c:"Space and Astronomy",i:"🧑‍🚀",w:"Space suit",r:["astronauts","iss","apollo","space"],
 p:[["A personal spacecraft","A spacesuit protects an astronaut from the dangers of space, like a small spacecraft shaped for a person."],["Air, pressure and temperature","Suits supply oxygen, keep the body under pressure and protect against extreme heat and cold."],["Walking in space","Astronauts wear special suits for spacewalks outside spacecraft and on the Moon."]],
@@ -35,8 +33,7 @@ s2:[["Leonov’s dangerous spacewalk","On 18 March 1965, the Soviet cosmonaut Al
 sp:["Wiley Post’s pressure suit","In 1934 the American aviator Wiley Post wanted to fly high into the jet stream, where the air is too thin to breathe. With the B. F. Goodrich company, he developed one of the first practical pressure suits, made of rubber and fabric with a metal helmet that looked like a diving helmet. He flew to heights of over 12,000 meters. His suit helped lay the foundation for the spacesuits of later decades."],
 g:[["Spacewalk","Activity outside a spacecraft in space"],["Pressure suit","A suit that keeps the body at safe air pressure"],["Airlock","A chamber that lets astronauts move between spacecraft and space"],["Life support","Systems that provide air, temperature control and other needs"]],
 f:["Alexei Leonov made the first spacewalk in 1965.","Spacesuits contain water tubes to cool astronauts.","The first all-female spacewalk was in 2019."],
-fun:"The first spacewalker had to let air out of his ballooning suit to get back inside.",
-tl:"Ang spacesuit ay kasuotang nagpoprotekta sa astronaut sa panganib ng kalawakan. Nagbibigay ito ng oxygen, presyon at proteksiyon laban sa matinding init at lamig. Si Alexei Leonov ang unang naglakad sa kalawakan noong 1965."});
+fun:"The first spacewalker had to let air out of his ballooning suit to get back inside."});
 
 ADDART({id:"solarform",t:"How the Solar System Formed",c:"Space and Astronomy",i:"🌌",w:"Formation and evolution of the Solar System",r:["solar","sun","nebula","moon","kuiper"],
 p:[["Born from a cloud","The Solar System formed about 4.6 billion years ago from a collapsing cloud of gas and dust."],["A spinning disk","The Sun formed at the center, and the planets grew from a flat disk of material around it."],["Rocky and giant worlds","Rocky planets formed near the Sun, and gas and ice giants formed farther out."]],
@@ -48,5 +45,4 @@ s2:[["Clues from meteorites","Some meteorites contain tiny white grains called c
 sp:["Made of stardust","The hydrogen in the Solar System dates back to the Big Bang, but almost all the heavier elements, the carbon in our bodies, the oxygen we breathe, the iron in our blood and the silicon in rocks, were made inside earlier stars that lived and died before the Sun was born. Those stars scattered their elements into space, enriching the cloud from which the Solar System formed. In a real sense, we are made of stardust."],
 g:[["Nebula","A cloud of gas and dust in space"],["Planetesimal","A small body that combines with others to form planets"],["Frost line","The distance from a star beyond which ice can form"],["Protoplanetary disk","A disk of gas and dust around a young star"]],
 f:["The Solar System is about 4.6 billion years old.","The Sun holds about 99.8 percent of the Solar System’s mass.","The Moon probably formed from a giant collision."],
-fun:"The atoms in your body were made inside stars that died before the Sun was born.",
-tl:"Nabuo ang Solar System mga 4.6 bilyong taon na ang nakararaan mula sa ulap ng gas at alikabok. Nabuo ang araw sa gitna, at ang mga planeta ay mula sa umiikot na disk sa paligid nito."});
+fun:"The atoms in your body were made inside stars that died before the Sun was born."});

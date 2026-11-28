@@ -9,8 +9,7 @@ s2:[["Eyes like turrets","A chameleon’s eyes sit in cone-shaped turrets covere
 sp:["Glowing bones","In 2018 scientists discovered that many chameleons have bones that glow under ultraviolet light. Small bumps on the bones of their heads show through their thin skin, creating patterns of blue dots that glow when lit by ultraviolet light, which is part of natural sunlight. The patterns may help chameleons recognize their own species in the shady forest."],
 g:[["Prehensile","Able to grip or hold things"],["Casque","A helmet-like crest on the head"],["Pigment","A substance that gives color"],["Turret","A small rotating tower; for chameleons, a cone-shaped eyelid"]],
 f:["Almost half of all chameleons live only on Madagascar.","A chameleon’s eyes can look in two directions at once.","Chameleons change color mainly to communicate."],
-fun:"Chameleons change color mainly to send signals, not to hide.",
-tl:"Ang chameleon ay butiking kayang magpalit ng kulay, may matang gumagalaw nang magkahiwalay at mahabang dila para sa paghuli ng insekto. Halos kalahati ng mga uri nito ay sa Madagascar lamang matatagpuan."});
+fun:"Chameleons change color mainly to send signals, not to hide."});
 
 ADDART({id:"beetle",t:"Beetles",i:"🪲",w:"Beetle",r:["insect","ants","bee","eco","egypt"],
 p:[["The biggest group","Beetles are the largest order of animals, with around 400,000 known species, about a quarter of all known animals."],["Armored wings","Their front wings have become hard cases called elytra, which protect the delicate flying wings underneath."],["Everywhere","Beetles live almost everywhere on land and in fresh water, from deserts to mountaintops."]],
@@ -22,8 +21,7 @@ s2:[["Ladybirds","Ladybirds, also called ladybugs or lady beetles, are small, ro
 sp:["Beetles in amber","Amber is fossilized tree resin. When ancient beetles became trapped in sticky resin, they were sealed in perfect detail. Amber from Myanmar has preserved beetles from about 99 million years ago, in the age of dinosaurs, some still carrying pollen grains, showing that beetles were pollinating plants long before bees became common."],
 g:[["Coleoptera","The insect order of beetles"],["Elytra","The hardened front wings of a beetle"],["Bioluminescence","Light produced by a living thing"],["Grub","A beetle larva"]],
 f:["About a quarter of all known animal species are beetles.","Some dung beetles navigate by the Milky Way.","Ladybirds and fireflies are beetles."],
-fun:"Some dung beetles find their way at night by looking at the Milky Way.",
-tl:"Ang salagubang ay pinakamalaking pangkat ng mga hayop, may mga 400,000 kilalang uri. Kabilang dito ang ladybird at alitaptap. Mahalaga sila sa kalikasan dahil tumutulong sila sa pagbubulok ng patay na halaman at hayop."});
+fun:"Some dung beetles find their way at night by looking at the Milky Way."});
 
 ADDART({id:"mosquito",t:"Mosquitoes",i:"🦟",w:"Mosquito",r:["insect","malaria","vacc","immune","wcycle"],
 p:[["Tiny but deadly","Mosquitoes spread diseases that kill hundreds of thousands of people a year, making them the deadliest animals to humans."],["Only females bite","Female mosquitoes drink blood to get protein for their eggs; males feed only on nectar."],["Born in water","Mosquitoes lay their eggs in still water, where the young grow as wrigglers."]],
@@ -35,5 +33,4 @@ s2:[["Malaria","Malaria is caused by Plasmodium parasites spread by Anopheles mo
 sp:["World Mosquito Day","Every year on 20 August, World Mosquito Day marks the day in 1897 when the British doctor Ronald Ross, working in India, found malaria parasites in the stomach of an Anopheles mosquito, proving that mosquitoes carry the disease. He won the Nobel Prize in 1902. The Cuban doctor Carlos Finlay had already suggested in 1881 that mosquitoes spread yellow fever."],
 g:[["Proboscis","A long, tube-like mouthpart"],["Larva","The young, wormlike stage of an insect"],["Parasite","A living thing that lives on or in another and harms it"],["Repellent","A substance that keeps insects away"]],
 f:["Only female mosquitoes bite.","Mosquitoes are the deadliest animals to humans.","They find people by sensing the carbon dioxide in their breath."],
-fun:"Male and female mosquitoes match the pitch of their wingbeats when courting, like singing a duet.",
-tl:"Ang lamok ay maliit na insektong nagdadala ng mga sakit gaya ng malarya at dengue, kaya ito ang pinakamapanganib na hayop sa tao. Babae lamang ang nangangagat. Nangingitlog sila sa tubig na hindi gumagalaw."});
+fun:"Male and female mosquitoes match the pitch of their wingbeats when courting, like singing a duet."});

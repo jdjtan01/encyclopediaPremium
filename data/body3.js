@@ -9,8 +9,7 @@ s2:[["Regeneration","The liver can regrow when part of it is removed or damaged.
 sp:["The myth of Prometheus","In Greek mythology, the Titan Prometheus stole fire from the gods and gave it to humans. As punishment, Zeus chained him to a rock, where an eagle ate his liver every day, and every night the liver grew back. Some people wonder whether the ancient Greeks knew about the liver’s ability to regenerate, though the story may simply be a myth of endless punishment."],
 g:[["Hepatocyte","The main type of liver cell"],["Bile","Fluid made by the liver to help digest fats"],["Glycogen","A stored form of glucose"],["Cirrhosis","Scarring of the liver"]],
 f:["The liver is the largest internal organ.","The liver can regrow after part of it is removed.","Bile is stored in the gallbladder."],
-fun:"The liver performs hundreds of different jobs in the body.",
-tl:"Ang atay ang pinakamalaking organ sa loob ng katawan. Nililinis nito ang dugo, gumagawa ng apdo para tunawin ang taba at nag-iimbak ng enerhiya. Kaya rin nitong tumubong muli kapag nasira ang bahagi nito."});
+fun:"The liver performs hundreds of different jobs in the body."});
 
 ADDART({id:"bloodtypes",t:"Blood Types",c:"Health and the Body",i:"🩸",w:"Blood type",r:["blood","immune","heart","transplant"],
 p:[["Not all blood is the same","People have different blood types, based on markers on the surface of their red blood cells."],["A, B, AB and O","The main blood group system is ABO, combined with the Rh factor, positive or negative."],["Matching saves lives","Blood transfusions must be matched, or the body may attack the donated blood."]],
@@ -22,8 +21,7 @@ s2:[["Blood types around the world","Blood types vary across populations. Type O
 sp:["Karl Landsteiner","Karl Landsteiner was an Austrian-born doctor who worked in Vienna and later New York. Before his discovery of blood groups in 1901, blood transfusions were dangerous and often fatal. His work made safe transfusions possible, saving countless lives. He won the Nobel Prize in Physiology or Medicine in 1930, and World Blood Donor Day is held on his birthday, 14 June."],
 g:[["Antigen","A molecule that can trigger an immune response"],["Antibody","A protein that recognizes and attacks antigens"],["Transfusion","Giving blood from one person to another"],["Rh factor","A blood antigen that makes blood positive or negative"]],
 f:["Karl Landsteiner discovered blood groups in 1901.","O negative blood can be given to almost anyone.","World Blood Donor Day is on 14 June."],
-fun:"Fewer than about 50 people in the world are known to have Rh-null blood.",
-tl:"Ang blood type ay uri ng dugo batay sa mga marker sa pulang selula ng dugo. Ang mga pangunahing uri ay A, B, AB at O, na positibo o negatibo. Mahalagang tugma ang dugo sa pagsasalin para maging ligtas."});
+fun:"Fewer than about 50 people in the world are known to have Rh-null blood."});
 
 ADDART({id:"surgery",t:"Surgery",c:"Health and the Body",i:"🩺",w:"Surgery",r:["ibnsina","pasteur","antibiotics","transplant"],
 p:[["Healing by operating","Surgery treats injuries and diseases by operating on the body with instruments."],["Ancient roots","People performed surgery thousands of years ago, from ancient Egypt and India to Peru."],["Modern miracles","Anesthesia, antiseptics and new technology have made surgery far safer."]],
@@ -35,8 +33,7 @@ s2:[["Surgical specialties","Surgeons often specialize. Orthopedic surgeons trea
 sp:["The fastest surgeon","Before anesthesia, speed was a surgeon’s most important skill. The Scottish surgeon Robert Liston, working in London in the 1840s, was famous for amputating a leg in under three minutes. In December 1846, Liston performed one of the first operations in Europe using ether. After the patient woke, Liston declared that the American method beat mesmerism hollow, a sign of how much anesthesia changed surgery."],
 g:[["Anesthesia","Medicine that prevents pain during surgery"],["Antiseptic","A substance that kills germs on skin or surfaces"],["Laparoscopy","Keyhole surgery using a tiny camera"],["Trepanation","Drilling a hole in the skull"]],
 f:["People performed surgery on skulls thousands of years ago.","Ether anesthesia was first demonstrated publicly in 1846.","Robots now help surgeons in many operations."],
-fun:"In 2001 surgeons in New York operated on a patient in France by remote control.",
-tl:"Ang operasyon o siruhiya ay paggamot sa sakit at pinsala sa pamamagitan ng pag-oopera sa katawan. Matagal na itong ginagawa, at naging mas ligtas ito dahil sa anestisya, antiseptiko at modernong teknolohiya."});
+fun:"In 2001 surgeons in New York operated on a patient in France by remote control."});
 
 ADDART({id:"heartdisease",t:"Heart Disease",c:"Health and the Body",i:"❤️‍🩹",w:"Cardiovascular disease",r:["heart","blood","exercise","nutri"],
 p:[["The leading cause of death","Diseases of the heart and blood vessels kill more people worldwide than any other cause."],["Often preventable","Many cases can be prevented by not smoking, eating well, staying active and controlling blood pressure."],["Life-saving treatments","Modern medicines and procedures have greatly improved survival after heart attacks."]],
@@ -48,8 +45,7 @@ s2:[["The Framingham Heart Study","In 1948 researchers began studying thousands 
 sp:["The doctor who tested on himself","In 1929 a young German doctor, Werner Forssmann, wanted to show that a thin tube could be safely passed through a vein into the heart. When his boss refused permission, he numbed his own arm, threaded a catheter about 65 centimeters into his own heart and walked to the X-ray room to photograph it. He was criticized at the time, but cardiac catheterization became a key tool in heart medicine, and in 1956 he shared the Nobel Prize."],
 g:[["Cardiovascular","Relating to the heart and blood vessels"],["Atherosclerosis","Buildup of plaque inside arteries"],["Hypertension","High blood pressure"],["Stent","A small mesh tube that holds an artery open"]],
 f:["Heart disease is the leading cause of death worldwide.","FAST helps people recognize a stroke.","A defibrillator can restart a normal heartbeat."],
-fun:"A doctor once put a tube into his own heart to prove it could be done safely.",
-tl:"Ang sakit sa puso at mga daluyan ng dugo ang nangungunang sanhi ng kamatayan sa mundo. Maiiwasan ang marami nito sa pamamagitan ng hindi paninigarilyo, maayos na pagkain, ehersisyo at pagkontrol sa presyon ng dugo."});
+fun:"A doctor once put a tube into his own heart to prove it could be done safely."});
 
 ADDART({id:"transplant",t:"Organ Transplants",c:"Health and the Body",i:"🫁",w:"Organ transplantation",r:["kidney","heart","liver","immune","bloodtypes"],
 p:[["A gift of life","An organ transplant replaces a failing organ with a healthy one from a donor."],["Many organs","Kidneys, livers, hearts, lungs, pancreases, corneas and even hands and faces can be transplanted."],["Fighting rejection","Patients take medicines to stop their immune systems from attacking the new organ."]],
@@ -61,5 +57,4 @@ s2:[["Christiaan Barnard","On 3 December 1967, the South African surgeon Christi
 sp:["The Herrick twins","In 1954 Richard Herrick, 23, was dying of kidney failure. His identical twin, Ronald, offered one of his kidneys. Doctors confirmed that they were identical, even taking fingerprints, and on 23 December surgeons in Boston performed the operation. Richard lived for eight more years, married one of his nurses and had two children. Ronald lived a long, healthy life with one kidney, until 2010."],
 g:[["Donor","A person who gives an organ or tissue"],["Recipient","A person who receives an organ or tissue"],["Rejection","When the immune system attacks a transplanted organ"],["Immunosuppressant","A medicine that weakens the immune response"]],
 f:["The first successful kidney transplant was between twins.","A person can live with one kidney.","One organ donor can save up to eight lives."],
-fun:"Doctors took fingerprints to prove the first kidney transplant twins were identical.",
-tl:"Ang organ transplant ay pagpapalit ng sirang organ ng malusog na organ mula sa donor. Unang naging matagumpay ang kidney transplant noong 1954. Umiinom ang pasyente ng gamot para hindi atakihin ng katawan ang bagong organ."});
+fun:"Doctors took fingerprints to prove the first kidney transplant twins were identical."});

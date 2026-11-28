@@ -9,8 +9,7 @@ s2:[["The bayawak","The water monitor and its close Philippine relatives are kno
 sp:["The lizard scientists missed","For years, biologists working in northern Luzon heard local hunters describe a huge, colorful lizard that lived high in the forest trees and ate fruit. In 2009 researchers obtained a specimen from Agta hunters and, after comparing it with other monitors and studying its DNA, realized it was a new species. Announced in 2010, Varanus bitatawa was nearly two meters long, with black and gold patterns and a bright blue tinge. It was surprising that such a large animal had escaped scientific notice, especially on Luzon, one of the most-studied islands in the Philippines. The discovery highlighted the knowledge of indigenous communities and the importance of protecting the Sierra Madre forests."],
 g:[["Monitor lizard","A large lizard of the genus Varanus"],["Forked tongue","A tongue split at the tip used for smelling"],["Carrion","The flesh of dead animals"],["Bayawak","The Filipino name for monitor lizards"]],
 f:["The Komodo dragon is a monitor lizard.","Some Philippine monitors eat fruit.","A new monitor species was described in 2010."],
-fun:"Some monitor lizards in zoos have learned to count how many snails they were given.",
-tl:"Ang bayawak ay malalaki at matatalinong butiki na tinatawag na monitor lizard. May mga bihirang bayawak sa Pilipinas na kumakain ng prutas. Isa rito ang Northern Sierra Madre forest monitor na natuklasan ng agham noong 2010."});
+fun:"Some monitor lizards in zoos have learned to count how many snails they were given."});
 
 ADDART({id:"squid",t:"Squid",c:"Sea Life",i:"🦑",w:"Squid",r:["octopus","mollusc","sea","trench","phfood"],
 p:[["Jet-powered","Squid swim by shooting water out of a tube."],["Giants of the deep","The giant and colossal squid are among the largest invertebrates."],["Pusit","Squid, or pusit, is a favorite food in the Philippines."]],
@@ -22,8 +21,7 @@ s2:[["The giant squid","The giant squid can reach perhaps 12 meters or more incl
 sp:["Photographing a legend","For years, Japanese zoologist Tsunemi Kubodera and whale expert Kyoichi Mori searched for a way to see a living giant squid. They knew sperm whales hunted squid near the Ogasawara Islands south of Tokyo, so they lowered a camera and bait on a long line to about 900 meters deep. On September 30, 2004, a giant squid attacked the bait, and the camera snapped hundreds of photographs as the animal struggled for hours before breaking free, leaving one of its tentacles behind. The images, published in 2005, were the first of a giant squid alive in its natural habitat. In 2012 Kubodera and colleagues filmed one from a submersible, revealing a shimmering silver and gold animal."],
 g:[["Cephalopod","A mollusk with arms, such as a squid or octopus"],["Mantle","The main body of a squid"],["Chromatophore","A color-changing skin cell"],["Pusit","The Filipino word for squid"]],
 f:["Squid have three hearts.","Giant squid have the largest eyes of any animal.","Squid swim by jet propulsion."],
-fun:"Some squid can leap out of the water and glide through the air.",
-tl:"Ang pusit ay mabilis lumangoy na hayop-dagat na kamag-anak ng pugita. May tatlong puso ito at asul na dugo. Paborito itong pagkain ng mga Pilipino, gaya ng adobong pusit at calamares."});
+fun:"Some squid can leap out of the water and glide through the air."});
 
 ADDART({id:"tuna",t:"Tuna",c:"Sea Life",i:"🐟",w:"Tuna",r:["fishes","sea","pacific","phfood","mindanao"],
 p:[["Ocean racers","Tuna are among the fastest fish in the sea."],["Warm-blooded fish","Some tuna keep parts of their bodies warmer than the water."],["General Santos","General Santos City is known as the tuna capital of the Philippines."]],
@@ -35,8 +33,7 @@ s2:[["General Santos City","General Santos City on Sarangani Bay in southern Min
 sp:["Dawn at the fish port","Before dawn at the fish port in General Santos City, boats crowd the docks, their decks loaded with tuna caught days earlier in the waters of Mindanao and beyond. Workers in rubber boots haul huge yellowfin, some taller than a person, onto the concrete floor. Inspectors check each fish, cutting a small sample from the tail to judge its color and fat. Buyers move between rows of fish, bidding for the best ones to export fresh to Japan for sashimi, while others are sent to canneries. By midmorning, the port is washed down, ready for the next catch. For the city, tuna is not only food but the heart of its economy and identity."],
 g:[["Tuna","A large, fast ocean fish"],["Ram ventilation","Breathing by swimming with the mouth open"],["Handline","A single line and hook used for fishing"],["Sashimi","Thinly sliced raw fish"]],
 f:["Some tuna keep their muscles warm.","General Santos is the Philippine tuna capital.","Skipjack is the most commonly canned tuna."],
-fun:"A single bluefin tuna once sold for more than 300 million yen at a Tokyo auction.",
-tl:"Ang tuna ay malalaki at mabibilis na isda sa karagatan. Kaya ng ilang tuna na panatilihing mainit ang kanilang kalamnan. Ang General Santos City ay kilala bilang kapitolyo ng tuna sa Pilipinas."});
+fun:"A single bluefin tuna once sold for more than 300 million yen at a Tokyo auction."});
 
 ADDART({id:"scorpions",t:"Scorpions",c:"Insects",i:"🦂",w:"Scorpion",r:["spider","insect","cactus","constellations","firstaid"],
 p:[["Ancient arachnids","Scorpions are relatives of spiders that have existed for over 400 million years."],["Glow in the dark","Scorpions glow under ultraviolet light."],["Stinging tails","They have a venomous stinger at the tip of their tails."]],
@@ -48,8 +45,7 @@ s2:[["Dangerous scorpions","Most deadly scorpions belong to the family Buthidae,
 sp:["Scorpion versus Orion","In Greek mythology, Orion was a giant hunter who boasted that he could kill every animal on Earth. To stop him, the Earth goddess Gaia, or in some versions the goddess Artemis, sent a giant scorpion, which stung Orion and killed him. Zeus placed both in the sky as constellations. Because they were enemies, they were placed on opposite sides of the heavens: when Scorpius rises in the east, Orion sets in the west, as if fleeing. From the Philippines, Scorpius, with its bright red star Antares, can be seen in the evening sky from about May to August, while Orion dominates the sky from December to March."],
 g:[["Arachnid","An eight-legged animal such as a spider or scorpion"],["Pincers","Grasping claws"],["Stinger","A sharp organ that injects venom"],["Exoskeleton","A hard outer skeleton"]],
 f:["Scorpions glow under ultraviolet light.","Most scorpion stings are not deadly.","Scorpion mothers carry their babies on their backs."],
-fun:"Some scorpions can survive a year without eating.",
-tl:"Ang alakdan ay kamag-anak ng gagamba na may kamandag sa dulo ng buntot. Kumikinang ito kapag natamaan ng ultraviolet na liwanag. Karamihan sa kagat nito ay masakit ngunit hindi nakamamatay."});
+fun:"Some scorpions can survive a year without eating."});
 
 ADDART({id:"wasps",t:"Wasps and Hornets",c:"Insects",i:"🐝",w:"Wasp",r:["bee","ants","insect","flower","agri"],
 p:[["Not just stingers","Most wasps are harmless to people and help control pests."],["Paper makers","Paper wasps and hornets build nests from chewed wood."],["Tiny helpers","Many tiny wasps are used to protect crops naturally."]],
@@ -61,5 +57,4 @@ s2:[["Fig wasps","Every species of fig tree depends on its own species of tiny f
 sp:["Tracking the giant hornets","In late 2020, scientists in Washington State faced a challenge: find the nest of Asian giant hornets before new queens could escape and spread. Entomologists captured live hornets using traps baited with sweet liquids. Then, using dental floss, they carefully tied tiny radio transmitters to the hornets’ waists and released them. Following the signals through forests with antennas, they tracked one hornet to a hollow tree near the town of Blaine. Wearing thick protective suits, they vacuumed out the hornets and removed the nest, which contained hundreds of hornets and developing queens. Similar efforts continued until 2024, when the hornet was declared eradicated from the United States."],
 g:[["Parasitoid","An insect that develops inside or on a host, killing it"],["Colony","A group of insects living together"],["Biological control","Using living things to control pests"],["Putakti","The Filipino word for wasp"]],
 f:["Only female wasps can sting.","Fig trees depend on fig wasps.","Paper wasps make nests from chewed wood."],
-fun:"Some parasitoid wasps are so small they lay their eggs inside the eggs of other insects.",
-tl:"Ang putakti ay insektong kamag-anak ng bubuyog at langgam. Karamihan sa mga ito ay hindi nakakasama sa tao at tumutulong pa sa pagkontrol ng mga peste. Ginagamit ng mga magsasaka ang maliliit na putakti upang protektahan ang mga pananim."});
+fun:"Some parasitoid wasps are so small they lay their eggs inside the eggs of other insects."});

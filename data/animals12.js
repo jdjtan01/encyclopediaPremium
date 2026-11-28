@@ -9,8 +9,7 @@ s2:[["The Palawan pangolin","The Palawan pangolin, called balintong locally, liv
 sp:["The armored ball","When a pangolin senses danger, it does something remarkable: it tucks its head into its belly, wraps its scaly tail around its body and becomes a tight, armored ball. Its scales have sharp edges, and the muscles holding it closed are so strong that a person can hardly pry it open. This defense works well against lions and leopards. Sadly, it is useless against human poachers, who can simply pick the curled-up animal off the ground. This is one reason pangolins are so vulnerable to illegal hunting."],
 g:[["Pangolin","A scaly mammal that eats ants and termites"],["Keratin","A tough protein that forms scales, hair and nails"],["Nocturnal","Active at night"],["Trafficking","Illegal trade, for example in wildlife"]],
 f:["Pangolins are the only scaly mammals.","They have no teeth.","The Palawan pangolin lives only in the Philippines."],
-fun:"A pangolin’s tongue is attached near its hip bones and can be longer than its body.",
-tl:"Ang pangolin o balintong ay mamalyang nababalutan ng kaliskis. Kumakain ito ng langgam at anay gamit ang mahabang dila. Isa ito sa pinakamaraming ipinupuslit na hayop, at ang Palawan pangolin ay nanganganib nang maubos."});
+fun:"A pangolin’s tongue is attached near its hip bones and can be longer than its body."});
 
 ADDART({id:"dugongs",t:"Dugongs and Manatees",c:"Sea Life",i:"🐋",w:"Dugong",r:["coral","whale","seaturtle","conservation","palawan"],
 p:[["Gentle sea cows","Dugongs and manatees are large, slow marine mammals that graze on seagrass and water plants."],["Related to elephants","Their closest living relatives on land are elephants."],["Threatened","Habitat loss, fishing nets and boat strikes threaten them."]],
@@ -22,8 +21,7 @@ s2:[["Dugongs in the Philippines","Dugongs live in scattered populations in the 
 sp:["The dugong guardians of Busuanga","In the waters of northern Palawan, fishers who once saw dugongs only as accidental catches have become their protectors. Trained by conservation groups and local governments, some volunteer as wardens, monitoring dugongs and reporting threats. Visitors who join guided tours may glimpse a dugong surfacing for air before gliding back down to graze in the seagrass. Strict rules keep boats at a distance and forbid touching or chasing the animals. The program shows how protecting wildlife can also bring income to coastal communities."],
 g:[["Sirenian","A member of the group that includes dugongs and manatees"],["Seagrass","A flowering plant that grows underwater in shallow seas"],["Fluke","The flat, horizontal tail of a dugong or whale"],["Vulnerable","At high risk of becoming endangered"]],
 f:["Dugongs eat seagrass.","Their closest land relatives are elephants.","Steller’s sea cow went extinct in 1768."],
-fun:"Christopher Columbus reported seeing mermaids in 1493 that were not as beautiful as described; they were probably manatees.",
-tl:"Ang dugong at manatee ay malalaking mamalyang dagat na kumakain ng seagrass. Ang pinakamalapit nilang kamag-anak sa lupa ay ang elepante. May dugong sa Pilipinas, lalo na sa hilagang Palawan, at protektado ito ng batas."});
+fun:"Christopher Columbus reported seeing mermaids in 1493 that were not as beautiful as described; they were probably manatees."});
 
 ADDART({id:"sloths",t:"Sloths",c:"Mammals",i:"🦥",w:"Sloth",r:["amazon","amazonriver","monkeys","animalbehavior","extinction"],
 p:[["Slow movers","Sloths are tree-dwelling mammals famous for moving very slowly."],["Upside-down life","They spend most of their lives hanging upside down in rainforest trees."],["Giant ancestors","Extinct ground sloths were as big as elephants."]],
@@ -35,8 +33,7 @@ s2:[["Giant ground sloths","Extinct relatives of sloths, such as Megatherium, co
 sp:["The slowest trip to the bathroom","For a sloth, the weekly trip to the forest floor is a major event. Slowly, it climbs down its tree, digs a small hole with its tail, relieves itself and covers it up, then climbs back up. A sloth can lose a large share of its body weight in one go. This journey takes precious energy and exposes it to predators such as jaguars. Scientists are still not completely sure why sloths take this risk rather than simply letting their droppings fall from the branches, and the question has inspired several research studies."],
 g:[["Sloth","A slow-moving tree mammal of the Americas"],["Metabolism","The chemical processes that use energy in the body"],["Camouflage","Coloring that helps an animal blend into its surroundings"],["Megatherium","An extinct giant ground sloth"]],
 f:["There are six living species of sloth.","Algae grow in sloth fur.","Giant ground sloths were as big as elephants."],
-fun:"Sloths can hold their breath underwater for a long time by slowing their heart rate.",
-tl:"Ang sloth ay mamalyang mabagal kumilos na nakatira sa mga puno sa rainforest ng Amerika. Halos buong buhay nito ay nakabitin nang patiwarik. May algae sa balahibo nito na nagsisilbing pagbabalatkayo."});
+fun:"Sloths can hold their breath underwater for a long time by slowing their heart rate."});
 
 ADDART({id:"otters",t:"Otters",c:"Mammals",i:"🦦",w:"Otter",r:["sea","rodents","wetlands","palawan","conservation"],
 p:[["Playful swimmers","Otters are playful, fish-eating mammals that live in rivers, lakes and seas."],["Sea otters","Sea otters use stones as tools and hold hands while sleeping."],["In the Philippines","The Asian small-clawed otter lives in Palawan."]],
@@ -48,8 +45,7 @@ s2:[["Otters in the Philippines","The Asian small-clawed otter, known locally as
 sp:["Holding hands at sea","Sea otters spend much of their lives floating on their backs in the cold waters of the North Pacific. When they rest, groups called rafts gather together, and some otters hold paws or wrap strands of kelp around their bodies like anchors so they do not drift apart while sleeping. Mothers carry their fluffy pups on their bellies, grooming them and keeping them out of the cold water. Photos of hand-holding sea otters have charmed people around the world and helped draw attention to the need to protect their ocean home."],
 g:[["Otter","A water-loving mammal in the weasel family"],["Keystone species","A species that has a large effect on its ecosystem"],["Kelp","Large brown seaweed that forms underwater forests"],["Raft","A group of resting sea otters"]],
 f:["There are 13 otter species.","Sea otters use stones as tools.","Palawan is home to the Asian small-clawed otter."],
-fun:"Sea otters often keep a favorite stone tucked in a skin pouch under their arm to use for cracking shellfish.",
-tl:"Ang otter ay mapaglarong mamalyang nakatira sa ilog, lawa at dagat. Gumagamit ng bato ang sea otter upang buksan ang kabibe. Sa Pilipinas, ang Asian small-clawed otter ay matatagpuan sa Palawan."});
+fun:"Sea otters often keep a favorite stone tucked in a skin pouch under their arm to use for cracking shellfish."});
 
 ADDART({id:"hyenas",t:"Hyenas",c:"Mammals",i:"🐾",w:"Hyena",r:["lion","grasslands","animalbehavior","cheetah","wolf"],
 p:[["Skilled hunters","Hyenas are powerful carnivores of Africa and parts of Asia."],["Not just scavengers","Spotted hyenas hunt most of their own food."],["Female leaders","In spotted hyena clans, females are in charge."]],
@@ -61,8 +57,7 @@ s2:[["The hyena’s laugh","Spotted hyenas make a range of sounds, including who
 sp:["Queens of the clan","In a spotted hyena clan, even the lowest-ranking adult female outranks the highest-ranking male. Females are larger and more aggressive, and young hyenas take on their mother’s place in the hierarchy, supported by her allies. When a new male joins a clan from outside, he starts at the bottom and must win acceptance. Scientists studying hyenas in Kenya for decades have found that a cub’s social connections, inherited from its mother, strongly influence its chances of survival and success."],
 g:[["Hyena","A carnivorous mammal of Africa and Asia"],["Clan","A large group of spotted hyenas"],["Scavenger","An animal that eats dead animals"],["Aardwolf","A small, termite-eating member of the hyena family"]],
 f:["There are four hyena species.","Spotted hyenas hunt most of their food.","Female spotted hyenas lead their clans."],
-fun:"Hyena droppings can turn white because their bodies digest the calcium from the bones they eat.",
-tl:"Ang hyena ay mabangis na mamalya ng Africa at bahagi ng Asya. Mahusay na mangangaso ang spotted hyena at hindi lamang kumakain ng patay na hayop. Pinamumunuan ng mga babae ang kanilang mga grupo."});
+fun:"Hyena droppings can turn white because their bodies digest the calcium from the bones they eat."});
 
 ADDART({id:"leopards",t:"Leopards",c:"Mammals",i:"🐆",w:"Leopard",r:["tiger","lion","cheetah","cats","amazon"],
 p:[["Spotted big cats","Leopards are powerful big cats with spotted coats called rosettes."],["Masters of adaptation","They live in more kinds of places than any other big cat."],["Tree climbers","Leopards often drag their prey up into trees."]],
@@ -74,5 +69,4 @@ s2:[["The most widespread big cat","Leopards live across sub-Saharan Africa and 
 sp:["A leopard in the city","In Mumbai, one of the world’s largest cities, leopards live in Sanjay Gandhi National Park, a forest surrounded by apartment blocks and roads. At night, leopards sometimes wander into neighborhoods, hunting stray dogs and occasionally appearing on security cameras. Researchers have worked with residents to reduce conflicts, teaching people to keep areas clean, light pathways and supervise children at night. The story shows both the adaptability of leopards and the challenges of sharing space with large predators as cities grow."],
 g:[["Leopard","A large spotted wild cat of Africa and Asia"],["Rosette","A rose-shaped cluster of spots"],["Melanism","A genetic variation that causes dark coloring"],["Camera trap","A camera that photographs animals automatically"]],
 f:["Leopards are the most widespread big cat.","Black panthers are often leopards with dark coats.","Leopards drag prey up trees."],
-fun:"A leopard can carry a carcass heavier than itself several meters up a tree.",
-tl:"Ang leopardo ay malaking pusang may batik na tinatawag na rosette. Ito ang pinakamalawak ang nasasakupang malaking pusa sa Africa at Asya. Madalas nitong iakyat sa puno ang nahuling hayop."});
+fun:"A leopard can carry a carcass heavier than itself several meters up a tree."});

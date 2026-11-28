@@ -12,8 +12,7 @@ s2:[["Gorée Island","Gorée, a small island off Dakar, is a UNESCO World Herita
 sp:["The African Renaissance Monument","On a hill overlooking Dakar stands the African Renaissance Monument, a bronze statue of a man, a woman and a child gazing out to sea. Completed in 2010 to mark 50 years of independence, it is about 49 meters tall, taller than the Statue of Liberty without its pedestal. It was intended as a symbol of Africa rising from centuries of slavery and colonialism, but it also caused controversy over its cost, its North Korean builders and its style. Today it is one of Dakar’s most visited landmarks."],
 g:[["Teranga","The Wolof word for hospitality"],["Griot","A West African storyteller and musician"],["Sufi brotherhood","A Muslim religious order following a spiritual leader"],["Mbalax","A popular Senegalese dance music"],["Thiéboudienne","Senegal’s national dish of fish and rice"]],
 f:["Dakar is on the westernmost point of mainland Africa.","Senegal has never had a military coup.","Thiéboudienne is recognized by UNESCO."],
-fun:"Senegal’s national dish, thiéboudienne, is on UNESCO’s list of intangible cultural heritage.",
-tl:"Ang Senegal ay bansa sa kanlurang baybayin ng Aprika. Ang kabisera nito, ang Dakar, ay nasa pinakakanlurang dulo ng Aprika. Kilala ito sa mapayapang demokrasya, musika at teranga o pagiging mapagpatuloy."});
+fun:"Senegal’s national dish, thiéboudienne, is on UNESCO’s list of intangible cultural heritage."});
 
 ADDART({id:"ugandacountry",t:"Uganda",c:"Countries and Places",i:"🦍",w:"Uganda",r:["nile","lakes","kenyacountry","tanzaniacountry","drccountry","africacolon"],
 p:[["The Pearl of Africa","Uganda is famous for its green landscapes, lakes and mountains."],["Source of the Nile","The White Nile flows out of Lake Victoria in Uganda."],["Great apes","About half of the world’s mountain gorillas live in Uganda."]],
@@ -25,8 +24,7 @@ s2:[["Mountain gorillas","Bwindi Impenetrable National Park and Mgahinga Gorilla
 sp:["The Pearl of Africa","When the young Winston Churchill traveled through Uganda in 1907, he was so impressed by its beauty, fertile land and rich wildlife that he wrote in his book My African Journey that Uganda was the pearl of Africa. The phrase stuck, and Ugandans proudly use it today in tourism and national pride. Its green hills, crater lakes, forests and the snowy Rwenzori peaks continue to amaze visitors."],
 g:[["Protectorate","A territory controlled and protected by another country"],["Kabaka","The king of Buganda"],["Matooke","Cooked green bananas, a Ugandan staple"],["Refugee","A person forced to flee their country"],["Equator","An imaginary line around the middle of the Earth"]],
 f:["The White Nile begins at Lake Victoria in Uganda.","About half of the world’s mountain gorillas live in Uganda.","Uganda hosts over a million refugees."],
-fun:"The rolex, a popular Ugandan snack, is an omelet rolled in a chapati.",
-tl:"Ang Uganda ay bansa sa Silangang Aprika. Dito nagsisimula ang White Nile sa Lawa ng Victoria, at dito nakatira ang halos kalahati ng mga mountain gorilla sa mundo."});
+fun:"The rolex, a popular Ugandan snack, is an omelet rolled in a chapati."});
 
 ADDART({id:"angolacountry",t:"Angola",c:"Countries and Places",i:"🦌",w:"Angola",r:["africacolon","slavetrade","brazilcountry","drccountry","southafricacountry","coldwar"],
 p:[["A large country","Angola is one of the largest countries in Africa, on the Atlantic coast."],["Oil and diamonds","It is rich in oil and diamonds."],["Peace after war","A long civil war ended in 2002."]],
@@ -38,8 +36,7 @@ s2:[["Queen Njinga","Njinga Mbande, queen of Ndongo and Matamba, was a brilliant
 sp:["The giant sable antelope","The giant sable antelope, with its long, curved horns, lives only in central Angola. During the long civil war, no one could study it, and many feared it had been wiped out by hunting. In 2004, scientists using camera traps in Cangandala National Park photographed a small surviving herd. Conservationists have since protected and bred the animals. Called palanca negra in Portuguese, it appears on Angola’s national football team’s nickname, the Palancas Negras, and is a powerful symbol of the country’s survival."],
 g:[["Colony","A territory ruled by another country"],["Civil war","A war between groups within the same country"],["Landmine","An explosive device hidden in the ground"],["OPEC","An organization of oil-exporting countries"],["Semba","A traditional Angolan music and dance"]],
 f:["Angola became independent in 1975.","Its civil war ended in 2002.","Kizomba dance comes from Angola."],
-fun:"Angola’s national football team is nicknamed the Giant Sable Antelopes.",
-tl:"Ang Angola ay malaking bansa sa timog Aprika. Dati itong kolonya ng Portugal at naging malaya noong 1975. Natapos ang mahabang digmaang sibil nito noong 2002. Mayaman ito sa langis at diyamante."});
+fun:"Angola’s national football team is nicknamed the Giant Sable Antelopes."});
 
 ADDART({id:"zimbabwecountry",t:"Zimbabwe",c:"Countries and Places",i:"🪨",w:"Zimbabwe",r:["zimbabwe","waterfalls","southafricacountry","africacolon","mandela","inflation"],
 p:[["Houses of stone","Zimbabwe is named after Great Zimbabwe, an ancient city of stone."],["A mighty waterfall","It shares one of the world’s greatest waterfalls with Zambia."],["Many languages","Zimbabwe recognizes 16 official languages."]],
@@ -51,8 +48,7 @@ s2:[["Victoria Falls","On the Zambezi River, shared with Zambia, Victoria Falls 
 sp:["The hundred-trillion-dollar note","In 2008, prices in Zimbabwe were doubling roughly every day. Shoppers carried piles of banknotes in bags, and prices on shelves changed several times daily. The central bank printed ever-larger notes, and in 2009 it issued a 100-trillion-dollar note, with 14 zeros, one of the highest denominations ever printed. Even it could buy little more than a loaf of bread or a bus ticket. Soon after, Zimbabwe stopped using its own currency and adopted the US dollar and other foreign currencies. Today the old notes are sold as souvenirs."],
 g:[["Hyperinflation","Extremely rapid rise in prices"],["Mbira","A thumb piano with metal keys"],["Liberation war","A war fought to free a country from colonial or minority rule"],["Mortar","A paste used to bind bricks or stones"],["Plateau","A high, flat area of land"]],
 f:["Zimbabwe means houses of stone.","Victoria Falls is shared with Zambia.","Zimbabwe has 16 official languages."],
-fun:"Zimbabwe once printed a 100-trillion-dollar banknote.",
-tl:"Ang Zimbabwe ay bansa sa timog Aprika. Pinangalanan ito sa Great Zimbabwe, isang sinaunang lungsod na bato. Kahati nito ang Zambia sa Victoria Falls, isa sa pinakamalalaking talon sa mundo."});
+fun:"Zimbabwe once printed a 100-trillion-dollar banknote."});
 
 ADDART({id:"ecuadorcountry",t:"Ecuador",c:"Countries and Places",i:"🐢",w:"Ecuador",r:["galapagos","andes","amazon","inca","perucountry","colombiacountry"],
 p:[["On the equator","Ecuador is named after the equator, which passes through it."],["Four worlds","It has Pacific coast, Andes mountains, Amazon rainforest and the Galápagos Islands."],["Rights for nature","Ecuador was the first country to give nature legal rights in its constitution."]],
@@ -64,8 +60,7 @@ s2:[["The Galápagos Islands","The Galápagos, a group of volcanic islands, are 
 sp:["The farthest point from Earth’s center","Mount Everest is the highest mountain above sea level, at 8,849 meters. But the Earth is not a perfect sphere: it bulges at the equator because of its rotation. Chimborazo in Ecuador, at 6,263 meters, sits almost on the equator, on top of this bulge. As a result, its summit is about 6,384 kilometers from the Earth’s center, roughly 2 kilometers farther than the summit of Everest. Climbers on Chimborazo’s peak are, in a sense, the people closest to the stars."],
 g:[["Equator","An imaginary line around the middle of the Earth"],["Dollarization","Using a foreign currency, such as the US dollar, as a country’s own"],["Mestizo","A person of mixed Indigenous and European ancestry"],["Volcano","An opening in the Earth’s crust through which lava erupts"],["Rights of nature","The legal idea that nature has rights"]],
 f:["Ecuador is named after the equator.","Ecuador uses the US dollar.","Panama hats come from Ecuador."],
-fun:"The top of Chimborazo is the farthest point on Earth from the planet’s center.",
-tl:"Ang Ecuador ay bansa sa Timog Amerika na pinangalanan sa ekwador. May baybayin, Andes, gubat ng Amazon at Galápagos Islands ito. Ito ang unang bansang nagbigay ng karapatan sa kalikasan sa saligang batas."});
+fun:"The top of Chimborazo is the farthest point on Earth from the planet’s center."});
 
 ADDART({id:"boliviacountry",t:"Bolivia",c:"Countries and Places",i:"🦙",w:"Bolivia",r:["andes","inca","perucountry","chilecountry","brazilcountry","spanish"],
 p:[["High in the Andes","Bolivia is one of the highest and most rugged countries in the world."],["Many peoples","Most Bolivians are Indigenous or of mixed Indigenous descent."],["A mirror of salt","The Salar de Uyuni is the largest salt flat on Earth."]],
@@ -77,8 +72,7 @@ s2:[["Salar de Uyuni","The Salar de Uyuni, covering more than 10,000 square kilo
 sp:["The mountain that ate men","The Cerro Rico, or rich mountain, towering over the city of Potosí, contained one of the greatest silver deposits ever found. From the 1500s, its silver flowed to Spain and around the world, helping create the first truly global trade, as silver coins reached China and the Philippines through the Manila galleons. But the price was terrible: many Indigenous and enslaved African workers died in its mines, and it became known as the mountain that eats men. Miners still work its tunnels today, and the city of Potosí is a UNESCO World Heritage Site."],
 g:[["Altiplano","A high plateau in the Andes"],["Landlocked","Having no coastline"],["Plurinational","Made up of many nations or peoples"],["Mita","A forced labor system used in colonial mines"],["Lithium","A light metal used in batteries"]],
 f:["Bolivia is named after Simón Bolívar.","The Salar de Uyuni is the largest salt flat on Earth.","Bolivia has a navy despite having no coast."],
-fun:"Silver from Bolivia’s Potosí reached the Philippines on the Manila galleons.",
-tl:"Ang Bolivia ay bansang walang dagat sa Timog Amerika. Malaking bahagi ng mamamayan nito ay katutubo. Nandito ang Salar de Uyuni, ang pinakamalaking kapatagan ng asin sa mundo."});
+fun:"Silver from Bolivia’s Potosí reached the Philippines on the Manila galleons."});
 
 ADDART({id:"jamaicacountry",t:"Jamaica",c:"Countries and Places",i:"🎵",w:"Jamaica",r:["reggae","slavetrade","athletics","ukcountry","cubacountry","coffee"],
 p:[["Island of music","Jamaica gave the world reggae, ska and dancehall music."],["Fastest people","Jamaican sprinters, such as Usain Bolt, are among the fastest people ever."],["Out of many, one people","Jamaica’s motto celebrates its mixed heritage."]],
@@ -90,5 +84,4 @@ s2:[["Reggae","Jamaican music developed from mento to ska in the late 1950s, the
 sp:["The bobsled team","In 1988, Jamaica, a tropical island with no snow, sent a bobsled team to the Winter Olympics in Calgary, Canada. The team, made up of sprinters and army members, had trained on wheeled sleds. They crashed during their final run but walked their sled across the finish line to cheers. Their story inspired the 1993 film Cool Runnings. Jamaican bobsledders have continued to compete in Winter Olympics since then."],
 g:[["Reggae","A Jamaican music with a strong offbeat rhythm"],["Maroons","Escaped enslaved people who formed free communities"],["Rastafari","A religious and cultural movement born in Jamaica"],["Jerk","A spicy Jamaican method of seasoning and cooking meat"],["Commonwealth","An association of countries, most once part of the British Empire"]],
 f:["Jamaica became independent in 1962.","Usain Bolt holds the 100-meter world record.","Reggae was recognized by UNESCO in 2018."],
-fun:"Jamaica sent a bobsled team to the 1988 Winter Olympics.",
-tl:"Ang Jamaica ay islang bansa sa Dagat Caribbean. Dito nagmula ang musikang reggae at si Bob Marley. Kilala rin ito sa mabibilis na mananakbo gaya ni Usain Bolt."});
+fun:"Jamaica sent a bobsled team to the 1988 Winter Olympics."});

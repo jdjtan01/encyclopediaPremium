@@ -12,8 +12,7 @@ s2:[["Sensō-ji","Sensō-ji in Asakusa is Tokyo’s oldest temple, traditionally
 sp:["The Shibuya scramble","Outside Shibuya Station lies one of the busiest pedestrian crossings in the world. When the traffic lights turn red in all directions, pedestrians flood the intersection from every side at once, sometimes thousands at a time, crossing straight and diagonally. Despite the crowds, people rarely collide. Nearby stands a statue of Hachikō, a loyal dog who waited at the station for his owner every day for nearly ten years after the owner’s death in 1925."],
 g:[["Megacity","A city with more than 10 million people"],["Shogunate","A government led by a shogun, a military ruler"],["Shinkansen","Japan’s high-speed bullet train"],["Metropolis","A very large city; also Tokyo’s official name as a prefecture"]],
 f:["Tokyo was once called Edo.","Shinjuku Station is the busiest station in the world.","Tokyo has more Michelin-starred restaurants than any other city."],
-fun:"Tokyo’s name means eastern capital.",
-tl:"Ang Tokyo ang kabisera ng Hapon at isa sa pinakamalaking urbanong lugar sa mundo. Dati itong tinatawag na Edo. Itinayong muli ito matapos ang lindol noong 1923 at ang pambobomba noong Ikalawang Digmaang Pandaigdig."});
+fun:"Tokyo’s name means eastern capital."});
 
 ADDART({id:"cairo",t:"Cairo",c:"Countries and Places",i:"🕌",w:"Cairo",r:["egyptcountry","egypt","pyramids","nile","islam"],
 p:[["City on the Nile","Cairo is the capital of Egypt, spreading along the Nile River near where it fans out into its delta."],["City of a thousand minarets","Its historic Islamic quarter is filled with mosques, madrasas and markets."],["Gateway to the pyramids","The Pyramids of Giza stand on the city’s western edge."]],
@@ -25,8 +24,7 @@ s2:[["The Pyramids of Giza","On the western edge of Greater Cairo stand the Pyra
 sp:["The City of the Dead","In the east of Cairo lies a vast area of tombs and mausoleums built from the Mamluk period onward, called the City of the Dead, or the Qarafa. Some of its tombs are masterpieces of Islamic architecture. Over generations, many families have made homes among the tombs, living alongside the graves of the dead, creating a unique neighborhood where tens of thousands of people live."],
 g:[["Delta","Land at a river’s mouth where it splits into branches"],["Madrasa","An Islamic school"],["Bazaar","A market with many shops"],["Fatimids","A dynasty that ruled Egypt from 969 to 1171"]],
 f:["Cairo’s name means the Victorious.","Al-Azhar is one of the oldest universities in the world.","Cairo opened Africa’s first metro in 1987."],
-fun:"Cairo is sometimes called the city of a thousand minarets.",
-tl:"Ang Cairo ang kabisera ng Ehipto, nasa tabi ng Ilog Nile. Isa ito sa pinakamalaking lungsod sa Aprika at mundong Arabe. Nasa gilid nito ang mga Piramide ng Giza, at kilala ito sa mga moske at sa Unibersidad ng al-Azhar."});
+fun:"Cairo is sometimes called the city of a thousand minarets."});
 
 ADDART({id:"istanbul",t:"Istanbul",c:"Countries and Places",i:"🕌",w:"Istanbul",r:["turkeycountry","byzant","ottoman","rome","silk"],
 p:[["City on two continents","Istanbul spans the Bosphorus strait, with parts in both Europe and Asia."],["Three names","It has been called Byzantium, Constantinople and Istanbul."],["Capital of empires","It was the capital of the Byzantine and Ottoman empires for about 1,600 years."]],
@@ -38,8 +36,7 @@ s2:[["Hagia Sophia","Hagia Sophia, meaning holy wisdom, was completed in 537 und
 sp:["The fall of Constantinople","In 1453 the young Ottoman sultan Mehmed II besieged Constantinople with a huge army and giant cannons, including one that fired stone balls weighing hundreds of kilograms. When the defenders blocked the Golden Horn harbor with a great chain, Mehmed had ships dragged overland on greased logs into the harbor. On 29 May, Ottoman troops broke through the walls, and the last Byzantine emperor, Constantine XI, died fighting. Mehmed became known as the Conqueror."],
 g:[["Strait","A narrow waterway connecting two seas"],["Byzantine Empire","The Eastern Roman Empire, centered on Constantinople"],["Minaret","A tall tower of a mosque"],["Bazaar","A market of many shops"]],
 f:["Istanbul lies in both Europe and Asia.","Hagia Sophia was completed in 537.","Constantinople fell to the Ottomans in 1453."],
-fun:"In 1453 the Ottomans dragged warships overland to get around a chain blocking the harbor.",
-tl:"Ang Istanbul ang pinakamalaking lungsod ng Türkiye, nasa magkabilang panig ng Bosphorus, kaya bahagi ito ng Europa at Asya. Dati itong tinawag na Byzantium at Constantinople at naging kabisera ng mga imperyong Byzantine at Ottoman."});
+fun:"In 1453 the Ottomans dragged warships overland to get around a chain blocking the harbor."});
 
 ADDART({id:"rio",t:"Rio de Janeiro",c:"Countries and Places",i:"🏖️",w:"Rio de Janeiro",r:["brazilcountry","soccer","olymp","festivals","amazon"],
 p:[["The marvelous city","Rio de Janeiro, in Brazil, is famous for its beaches, mountains and the giant statue of Christ the Redeemer."],["Samba parades","Its Carnival, with samba parades, is one of the biggest festivals in the world."],["Former capital","Rio was the capital of Brazil until 1960 and briefly the seat of the Portuguese Empire."]],
@@ -51,5 +48,4 @@ s2:[["Christ the Redeemer","The statue of Christ the Redeemer stands with outstr
 sp:["Capital of an empire","When Napoleon’s armies invaded Portugal in 1807, the Portuguese royal family boarded ships with thousands of courtiers and sailed to Brazil, arriving in Rio in 1808. Rio suddenly became the capital of a global empire, gaining a royal library, botanical garden, printing press and bank. In 1815 Brazil was raised to a kingdom equal to Portugal. When King João VI returned to Lisbon in 1821, his son Pedro stayed and in 1822 declared Brazil independent."],
 g:[["Favela","An informal settlement in a Brazilian city"],["Samba","A Brazilian music and dance style"],["Carnival","A festival before Lent, with parades and parties"],["Bossa nova","A Brazilian music style mixing samba and jazz"]],
 f:["Rio de Janeiro means River of January.","Christ the Redeemer was completed in 1931.","Rio hosted South America’s first Olympics in 2016."],
-fun:"Rio was once the capital of the Portuguese Empire, the only European empire ruled from the Americas.",
-tl:"Ang Rio de Janeiro ay lungsod sa Brazil na kilala sa mga dalampasigan, kabundukan at estatwa ni Kristo na Manunubos. Tanyag ang Carnival nito. Ito ang kabisera ng Brazil hanggang 1960."});
+fun:"Rio was once the capital of the Portuguese Empire, the only European empire ruled from the Americas."});

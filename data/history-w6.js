@@ -12,8 +12,7 @@ s2:[["The great migration","Hindus and Sikhs moved from Pakistan to India, and M
 sp:["Tryst with destiny","At midnight on 14–15 August 1947, Jawaharlal Nehru told India’s Constituent Assembly: Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom. The speech is one of the most famous of the 20th century."],
 g:[["Partition","The division of a country into separate parts"],["Dominion","A self-governing country within the British Commonwealth"],["Viceroy","A ruler governing a colony on behalf of a monarch"],["Refugee","A person forced to leave their home to escape danger"]],
 f:["About 15 million people crossed the borders during Partition.","The borders were announced two days after independence.","Pakistan celebrates independence on 14 August and India on 15 August."],
-fun:"The man who drew the India-Pakistan border had never been to India before.",
-tl:"Noong Agosto 1947, hinati ang British India sa dalawang bansa, ang India at Pakistan. Mga 15 milyong tao ang lumipat ng tirahan, at maraming namatay sa karahasan."});
+fun:"The man who drew the India-Pakistan border had never been to India before."});
 
 ADDART({id:"apartheid",t:"The End of Apartheid",c:"History",i:"✊",w:"Apartheid",r:["mandela","tutu","southafricacountry","hrights","decol"],
 p:[["Separation by law","Apartheid, meaning apartness in Afrikaans, was South Africa’s system of racial segregation from 1948 to the early 1990s."],["Years of struggle","South Africans resisted through protests, strikes, armed struggle and international campaigns."],["A peaceful transition","In 1994 South Africa held its first democratic election, and Nelson Mandela became president."]],
@@ -25,8 +24,7 @@ s2:[["De Klerk and Mandela","In 1989 F. W. de Klerk became president and began r
 sp:["Freedom Day and the rainbow","27 April is celebrated in South Africa as Freedom Day, marking the 1994 election. The new national flag, adopted that year, combines colors from many of the country’s political traditions, with a Y shape representing different groups coming together. The national anthem combines verses in five languages, isiXhosa, isiZulu, Sesotho, Afrikaans and English."],
 g:[["Apartheid","South Africa’s system of racial segregation"],["Sanctions","Penalties, such as trade bans, imposed on a country"],["Township","An area set aside for Black South Africans under apartheid"],["Homeland","An area created by the apartheid government for a Black ethnic group"]],
 f:["Apartheid means apartness in Afrikaans.","Nelson Mandela spent 27 years in prison.","South Africa’s national anthem uses five languages."],
-fun:"South Africa’s national anthem is sung in five languages.",
-tl:"Ang apartheid ay sistema ng paghihiwalay ng lahi sa South Africa mula 1948. Matapos ang mahabang pakikibaka at presyon ng mundo, natapos ito noong unang bahagi ng dekada 1990, at naging pangulo si Nelson Mandela noong 1994."});
+fun:"South Africa’s national anthem is sung in five languages."});
 
 ADDART({id:"eu",t:"The European Union",c:"History",i:"⭐",w:"European Union",r:["ww2","coldwar","ussrfall","germanycountry","francecountry","asean"],
 p:[["Peace through unity","The European Union grew from efforts after World War II to make war between European countries impossible."],["27 countries","It now unites 27 countries with about 450 million people."],["A single market","Goods, services, money and people can move freely between its members, and 21 of them share the euro."]],
@@ -38,5 +36,4 @@ s2:[["How it works","The European Commission proposes laws and makes sure they a
 sp:["United in diversity","The EU’s motto is United in diversity. It has 24 official languages, and its laws are translated into all of them, making it one of the world’s largest employers of translators and interpreters. Its flag shows a circle of 12 gold stars on a blue background; the number 12 is a symbol of completeness and does not represent the number of members. Europe Day is celebrated on 9 May, the anniversary of the Schuman Declaration."],
 g:[["Single market","An area where goods, services, money and people move freely"],["Eurozone","The EU countries that use the euro"],["Referendum","A vote by all citizens on a single question"],["Treaty","A formal agreement between countries"]],
 f:["The EU has 24 official languages.","The 12 stars on its flag do not stand for member countries.","The United Kingdom left the EU in 2020."],
-fun:"The 12 stars on the EU flag stand for completeness, not for the number of member countries.",
-tl:"Ang European Union ay samahan ng 27 bansang Europeo na nagsimula pagkatapos ng Ikalawang Digmaang Pandaigdig upang mapanatili ang kapayapaan. May iisang pamilihan ito, at 21 sa mga kasapi nito ang gumagamit ng euro."});
+fun:"The 12 stars on the EU flag stand for completeness, not for the number of member countries."});

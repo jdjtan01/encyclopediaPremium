@@ -9,8 +9,7 @@ s2:[["E = mc²","In 1905 Albert Einstein showed that mass is a form of energy. H
 sp:["A joule of energy","A joule is a small amount of energy. A person climbing one flight of stairs uses about 2,000 joules of energy against gravity. A banana contains about 400,000 joules of food energy. The Sun gives off about 380 trillion trillion joules every second, of which Earth receives only a tiny fraction, still far more than all of humanity uses."],
 g:[["Energy","The ability to do work or cause change"],["Kinetic energy","The energy of motion"],["Potential energy","Stored energy due to position or condition"],["Joule","The unit of energy"]],
 f:["Energy can change form but cannot be created or destroyed.","One kilowatt-hour equals 3.6 million joules.","Almost all of the energy for life on Earth comes from the Sun."],
-fun:"Lifting an apple about one meter takes roughly one joule of energy.",
-tl:"Ang enerhiya ay kakayahang gumawa ng trabaho o magdulot ng pagbabago. Maaari itong magbago ng anyo ngunit hindi nalilikha o nawawala. Sinusukat ito sa joule."});
+fun:"Lifting an apple about one meter takes roughly one joule of energy."});
 
 ADDART({id:"thermo",t:"Heat and Thermodynamics",c:"Science",i:"🌡️",w:"Thermodynamics",r:["energyphys","states","steam","atom"],
 p:[["Heat on the move","Heat is energy that flows from hotter things to colder things."],["Temperature","Temperature measures how fast the particles in a substance are moving."],["The laws of thermodynamics","Four laws describe how heat and energy behave, from engines to stars."]],
@@ -22,8 +21,7 @@ s2:[["Entropy and the arrow of time","Entropy is a measure of disorder, or of ho
 sp:["Why a metal bench feels colder","On a cold morning, a metal bench feels much colder than a wooden one, even though both are the same temperature. Metal is a good conductor, so it draws heat away from your hand quickly, while wood is a poor conductor and does not. Our skin senses how fast heat leaves it, not the actual temperature of the object."],
 g:[["Temperature","A measure of how hot or cold something is"],["Entropy","A measure of disorder in a system"],["Conduction","Heat transfer through direct contact"],["Absolute zero","The lowest possible temperature, 0 kelvin"]],
 f:["Absolute zero is −273.15 °C.","Water expands when it freezes.","Heat always flows naturally from hot to cold."],
-fun:"Near absolute zero, liquid helium can creep up the walls of its container.",
-tl:"Ang thermodynamics ay sangay ng pisika na nag-aaral ng init, temperatura at enerhiya. Ipinaliliwanag nito kung bakit dumadaloy ang init mula sa mainit patungo sa malamig at kung paano gumagana ang mga makina at refrigerator."});
+fun:"Near absolute zero, liquid helium can creep up the walls of its container."});
 
 ADDART({id:"waves",t:"Waves",c:"Science",i:"🌊",w:"Wave",r:["sound","light","tsunami","quantum","gravwaves"],
 p:[["Energy on the move","A wave is a disturbance that carries energy from one place to another without carrying matter along with it."],["Many kinds","Sound, light, ocean waves, earthquake waves and radio are all waves."],["Measured by wavelength","Waves are described by their wavelength, frequency and amplitude."]],
@@ -35,5 +33,4 @@ s2:[["Interference","When two waves meet, they combine. If crests line up with c
 sp:["Ocean waves","Most ocean waves are made by wind blowing over the water. Although the waves travel across oceans, the water itself mostly moves in circles, rising and falling as the wave passes. Near the shore, the bottom slows the wave, it grows taller and topples over as a breaker. Tsunamis are different: they are caused by earthquakes or landslides and move the whole depth of the ocean."],
 g:[["Wavelength","The distance between two wave crests"],["Frequency","The number of waves passing a point each second"],["Amplitude","The height of a wave, related to its energy"],["Hertz","The unit of frequency: one wave per second"]],
 f:["Sound cannot travel through empty space.","Light travels about a million times faster than sound in air.","The Doppler effect makes a siren’s pitch change as it passes."],
-fun:"Sound travels about four times faster in water than in air.",
-tl:"Ang alon ay paggalaw na nagdadala ng enerhiya mula sa isang lugar patungo sa iba. Alon ang tunog, liwanag, radyo at alon sa dagat. Sinusukat ito sa wavelength, frequency at amplitude."});
+fun:"Sound travels about four times faster in water than in air."});

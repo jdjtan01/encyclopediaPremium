@@ -11,8 +11,7 @@ s2:[["The Bund","The Bund is a riverside promenade lined with grand banks, hotel
 sp:["Xiaolongbao","Shanghai is famous for xiaolongbao, delicate steamed dumplings filled with pork and hot soup. Diners bite a small hole, sip the soup, then eat the dumpling, often with vinegar and ginger."],
 g:[["Treaty port","A port opened to foreign trade by an unequal treaty"],["Bund","Shanghai’s historic waterfront"],["Maglev","A train that floats using magnets"],["Container port","A port that handles cargo in shipping containers"]],
 f:["Shanghai has the world’s busiest container port.","The Shanghai Tower is 632 meters tall.","Pudong was mostly farmland in 1990."],
-fun:"The name Shanghai means ‘upon the sea’.",
-tl:"Ang Shanghai ang pinakamalaking lungsod sa Tsina at sentro ng pananalapi at kalakalan. Narito ang pinakaabalang container port sa mundo, at magkaharap sa ilog ang lumang Bund at ang matataas na gusali ng Pudong."});
+fun:"The name Shanghai means ‘upon the sea’."});
 
 ADDART({id:"losangeles",t:"Los Angeles",c:"Countries and Places",i:"🎬",w:"Los Angeles",r:["usacountry","cinema","megacities","migration","cars"],
 p:[["City of Angels","Los Angeles is the second-largest city in the United States, in southern California."],["Home of Hollywood","It is the center of the American film and television industry."],["Diverse and spread out","It is famous for its sunshine, beaches, freeways and many cultures."]],
@@ -24,8 +23,7 @@ s2:[["The Hollywood Sign","The Hollywood Sign originally read ‘HOLLYWOODLAND�
 sp:["The Walk of Fame","Along Hollywood Boulevard, more than 2,700 brass stars set into the sidewalk honor actors, musicians and other entertainers. The Walk of Fame was created in 1960 and adds new stars each year."],
 g:[["Pueblo","A Spanish word for a town or village"],["Freeway","A large highway without traffic lights"],["Smog","Air pollution made of smoke and fog"],["Studio","A company or site where films are made"]],
 f:["Los Angeles was founded in 1781.","The Hollywood Sign once read ‘Hollywoodland’.","LA will host the Olympics for the third time in 2028."],
-fun:"Los Angeles’ full original Spanish name was ‘The Town of the Queen of the Angels’.",
-tl:"Ang Los Angeles ang ikalawang pinakamalaking lungsod sa Estados Unidos, sa timog California. Ito ang sentro ng industriya ng pelikula sa Hollywood at kilala sa araw, dalampasigan at maraming kultura."});
+fun:"Los Angeles’ full original Spanish name was ‘The Town of the Queen of the Angels’."});
 
 ADDART({id:"chicago",t:"Chicago",c:"Countries and Places",i:"🏙️",w:"Chicago",r:["usacountry","skyscrapers","jazz","indrev","rivers"],
 p:[["The Windy City","Chicago is the third-largest city in the United States, on Lake Michigan."],["Birthplace of the skyscraper","The world’s first skyscraper was built there in 1885."],["A city of music","Chicago helped shape jazz, blues and house music."]],
@@ -37,8 +35,7 @@ s2:[["The Ferris wheel","For the World’s Columbian Exposition of 1893, enginee
 sp:["Cloud Gate","Cloud Gate, a huge stainless steel sculpture in Millennium Park nicknamed ‘the Bean’, reflects the skyline and visitors like a giant curved mirror. Designed by artist Anish Kapoor, it was completed in 2006."],
 g:[["Skyscraper","A very tall building with many floors"],["Stockyard","An area where livestock are kept before sale or slaughter"],["Great Migration","The movement of millions of Black Americans from the South to northern cities"],["Blues","A style of music rooted in African American experience"]],
 f:["Chicago reversed the direction of its river in 1900.","The first Ferris wheel was built in Chicago.","The first skyscraper was built in Chicago in 1885."],
-fun:"Chicago’s river is dyed green every St Patrick’s Day.",
-tl:"Ang Chicago ang ikatlong pinakamalaking lungsod sa Estados Unidos, sa tabi ng Lawa ng Michigan. Dito itinayo ang unang skyscraper noong 1885, at mahalaga ito sa kasaysayan ng jazz at blues."});
+fun:"Chicago’s river is dyed green every St Patrick’s Day."});
 
 ADDART({id:"amsterdam",t:"Amsterdam",c:"Countries and Places",i:"🚲",w:"Amsterdam",r:["netherlandscountry","bicycle","trade","holocaust","floods"],
 p:[["City of canals","Amsterdam is the capital of the Netherlands, famous for its canals and narrow houses."],["Golden Age","In the 1600s, it was one of the richest cities in the world."],["Bicycles everywhere","There are more bicycles than people in the city."]],
@@ -50,8 +47,7 @@ s2:[["The canal houses","Amsterdam’s canal houses are tall and narrow because 
 sp:["Cycling city","Amsterdam has over 500 kilometers of cycle paths and an estimated 880,000 bicycles. Thousands of bikes are fished out of the canals every year."],
 g:[["Canal","An artificial waterway"],["Golden Age","A period of great wealth and achievement"],["Stock exchange","A market where shares in companies are traded"],["Reclaimed land","Land created from water or marshes"]],
 f:["Amsterdam is named after a dam on the Amstel River.","There are more bicycles than people in Amsterdam.","Many canal houses have hooks for lifting furniture."],
-fun:"Amsterdam has more canals than Venice, with about 100 kilometers of waterways.",
-tl:"Ang Amsterdam ang kabisera ng Netherlands, kilala sa mga kanal at makikitid na bahay. Isa ito sa pinakamayayamang lungsod noong 1600, at mas marami ang bisikleta kaysa tao rito."});
+fun:"Amsterdam has more canals than Venice, with about 100 kilometers of waterways."});
 
 ADDART({id:"barcelona",t:"Barcelona",c:"Countries and Places",i:"⛪",w:"Barcelona",r:["spaincountry","architecture","soccer","olymp","tourism"],
 p:[["Catalonia’s capital","Barcelona is the capital of Catalonia and Spain’s second-largest city."],["Gaudí’s city","It is famous for the fantastical buildings of architect Antoni Gaudí."],["Sea and sport","It has Mediterranean beaches and one of the world’s most famous football clubs."]],
@@ -63,8 +59,7 @@ s2:[["Park Güell","Park Güell, designed by Gaudí, was planned as a housing es
 sp:["La Rambla","La Rambla is a famous tree-lined avenue running from the city center to the old port, crowded with walkers, cafés, flower stalls and street performers. It passes the Boqueria, one of Europe’s best-known food markets."],
 g:[["Catalan","The language of Catalonia"],["Modernisme","A Catalan art and architecture movement around 1900"],["Trencadís","A mosaic made of broken tiles"],["Castell","A Catalan human tower"]],
 f:["Barcelona was founded by the Romans as Barcino.","Catalan and Spanish are both spoken in Barcelona.","The Eixample district has octagonal city blocks."],
-fun:"Barcelona’s human towers can be ten levels high, with a child at the very top.",
-tl:"Ang Barcelona ang kabisera ng Catalonia at ikalawang pinakamalaking lungsod ng Espanya. Tanyag ito sa kakaibang mga gusali ni Antoni Gaudí, sa dalampasigan at sa koponang FC Barcelona."});
+fun:"Barcelona’s human towers can be ten levels high, with a child at the very top."});
 
 ADDART({id:"vienna",t:"Vienna",c:"Countries and Places",i:"🎻",w:"Vienna",r:["austriacountry","mozart","opera","ottoman","coffee"],
 p:[["Austria’s capital","Vienna is the capital of Austria, on the Danube River."],["City of music","Mozart, Beethoven, Haydn and Schubert worked there."],["Imperial grandeur","It was the capital of the Habsburg Empire for centuries."]],
@@ -76,8 +71,7 @@ s2:[["Viennese coffee houses","Vienna’s coffee houses, where people sit for ho
 sp:["Schönbrunn Palace","Schönbrunn Palace, the Habsburgs’ summer residence, has more than 1,400 rooms and vast gardens. It also contains the world’s oldest zoo still operating, founded in 1752."],
 g:[["Habsburg","A royal family that ruled much of Europe for centuries"],["Waltz","A ballroom dance in three-four time"],["Siege","Surrounding a city to capture it"],["Psychoanalysis","A method of treating the mind developed by Freud"]],
 f:["Vienna’s Schönbrunn Zoo, founded in 1752, is the oldest zoo still operating.","Beethoven lived in Vienna for 35 years.","Vienna hosts several United Nations offices."],
-fun:"Beethoven moved home in Vienna dozens of times.",
-tl:"Ang Vienna ang kabisera ng Austria, sa tabi ng Ilog Danube. Lungsod ito ng musika kung saan nanirahan sina Mozart at Beethoven, at kabisera ng Imperyong Habsburg nang maraming siglo."});
+fun:"Beethoven moved home in Vienna dozens of times."});
 
 ADDART({id:"prague",t:"Prague",c:"Countries and Places",i:"🏰",w:"Prague",r:["castles","gothic","coldwar","medieurope","clocks"],
 p:[["The city of a hundred spires","Prague is the capital of the Czech Republic, famous for its beautiful old center."],["A royal capital","It was the seat of Bohemian kings and Holy Roman emperors."],["Spared in war","Its medieval and baroque buildings survived largely intact."]],
@@ -89,8 +83,7 @@ s2:[["The astronomical clock","The Prague astronomical clock, installed on the O
 sp:["The Velvet Revolution","In November 1989, students and citizens filled Wenceslas Square in peaceful protests, jingling keys to tell the communist leaders it was time to go. Within weeks the government resigned, and the playwright and dissident Václav Havel became president."],
 g:[["Spire","A tall pointed structure on top of a building"],["Bohemia","A historic region forming much of today’s Czech Republic"],["Astronomical clock","A clock that shows the positions of the sun, moon and stars"],["Velvet Revolution","The peaceful end of communist rule in Czechoslovakia in 1989"]],
 f:["Prague’s astronomical clock has worked since 1410.","Charles University was founded in 1348.","The Charles Bridge has 30 statues."],
-fun:"Prague Castle is often said to be the largest ancient castle complex in the world.",
-tl:"Ang Prague ang kabisera ng Czech Republic, tanyag sa magandang lumang sentro nito na tinatawag na ‘lungsod ng sandaang tore’. Dito naganap ang mapayapang Velvet Revolution noong 1989."});
+fun:"Prague Castle is often said to be the largest ancient castle complex in the world."});
 
 ADDART({id:"stpetersburg",t:"St Petersburg",c:"Countries and Places",i:"🏛️",w:"Saint Petersburg",r:["russiacountry","russrev","moscow","museums","ww2"],
 p:[["Peter the Great’s city","St Petersburg was founded in 1703 by Tsar Peter the Great."],["Russia’s former capital","It was Russia’s capital for about two centuries."],["Palaces and canals","It is famous for its grand palaces, canals and the Hermitage Museum."]],
@@ -102,8 +95,7 @@ s2:[["The white nights","Because St Petersburg lies so far north, in early summe
 sp:["The Hermitage","The State Hermitage Museum, based in the Winter Palace, holds around 3 million objects, from Egyptian antiquities to paintings by Rembrandt, Leonardo da Vinci and Picasso. A group of cats has lived in the museum for centuries, once kept to catch mice."],
 g:[["Tsar","The title of Russia’s emperors"],["Siege","Surrounding a city to force it to surrender"],["White nights","Summer nights when the sky stays light"],["Hermitage","One of the world’s largest art museums"]],
 f:["St Petersburg was founded in 1703.","The city has had three names.","The Hermitage keeps a group of museum cats."],
-fun:"St Petersburg has more than 300 bridges.",
-tl:"Ang St Petersburg ay itinatag ni Tsar Peter the Great noong 1703 at naging kabisera ng Russia nang mga dalawang siglo. Tanyag ito sa malalaking palasyo, kanal at Hermitage Museum."});
+fun:"St Petersburg has more than 300 bridges."});
 
 ADDART({id:"delhi",t:"Delhi",c:"Countries and Places",i:"🕌",w:"Delhi",r:["indiacountry","mughal","partition","megacities","tajmahal"],
 p:[["India’s capital region","Delhi is home to New Delhi, the capital of India."],["Many cities in one","Several empires built capitals on the same site over a thousand years."],["A megacity","Its metropolitan area is one of the most populous in the world."]],
@@ -115,8 +107,7 @@ s2:[["Qutb Minar","The Qutb Minar, begun around 1199, is a tapering tower of red
 sp:["Humayun’s Tomb","Humayun’s Tomb, built in the 1560s for the second Mughal emperor, was the first great garden tomb in India. Its red sandstone and white marble design, set in a square garden divided by water channels, inspired the later Taj Mahal."],
 g:[["Sultanate","A state ruled by a sultan"],["Mughal","A dynasty that ruled much of India from 1526"],["Territory","An area governed differently from states"],["Partition","The division of British India in 1947"]],
 f:["Delhi’s iron pillar is over 1,600 years old and has barely rusted.","The Qutb Minar is about 73 meters tall.","New Delhi was inaugurated in 1931."],
-fun:"Delhi has been the capital of many empires, so it is sometimes called a ‘city of cities’.",
-tl:"Narito sa Delhi ang New Delhi, ang kabisera ng India. Ilang imperyo ang nagtayo ng kabisera sa iisang lugar sa loob ng isang libong taon, at isa ito sa pinakamataong lungsod sa mundo."});
+fun:"Delhi has been the capital of many empires, so it is sometimes called a ‘city of cities’."});
 
 ADDART({id:"capetown",t:"Cape Town",c:"Countries and Places",i:"⛰️",w:"Cape Town",r:["southafricacountry","apartheid","mandela","droughts","ships"],
 p:[["Mother City","Cape Town is South Africa’s oldest city, founded in 1652."],["Table Mountain","A flat-topped mountain rises behind the city."],["Where two oceans meet","The nearby Cape Peninsula looks out over the Atlantic and Indian Oceans."]],
@@ -128,8 +119,7 @@ s2:[["Table Mountain","Table Mountain, about 1,085 meters high, has a flat top a
 sp:["Robben Island","Robben Island, about 7 kilometers offshore, was used for centuries as a prison and place of exile. Former political prisoners now guide visitors through its prison, including the small cell where Mandela was held. It became a UNESCO World Heritage Site in 1999."],
 g:[["Legislative capital","The city where a country’s parliament meets"],["Township","An area created for non-white people under apartheid"],["Cape Floral Kingdom","A small region with an extraordinary variety of plants"],["Supply station","A place where ships stop for food and water"]],
 f:["Cape Town is South Africa’s oldest city.","Nelson Mandela was held on Robben Island for 18 years.","African penguins live on beaches near Cape Town."],
-fun:"South Africa has three capital cities: Pretoria, Cape Town and Bloemfontein.",
-tl:"Ang Cape Town ang pinakamatandang lungsod ng South Africa, itinatag noong 1652. Nasa likod nito ang patag na Table Mountain, at sa malapit na Robben Island ikinulong si Nelson Mandela."});
+fun:"South Africa has three capital cities: Pretoria, Cape Town and Bloemfontein."});
 
 ADDART({id:"havana",t:"Havana",c:"Countries and Places",i:"🚗",w:"Havana",r:["cubacountry","coldwar","cubancrisis","latinind","cars"],
 p:[["Cuba’s capital","Havana is the capital and largest city of Cuba."],["Colonial treasure","Its old town and forts were key to Spain’s treasure fleets."],["Classic cars","Its streets are famous for 1950s American cars still in use."]],
@@ -141,8 +131,7 @@ s2:[["The classic cars","Before 1959, Cubans imported many American cars. After 
 sp:["The cannon shot","Every night at 9 pm, soldiers in 18th-century uniforms fire a cannon from the La Cabaña fortress. The ceremony recalls the colonial era, when the shot signaled the closing of the city gates and the chain across the harbor."],
 g:[["Embargo","An official ban on trade with a country"],["Malecón","Havana’s seaside boulevard"],["Son","A Cuban style of music and dance"],["Treasure fleet","A convoy of ships carrying silver and gold to Spain"]],
 f:["Havana’s old town is a UNESCO World Heritage Site.","A cannon is fired in Havana every night at 9 pm.","Many 1950s American cars still drive in Havana."],
-fun:"Some of Havana’s classic cars are more than 70 years old and still in daily use.",
-tl:"Ang Havana ang kabisera at pinakamalaking lungsod ng Cuba. Mahalaga ang lumang bayan at mga kuta nito sa mga barkong may kayamanan ng Espanya, at tanyag ito sa mga lumang kotseng Amerikano mula dekada 1950."});
+fun:"Some of Havana’s classic cars are more than 70 years old and still in daily use."});
 
 ADDART({id:"addisababa",t:"Addis Ababa",c:"Countries and Places",i:"☕",w:"Addis Ababa",r:["ethiopiacountry","africanunion","coffee","aksum","africacolon"],
 p:[["Ethiopia’s capital","Addis Ababa is the capital and largest city of Ethiopia."],["High in the mountains","At about 2,355 meters, it is one of the highest capital cities in the world."],["Africa’s diplomatic capital","It is home to the headquarters of the African Union."]],
@@ -154,8 +143,7 @@ s2:[["Lucy","Ethiopia’s National Museum in Addis Ababa displays a cast of ‘L
 sp:["The African Union headquarters","The African Union Conference Center, opened in 2012, is a 20-story tower that dominates part of the skyline. Leaders from across the continent meet there for summits. Outside stands a statue of Kwame Nkrumah, a founding figure of African unity."],
 g:[["Amharic","Ethiopia’s main working language"],["Highlands","High, mountainous land"],["Jebena","A clay coffee pot used in Ethiopia"],["Headquarters","The main office of an organization"]],
 f:["Addis Ababa means ‘new flower’.","It is one of the highest capital cities in the world.","Ethiopia was never colonized, apart from a short Italian occupation."],
-fun:"Addis Ababa’s many eucalyptus trees came from Australia over a century ago.",
-tl:"Ang Addis Ababa ang kabisera at pinakamalaking lungsod ng Ethiopia, nasa mga 2,355 metro ang taas. Dito matatagpuan ang punong-tanggapan ng African Union kaya tinatawag itong kabiserang pampulitika ng Africa."});
+fun:"Addis Ababa’s many eucalyptus trees came from Australia over a century ago."});
 
 ADDART({id:"marrakesh",t:"Marrakesh",c:"Countries and Places",i:"🕌",w:"Marrakesh",r:["moroccocountry","islamicart","desert","tourism","trade"],
 p:[["The Red City","Marrakesh is a historic city in Morocco, known for its red walls."],["A great square","Its main square, Jemaa el-Fnaa, fills with performers and food stalls every evening."],["Gateway to the desert","It lies near the Atlas Mountains and the Sahara."]],
@@ -167,8 +155,7 @@ s2:[["The Koutoubia Mosque","The Koutoubia Mosque’s minaret, about 77 meters t
 sp:["Storytellers of the square","For centuries, storytellers called hlaykia have gathered crowds in Jemaa el-Fnaa, telling tales from The Thousand and One Nights and local legends. Few remain today, and efforts are being made to keep this oral tradition alive."],
 g:[["Medina","The old walled part of a North African city"],["Souk","A traditional market"],["Riad","A traditional house built around a courtyard garden"],["Minaret","A tall tower of a mosque"]],
 f:["Marrakesh was founded in 1070.","The medina’s walls are about 19 kilometers long.","The Koutoubia minaret is about 77 meters tall."],
-fun:"The name Morocco comes from the name Marrakesh.",
-tl:"Ang Marrakesh ay makasaysayang lungsod sa Morocco na tinatawag na Pulang Lungsod dahil sa pulang pader nito. Tuwing gabi ay napupuno ng mga tagapagtanghal at kainan ang plaza nitong Jemaa el-Fnaa."});
+fun:"The name Morocco comes from the name Marrakesh."});
 
 ADDART({id:"victoriafalls",t:"Victoria Falls",c:"Geography",i:"💦",w:"Victoria Falls",r:["waterfalls","zimbabwecountry","rivers","rift","tourism"],
 p:[["The smoke that thunders","Victoria Falls is a huge waterfall on the Zambezi River in southern Africa."],["A curtain of water","It is the largest curtain of falling water in the world."],["Spray seen from afar","Its spray can be seen from many kilometers away."]],
@@ -180,8 +167,7 @@ s2:[["Livingstone’s visit","In November 1855, David Livingstone was taken by c
 sp:["The Devil’s Pool","During the dry season, when the river is low, visitors can swim with guides in a natural rock pool at the very lip of the falls on the Zambian side, called the Devil’s Pool, protected by a rock wall that stops them going over the edge."],
 g:[["Gorge","A narrow valley with steep rocky sides"],["Plateau","A large, flat area of high land"],["Spray","Tiny drops of water flying through the air"],["Moonbow","A rainbow made by moonlight"]],
 f:["Victoria Falls is about 1,708 meters wide.","Its spray can be seen from more than 30 kilometers away.","Moonbows can be seen there around the full moon."],
-fun:"Victoria Falls is neither the tallest nor the widest waterfall, but it forms the largest single sheet of falling water.",
-tl:"Ang Victoria Falls ay malaking talon sa Ilog Zambezi sa hangganan ng Zambia at Zimbabwe. Ito ang pinakamalaking kurtina ng bumabagsak na tubig sa mundo, at tinawag itong ‘usok na kumukulog’."});
+fun:"Victoria Falls is neither the tallest nor the widest waterfall, but it forms the largest single sheet of falling water."});
 
 ADDART({id:"serengeti",t:"The Serengeti",c:"Geography",i:"🦓",w:"Serengeti",r:["tanzaniacountry","kenyacountry","lion","grasslands","conservation"],
 p:[["Endless plains","The Serengeti is a vast savanna in Tanzania and Kenya."],["The great migration","Over a million wildebeest travel in a yearly circle following the rains."],["Big cats","It has one of the largest populations of lions in Africa."]],
@@ -193,8 +179,7 @@ s2:[["River crossings","The most dramatic moments of the migration happen when h
 sp:["Kopjes","Kopjes are granite outcrops that rise like islands from the grassy plains. They collect rainwater and support trees and plants, giving shelter to lions, leopards, rock hyraxes and snakes. Lions often rest on top to watch for prey."],
 g:[["Savanna","Tropical grassland with scattered trees"],["Migration","A regular seasonal journey by animals"],["Kopje","A rocky hill rising from a plain"],["Predator","An animal that hunts other animals"]],
 f:["Over a million wildebeest take part in the great migration.","About half a million wildebeest calves are born within a few weeks.","The Serengeti has around 3,000 lions."],
-fun:"Wildebeest calves can stand and run within minutes of being born.",
-tl:"Ang Serengeti ay malawak na savanna sa Tanzania at Kenya. Taun-taon, mahigit isang milyong wildebeest ang naglalakbay nang paikot sa paghahanap ng damo, at marami ritong leon."});
+fun:"Wildebeest calves can stand and run within minutes of being born."});
 
 ADDART({id:"niagara",t:"Niagara Falls",c:"Geography",i:"🌊",w:"Niagara Falls",r:["waterfalls","canadacountry","usacountry","toronto","elec"],
 p:[["Three waterfalls","Niagara Falls is a group of three waterfalls on the border of Canada and the United States."],["Huge power","More water flows over them than any other falls in North America."],["Electric pioneer","It was one of the first places to make hydroelectric power on a large scale."]],
@@ -206,8 +191,7 @@ s2:[["The first person over the falls","In 1901, on her 63rd birthday, schooltea
 sp:["Lit up at night","Every night, the falls are lit with colored lights, and in summer there are regular fireworks displays. In very cold winters, ice builds up around the falls, creating spectacular frozen scenery, though the water never stops flowing completely."],
 g:[["Escarpment","A long, steep slope or cliff"],["Hydroelectric power","Electricity made from flowing water"],["Gorge","A deep, narrow valley"],["Alternating current","Electric current that changes direction regularly"]],
 f:["Niagara Falls is made up of three waterfalls.","The falls formed about 12,000 years ago.","The American Falls were turned off in 1969 for study."],
-fun:"Niagara’s falls have moved about 11 kilometers upstream since they formed.",
-tl:"Ang Niagara Falls ay tatlong talon sa hangganan ng Canada at Estados Unidos. Mas maraming tubig ang dumadaloy dito kaysa alinmang talon sa Hilagang Amerika, at isa ito sa mga unang pinagkunan ng kuryente mula sa tubig."});
+fun:"Niagara’s falls have moved about 11 kilometers upstream since they formed."});
 
 ADDART({id:"yellowstone",t:"Yellowstone National Park",c:"Geography",i:"♨️",w:"Yellowstone National Park",r:["geysers","volc","usacountry","wolf","conservation"],
 p:[["The first national park","Yellowstone, created in 1872, is often called the world’s first national park."],["Geysers and hot springs","It has about half of all the world’s active geysers."],["A supervolcano","It sits on top of a huge volcanic hotspot."]],
@@ -219,8 +203,7 @@ s2:[["Bringing back the wolves","When gray wolves were reintroduced in 1995–19
 sp:["Old Faithful","Old Faithful earned its name in 1870 for its regular eruptions, which shoot boiling water up to about 55 meters into the air for a few minutes. Park rangers predict the next eruption based on the length of the previous one."],
 g:[["Geyser","A hot spring that erupts with water and steam"],["Hotspot","A place where heat from deep in the Earth rises to the surface"],["Caldera","A large crater formed when a volcano collapses"],["Hydrothermal","Relating to hot water heated underground"]],
 f:["Yellowstone has about half the world’s active geysers.","Wolves were reintroduced to the park in 1995.","A microbe from Yellowstone helped make the PCR test possible."],
-fun:"Yellowstone has more than 10,000 hydrothermal features.",
-tl:"Ang Yellowstone, itinatag noong 1872, ay itinuturing na unang pambansang liwasan sa mundo. Narito ang mga kalahati ng aktibong geyser sa mundo, at nakapatong ito sa isang malaking bulkan."});
+fun:"Yellowstone has more than 10,000 hydrothermal features."});
 
 ADDART({id:"eiffeltower",t:"The Eiffel Tower",c:"Countries and Places",i:"🗼",w:"Eiffel Tower",r:["francecountry","steel","architecture","tourism","frrev"],
 p:[["Symbol of Paris","The Eiffel Tower is an iron tower in Paris, built for the 1889 World’s Fair."],["Once the tallest","It was the tallest structure in the world for 41 years."],["Nearly torn down","It was meant to stand for only 20 years."]],
@@ -232,8 +215,7 @@ s2:[["Eiffel’s office","At the very top of the tower, Gustave Eiffel built a s
 sp:["The sparkle","Since 2000, the tower has sparkled for five minutes at the start of every hour after dark, lit by 20,000 flashing bulbs installed by a team of climbers. At the top, two powerful searchlights sweep across the Paris sky."],
 g:[["Lattice","A framework of crossed strips"],["Wrought iron","Iron that is tough and can be hammered into shape"],["Rivet","A metal pin used to join pieces of metal"],["World’s fair","A large international exhibition"]],
 f:["The Eiffel Tower was built for the 1889 World’s Fair.","It is held together by about 2.5 million rivets.","It is repainted about every seven years."],
-fun:"The Eiffel Tower can be about 15 centimeters taller in summer because iron expands in the heat.",
-tl:"Ang Eiffel Tower ay toreng bakal sa Paris na itinayo para sa World’s Fair noong 1889. Ito ang pinakamataas na istruktura sa mundo nang 41 taon at dapat sana ay nakatayo lamang nang 20 taon."});
+fun:"The Eiffel Tower can be about 15 centimeters taller in summer because iron expands in the heat."});
 
 ADDART({id:"statueofliberty",t:"The Statue of Liberty",c:"Countries and Places",i:"🗽",w:"Statue of Liberty",r:["usacountry","francecountry","migration","usrev","newyork"],
 p:[["A gift from France","The Statue of Liberty was given by the people of France to the United States."],["A symbol of freedom","Her torch and crown have welcomed ships to New York since 1886."],["Made of copper","Her green color comes from weathered copper."]],
@@ -245,8 +227,7 @@ s2:[["Turning green","When the statue was dedicated, it was the reddish-brown co
 sp:["The New Colossus","Emma Lazarus wrote her poem ‘The New Colossus’ in 1883 to help raise money for the pedestal. It imagined the statue as the ‘Mother of Exiles’ welcoming refugees. In 1903, the poem was engraved on a plaque placed inside the pedestal."],
 g:[["Pedestal","The base on which a statue stands"],["Patina","A green layer that forms on copper over time"],["Colossal","Extremely large"],["Immigrant","A person who moves to live in another country"]],
 f:["The Statue of Liberty was a gift from France.","It was shipped to New York in 350 pieces.","Its green color comes from weathered copper."],
-fun:"The statue’s skin is copper only about 2.4 millimeters thick, about the thickness of two coins.",
-tl:"Ang Statue of Liberty ay regalo ng mga mamamayan ng France sa Estados Unidos. Simbolo ito ng kalayaan na sumasalubong sa mga barko sa New York mula 1886, at berde ito dahil sa lumang tanso."});
+fun:"The statue’s skin is copper only about 2.4 millimeters thick, about the thickness of two coins."});
 
 ADDART({id:"alhambra",t:"The Alhambra",c:"Countries and Places",i:"🕌",w:"Alhambra",r:["spaincountry","islamicart","architecture","caliphate","castles"],
 p:[["A palace-fortress","The Alhambra is a palace and fortress complex in Granada, Spain."],["Islamic art","It is one of the finest examples of Islamic architecture in Europe."],["Courtyards and fountains","Its gardens, pools and carved walls are famous for their beauty."]],
@@ -258,5 +239,4 @@ s2:[["The Court of the Lions","The Court of the Lions, built in the late 14th ce
 sp:["The Generalife","Beside the Alhambra lies the Generalife, a summer palace with terraced gardens, fountains and long pools lined with flowers. Its Court of the Water Channel is one of the oldest surviving Moorish gardens."],
 g:[["Nasrid","The last Muslim dynasty to rule in Spain"],["Muqarnas","Honeycomb-like decoration on ceilings and arches"],["Calligraphy","Beautiful, decorative handwriting"],["Alcazaba","A Moorish fortress"]],
 f:["The Alhambra’s name means ‘the red one’ in Arabic.","The Court of the Lions has twelve marble lions.","Granada fell to Ferdinand and Isabella in 1492."],
-fun:"The tile patterns of the Alhambra inspired the artist M. C. Escher’s famous repeating designs.",
-tl:"Ang Alhambra ay palasyo at kuta sa Granada, Espanya, na isa sa pinakamagagandang halimbawa ng arkitekturang Islamiko sa Europa. Tanyag ito sa mga patyo, fountain at inukit na pader."});
+fun:"The tile patterns of the Alhambra inspired the artist M. C. Escher’s famous repeating designs."});

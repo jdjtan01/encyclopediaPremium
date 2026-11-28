@@ -12,8 +12,7 @@ s2:[["Persepolis","Darius began building Persepolis around 518 BCE as a ceremoni
 sp:["Neither snow nor rain","The Greek historian Herodotus wrote that nothing mortal travels faster than the Persian messengers, who were stopped by neither snow, nor rain, nor heat, nor gloom of night from completing their rounds. These words, carved on the James Farley Post Office in New York City, are often quoted as the creed of mail carriers in the United States, more than 2,400 years later."],
 g:[["Satrapy","A province of the Persian Empire"],["Achaemenid","The royal family that ruled the first Persian Empire"],["Cuneiform","Wedge-shaped writing pressed into clay"],["Zoroastrianism","An ancient Persian religion founded by Zarathustra"]],
 f:["The Persian Empire may have ruled about 40 percent of the world’s people.","Its Royal Road was about 2,700 kilometers long.","Cyrus the Great allowed exiles in Babylon to return home."],
-fun:"Words written about Persian royal messengers 2,400 years ago are carved on a post office in New York.",
-tl:"Ang Imperyong Persiano ay itinatag ni Ciro ang Dakila noong mga 550 BCE sa kasalukuyang Iran. Ito ang pinakamalaking imperyo noong panahon nito, kilala sa maayos na pamahalaan at mahabang Royal Road."});
+fun:"Words written about Persian royal messengers 2,400 years ago are carved on a post office in New York."});
 
 ADDART({id:"kush",t:"The Kingdom of Kush",c:"History",i:"🔻",w:"Kingdom of Kush",r:["egypt","nile","pyramids","aksum","egyptcountry"],
 p:[["Africa’s black pharaohs","Kings of Kush, from what is now Sudan, conquered and ruled Egypt as its 25th dynasty in the 700s BCE."],["More pyramids than Egypt","Kush built more than 200 pyramids, more than ancient Egypt."],["Iron and gold","Kush grew rich from gold, ivory and trade, and its city of Meroë was a great center of ironworking."]],
@@ -25,8 +24,7 @@ s2:[["Pyramids of Kush","Kushite kings and queens were buried under steep, narro
 sp:["The head of Augustus","The Meroë Head is a bronze head of the Roman emperor Augustus, larger than life, with eyes of glass and stone. It probably came from a statue in Egypt that Kushite forces seized during raids in about 24 BCE. Burying it under the steps of a victory temple meant that people walked over the emperor’s head every time they entered. It is now in the British Museum."],
 g:[["Nubia","The region along the Nile in southern Egypt and Sudan"],["Cataract","A stretch of shallow rapids in a river"],["Kandake","A title of queens of Kush"],["Slag","Waste left over after smelting metal"]],
 f:["Kush built more pyramids than ancient Egypt.","Kings of Kush ruled Egypt as its 25th dynasty.","The Meroitic language is still not fully understood."],
-fun:"Sudan has more pyramids than Egypt.",
-tl:"Ang Kaharian ng Kush ay sinaunang sibilisasyon sa Nubia, sa kasalukuyang Sudan. Namuno ang mga hari nito sa Ehipto, at nagtayo sila ng mahigit 200 piramide, higit pa kaysa sa Ehipto."});
+fun:"Sudan has more pyramids than Egypt."});
 
 ADDART({id:"aksum",t:"The Kingdom of Aksum",c:"History",i:"🗿",w:"Kingdom of Aksum",r:["ethiopiacountry","kush","islam","silk","rome"],
 p:[["A trading power","Aksum, in what is now northern Ethiopia and Eritrea, was a major trading empire from about the 1st to the 7th centuries CE."],["Giant obelisks","Its people raised tall carved stone stelae, among the largest single stones ever set up."],["An early Christian kingdom","Its king Ezana adopted Christianity in the 300s, making Aksum one of the first Christian states."]],
@@ -38,5 +36,4 @@ s2:[["The stelae","Aksum’s rulers raised great stone stelae over royal tombs, 
 sp:["The four great kingdoms","The Persian prophet Mani, writing in the 200s CE, described the four great kingdoms of the world: Rome, Persia, Aksum and China. This shows how important and well known Aksum was in its time, as a trading and military power linking Africa, the Mediterranean, Arabia and India. Its gold coins have been found as far away as India."],
 g:[["Stela","A tall carved stone pillar, often a monument (plural: stelae)"],["Ge’ez","The ancient language and script of Ethiopia"],["Hijra","Migration; in Islam, the journey of early Muslims to safety"],["Horn of Africa","The northeastern corner of Africa"]],
 f:["Aksum was one of the first states to adopt Christianity.","One of its stelae was taken to Rome in 1937 and returned in 2005.","Its Ge’ez script is still used in Ethiopian churches."],
-fun:"A 24-meter stone stela from Aksum stood in Rome for almost 70 years before returning home in 2005.",
-tl:"Ang Kaharian ng Aksum sa kasalukuyang Ethiopia at Eritrea ay makapangyarihang kahariang pangkalakalan mula ika-1 hanggang ika-7 siglo. Isa ito sa mga unang estadong Kristiyano at kilala sa matataas na batong stelae."});
+fun:"A 24-meter stone stela from Aksum stood in Rome for almost 70 years before returning home in 2005."});

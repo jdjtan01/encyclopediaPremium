@@ -9,8 +9,7 @@ s2:[["Van Gogh’s sunflowers","In 1888 and 1889, the Dutch painter Vincent van 
 sp:["The flower that follows the Sun","Scientists had long noticed that young sunflowers seem to watch the Sun, but they did not know how. In 2016 researchers at the University of California, Davis, studied sunflowers in fields and in growth chambers. They found that during the day, cells on the east side of the stem grow faster, bending the plant westward to follow the Sun. At night, the west side grows faster, swinging the head back to face east. The plants used an internal clock, much like the body clock in humans. The team also found that east-facing mature flowers warm up faster in the morning and receive several times more visits from bees than flowers turned west."],
 g:[["Composite flower","A head made of many small flowers"],["Heliotropism","Turning to follow the Sun"],["Phytoremediation","Using plants to clean polluted land"],["Disk flower","A tiny flower in the center of a sunflower"]],
 f:["A sunflower head contains many tiny flowers.","Young sunflowers follow the Sun.","Sunflower seeds form Fibonacci spirals."],
-fun:"The record sunflower grew taller than a three-story building.",
-tl:"Ang sunflower o mirasol ay matangkad na halamang may malaking dilaw na bulaklak. Sinusundan ng mga batang sunflower ang Araw. Ginagamit ang buto nito bilang pagkain at mantika."});
+fun:"The record sunflower grew taller than a three-story building."});
 
 ADDART({id:"palms",t:"Palm Trees",c:"Plants",i:"🌴",w:"Arecaceae",r:["coconut","trees","deforestation","phfood","weaving"],
 p:[["Not true trees","Palms are more closely related to grasses than to oaks."],["Useful plants","Palms give us coconuts, dates, palm oil and rattan."],["Philippine palms","Nipa, buri and anahaw are important palms in the Philippines."]],
@@ -22,8 +21,7 @@ s2:[["Nipa","Nipa palms grow in brackish water along rivers and mangroves. Their
 sp:["The palm that flowers once","For 30 to 80 years, a buri palm grows quietly in a Philippine field, its huge fan-shaped leaves spreading over the land. Farmers harvest its leaves for weaving and collect sap. Then, one year, the palm begins its grand finale. From the top of its trunk rises a massive, branching flower cluster several meters tall, one of the largest of any plant, carrying millions of tiny cream-colored flowers. Bees and other insects swarm around it. Over the following months, the flowers become countless round fruits. Having used all its stored energy, the palm then slowly dies, leaving behind seeds that may grow into a new generation."],
 g:[["Palm","A plant of the family Arecaceae"],["Frond","A large palm leaf"],["Monocot","A flowering plant group that includes grasses and palms"],["Rattan","A climbing palm used for furniture"]],
 f:["Palms are monocots, not true trees.","The buri palm flowers once and dies.","Rattan is a climbing palm."],
-fun:"A buri palm may wait decades to flower, then produce millions of flowers at once before dying.",
-tl:"Ang palma ay pamilya ng halaman na kinabibilangan ng niyog, nipa, buri at anahaw. Ginagamit ang mga ito sa pagkain, bubong, paghahabi at muwebles. Ang buri ang pinakamalaking palma sa Pilipinas."});
+fun:"A buri palm may wait decades to flower, then produce millions of flowers at once before dying."});
 
 ADDART({id:"conifers",t:"Conifers",c:"Plants",i:"🌲",w:"Conifer",r:["trees","giantrees","seeds","bohol","deforestation"],
 p:[["Cone bearers","Conifers carry their seeds in cones."],["Needles and scales","Most have needle-like or scale-like leaves."],["City of Pines","Baguio is famous for its Benguet pines."]],
@@ -35,8 +33,7 @@ s2:[["Benguet pine and Baguio","The Benguet pine grows in the mountains of north
 sp:["The dinosaur tree","In September 1994, David Noble, a field officer with the New South Wales parks service, was abseiling and exploring a narrow, deep canyon in Wollemi National Park when he noticed some trees with unusual bark that looked like bubbling chocolate. He took a branch to experts, who were astonished: the tree belonged to a family thought to have disappeared from the fossil record millions of years ago. Nicknamed the dinosaur tree, the Wollemi pine became a sensation. To protect the tiny wild population, its location was kept secret, and young trees grown from cuttings were sold worldwide to reduce the temptation to collect wild ones."],
 g:[["Conifer","A cone-bearing seed plant"],["Gymnosperm","A plant with seeds not enclosed in fruits"],["Resin","A sticky substance produced by conifers"],["Taiga","The northern conifer forest"]],
 f:["Conifers produce cones instead of flowers.","Baguio is called the City of Pines.","Amber is fossilized resin."],
-fun:"The Wollemi pine was known only from fossils until it was found alive in 1994.",
-tl:"Ang conifer ay mga halamang may cone tulad ng pino. Karaniwang hugis-karayom ang dahon nila at nananatili buong taon. Ang Benguet pine ang dahilan kung bakit tinaguriang City of Pines ang Baguio."});
+fun:"The Wollemi pine was known only from fossils until it was found alive in 1994."});
 
 ADDART({id:"vines",t:"Climbing Plants",c:"Plants",i:"🌿",w:"Vine",r:["trees","amazon","flower","invasiveplants","palms"],
 p:[["Reaching for light","Vines climb other plants and structures to reach sunlight."],["Clever climbers","They twine, use tendrils, hooks or sticky roots."],["A turquoise treasure","The turquoise jade vine is native to the Philippines."]],
@@ -48,8 +45,7 @@ s2:[["The jade vine","The jade vine, Strongylodon macrobotrys, grows in the rain
 sp:["The bat-pollinated jewel","Deep in a Philippine rainforest, a vine twists high into the trees. At certain times of the year, it produces long clusters of flowers that hang down like chandeliers, each flower shaped like a claw and colored an astonishing shade of turquoise. Few flowers in the world are this color. At night, a bat arrives, hangs upside down from the flower cluster and pushes its head into a flower to lap the sweet nectar. As it does so, the flower’s structure presses pollen onto the bat’s head. When the bat visits another jade vine, it delivers the pollen. This is the jade vine, one of the Philippines’ most beautiful native plants."],
 g:[["Vine","A plant that climbs or trails"],["Tendril","A thin, coiling plant part that grasps supports"],["Liana","A woody climbing plant of tropical forests"],["Trellis","A frame that supports climbing plants"]],
 f:["The jade vine is native to the Philippines.","Rattans are climbing palms.","Kudzu is invasive in the United States."],
-fun:"A climbing plant’s tendril can curl around a support within minutes of touching it.",
-tl:"Ang baging ay mga halamang umaakyat sa ibang halaman o bagay upang maabot ang liwanag. Umaakyat sila sa pamamagitan ng pagpulupot, galamay o kawit. Ang jade vine na may kulay-turkesang bulaklak ay katutubo sa Pilipinas."});
+fun:"A climbing plant’s tendril can curl around a support within minutes of touching it."});
 
 ADDART({id:"poisonousplants",t:"Poisonous Plants",c:"Plants",i:"☠️",w:"List of poisonous plants",r:["firstaid","medicinalplants","allergy","flower","agri"],
 p:[["Chemical defenses","Many plants make poisons to protect themselves."],["Common dangers","Some poisonous plants grow in homes and gardens."],["Healing in small doses","Some plant poisons are also used as medicines."]],
@@ -61,5 +57,4 @@ s2:[["Tubang-bakod","The physic nut, known in the Philippines as tubang-bakod, i
 sp:["The doctor and the foxglove","In the 1770s, the English doctor William Withering heard of an old folk remedy used by a woman in Shropshire to treat dropsy, a swelling caused by heart failure. The recipe contained about 20 herbs. Withering realized that the active ingredient was likely foxglove, a common but poisonous garden plant. Over nearly ten years, he carefully tested different doses on patients, noting how much helped and how much caused harmful side effects. In 1785 he published his results, one of the earliest careful studies of a medicine’s dose. Medicines derived from foxglove are still used for some heart conditions today."],
 g:[["Toxin","A poisonous substance produced by a living thing"],["Alkaloid","A type of plant chemical that often affects the body"],["Urushiol","An oily substance that causes rashes"],["Dose","The amount of a substance taken"]],
 f:["Oleander is poisonous in all its parts.","Raw cassava must be cooked to be safe.","Foxglove gave us a heart medicine."],
-fun:"Castor oil is safe to use even though castor beans contain one of the most toxic natural substances.",
-tl:"May mga halamang may lason na nakasasama kapag kinain o nahawakan. Karaniwang sanhi ng pagkalason ng mga bata sa Pilipinas ang buto ng tubang-bakod. Ang ilang lason ng halaman ay ginagamit ding gamot sa maliit na dosis."});
+fun:"Castor oil is safe to use even though castor beans contain one of the most toxic natural substances."});

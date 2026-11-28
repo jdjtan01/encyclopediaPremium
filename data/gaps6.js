@@ -9,8 +9,7 @@ s2:[["Limiting kings","Over centuries, people found ways to limit the power of r
 sp:["Government of the people","In 1863, at Gettysburg during the American Civil War, President Abraham Lincoln described democracy as government of the people, by the people, for the people. The phrase is among the most famous definitions of democracy. Winston Churchill later joked that democracy is the worst form of government except all the others that have been tried."],
 g:[["Democracy","Government by the people through free elections"],["Monarchy","Rule by a king or queen"],["Suffrage","The right to vote"],["Rule of law","The principle that everyone must obey the law"]],
 f:["Democracy comes from Greek words meaning rule by the people.","New Zealand was the first country to give women the national vote, in 1893.","Switzerland gave women the national vote only in 1971."],
-fun:"In 1937, more than 447,000 Filipino women voted in a plebiscite to win the right to vote.",
-tl:"Ang demokrasya ay pamahalaan ng mamamayan, na pumipili ng kanilang mga pinuno sa malaya at patas na halalan. Kailangan din nito ang paggalang sa karapatang pantao, malayang pamamahayag at aktibong pakikilahok ng mamamayan."});
+fun:"In 1937, more than 447,000 Filipino women voted in a plebiscite to win the right to vote."});
 
 ADDART({id:"hrights",t:"Human Rights",c:"Economics and Society",i:"🤝",w:"Human rights",r:["un","democ","law"],
 p:[["Rights for everyone","Human rights are the basic rights and freedoms that belong to every person in the world."],["A universal declaration","The Universal Declaration of Human Rights was adopted by the United Nations in 1948."],["Protecting dignity","Human rights protect people from abuse and guarantee freedoms such as speech, religion and education."]],
@@ -22,8 +21,7 @@ s2:[["Eleanor Roosevelt","Eleanor Roosevelt, former First Lady of the United Sta
 sp:["Article 1","The first article of the Universal Declaration of Human Rights reads: All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood. These words express the idea that every person deserves respect and fair treatment."],
 g:[["Human rights","Rights and freedoms belonging to every person"],["Covenant","A formal binding agreement between countries"],["Ratify","To formally approve a treaty and agree to follow it"],["Discrimination","Unfair treatment because of who someone is"]],
 f:["The Universal Declaration of Human Rights has been translated into more than 500 languages.","The Convention on the Rights of the Child is the most widely ratified human rights treaty.","Human Rights Day is 10 December."],
-fun:"The Universal Declaration of Human Rights is the world’s most translated document.",
-tl:"Ang karapatang pantao ay mga batayang karapatan at kalayaan ng bawat tao, gaya ng karapatan sa buhay, malayang pananalita at edukasyon. Pinagtibay ng United Nations ang Pandaigdigang Pahayag ng mga Karapatang Pantao noong 1948."});
+fun:"The Universal Declaration of Human Rights is the world’s most translated document."});
 
 ADDART({id:"law",t:"Law and Courts",c:"Economics and Society",i:"⚖️",w:"Law",r:["democ","hrights","phgov"],
 p:[["Rules for society","Laws are rules made by a government that everyone in a country must follow."],["Courts and justice","Courts decide disputes and whether people accused of crimes are guilty."],["The rule of law","No one, not even leaders, is above the law."]],
@@ -35,8 +33,7 @@ s2:[["Hammurabi’s code","Around 1754 BCE, King Hammurabi of Babylon had 282 la
 sp:["Becoming a lawyer","How people become lawyers differs from country to country. In the United States, students take a university degree, then three years of law school, and then a state bar examination. In Britain and much of Europe, law can be studied as a first degree, followed by professional training. Japan and South Korea have notoriously hard bar exams. Lawyers can become judges, prosecutors, public defenders or advocates."],
 g:[["Legislature","The body that makes laws, such as Congress"],["Precedent","An earlier court decision used as a guide"],["Appeal","A request for a higher court to review a decision"],["Presumption of innocence","The rule that an accused person is innocent until proven guilty"]],
 f:["Hammurabi’s 282 laws were carved on a stone pillar.","The Napoleonic Code of 1804 shaped the laws of many countries.","The International Criminal Court was set up in 2002."],
-fun:"Hammurabi’s 282 laws, carved in stone around 1754 BCE, can still be seen in the Louvre in Paris.",
-tl:"Ang batas ay mga patakarang ginagawa ng pamahalaan na dapat sundin ng lahat, at ang mga hukuman ang nagpapasya sa mga kaso. Pinaghalong tradisyong Espanyol, Amerikano at Islamiko ang sistemang legal ng Pilipinas."});
+fun:"Hammurabi’s 282 laws, carved in stone around 1754 BCE, can still be seen in the Louvre in Paris."});
 
 ADDART({id:"chess",t:"Chess",c:"Sports",i:"♟️",w:"Chess",r:["olymp","prob","ai"],
 p:[["A game of strategy","Chess is a board game for two players, each commanding an army of 16 pieces."],["Ancient origins","It began in India around 1,500 years ago and spread through Persia and the Arab world to Europe."],["A game for everyone","Chess is played in almost every country, in schools, clubs, parks and online. Grandmasters have come from every continent, and talented young players can now reach a high level at an early age."]],
@@ -48,8 +45,7 @@ s2:[["World champions","The first official world champion was Wilhelm Steinitz i
 sp:["The battle of Baguio","The 1978 World Championship in Baguio was one of the strangest in chess history. Korchnoi’s team complained that a parapsychologist in Karpov’s camp was trying to hypnotize him, and Korchnoi wore mirrored glasses in response. Players argued about chairs, flags and even the flavor of yogurt. After 32 games, Karpov kept his title."],
 g:[["Checkmate","When the king is attacked and cannot escape, ending the game"],["Grandmaster","The highest title awarded to chess players"],["Stalemate","A draw when a player has no legal move but is not in check"],["Promotion","Turning a pawn into another piece when it reaches the far side"]],
 f:["The word checkmate comes from Persian words meaning the king is helpless.","Eugene Torre was Asia’s first grandmaster.","The 1978 World Chess Championship was played in Baguio."],
-fun:"The 1978 World Chess Championship in Baguio included a dispute over the flavor of a yogurt.",
-tl:"Ang chess ay larong pang-estratehiya ng dalawang manlalaro sa tabla na may 64 na parisukat. Nagmula ito sa India, at ang layunin ay i-checkmate ang hari ng kalaban."});
+fun:"The 1978 World Chess Championship in Baguio included a dispute over the flavor of a yogurt."});
 
 ADDART({id:"volley",t:"Volleyball",c:"Sports",i:"🏐",w:"Volleyball",r:["bball","olymp","phsport"],
 p:[["Over the net","Volleyball is a team sport in which two teams of six hit a ball over a high net."],["Invented in 1895","It was created by William G. Morgan in the United States as a gentler alternative to basketball."],["Around the world","Volleyball is especially popular in Brazil, Italy, Poland, Japan, Türkiye, Serbia and the Philippines."]],
@@ -61,5 +57,4 @@ s2:[["Inventing the spike","Volleyball reached Asia through the YMCA in the earl
 sp:["The Witches of the Orient","Japan’s women’s team of the early 1960s, made up mostly of factory workers from a textile company in Osaka, trained for hours every day under their demanding coach, Hirobumi Daimatsu. Nicknamed the Witches of the Orient, they won 258 matches in a row and took gold at the 1964 Tokyo Olympics, beating the Soviet Union in a final watched by most of Japan."],
 g:[["Spike","A powerful downward attacking hit"],["Set","A pass that places the ball for a teammate to attack"],["Libero","A defensive specialist wearing a different color"],["Rally","An exchange of hits before a point is won"]],
 f:["Volleyball was first called mintonette.","Players in the Philippines are credited with developing the spike.","Japan’s women won volleyball gold at the 1964 Tokyo Olympics."],
-fun:"Volleyball was originally called mintonette when it was invented in 1895.",
-tl:"Ang volleyball ay larong pangkoponan na may anim na manlalaro bawat panig na nagpapalipad ng bola sa ibabaw ng net. Naimbento ito noong 1895, at kinikilala ang mga Pilipino sa pagbuo ng spike; napakasikat nito sa Pilipinas."});
+fun:"Volleyball was originally called mintonette when it was invented in 1895."});

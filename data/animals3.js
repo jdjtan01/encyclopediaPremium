@@ -9,8 +9,7 @@ s2:[["Faces like dishes","Many owls have a round facial disc of stiff feathers a
 sp:["Feathers that teach engineers","Engineers study owl feathers to make machines quieter. Fringed edges inspired by owl wings have been tested on wind turbine blades, computer fans and aircraft parts to reduce noise. Copying designs from nature in this way is called biomimicry."],
 g:[["Facial disc","A round ring of feathers that gathers sound"],["Pellet","A bundle of bones and fur an owl coughs up"],["Camouflage","Colors that help an animal blend in"],["Biomimicry","Copying designs from nature"]],
 f:["An owl can turn its head up to about 270 degrees.","Owls cannot move their eyes in their sockets.","Barn owls can catch mice in total darkness."],
-fun:"An owl’s neck has 14 bones, twice as many as a human neck.",
-tl:"Ang kuwago ay ibong mandaragit na nangangaso sa gabi gamit ang malalaking mata at matalas na pandinig. Halos walang tunog ang paglipad nito, at kaya nitong ipihit ang ulo nang hanggang 270 digri."});
+fun:"An owl’s neck has 14 bones, twice as many as a human neck."});
 
 ADDART({id:"parrot",t:"Parrots",i:"🦜",w:"Parrot",r:["birds","palawan","phbio"],cons:["CR","Philippine cockatoo"],
 p:[["Clever and colorful","Parrots are bright, noisy and among the most intelligent of all birds."],["Strong beaks, clever feet","They have curved beaks for cracking nuts and feet with two toes pointing forward and two back."],["Talking birds","Many parrots can copy human words and other sounds."]],
@@ -22,8 +21,7 @@ s2:[["Kinds of parrot","Parrots include the big, long-tailed macaws of South Ame
 sp:["Spix’s macaw","Spix’s macaw, a blue parrot from northeastern Brazil, became extinct in the wild in 2000 because of trapping and habitat loss. Birds kept in captivity were bred in programs in Germany, Belgium and Brazil, and in 2022 the first group was released back into its native dry forest. Its story shows both how quickly a species can vanish and how it can be brought back."],
 g:[["Syrinx","The voice organ of a bird"],["Mimic","An animal that copies sounds or looks"],["Flock","A group of birds that live and travel together"],["Pet trade","Buying and selling animals as pets"]],
 f:["A parrot has two toes facing forward and two facing back.","The kākāpō is the world’s heaviest parrot and cannot fly.","Some large parrots live for more than 80 years."],
-fun:"Hanging parrots of the Philippines sleep upside down, like bats.",
-tl:"Ang loro ay makulay at matalinong ibon na kayang gayahin ang mga salita at tunog. Ang Philippine cockatoo o katala ay lubhang nanganganib at matatagpuan pangunahin sa Palawan."});
+fun:"Hanging parrots of the Philippines sleep upside down, like bats."});
 
 ADDART({id:"wshark",t:"The Whale Shark",i:"🦈",w:"Whale shark",r:["shark","whale","reef"],cons:["EN","Whale shark"],
 p:[["The biggest fish","The whale shark is the largest fish in the world, growing longer than a bus."],["A gentle giant","Despite its size, it eats tiny plankton and small fish and is harmless to people."],["Where to see them","Divers can swim with whale sharks at gathering sites in Australia, Mexico, the Maldives, the Philippines and elsewhere."]],
@@ -35,8 +33,7 @@ s2:[["Where they live","Whale sharks live in warm tropical seas around the world
 sp:["Swimming with a giant","Seeing a whale shark up close is unforgettable: a spotted shape the size of a bus gliding past, its huge mouth open wide. Good guides keep groups small and make sure swimmers stay at least 3 to 4 meters away and never touch the shark, which can harm its skin and stress the animal."],
 g:[["Plankton","Tiny living things that drift in water"],["Filter feeder","An animal that strains food from water"],["Cartilage","Strong, bendy tissue that forms a shark’s skeleton"],["Gills","Organs fish use to take oxygen from water"]],
 f:["The whale shark is the largest fish in the world.","Every whale shark has a unique pattern of spots.","A whale shark has about 3,000 tiny teeth it does not use to eat."],
-fun:"Scientists identify whale sharks using software first made to map star patterns.",
-tl:"Ang butanding o whale shark ang pinakamalaking isda sa mundo, ngunit maliliit na plankton lamang ang kinakain nito. Makikita ito sa Donsol, Sorsogon, at protektado ito ng batas sa Pilipinas mula 1998."});
+fun:"Scientists identify whale sharks using software first made to map star patterns."});
 
 ADDART({id:"jelly",t:"Jellyfish",i:"🪼",w:"Jellyfish",r:["octopus","reef","pacific"],
 p:[["Not really fish","Jellyfish are not fish at all. They have no brain, heart, blood or bones."],["Mostly water","A jellyfish’s body is about 95 percent water."],["Stingers","Their tentacles carry tiny stinging cells that trap prey and defend against enemies."]],
@@ -48,5 +45,4 @@ s2:[["Box jellyfish","Box jellyfish have cube-shaped bells and some of the most 
 sp:["A glowing Nobel Prize","In 1962 Japanese scientist Osamu Shimomura studied a glowing jellyfish from the coast of Washington State and found a protein that shines green under blue light. Later scientists learned to attach it to other genes as a marker. In 2008 Shimomura, Martin Chalfie and Roger Tsien shared the Nobel Prize in Chemistry for this work."],
 g:[["Medusa","The bell-shaped, swimming stage of a jellyfish"],["Nematocyst","A stinging cell"],["Polyp","The small, fixed stage of a jellyfish"],["Bioluminescence","Light made by a living thing"]],
 f:["Jellyfish have lived in the oceans for more than 500 million years.","A jellyfish has no brain, heart or bones.","One tiny jellyfish can turn back into a young polyp."],
-fun:"Jellyfish were drifting in the oceans long before the first dinosaurs.",
-tl:"Ang dikya ay malambot na hayop-dagat na walang utak, puso o buto, at halos tubig ang katawan. May mga selulang nakatutusok ang galamay nito, at mapanganib ang ilang uri gaya ng box jellyfish."});
+fun:"Jellyfish were drifting in the oceans long before the first dinosaurs."});

@@ -9,8 +9,7 @@ s2:[["Lasting privileges","The treaties forced on China gave foreigners extrater
 sp:["Lin Zexu’s letter","In 1839 Lin Zexu wrote a letter to Queen Victoria. He pointed out that opium was forbidden in Britain and asked why British merchants should sell it in China. Let us suppose that foreigners came from another country and brought opium into England, he wrote; would you not be greatly angered? It is not known whether the queen ever read the letter, but it became a famous statement of China’s case."],
 g:[["Opium","An addictive drug made from poppies"],["Indemnity","A payment demanded as compensation"],["Treaty port","A port opened to foreign trade by treaty"],["Extraterritoriality","Exemption from local laws for foreigners"]],
 f:["The First Opium War ended with the Treaty of Nanjing in 1842.","Hong Kong was returned to China in 1997.","Lin Zexu destroyed over 1,000 metric tons of opium."],
-fun:"Lin Zexu wrote a letter to Queen Victoria asking Britain to stop selling opium to China.",
-tl:"Ang Opium Wars ay dalawang digmaan noong 1800s sa pagitan ng Tsina at Britanya, at kalaunan ng Pransiya. Ibinenta ng Britanya ang opyo sa Tsina. Natalo ang Tsina at napilitang ibigay ang Hong Kong at buksan ang mga daungan."});
+fun:"Lin Zexu wrote a letter to Queen Victoria asking Britain to stop selling opium to China."});
 
 ADDART({id:"africacolon",t:"The Colonization of Africa",c:"History",i:"🌍",w:"Scramble for Africa",r:["decol","slavetrade","ethiopiacountry","drccountry","nkrumah"],
 p:[["The Scramble for Africa","Between about 1880 and 1914, European powers divided almost all of Africa among themselves."],["Borders drawn in Europe","At the Berlin Conference of 1884–1885, European leaders set rules for claiming African land."],["Resistance","Africans resisted colonial rule in many ways, and Ethiopia defeated an Italian invasion."]],
@@ -22,8 +21,7 @@ s2:[["The Congo Free State","From 1885 to 1908, King Leopold II ruled the Congo 
 sp:["Africa divided on a map","At the Berlin Conference, European diplomats discussed Africa over maps, often of places they had never visited. Many borders were drawn as straight lines along lines of latitude and longitude or rivers, splitting peoples such as the Maasai between Kenya and Tanzania and the Ewe between Ghana and Togo. When African countries became independent, the Organisation of African Unity decided in 1964 to keep colonial borders to avoid endless disputes."],
 g:[["Colony","A territory ruled by another country"],["Cash crop","A crop grown to sell rather than to eat"],["Genocide","The deliberate destruction of a people"],["Effective occupation","Actual control of a territory, required for claims at Berlin"]],
 f:["By 1914 only Ethiopia and Liberia were independent in Africa.","Ethiopia defeated Italy at Adwa in 1896.","In 1960 alone, 17 African countries gained independence."],
-fun:"Ethiopia’s colors inspired the flags of many African countries.",
-tl:"Ang kolonisasyon ng Aprika ay ang pananakop ng mga bansang Europeo sa halos buong Aprika mula 1880 hanggang 1914. Tanging Ethiopia at Liberia ang nanatiling malaya. Naging malaya ang karamihan ng bansang Aprikano noong 1950s at 1960s."});
+fun:"Ethiopia’s colors inspired the flags of many African countries."});
 
 ADDART({id:"uscivilwar",t:"The American Civil War",c:"History",i:"🎖️",w:"American Civil War",r:["lincoln","tubman","slavetrade","usacountry","mlk"],
 p:[["A nation divided","The American Civil War was fought from 1861 to 1865 between the United States and 11 Southern states that had broken away."],["Slavery at its heart","The main cause was the conflict over slavery and its spread into new territories."],["Freedom for millions","The Union won, the country stayed united and slavery was abolished."]],
@@ -35,8 +33,7 @@ s2:[["The Gettysburg Address","On 19 November 1863, at the dedication of a cemet
 sp:["Harriet Tubman’s raid","Harriet Tubman, who had escaped slavery and guided many others to freedom on the Underground Railroad, served the Union army as a scout, spy and nurse. In June 1863 she helped lead the Combahee River Raid in South Carolina, guiding Union gunboats past hidden mines. The raid freed more than 700 enslaved people, making her one of the first women to help lead an armed military operation in American history."],
 g:[["Secede","To formally leave a country or union"],["Union","The northern states loyal to the United States government"],["Confederacy","The southern states that seceded in 1860–1861"],["Emancipation","Being set free, especially from slavery"]],
 f:["The Civil War lasted from 1861 to 1865.","The Emancipation Proclamation took effect on 1 January 1863.","The 13th Amendment abolished slavery in 1865."],
-fun:"Lincoln’s Gettysburg Address was only about 270 words long.",
-tl:"Ang Digmaang Sibil ng Amerika ay mula 1861 hanggang 1865 sa pagitan ng Union at ng mga estadong humiwalay sa Timog. Pangunahing sanhi nito ang pang-aalipin. Nanalo ang Union at inalis ang pang-aalipin sa Estados Unidos."});
+fun:"Lincoln’s Gettysburg Address was only about 270 words long."});
 
 ADDART({id:"modernchina",t:"China since 1949",c:"History",i:"🏮",w:"History of the People's Republic of China",r:["chinacountry","china","coldwar","koreanwar","trade"],
 p:[["A new republic","The People’s Republic of China was founded in 1949 by the Communist Party under Mao Zedong."],["Upheavals","The Great Leap Forward and the Cultural Revolution brought famine and turmoil."],["Economic rise","Reforms from 1978 turned China into the world’s second-largest economy."]],
@@ -48,8 +45,7 @@ s2:[["Tiananmen Square, 1989","In the spring of 1989, students and workers gathe
 sp:["Shenzhen","In 1980 Shenzhen, a small border town near Hong Kong, became one of China’s first Special Economic Zones, where foreign companies could invest and market rules applied. It grew at astonishing speed into a city of more than 17 million people, famous for electronics, technology companies and skyscrapers. Its transformation is often seen as a symbol of China’s economic rise."],
 g:[["People’s Republic","The official name of China since 1949"],["Collectivization","Merging private farms into large collective farms"],["Special Economic Zone","An area with special rules to attract investment"],["Communist Party","The ruling party of China"]],
 f:["The People’s Republic of China was founded in 1949.","Deng Xiaoping began reforms in 1978.","India overtook China in population in 2023."],
-fun:"Shenzhen grew from a small town into a city of over 17 million people in about 40 years.",
-tl:"Itinatag ang People's Republic of China noong 1 Oktubre 1949 ni Mao Zedong. Dumanas ito ng taggutom at kaguluhan, ngunit mula 1978, dahil sa mga reporma ni Deng Xiaoping, naging pangalawang pinakamalaking ekonomiya ito sa mundo."});
+fun:"Shenzhen grew from a small town into a city of over 17 million people in about 40 years."});
 
 ADDART({id:"middleeast",t:"The Modern Middle East",c:"History",i:"🕊️",w:"Modern history of the Middle East",r:["ottoman","islam","judaism","un","ofw"],
 p:[["Crossroads of three continents","The Middle East links Asia, Africa and Europe and is the birthplace of Judaism, Christianity and Islam."],["New states","After the Ottoman Empire collapsed in 1918, new countries were formed, many under European control at first."],["Oil and conflict","The region has vast oil reserves and has experienced repeated wars and peace efforts."]],
@@ -61,8 +57,7 @@ s2:[["The Iranian Revolution","In 1979 mass protests overthrew Iran’s monarch,
 sp:["Three faiths, one city","Jerusalem is holy to Jews, Christians and Muslims. Its Old City contains the Western Wall, the holiest place where Jews may pray; the Church of the Holy Sepulchre, where Christians believe Jesus was crucified and buried; and the Al-Aqsa Mosque and Dome of the Rock, among Islam’s holiest sites. Both Israelis and Palestinians claim Jerusalem as their capital, and its status is one of the most sensitive issues in the conflict."],
 g:[["Mandate","A territory governed by another country on behalf of the League of Nations"],["Zionism","A movement for a Jewish homeland in the Land of Israel"],["Nakba","The displacement of Palestinians in 1948"],["Ceasefire","An agreement to stop fighting"]],
 f:["The Middle East is the birthplace of Judaism, Christianity and Islam.","Israel was founded in 1948.","Millions of Filipinos have worked in the Middle East."],
-fun:"Jerusalem’s Old City is less than one square kilometer in area but holy to three faiths.",
-tl:"Ang Gitnang Silangan ay rehiyon na nag-uugnay sa Asya, Aprika at Europa at pinagmulan ng Hudaismo, Kristiyanismo at Islam. Mayaman ito sa langis at nakaranas ng maraming digmaan at pagsisikap para sa kapayapaan. Milyon-milyong Pilipino ang nagtrabaho rito."});
+fun:"Jerusalem’s Old City is less than one square kilometer in area but holy to three faiths."});
 
 ADDART({id:"terrorism",t:"Terrorism and the World after 2001",c:"History",i:"🏙️",w:"Terrorism",r:["middleeast","un","hrights","coldwar","cybersecurity"],
 p:[["Violence for political goals","Terrorism is the use of violence against civilians to spread fear and pursue political, religious or ideological aims."],["11 September 2001","The attacks on the United States in 2001 changed world politics and security."],["Many forms","Terrorism has come from many different groups and ideologies around the world."]],
@@ -74,5 +69,4 @@ s2:[["Terrorism in the Philippines","The Philippines has suffered terrorist viol
 sp:["Flight 93","On 11 September 2001, United Airlines Flight 93 was hijacked after leaving Newark, New Jersey. Through phone calls, passengers and crew learned of the attacks in New York and Washington. They decided to fight back and stormed the cockpit. The plane crashed into a field near Shanksville, Pennsylvania, killing all aboard, but its hijackers failed to reach their target, believed to be the US Capitol or the White House. A national memorial now stands at the site."],
 g:[["Terrorism","Violence against civilians to spread fear for political aims"],["Extremism","Holding extreme views, sometimes supporting violence"],["Counterterrorism","Actions taken to prevent terrorism"],["Radicalization","The process by which people adopt extremist views"]],
 f:["The 11 September 2001 attacks killed nearly 3,000 people.","The Marawi siege lasted five months in 2017.","There is no single agreed international definition of terrorism."],
-fun:"The 9/11 Memorial in New York has two waterfalls in the footprints of the twin towers.",
-tl:"Ang terorismo ay paggamit ng karahasan laban sa mga sibilyan para maghasik ng takot at makamit ang layuning pampolitika o panrelihiyon. Binago ng pag-atake noong 11 Setyembre 2001 ang pandaigdigang politika. Nakaranas din ang Pilipinas ng terorismo, gaya ng pagkubkob sa Marawi noong 2017."});
+fun:"The 9/11 Memorial in New York has two waterfalls in the footprints of the twin towers."});

@@ -26,4 +26,5 @@ Live site: https://jdjtan01.github.io/encyclopediaPremium/
    - Extras files (REFS, LINKS, TODAY) go after `data/links2.js`.
 3. Run `python3 tools/build.py`.
 4. Test with Playwright against `python3 -m http.server 8765`. Check for page errors, overflow at phone width, pictures and backlinks.
-5. Commit, then package the changed files as an update zip for upload. Include a full data/b zip, because the owner replaces the whole data/b folder.
+5. Commit and push to GitHub. If push access is not available, package the changed files as an update zip instead, plus a full data/b zip, because the owner replaces the whole data/b folder.
+- Keep the repository root clean: data files belong in `data/`, never loose at the top level.

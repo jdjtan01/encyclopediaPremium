@@ -9,8 +9,7 @@ s2:[["The Great Smog of London","In December 1952, cold, still weather trapped s
 sp:["The first Earth Day","On 22 April 1970, about 20 million Americans took part in the first Earth Day, with rallies, teach-ins and cleanups to demand action on pollution. Its success helped lead to new environmental laws and agencies. Earth Day became international in 1990 and is now celebrated each year on 22 April by hundreds of millions of people in nearly every country, including the Philippines."],
 g:[["Pollutant","A substance that harms the environment"],["Smog","A mixture of smoke and fog or air pollution"],["Runoff","Water that flows over land into rivers, often carrying pollutants"],["Sewage","Waste water from homes and buildings"]],
 f:["Air pollution is one of the world’s biggest health risks.","Leaded gasoline was phased out worldwide in 2021.","Earth Day is celebrated on 22 April."],
-fun:"Light pollution hides the Milky Way from most people living in big cities.",
-tl:"Ang polusyon ay paglalabas ng mapanganib na bagay sa hangin, tubig o lupa. May polusyon sa hangin, tubig, lupa, ingay at liwanag. Nabawasan ang maraming uri nito dahil sa mga batas at mas malinis na teknolohiya."});
+fun:"Light pollution hides the Milky Way from most people living in big cities."});
 
 ADDART({id:"deforestation",t:"Deforestation",c:"Geography",i:"🪵",w:"Deforestation",r:["trees","amazon","climchange","extinction","maathai"],
 p:[["Losing forests","Deforestation is the permanent clearing of forests for other uses, such as farming."],["Millions of hectares","The world loses millions of hectares of forest each year, mostly in the tropics."],["Why it matters","Forests shelter wildlife, store carbon, protect soil and water and support people."]],
@@ -22,8 +21,7 @@ s2:[["The Amazon","The Amazon rainforest, the world’s largest, has lost a sign
 sp:["Watching forests from space","Since 2000, scientists have used satellite images to map forest loss across the entire planet. Global Forest Watch, launched in 2014, lets anyone see where trees have been cleared, often within days, and sends alerts to governments, rangers and communities. Indigenous patrols in the Amazon and Southeast Asia use these alerts on their phones to find and stop illegal logging."],
 g:[["Deforestation","Permanent clearing of forests"],["Reforestation","Replanting trees where forests were lost"],["Habitat","The natural home of a plant or animal"],["Tipping point","A point beyond which a system changes dramatically"]],
 f:["Forests cover about 31 percent of Earth’s land.","Agriculture is the main driver of deforestation.","Wangari Maathai’s movement planted over 51 million trees."],
-fun:"Satellites can detect forest clearing within days, anywhere in the world.",
-tl:"Ang deforestation ay ang pagputol ng mga gubat para gamitin ang lupa sa ibang bagay, gaya ng pagsasaka. Milyon-milyong ektarya ng gubat ang nawawala bawat taon. Mahalaga ang gubat sa mga hayop, sa klima at sa tao."});
+fun:"Satellites can detect forest clearing within days, anywhere in the world."});
 
 ADDART({id:"plasticwaste",t:"Plastic Waste",c:"Geography",i:"🥤",w:"Plastic pollution",r:["plastics","pollution","pacific","seaturtle","trench"],
 p:[["A modern problem","Hundreds of millions of metric tons of plastic are made every year, and much becomes waste."],["Lasting for centuries","Plastic does not rot; it breaks into tiny pieces called microplastics."],["In the ocean","Plastic waste reaches rivers and seas, harming marine life."]],
@@ -35,8 +33,7 @@ s2:[["The Great Pacific Garbage Patch","In 1997 the sailor Charles Moore noticed
 sp:["Plastic at the bottom of the sea","In 2019 the explorer Victor Vescovo dived nearly 11 kilometers to the bottom of the Mariana Trench, the deepest point in the ocean, and reported seeing what appeared to be a plastic bag. Scientists have also found microplastics in the stomachs of tiny animals living in the deepest trenches. These discoveries show that plastic pollution has reached even the most remote places on Earth."],
 g:[["Microplastic","A plastic particle smaller than 5 mm"],["Single-use plastic","Plastic designed to be used once and thrown away"],["Biodegrade","To break down naturally by living organisms"],["Sachet","A small sealed plastic packet"]],
 f:["Less than 10 percent of plastic has ever been recycled.","Microplastics have been found in human blood.","The Philippines passed an Extended Producer Responsibility Act in 2022."],
-fun:"Plastic has been found at the bottom of the Mariana Trench, the deepest place in the ocean.",
-tl:"Ang basurang plastik ay malaking problema ngayon. Daan-daang milyong tonelada ng plastik ang ginagawa bawat taon, at kaunti lamang ang nare-recycle. Hindi ito nabubulok kundi nagiging microplastic na matatagpuan na kahit saan."});
+fun:"Plastic has been found at the bottom of the Mariana Trench, the deepest place in the ocean."});
 
 ADDART({id:"conservation",t:"Conservation",c:"Animals and Nature",i:"🌱",w:"Conservation biology",r:["extinction","eco","phbio","tubbataha","eagle"],
 p:[["Protecting nature","Conservation is the protection of wildlife, habitats and natural resources for the future."],["Parks and reserves","Protected areas on land and sea help species survive."],["Everyone can help","Governments, scientists, communities and individuals all play a part."]],
@@ -48,5 +45,4 @@ s2:[["Apo Island","In 1982, with help from marine biologist Angel Alcala of Sill
 sp:["The return of the Arabian oryx","The Arabian oryx, a white antelope with long straight horns, was hunted to extinction in the wild by 1972. A few survived in zoos, and a breeding program called Operation Oryx raised a herd. From 1982, oryx were released back into the deserts of Oman and later other countries. In 2011 it became the first animal to move from extinct in the wild back to vulnerable on the IUCN Red List."],
 g:[["Conservation","Protection and wise use of nature"],["Protected area","Land or sea set aside to protect nature"],["Marine sanctuary","A sea area where fishing is restricted"],["Reintroduction","Returning a species to the wild"]],
 f:["Yellowstone was the first national park.","Apo Island’s sanctuary became a model for the world.","Countries aim to protect 30% of land and sea by 2030."],
-fun:"The Arabian oryx went from extinct in the wild back to vulnerable thanks to conservation.",
-tl:"Ang konserbasyon ay pagprotekta sa mga hayop, halaman at likas na yaman para sa hinaharap. Kabilang dito ang mga protektadong lugar gaya ng Tubbataha at Apo Island. Lahat ay maaaring tumulong."});
+fun:"The Arabian oryx went from extinct in the wild back to vulnerable thanks to conservation."});

@@ -9,8 +9,7 @@ s2:[["Purple dye","The Phoenicians of the eastern Mediterranean made a precious 
 sp:["The giant clam","Giant clams live on coral reefs in the Indian and Pacific Oceans and can grow over a meter long. Tiny algae living in their colorful mantles make food from sunlight and share it with the clam. Despite stories, giant clams do not trap divers. They are protected in many countries because they were heavily harvested for food and shells."],
 g:[["Mollusc","A soft-bodied invertebrate, often with a shell"],["Mantle","The fold of tissue that forms a mollusc’s shell"],["Radula","A ribbon of tiny teeth used for feeding"],["Nacre","Mother-of-pearl, the shiny material in shells and pearls"]],
 f:["Snails, clams and squid are all molluscs.","A clam named Ming lived for 507 years.","Oysters make pearls by coating irritants in nacre."],
-fun:"A clam found off Iceland was 507 years old, born around the time Columbus sailed.",
-tl:"Ang mga mollusk, gaya ng suso, tulya, talaba at pusit, ay mga hayop na malambot ang katawan at kadalasang may balat-kabibe. Nakatira sila sa lupa, tubig-tabang at dagat."});
+fun:"A clam found off Iceland was 507 years old, born around the time Columbus sailed."});
 
 ADDART({id:"dragonfly",t:"Dragonflies",c:"Animals and Nature",i:"🪰",w:"Dragonfly",r:["insect","butterfly","mosquito","wetlands"],
 p:[["Ancient fliers","Dragonflies and their relatives have existed for more than 300 million years, since before the dinosaurs."],["Expert hunters","Adult dragonflies catch insects in midair and succeed in most of their hunts."],["Life in water","Young dragonflies, called nymphs, live underwater for months or years before becoming adults."]],
@@ -22,8 +21,7 @@ s2:[["Giants of the past","About 300 million years ago, relatives of dragonflies
 sp:["A 300-million-year success","Dragonflies were among the first animals to fly, long before birds, bats or even dinosaurs existed. Their basic body plan has changed little in hundreds of millions of years, a sign of how well it works. They survived the great extinction that wiped out the dinosaurs and are still thriving today."],
 g:[["Nymph","The young, water-living stage of a dragonfly"],["Odonata","The insect order of dragonflies and damselflies"],["Compound eye","An eye made of many tiny lenses"],["Migration","A seasonal journey from one region to another"]],
 f:["Dragonflies have existed for over 300 million years.","They catch prey in more than 90 percent of their hunts.","Dragonfly nymphs live underwater."],
-fun:"Some dragonflies migrate across the Indian Ocean, a round trip of up to 18,000 kilometers.",
-tl:"Ang tutubi ay mabilis lumipad na insekto na may malalaking mata. Mahusay itong mangaso ng ibang insekto, gaya ng lamok, at nagsisimula ang buhay nito sa ilalim ng tubig."});
+fun:"Some dragonflies migrate across the Indian Ocean, a round trip of up to 18,000 kilometers."});
 
 ADDART({id:"termite",t:"Termites",c:"Animals and Nature",i:"🏰",w:"Termite",r:["ants","insect","bee","soil"],
 p:[["Insect builders","Termites are social insects that live in large colonies and build some of the most impressive structures in the animal world."],["Wood eaters","They feed on wood, dead plants and leaf litter, helping to recycle nutrients."],["Not ants","Though sometimes called white ants, termites are more closely related to cockroaches."]],
@@ -35,8 +33,7 @@ s2:[["Natural air conditioning","Some termite mounds have networks of tunnels th
 sp:["Mounds older than the pyramids","In 2018 scientists reported that the mounds in northeastern Brazil, each about 2.5 meters tall and 9 meters wide, cover around 230,000 square kilometers. Dating of the soil showed that some were built about 4,000 years ago, around the time the pyramids of Egypt were built, making them among the oldest known structures built by insects."],
 g:[["Colony","A group of insects living and working together"],["Caste","A group within a colony with a particular role"],["Cellulose","The tough material that makes up plant cell walls"],["Ecosystem engineer","An animal that changes its environment in ways that help others"]],
 f:["Termites are closely related to cockroaches.","Some termite mounds are over 8 meters tall.","Termite mounds inspired a building design in Zimbabwe."],
-fun:"Termites in Brazil built about 200 million mounds over an area as large as Great Britain.",
-tl:"Ang anay ay mga insektong panlipunan na nakatira sa malalaking kolonya at gumagawa ng matataas na punso. Kumakain sila ng kahoy at patay na halaman, at mas malapit silang kamag-anak ng ipis kaysa langgam."});
+fun:"Termites in Brazil built about 200 million mounds over an area as large as Great Britain."});
 
 ADDART({id:"worms",t:"Earthworms and Other Worms",c:"Animals and Nature",i:"🪱",w:"Earthworm",r:["soil","eco","insect","darwin"],
 p:[["Soil builders","Earthworms burrow through soil, mixing it and turning dead leaves into rich earth."],["Many kinds of worm","Worms include earthworms, leeches, flatworms, roundworms and colorful sea worms."],["Darwin’s favorite","Charles Darwin studied earthworms for decades and wrote a book about them."]],
@@ -48,5 +45,4 @@ s2:[["Darwin and the worms","Charles Darwin studied earthworms for about 40 year
 sp:["Regrowing a body","Planarian flatworms are famous for their power of regeneration. If one is cut into pieces, each piece can grow into a complete new worm, including a new head and brain. Scientists study them to learn how cells rebuild lost body parts, hoping one day to apply such knowledge to medicine."],
 g:[["Segmented worm","A worm with a body made of ring-like sections"],["Castings","Nutrient-rich waste left by earthworms"],["Nematode","A roundworm"],["Regeneration","Regrowing lost body parts"]],
 f:["Earthworms breathe through their skin.","Darwin wrote a book about earthworms in 1881.","A planarian flatworm can regrow from a small piece."],
-fun:"Darwin played a piano and a bassoon to earthworms to test whether they could hear.",
-tl:"Ang bulate sa lupa ay mahalaga sa malusog na lupa dahil hinahalo nito ang lupa at ginagawang pataba ang mga patay na dahon. Maraming uri ng bulate, kabilang ang linta at mga bulate sa dagat."});
+fun:"Darwin played a piano and a bassoon to earthworms to test whether they could hear."});

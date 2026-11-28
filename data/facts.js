@@ -95,7 +95,7 @@ window.TODAY=[
 [6,28,1914,"Archduke Franz Ferdinand is assassinated in Sarajevo.","wwi"],
 [7,4,1776,"The Declaration of Independence is adopted.","usrev"],
 [7,14,1789,"The Bastille is stormed in Paris.","frrev"],
-[7,20,1969,"Apollo 11 lands on the Moon.","space"],
+[7,20,1969,"Apollo 11 lands on the Moon.","apollo11"],
 [8,12,1981,"IBM introduces its Personal Computer.","comp"],
 [8,15,1914,"The Panama Canal opens to ships."],
 [9,2,1945,"Japan formally surrenders, ending World War II.","ww2"],

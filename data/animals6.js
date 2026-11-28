@@ -9,8 +9,7 @@ s2:[["Long journeys","The ruby-throated hummingbird, which weighs about 3 grams,
 sp:["The bee hummingbird","The bee hummingbird, found only in Cuba, is the smallest bird in the world. It is about 5 centimeters long, roughly the size of a large bee, and weighs less than a coin. Its nest is about the size of a thimble, and its eggs are the size of coffee beans. Males have bright red-pink heads and throats in the breeding season."],
 g:[["Nectar","A sweet liquid made by flowers"],["Pollinate","To carry pollen from one flower to another so seeds can form"],["Torpor","A deep, energy-saving sleep"],["Metabolism","The chemical processes that turn food into energy in the body"]],
 f:["Hummingbirds are the only birds that can fly backward.","A hummingbird’s heart can beat over 1,200 times a minute.","Hummingbirds live only in the Americas."],
-fun:"Hummingbirds can fly backward, something no other bird can do for long.",
-tl:"Ang hummingbird ang pinakamaliit na ibon sa mundo at nakatira lamang sa kontinente ng Amerika. Kaya nitong lumipad nang paatras at manatili sa iisang lugar sa himpapawid habang umiinom ng nektar ng bulaklak."});
+fun:"Hummingbirds can fly backward, something no other bird can do for long."});
 
 ADDART({id:"ostrich",t:"Ostriches",i:"🪶",w:"Common ostrich",r:["birds","penguin","eco","eagle"],
 p:[["The biggest bird","The ostrich is the largest and heaviest living bird, standing up to about 2.7 meters tall."],["Fast runner","It cannot fly, but it is the fastest bird on land, running at up to about 70 kilometers per hour."],["Giant eggs","Ostriches lay the largest eggs of any living animal, each weighing about 1.4 kilograms."]],
@@ -22,8 +21,7 @@ s2:[["Head in the sand?","The old saying that ostriches bury their heads in the 
 sp:["Ratites","Ratites are flightless birds with flat breastbones that lack the keel where flying birds attach their wing muscles. Living ratites include ostriches in Africa, rheas in South America, emus and cassowaries in Australia and New Guinea, and kiwis in New Zealand. Extinct giants included the moa of New Zealand and the elephant bird of Madagascar, which laid eggs even larger than an ostrich’s."],
 g:[["Flightless","Unable to fly"],["Ratite","A member of a group of large flightless birds"],["Gizzard","A muscular stomach that grinds food"],["Plume","A large, showy feather"]],
 f:["The ostrich is the fastest bird on land.","Its eye is bigger than its brain.","Ostriches do not bury their heads in the sand."],
-fun:"An ostrich’s eye is bigger than its brain.",
-tl:"Ang ostrich ang pinakamalaki at pinakamabigat na ibon sa mundo. Hindi ito nakalilipad, ngunit ito ang pinakamabilis na ibon sa lupa. Nangingitlog ito ng pinakamalaking itlog ng anumang buhay na hayop."});
+fun:"An ostrich’s eye is bigger than its brain."});
 
 ADDART({id:"turtle",t:"Turtles and Tortoises",i:"🐢",w:"Turtle",r:["lizard","croc","reef","galapagos","plastics"],
 p:[["Built-in armor","Turtles are reptiles with a shell made of bone that is part of their skeleton."],["Land, rivers and sea","Tortoises live on land, terrapins in fresh water, and sea turtles roam the oceans."],["Ancient survivors","Turtles have existed for more than 200 million years, since the time of the early dinosaurs."]],
@@ -35,5 +33,4 @@ s2:[["Sea turtles","Seven species of sea turtle swim the world’s oceans, from 
 sp:["Turtle or tortoise?","All tortoises are turtles, but not all turtles are tortoises. Tortoises live on land and have high, domed shells and sturdy, elephant-like legs. Freshwater turtles usually have flatter shells and webbed feet for swimming. Sea turtles have streamlined shells and flippers. In British English, terrapin often means a small freshwater turtle."],
 g:[["Carapace","The upper part of a turtle’s shell"],["Plastron","The lower part of a turtle’s shell"],["Scute","A bony or horny plate on a shell"],["Hatchling","A young animal that has just hatched"]],
 f:["Turtles have existed for more than 200 million years.","Nest temperature decides whether many baby turtles are male or female.","A turtle’s shell is part of its skeleton."],
-fun:"In many turtles, warmer nests produce more female hatchlings.",
-tl:"Ang pagong ay reptilyang may matigas na balat-kabibe na bahagi ng kanyang kalansay. May mga pagong sa lupa, sa tubig-tabang at sa dagat. Marami sa kanila ang nanganganib dahil sa pangangaso at plastik sa dagat."});
+fun:"In many turtles, warmer nests produce more female hatchlings."});

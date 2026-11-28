@@ -9,8 +9,7 @@ s2:[["Data floods","Euclid’s first major release contained about 1.7 petabytes
 sp:["Roman ahead of schedule","Roman was completed under budget and launched months earlier than its official deadline of May 2027, an unusual achievement for a large space telescope."],
 g:[["Dark energy","The unknown cause of the universe’s accelerating expansion"],["Gravitational lensing","Bending of light by gravity"],["Field of view","How much sky a telescope sees at once"],["Microlensing","Brightening of a star by a passing object’s gravity"]],
 f:["Euclid launched in 2023.","Roman launched in August 2026.","Euclid’s first catalog listed over 900 million galaxies."],
-fun:"Roman has the same size mirror as Hubble but can see at least 100 times more sky at once.",
-tl:"Iminamapa ng Euclid at Roman ang bilyun-bilyong galaxy upang pag-aralan ang dark matter at dark energy. Inilunsad ang Euclid noong 2023, at inilunsad ng NASA ang Roman noong Agosto 2026."});
+fun:"Roman has the same size mirror as Hubble but can see at least 100 times more sky at once."});
 
 ADDART({id:"eht",t:"The Event Horizon Telescope",c:"Space and Astronomy",i:"🕳️",w:"Event Horizon Telescope",r:["bh","sagittariusa","radioastronomy","relat","galaxies"],
 p:[["An Earth-sized telescope","The EHT links radio dishes around the world."],["First picture of a black hole","In 2019 it showed the black hole in galaxy M87."],["Our own black hole","In 2022 it imaged Sagittarius A* at the Milky Way’s center."]],
@@ -22,8 +21,7 @@ s2:[["Antarctic dish","The South Pole Telescope, in one of the driest and coldes
 sp:["Too much data for the internet","The 2017 observations produced about 5 petabytes of data on half a ton of hard drives. Data from the South Pole had to wait months for the end of the Antarctic winter to be flown out."],
 g:[["Event horizon","The boundary beyond which nothing can escape a black hole"],["Interferometry","Combining signals from several telescopes"],["Shadow","The dark region a black hole creates against glowing gas"],["Petabyte","About a million gigabytes"]],
 f:["The EHT links telescopes around the world.","The first black hole image was released in 2019.","Our galaxy’s black hole was imaged in 2022."],
-fun:"The EHT’s data was so large that it was flown around the world on hard drives instead of being sent online.",
-tl:"Pinag-uugnay ng Event Horizon Telescope ang mga radio dish sa buong mundo upang maging isang teleskopyong kasinlaki ng Earth. Ipinakita nito ang black hole sa galaxy na M87 noong 2019 at ang Sagittarius A* sa gitna ng Milky Way noong 2022."});
+fun:"The EHT’s data was so large that it was flown around the world on hard drives instead of being sent online."});
 
 ADDART({id:"seti",t:"SETI: The Search for Extraterrestrial Intelligence",c:"Space and Astronomy",i:"👽",w:"Search for extraterrestrial intelligence",r:["fermiparadox","astrobio","radioastronomy","exoplanet","habitablezone"],
 p:[["Listening for aliens","SETI scientists search for signals from intelligent life beyond Earth."],["Project Ozma","Frank Drake began the first modern search in 1960."],["The Wow! signal","A mysterious signal in 1977 was never detected again."]],
@@ -35,8 +33,7 @@ s2:[["Contact","Carl Sagan’s 1985 novel Contact, made into a 1997 film starrin
 sp:["Little green men","When Jocelyn Bell Burnell discovered regularly pulsing radio signals in 1967, the source was jokingly labeled LGM-1, for ‘little green men’. It turned out to be a pulsar, a spinning neutron star."],
 g:[["SETI","Search for Extraterrestrial Intelligence"],["Technosignature","Evidence of technology from another civilization"],["Drake equation","A formula estimating the number of alien civilizations"],["Interference","Unwanted signals from human sources"]],
 f:["Project Ozma began in 1960.","The Wow! signal was detected in 1977.","No confirmed alien signal has been found."],
-fun:"The astronomer who found the 1977 Wow! signal circled it on the printout and wrote ‘Wow!’ next to it.",
-tl:"Naghahanap ang mga siyentipiko ng SETI ng mga signal mula sa matalinong buhay sa labas ng Earth. Sinimulan ni Frank Drake ang unang makabagong paghahanap noong 1960, at hindi na muling natagpuan ang mahiwagang Wow! signal ng 1977."});
+fun:"The astronomer who found the 1977 Wow! signal circled it on the printout and wrote ‘Wow!’ next to it."});
 
 ADDART({id:"marsorbiters",t:"Mars Orbiters",c:"Space Exploration",i:"🛰️",w:"Mars Reconnaissance Orbiter",r:["mars","marsrovers","marinerprogram","hopeprobe","tianwen"],
 p:[["Eyes above Mars","Orbiters circle Mars, mapping it and relaying rover messages."],["A crowded orbit","Spacecraft from the US, Europe, India, the UAE and China have orbited Mars."],["Lost and found","Some orbiters have failed, but others have lasted decades."]],
@@ -48,8 +45,7 @@ s2:[["Underground lakes","In 2018, scientists using Mars Express radar reported 
 sp:["Spotting landers","HiRISE photographed NASA’s Phoenix lander descending under its parachute in 2008 and Perseverance’s parachute in 2021, capturing spacecraft landing on another planet from orbit."],
 g:[["Orbiter","A spacecraft that circles a planet"],["Relay","Passing data from one spacecraft to another"],["HiRISE","A powerful camera on the Mars Reconnaissance Orbiter"],["Atmospheric escape","Gas leaking from a planet into space"]],
 f:["Mariner 9 was the first Mars orbiter.","Mars Odyssey has served at Mars since 2001.","A units mix-up destroyed Mars Climate Orbiter."],
-fun:"A mix-up between pounds and newtons caused NASA to lose the Mars Climate Orbiter in 1999.",
-tl:"Umiikot ang mga orbiter sa Mars upang imapa ito at ihatid ang mensahe ng mga rover. Umikot na rito ang mga spacecraft ng US, Europa, India, UAE at China, at may ilang nabigo ngunit may tumagal nang ilang dekada."});
+fun:"A mix-up between pounds and newtons caused NASA to lose the Mars Climate Orbiter in 1999."});
 
 ADDART({id:"lucymission",t:"Lucy: Visiting the Trojan Asteroids",c:"Space Exploration",i:"💎",w:"Lucy (spacecraft)",r:["asteroidbelt","jupiter","psyche","solarform","orbits"],
 p:[["Fossils of the solar system","Lucy is the first mission to Jupiter’s Trojan asteroids."],["A record number of targets","It will visit more asteroids than any spacecraft before."],["Named after a fossil","Lucy is named after a famous human ancestor fossil."]],
@@ -61,8 +57,7 @@ s2:[["The Lucy fossil","The Lucy fossil, an Australopithecus afarensis discovere
 sp:["Diamonds in the sky","Lucy’s instruments include one with a diamond beam splitter, a fitting nod to the Beatles song ‘Lucy in the Sky with Diamonds’."],
 g:[["Trojan asteroid","An asteroid sharing a planet’s orbit"],["Lagrange point","A balance point in an orbit"],["Contact binary","Two bodies touching each other"],["Flyby","Passing close to an object without stopping"]],
 f:["Lucy launched in 2021.","It is the first mission to Jupiter’s Trojans.","It is named after a famous fossil."],
-fun:"The Lucy spacecraft is named after a fossil, which was named after a Beatles song.",
-tl:"Ang Lucy ang unang misyon sa mga Trojan asteroid ng Jupiter. Bibisita ito sa mas maraming asteroid kaysa sa alinmang naunang spacecraft, at ipinangalan ito sa isang sikat na fossil ng sinaunang ninuno ng tao."});
+fun:"The Lucy spacecraft is named after a fossil, which was named after a Beatles song."});
 
 ADDART({id:"juice",t:"JUICE: Exploring Jupiter’s Icy Moons",c:"Space Exploration",i:"🧊",w:"Jupiter Icy Moons Explorer",r:["ganymede","europa","jupiter","europaclipper","galileoprobe"],
 p:[["Europe to Jupiter","JUICE is ESA’s mission to Jupiter and its icy moons."],["Hidden oceans","It will study oceans that may lie beneath the moons’ ice."],["Orbiting Ganymede","It will be the first spacecraft to orbit a moon of another planet."]],
@@ -74,8 +69,7 @@ s2:[["Why icy moons?","Liquid water, energy and chemical ingredients are essenti
 sp:["Lunar–Earth flyby","In August 2024, JUICE flew past the Moon and then, about a day later, past Earth, a never-before-tried maneuver that saved fuel and helped steer it toward Venus."],
 g:[["Icy moon","A moon with a surface of ice"],["Subsurface ocean","A body of liquid water beneath a surface"],["Magnetometer","An instrument that measures magnetic fields"],["Gravity assist","Using a planet’s gravity to change speed"]],
 f:["JUICE launched in 2023.","It will reach Jupiter in 2031.","It will orbit Ganymede, the largest moon."],
-fun:"JUICE will be the first spacecraft ever to orbit a moon of another planet, Ganymede, which is bigger than Mercury.",
-tl:"Ang JUICE ay misyon ng ESA sa Jupiter at sa mga nagyeyelong buwan nito. Pag-aaralan nito ang mga karagatang maaaring nasa ilalim ng yelo, at ito ang magiging unang spacecraft na iikot sa buwan ng ibang planeta."});
+fun:"JUICE will be the first spacecraft ever to orbit a moon of another planet, Ganymede, which is bigger than Mercury."});
 
 ADDART({id:"dragonflytitan",t:"Dragonfly: A Drone for Titan",c:"Space Exploration",i:"🚁",w:"Dragonfly (Titan space probe)",r:["titan","saturn","ingenuity","cassini","astrobio"],
 p:[["Flying on Titan","Dragonfly is a NASA drone that will fly across Saturn’s moon Titan."],["Thick air, low gravity","Titan’s atmosphere makes flying easier than on Earth."],["Launch in 2028","It is planned to launch in 2028 and arrive in 2034."]],
@@ -87,8 +81,7 @@ s2:[["Methane seas","Titan’s largest sea, Kraken Mare, is larger than the Casp
 sp:["Wings on Titan","Titan’s air is so thick and its gravity so weak that a person wearing strapped-on wings could, in theory, fly by flapping their arms."],
 g:[["Rotorcraft","An aircraft lifted by spinning rotors"],["Prebiotic chemistry","Chemical steps that may lead to life"],["Methane","A gas that is liquid at Titan’s temperatures"],["Radioisotope generator","A power source using heat from radioactive material"]],
 f:["Dragonfly will fly on Titan.","Titan has lakes of liquid methane.","It is planned to launch in 2028."],
-fun:"On Titan, a person with strapped-on wings could in theory fly by flapping their arms.",
-tl:"Ang Dragonfly ay drone ng NASA na lilipad sa Titan, ang buwan ng Saturn. Mas madali ang paglipad doon dahil sa makapal na hangin at mahinang grabidad, at planong ilunsad ito sa 2028 at dumating sa 2034."});
+fun:"On Titan, a person with strapped-on wings could in theory fly by flapping their arms."});
 
 ADDART({id:"marssamplereturn",t:"Mars Sample Return",c:"Space Exploration",i:"🧪",w:"Mars sample-return mission",r:["marsrovers","mars","tianwen","astrobio","osirisrex"],
 p:[["Bringing Mars to Earth","Perseverance has collected rock samples meant to be returned to Earth."],["Too costly?","NASA’s original return plan became too expensive."],["China’s plan","China plans to bring back Martian samples around 2031."]],
@@ -100,8 +93,7 @@ s2:[["Potential biosignature","A biosignature is a feature that may have been pr
 sp:["A rocket from Mars","No rocket has ever launched from the surface of another planet. A Mars ascent vehicle would need to be small, light and able to sit for months in Mars’s cold before firing."],
 g:[["Sample return","Bringing material from space to Earth"],["Biosignature","A possible sign of life"],["Sample depot","A cache of samples left for later pickup"],["Ascent vehicle","A rocket that launches from a planet’s surface"]],
 f:["Perseverance has sealed more than 30 samples.","NASA’s return plan was estimated at 11 billion dollars.","China plans to return Mars samples around 2031."],
-fun:"Perseverance has even collected a tube of Martian air.",
-tl:"Nangolekta ang Perseverance ng mga sample ng bato na planong iuwi sa Earth. Naging masyadong mahal ang orihinal na plano ng NASA, at plano naman ng China na magdala ng sample mula sa Mars bandang 2031."});
+fun:"Perseverance has even collected a tube of Martian air."});
 
 ADDART({id:"ingenuity",t:"Ingenuity: The Mars Helicopter",c:"Space Exploration",i:"🚁",w:"Ingenuity (helicopter)",r:["marsrovers","mars","helicopters","dragonflytitan","flight"],
 p:[["First flight on another planet","Ingenuity made the first powered flight on another world in 2021."],["Tiny but tough","It weighed just 1.8 kilograms."],["72 flights","Planned for five flights, it made 72."]],
@@ -113,8 +105,7 @@ s2:[["Smartphone parts","To save time and money, Ingenuity used off-the-shelf pa
 sp:["A piece of history","A postage-stamp-sized piece of fabric from the wing of the Wright brothers’ 1903 Flyer was attached under Ingenuity’s solar panel, linking the first flights on two worlds."],
 g:[["Helicopter","An aircraft lifted by rotors"],["Technology demonstration","A mission to test whether something works"],["Rotor","A spinning blade that lifts an aircraft"],["Scout","To explore ahead to gather information"]],
 f:["Ingenuity first flew on Mars on 19 April 2021.","It weighed about 1.8 kilograms.","It made 72 flights."],
-fun:"Ingenuity carried a tiny piece of fabric from the Wright brothers’ 1903 airplane.",
-tl:"Ginawa ng Ingenuity ang unang paglipad na may makina sa ibang planeta noong 2021. Tumitimbang lamang ito ng 1.8 kilo, at bagaman limang paglipad lamang ang plano, umabot ito sa 72."});
+fun:"Ingenuity carried a tiny piece of fabric from the Wright brothers’ 1903 airplane."});
 
 ADDART({id:"vostok",t:"The Vostok and Voskhod Programs",c:"Space Exploration",i:"🇷🇺",w:"Vostok programme",r:["space","sputnik","womeninspace","spacewalks","projectmercury"],
 p:[["First humans in space","The Soviet Vostok program launched the first person into space."],["Gagarin and Tereshkova","Yuri Gagarin flew in 1961 and Valentina Tereshkova in 1963."],["The first spacewalk","Voskhod 2 carried Alexei Leonov on the first spacewalk."]],
@@ -126,8 +117,7 @@ s2:[["Sergei Korolev","Korolev survived imprisonment in a Soviet labor camp in t
 sp:["‘Let’s go!’","Gagarin’s launch call ‘Poyekhali!’ has become a famous phrase in Russia, and the anniversary of his flight is celebrated worldwide as the International Day of Human Space Flight."],
 g:[["Cosmonaut","A Soviet or Russian astronaut"],["Capsule","A small crewed spacecraft"],["Spacewalk","Activity outside a spacecraft in space"],["Space race","Competition between the US and USSR in space"]],
 f:["Yuri Gagarin was the first human in space.","Valentina Tereshkova was the first woman in space.","Alexei Leonov made the first spacewalk."],
-fun:"Yuri Gagarin ejected from his capsule and landed by parachute, a detail kept secret for years.",
-tl:"Inilunsad ng programang Vostok ng Unyong Sobyet ang unang tao sa kalawakan. Lumipad si Yuri Gagarin noong 1961 at si Valentina Tereshkova noong 1963, at si Alexei Leonov ang gumawa ng unang spacewalk sa Voskhod 2."});
+fun:"Yuri Gagarin ejected from his capsule and landed by parachute, a detail kept secret for years."});
 
 ADDART({id:"salyut",t:"Salyut Space Stations",c:"Space Exploration",i:"🛰️",w:"Salyut programme",r:["iss","mir","skylab","soyuz","tiangong"],
 p:[["The first space stations","Salyut 1 became the world’s first space station in 1971."],["Tragedy and triumph","The first crew died returning home, but later stations succeeded."],["Paving the way","Salyut led to Mir and the International Space Station."]],
@@ -139,8 +129,7 @@ s2:[["Salyut 7’s fall","Salyut 7 fell back to Earth in February 1991, with som
 sp:["Remembered on the Moon","The names of the Soyuz 11 cosmonauts are on the Fallen Astronaut memorial plaque left on the Moon by Apollo 15 astronauts in 1971."],
 g:[["Space station","A spacecraft where crews live for long periods"],["Docking port","A connection point for spacecraft"],["Progress","An uncrewed Soviet and Russian cargo spacecraft"],["Reentry","Returning into Earth’s atmosphere"]],
 f:["Salyut 1 was the first space station.","The Soyuz 11 crew are the only people to die in space.","Salyut led to Mir and the ISS."],
-fun:"Cosmonauts rescuing the frozen Salyut 7 in 1985 worked inside it wearing fur hats.",
-tl:"Naging unang space station sa mundo ang Salyut 1 noong 1971. Namatay ang unang crew pauwi, ngunit nagtagumpay ang mga sumunod na station, at humantong ang Salyut sa Mir at International Space Station."});
+fun:"Cosmonauts rescuing the frozen Salyut 7 in 1985 worked inside it wearing fur hats."});
 
 ADDART({id:"buran",t:"Buran: The Soviet Space Shuttle",c:"Space Exploration",i:"🛩️",w:"Buran (spacecraft)",r:["spaceshuttle","soyuz","space","rocket","ussrfall"],
 p:[["The Soviet shuttle","Buran was the Soviet Union’s answer to the US Space Shuttle."],["One flight, no crew","It flew once, uncrewed, in 1988 and landed automatically."],["A sad end","The program was canceled, and the orbiter was destroyed in 2002."]],
@@ -152,8 +141,7 @@ s2:[["Abandoned shuttles","Two unfinished Buran orbiters sat for years in a hang
 sp:["The world’s largest plane","The six-engine Antonov An-225 Mriya was built specifically to carry Buran and parts of Energia on its back."],
 g:[["Spaceplane","A spacecraft that lands like an airplane"],["Orbiter","The part of a shuttle that goes into orbit"],["Cosmodrome","A Soviet or Russian spaceport"],["Uncrewed","Without people aboard"]],
 f:["Buran flew once, in 1988.","It landed automatically.","It was destroyed in a hangar collapse in 2002."],
-fun:"Buran flew to space and landed on a runway with no one aboard, steered entirely by computers.",
-tl:"Ang Buran ang sagot ng Unyong Sobyet sa Space Shuttle ng US. Minsan lamang itong lumipad, walang sakay, noong 1988 at awtomatikong lumapag, at nawasak ito noong 2002."});
+fun:"Buran flew to space and landed on a runway with no one aboard, steered entirely by computers."});
 
 ADDART({id:"longmarch",t:"Long March Rockets",c:"Space Exploration",i:"🇨🇳",w:"Long March (rocket family)",r:["chinacountry","tiangong","changeprogram","tianwen","spaceagencies"],
 p:[["China’s rockets","Long March rockets launch most of China’s spacecraft."],["First satellite in 1970","Long March 1 launched China’s first satellite."],["Toward the Moon","Long March 10 is being developed to carry astronauts to the Moon."]],
@@ -165,8 +153,7 @@ s2:[["The East Is Red","Dong Fang Hong 1 was designed to be seen and heard: a re
 sp:["Still in orbit","Dong Fang Hong 1 stopped transmitting after about 26 days, but the satellite itself is still in orbit more than 55 years later."],
 g:[["Ballistic missile","A rocket-powered weapon"],["Launch site","A place where rockets are launched"],["Spent stage","A used rocket section that falls away"],["Shenzhou","China’s crewed spacecraft"]],
 f:["Long March 1 launched China’s first satellite in 1970.","Long March 2F launches Chinese astronauts.","Long March 10 is being built for Moon missions."],
-fun:"China’s first satellite played the song ‘The East Is Red’ from orbit in 1970, and it is still circling Earth.",
-tl:"Inilulunsad ng mga rocket na Long March ang karamihan sa mga spacecraft ng China. Inilunsad ng Long March 1 ang unang satellite ng China noong 1970, at binubuo ang Long March 10 upang magdala ng mga astronaut sa Buwan."});
+fun:"China’s first satellite played the song ‘The East Is Red’ from orbit in 1970, and it is still circling Earth."});
 
 ADDART({id:"jaxa",t:"Japan’s Space Program",c:"Space Exploration",i:"🇯🇵",w:"JAXA",r:["japancountry","hayabusa","spaceagencies","iss","phobosdeimos"],
 p:[["From pencil rockets to asteroids","Japan began with tiny rockets in 1955."],["Pinpoint Moon landing","SLIM made Japan the fifth country to land on the Moon in 2024."],["JAXA","The Japan Aerospace Exploration Agency was formed in 2003."]],
@@ -178,10 +165,9 @@ s2:[["Kibo","Kibo, meaning ‘hope’, includes a pressurized laboratory, a stor
 sp:["Upside-down success","Photos from a small rover released by SLIM showed the lander resting upside down on the Moon, its nozzle pointing up, but it still sent back science data."],
 g:[["JAXA","Japan Aerospace Exploration Agency"],["Soft landing","Landing gently without crashing"],["Kibo","Japan’s laboratory on the ISS"],["Sample return","Bringing material from space to Earth"]],
 f:["Japan launched its first satellite in 1970.","SLIM landed on the Moon in 2024.","Hayabusa returned asteroid samples."],
-fun:"Japan’s ‘Moon Sniper’ lander hit its target precisely in 2024 but ended up resting upside down.",
-tl:"Nagsimula ang Japan sa maliliit na rocket noong 1955. Ginawa ng SLIM ang Japan na ikalimang bansang lumapag sa Buwan noong 2024, at nabuo ang JAXA noong 2003."});
+fun:"Japan’s ‘Moon Sniper’ lander hit its target precisely in 2024 but ended up resting upside down."});
 
-ADDART({id:"weathersatellites",t:"Weather Satellites",c:"Space Exploration",i:"🌀",w:"Weather satellite",r:["weatherforecast","sat","storms","climate","orbits"],
+ADDART({id:"weathersatellites",t:"Weather Satellites",c:"Space Exploration",i:"🌀",w:"Weather satellite",r:["weatherforecast","sat","storms","climate","orbits","satellites"],
 p:[["Watching the weather from space","Weather satellites photograph clouds and storms around the world."],["TIROS-1","The first weather satellite launched in 1960."],["Saving lives","Satellites help forecasters warn people of typhoons and hurricanes."]],
 l:"Weather satellites observe Earth’s atmosphere, clouds, oceans and land to help forecast weather and monitor climate. The first successful weather satellite, NASA’s TIROS-1, launched on 1 April 1960 and sent back thousands of television pictures of clouds, revealing weather systems as never before. There are two main types. Geostationary satellites orbit about 36,000 kilometers above the equator, moving with Earth’s rotation so they constantly watch the same region, taking images every few minutes; examples include the US GOES series, Japan’s Himawari, Europe’s Meteosat and China’s Fengyun. Polar-orbiting satellites fly much lower, about 800 kilometers up, passing over the poles and scanning the whole Earth twice a day in greater detail. Satellites measure clouds, temperature, humidity, rainfall, winds over the ocean, sea surface temperatures, snow and ice, and even lightning. Their data feed computer forecast models and allow forecasters to track tropical cyclones from their earliest stages, giving days of warning before landfall, which has saved countless lives. Weather satellites also provide the long-term records scientists use to study climate change.",
 s:[["Geostationary satellites","Positioned at fixed points over the equator, geostationary satellites provide the familiar animated cloud images on weather reports. A ring of about five or six satellites run by different countries covers most of the planet, except near the poles."],["Polar orbiters","Polar-orbiting satellites carry instruments that measure temperature and moisture at different heights in the atmosphere. These measurements are among the most important inputs to global forecast models."],["Tracking storms","Before satellites, tropical cyclones could form unseen over the ocean. Now forecasters watch them develop and estimate their strength from cloud patterns, though aircraft still fly into storms in some regions for direct measurements."],["International cooperation","Countries share weather satellite data through the World Meteorological Organization, so forecasters everywhere benefit, including in countries without their own satellites."]],
@@ -191,8 +177,7 @@ s2:[["Himawari","Japan’s Himawari satellites, whose name means ‘sunflower’
 sp:["First picture","TIROS-1’s first image, a fuzzy view of clouds over the northeastern United States, was shown to President Dwight Eisenhower the day it was taken."],
 g:[["Geostationary orbit","An orbit that keeps a satellite over one spot"],["Polar orbit","An orbit passing over the poles"],["Tropical cyclone","A typhoon or hurricane"],["Forecast model","A computer simulation of the atmosphere"]],
 f:["TIROS-1 launched in 1960.","Geostationary satellites watch the same area constantly.","Satellites give days of warning before typhoons."],
-fun:"Japan’s weather satellites are named Himawari, meaning ‘sunflower’, because they always face Earth as a sunflower faces the Sun.",
-tl:"Kinukunan ng weather satellite ang mga ulap at bagyo sa buong mundo. Inilunsad ang unang weather satellite noong 1960, at tinutulungan ng mga satellite ang mga forecaster na magbabala tungkol sa bagyo."});
+fun:"Japan’s weather satellites are named Himawari, meaning ‘sunflower’, because they always face Earth as a sunflower faces the Sun."});
 
 ADDART({id:"earthobservation",t:"Landsat and Earth Observation",c:"Space Exploration",i:"🌍",w:"Landsat program",r:["sat","deforestation","climate","maps","weathersatellites"],
 p:[["Watching our planet","Earth observation satellites photograph and measure Earth’s surface."],["Landsat since 1972","Landsat has recorded Earth’s land for more than 50 years."],["Free data","Free satellite images help track forests, farms and disasters."]],
@@ -204,8 +189,7 @@ s2:[["The Blue Marble","On 7 December 1972, the Apollo 17 crew photographed the 
 sp:["Earth as art","NASA and the US Geological Survey publish collections of Landsat images chosen for their beauty, showing river deltas, deserts and glaciers that look like abstract paintings."],
 g:[["Earth observation","Gathering information about Earth from space"],["Multispectral","Recording several bands of light"],["False color","Using colors to represent invisible light"],["Synthetic aperture radar","Radar that creates detailed images from orbit"]],
 f:["Landsat 1 launched in 1972.","Landsat images have been free since 2008.","Radar satellites can see through clouds."],
-fun:"A small island off Canada was discovered in Landsat images and named Landsat Island.",
-tl:"Kinukunan at sinusukat ng mga Earth observation satellite ang ibabaw ng Earth. Mahigit 50 taon nang itinatala ng Landsat ang kalupaan ng Earth, at tumutulong ang libreng satellite image sa pagsubaybay sa kagubatan, sakahan at sakuna."});
+fun:"A small island off Canada was discovered in Landsat images and named Landsat Island."});
 
 ADDART({id:"sagittariusa",t:"Sagittarius A*",c:"Space and Astronomy",i:"⚫",w:"Sagittarius A*",r:["bh","milky","eht","relat","starclusters"],
 p:[["Our galaxy’s black hole","Sagittarius A* is the supermassive black hole at the center of the Milky Way."],["4 million Suns","It has about 4 million times the mass of the Sun."],["Nobel-winning discovery","Tracking stars around it won the 2020 Nobel Prize in Physics."]],
@@ -217,8 +201,7 @@ s2:[["Andrea Ghez","Andrea Ghez became the fourth woman ever to win the Nobel Pr
 sp:["The asterisk","The asterisk in the name comes from atomic physics notation for an excited state; astronomer Robert Brown chose it in 1982 because the source was so exciting."],
 g:[["Supermassive black hole","A black hole millions or billions of times the Sun’s mass"],["Galactic center","The middle of a galaxy"],["Adaptive optics","Technology that removes atmospheric blurring"],["Flare","A sudden burst of brightness"]],
 f:["Sagittarius A* is about 26,000 light-years away.","It weighs about 4 million Suns.","Its image was released in 2022."],
-fun:"The star S2 races around Sagittarius A* at speeds of thousands of kilometers per second, completing an orbit every 16 years.",
-tl:"Ang Sagittarius A* ang napakalaking black hole sa gitna ng Milky Way. May masa itong mga 4 milyong ulit ng Araw, at nanalo ng Nobel Prize in Physics noong 2020 ang pagsubaybay sa mga bituing umiikot dito."});
+fun:"The star S2 races around Sagittarius A* at speeds of thousands of kilometers per second, completing an orbit every 16 years."});
 
 ADDART({id:"planetnine",t:"Planet Nine",c:"Space and Astronomy",i:"❓",w:"Planet Nine",r:["kuiper","dwarfplanets","pluto","uranep","groundtelescopes"],
 p:[["A hidden planet?","Some astronomers think an undiscovered planet orbits far beyond Neptune."],["Clues in distant orbits","Odd orbits of distant icy objects hint at its gravity."],["Still not found","As of 2026, no one has seen Planet Nine."]],
@@ -230,8 +213,7 @@ s2:[["The planet killer","Mike Brown led the team that discovered Eris in 2005, 
 sp:["A faint target","If Planet Nine exists at its predicted distance, it could be thousands of times fainter than Pluto, making it like looking for a dark coal lump in the night sky."],
 g:[["Hypothetical","Proposed but not proven"],["Kuiper Belt","A region of icy bodies beyond Neptune"],["Orbit clustering","Orbits pointing in similar directions"],["Dwarf planet","A small planet-like body that has not cleared its orbit"]],
 f:["Planet Nine was proposed in 2016.","It might be 5–10 times Earth’s mass.","It had not been found as of 2026."],
-fun:"Some scientists have suggested Planet Nine might actually be a grapefruit-sized black hole, though most think this is unlikely.",
-tl:"Iniisip ng ilang astronomo na may hindi pa natutuklasang planeta sa malayong lampas ng Neptune. Ipinahihiwatig ito ng kakaibang orbit ng malalayong nagyeyelong bagay, ngunit hanggang 2026 ay hindi pa ito nakikita."});
+fun:"Some scientists have suggested Planet Nine might actually be a grapefruit-sized black hole, though most think this is unlikely."});
 
 ADDART({id:"saturnrings",t:"Saturn’s Rings",c:"Space and Astronomy",i:"💍",w:"Rings of Saturn",r:["saturn","cassini","galileo","moons","titan"],
 p:[["The solar system’s jewel","Saturn’s rings are the largest and brightest planetary rings."],["Made of ice","They are made of countless chunks of water ice."],["Wide but thin","They stretch hundreds of thousands of kilometers but are often only about 10 meters thick."]],
@@ -243,8 +225,7 @@ s2:[["Spokes","Voyager discovered dark, ghostly ‘spokes’ that appear across 
 sp:["A frozen bath","If all the ring material were gathered together, it would make a moon only a few hundred kilometers across, smaller than many of Saturn’s moons."],
 g:[["Ring particle","A piece of ice or rock orbiting in a ring"],["Shepherd moon","A small moon that shapes a ring"],["Ring plane crossing","When rings are seen edge-on"],["Cassini Division","The largest gap in Saturn’s rings"]],
 f:["Saturn’s rings are mostly water ice.","They are often only about 10 meters thick.","They nearly vanished from view in March 2025."],
-fun:"Saturn’s rings are so thin compared with their width that a scale model made of paper would be too thick.",
-tl:"Ang mga singsing ng Saturn ang pinakamalaki at pinakamaliwanag sa lahat ng planeta. Gawa ang mga ito sa hindi mabilang na tipak ng yelo, at umaabot nang daan-daang libong kilometro ngunit madalas ay mga 10 metro lamang ang kapal."});
+fun:"Saturn’s rings are so thin compared with their width that a scale model made of paper would be too thick."});
 
 ADDART({id:"solarwind",t:"The Solar Wind and the Heliosphere",c:"Space and Astronomy",i:"🌬️",w:"Solar wind",r:["sun","spaceweather","voyager","parkerprobe","comet"],
 p:[["Wind from the Sun","The Sun constantly blows charged particles into space."],["A giant bubble","The solar wind inflates the heliosphere around the solar system."],["Leaving the bubble","Voyager 1 crossed into interstellar space in 2012."]],
@@ -256,5 +237,4 @@ s2:[["Collecting the Sun","NASA’s Genesis spacecraft collected solar wind part
 sp:["Losing weight","Through the solar wind, the Sun loses about a million metric tons of material every second, but it is so massive that it has lost only a tiny fraction of its mass over billions of years."],
 g:[["Solar wind","A stream of charged particles from the Sun"],["Heliosphere","The bubble inflated by the solar wind"],["Heliopause","The outer boundary of the heliosphere"],["Corona","The Sun’s outer atmosphere"]],
 f:["The solar wind was predicted in 1958.","It usually travels about 400 km per second.","Voyager 1 left the heliosphere in 2012."],
-fun:"The Sun loses about a million metric tons of material to the solar wind every second.",
-tl:"Patuloy na nagbubuga ang Araw ng mga partikulang may karga sa kalawakan. Pinalalaki ng solar wind ang heliosphere na bumabalot sa solar system, at tumawid ang Voyager 1 sa interstellar space noong 2012."});
+fun:"The Sun loses about a million metric tons of material to the solar wind every second."});

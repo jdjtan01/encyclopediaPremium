@@ -9,8 +9,7 @@ s2:[["Head lice","Head lice, called kuto in Filipino, are tiny insects that live
 sp:["The comb and the suyod","On a sunny afternoon in a Philippine province, a grandmother sits on the steps of her house with her granddaughter leaning on her lap. Using a suyod, a comb with very fine teeth, she carefully works through the child’s long hair, section by section, looking for kuto and their tiny eggs. She chats and hums as she works. The ritual is familiar to many Filipino families, a mix of care and conversation passed down through generations. Health workers say such regular combing really does help control head lice, which are common among schoolchildren everywhere and nothing to be ashamed of."],
 g:[["Keratin","A tough protein in hair and nails"],["Follicle","A tiny pocket in the skin where hair grows"],["Melanin","The pigment that colors hair and skin"],["Kuto","The Filipino word for head lice"]],
 f:["Hair and nails are made of keratin.","Losing 50 to 100 hairs a day is normal.","Fingernails grow faster than toenails."],
-fun:"Hair, fingernails, animal horns and bird feathers are all made from forms of the same protein, keratin.",
-tl:"Ang buhok at kuko ay gawa sa matibay na protinang keratin. Tumutubo ang buhok sa ulo nang mga isang sentimetro bawat buwan. Ang kulay nito ay mula sa melanin."});
+fun:"Hair, fingernails, animal horns and bird feathers are all made from forms of the same protein, keratin."});
 
 ADDART({id:"vitamins",t:"Vitamins and Minerals",c:"Health",i:"🥕",w:"Vitamin",r:["nutri","anemia","bones","phfood","fruits"],
 p:[["Tiny but vital","The body needs small amounts of vitamins and minerals to work properly."],["Diseases of lack","Missing vitamins can cause diseases such as scurvy and rickets."],["From food","Most people get them from a varied diet."]],
@@ -22,8 +21,7 @@ s2:[["Scurvy and the sailors","On long sea voyages in the 1500s to 1700s, many s
 sp:["The chickens of Batavia","In the 1880s the Dutch army doctor Christiaan Eijkman was sent to Batavia, now Jakarta, to find the cause of beriberi, which was killing soldiers and prisoners. He believed it was caused by germs. Then he noticed something odd: chickens kept at his laboratory suddenly developed weakness and paralysis similar to beriberi. He discovered that a cook had been feeding them leftover polished white rice from the hospital. When a new cook switched back to cheaper unpolished rice, the chickens recovered. Eijkman realized that something in the rice husk prevented the disease. His work helped lead to the discovery of vitamins, and in 1929 he shared the Nobel Prize in Physiology or Medicine."],
 g:[["Vitamin","A substance the body needs in small amounts"],["Mineral","An element such as iron or calcium needed by the body"],["Deficiency","A lack of something needed"],["Fortification","Adding nutrients to food"]],
 f:["There are 13 vitamins.","Scurvy is caused by lack of vitamin C.","Vitamin D can be made in the skin with sunlight."],
-fun:"The discovery of a vitamin began with chickens that got sick from eating polished rice.",
-tl:"Ang bitamina at mineral ay kailangan ng katawan sa maliit na dami upang manatiling malusog. Ang kakulangan nito ay nagdudulot ng sakit tulad ng scurvy at anemia. Makukuha ang mga ito sa iba't ibang pagkain tulad ng gulay, prutas at isda."});
+fun:"The discovery of a vitamin began with chickens that got sick from eating polished rice."});
 
 ADDART({id:"fever",t:"Fever",c:"Health",i:"🌡️",w:"Fever",r:["immune","flu","dengue","firstaid","measles"],
 p:[["A raised temperature","A fever is a body temperature higher than normal."],["Fighting infection","Fever is often a sign the body is fighting germs."],["When to worry","Some fevers need urgent medical attention."]],
@@ -35,8 +33,7 @@ s2:[["Warning signs","Health experts advise seeking urgent medical help for a fe
 sp:["The doctor with a million readings","In the mid-1800s, doctors had no agreed idea of what a normal human temperature was. The German physician Carl Wunderlich decided to find out. Over many years at his hospital in Leipzig, he and his staff took temperature readings from about 25,000 patients, using large thermometers held in the armpit for up to 20 minutes. In 1868 he published his findings, based on more than a million measurements, concluding that normal temperature averaged about 37 degrees Celsius and that fever was a sign of disease rather than a disease itself. His work made the thermometer a standard tool of medicine."],
 g:[["Fever","A body temperature above normal"],["Hypothalamus","The part of the brain that controls body temperature"],["Pyrogen","A substance that causes fever"],["Febrile seizure","A seizure in a child caused by fever"]],
 f:["Fever is usually a sign of infection.","Normal body temperature is about 37 °C.","Babies under three months with fever need urgent care."],
-fun:"Some cold-blooded lizards give themselves a fever by moving to warm spots when they are infected.",
-tl:"Ang lagnat ay pagtaas ng temperatura ng katawan, kadalasang 38 °C o higit pa. Karaniwang palatandaan ito na nilalabanan ng katawan ang impeksiyon. Kailangan ng agarang lunas kung may lagnat ang sanggol o may mapanganib na sintomas."});
+fun:"Some cold-blooded lizards give themselves a fever by moving to warm spots when they are infected."});
 
 ADDART({id:"hiccups",t:"Hiccups, Sneezes and Yawns",c:"Human Body",i:"🤧",w:"Hiccup",r:["reflexes","lungs","nervous","brain","allergy"],
 p:[["Automatic actions","Hiccups, sneezes and yawns happen without us choosing them."],["Contagious yawns","Seeing someone yawn can make you yawn too."],["Sun sneezes","Some people sneeze when they look at bright light."]],
@@ -48,5 +45,4 @@ s2:[["Cures for hiccups","People try many remedies for hiccups: holding their br
 sp:["The thread on the forehead","When a Filipino baby starts hiccupping after feeding, a grandmother may reach for a sewing basket. She pulls out a short piece of thread, moistens it with a little saliva and gently places it on the baby’s forehead. Sometimes, she says, the hiccups stop soon after. Doctors explain that baby hiccups usually stop on their own within minutes and are harmless, and that burping a baby during and after feeding can help prevent them. Still, the thread remedy remains a familiar part of Filipino family tradition, passed from generation to generation along with many other home remedies."],
 g:[["Reflex","An automatic action controlled by the nervous system"],["Diaphragm","The dome-shaped breathing muscle below the lungs"],["Photic sneeze","Sneezing triggered by bright light"],["Contagious","Spreading from one person to another"]],
 f:["Hiccups are caused by sudden contractions of the diaphragm.","Yawning is contagious.","Some people sneeze in bright light."],
-fun:"One man hiccupped for about 68 years.",
-tl:"Ang sinok, pagbahing at paghikab ay mga awtomatikong kilos ng katawan. Ang sinok ay biglaang pag-urong ng diaphragm. Nakahahawa ang paghikab, kaya napapahikab tayo kapag may nakita tayong humihikab."});
+fun:"One man hiccupped for about 68 years."});

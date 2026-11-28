@@ -9,8 +9,7 @@ s2:[["Life cycle","Females lay about 20 eggs, often in nests dug by megapode bir
 sp:["Teeth tipped with iron","In 2024, scientists studying Komodo dragon teeth discovered that the cutting edges and tips are coated with a thin layer of iron, which shows up as an orange color. The iron helps keep the jagged, saw-like edges sharp and strong for slicing through flesh. Komodo dragons replace their teeth throughout their lives, and the iron coating may help each tooth stay effective. Researchers think some meat-eating dinosaurs may have had similarly reinforced teeth."],
 g:[["Monitor lizard","A family of large, active lizards to which the Komodo dragon belongs"],["Venom","A poison delivered by a bite or sting"],["Parthenogenesis","Reproduction without fertilization by a male"],["Carrion","The flesh of dead animals"]],
 f:["The Komodo dragon is the largest living lizard.","It lives only in Indonesia.","Females can reproduce without males."],
-fun:"Komodo dragon teeth are tipped with iron.",
-tl:"Ang Komodo dragon ang pinakamalaking butiki sa mundo. Nakatira lamang ito sa ilang pulo sa Indonesia. May kamandag ang kagat nito, at nanganganib na itong maubos."});
+fun:"Komodo dragon teeth are tipped with iron."});
 
 ADDART({id:"seasnakes",t:"Sea Snakes",c:"Animals and Nature",i:"🐍",w:"Sea snake",r:["snake","reef","pacific","taal","ph"],
 p:[["Snakes of the sea","Sea snakes are venomous snakes that live in warm coastal waters."],["Paddle tails","Flattened, paddle-shaped tails make them excellent swimmers."],["A Philippine lake","One rare sea snake lives only in freshwater Lake Taal."]],
@@ -22,8 +21,7 @@ s2:[["Venom","Many sea snakes have highly potent venom, among the strongest of a
 sp:["Snakes that went back to sea","Millions of years ago, the ancestors of snakes lived on land. Sea snakes are descendants of land-dwelling venomous snakes, related to Australian cobras, that returned to the ocean. Over time they developed paddle tails, valve-like nostrils, salt glands and the ability to give birth in water. Sea kraits made the move separately and still keep a foot on land. This return to the sea mirrors the evolution of whales, dolphins and sea turtles, whose ancestors also lived on land."],
 g:[["Sea krait","A sea snake that comes ashore to rest and lay eggs"],["Elapid","A family of venomous snakes including cobras and sea snakes"],["Antivenom","A medicine that counters snake venom"],["Reef","A ridge of coral or rock near the sea surface"]],
 f:["There are about 70 species of true sea snakes.","Sea kraits lay eggs on land.","The Taal sea snake lives only in Lake Taal."],
-fun:"One sea snake can sense light with its tail.",
-tl:"Ang mga ahas-dagat ay makamandag na ahas na nakatira sa mainit na dagat ng Indian at Pacific Ocean. Ang Taal sea snake ay nakatira lamang sa tubig-tabang ng Lawa ng Taal sa Batangas."});
+fun:"One sea snake can sense light with its tail."});
 
 ADDART({id:"albatross",t:"Albatrosses",c:"Animals and Nature",i:"🕊️",w:"Albatross",r:["birds","birdmigr","penguin","antarc","plasticwaste"],
 p:[["Giant wings","Albatrosses have the longest wingspans of any living birds."],["Ocean wanderers","They can glide for hours over the ocean without flapping."],["Long lives","Some albatrosses live for more than 70 years."]],
@@ -35,8 +33,7 @@ s2:[["Wisdom","Wisdom, a Laysan albatross on Midway Atoll in the Pacific, was fi
 sp:["Wisdom, the oldest wild bird","When the American scientist Chandler Robbins placed a metal band on the leg of a Laysan albatross on Midway Atoll in 1956, he could not have imagined he would see her again 46 years later. In 2002, Robbins, then in his eighties, found the same bird, now named Wisdom, still breeding. Wisdom continued to return year after year, raising dozens of chicks and outliving several mates. In her seventies, she laid yet another egg, amazing scientists. She has probably flown millions of kilometers in her lifetime."],
 g:[["Wingspan","The distance from one wingtip to the other"],["Dynamic soaring","Gliding by using changes in wind speed near the sea surface"],["Bycatch","Animals caught accidentally by fishing"],["Colony","A large group of birds nesting together"]],
 f:["The wandering albatross has the largest wingspan of any living bird.","Albatrosses usually mate for life.","Wisdom is the oldest known wild bird."],
-fun:"Some albatrosses can fly around the world in under two months.",
-tl:"Ang albatross ay malaking ibong-dagat na may pinakamahabang pakpak sa lahat ng ibon. Kaya nitong lumipad nang matagal nang hindi ikinakampay ang pakpak. Nanganganib ang maraming uri nito dahil sa pangingisda at plastik."});
+fun:"Some albatrosses can fly around the world in under two months."});
 
 ADDART({id:"flamingo",t:"Flamingos",c:"Animals and Nature",i:"🦩",w:"Flamingo",r:["birds","wetlands","lakes","tanzaniacountry","birdmigr"],
 p:[["Pink birds","Flamingos are tall wading birds famous for their pink feathers."],["Color from food","Their pink color comes from pigments in the algae and shrimp they eat."],["Upside-down feeding","They feed with their heads upside down, filtering food from water."]],
@@ -48,8 +45,7 @@ s2:[["The six species","The six species are the greater, lesser, Chilean, Caribb
 sp:["Greater, the very old flamingo","In 1933 a greater flamingo arrived at Adelaide Zoo in Australia. Its exact age was unknown, but it was already an adult. Known simply as Greater, it lived at the zoo for more than 80 years, outliving its companions and becoming a local celebrity. When it died in 2014, it was believed to be at least 83 years old, making it one of the oldest known flamingos. Wild flamingos often live 20 to 30 years or more."],
 g:[["Carotenoids","Natural pigments that give red, orange and yellow colors"],["Filter feeding","Straining food from water"],["Crop milk","A liquid food made in the throat of some birds"],["Flamboyance","The name for a group of flamingos"]],
 f:["There are six species of flamingos.","Their pink color comes from their food.","Most lesser flamingos breed at Lake Natron."],
-fun:"A group of flamingos is called a flamboyance.",
-tl:"Ang flamingo ay matangkad na ibong may kulay rosas na balahibo. Ang kulay nito ay galing sa algae at maliliit na hipon na kinakain nito. Kumakain ito nang nakabaligtad ang ulo."});
+fun:"A group of flamingos is called a flamboyance."});
 
 ADDART({id:"locusts",t:"Locusts",c:"Animals and Nature",i:"🦗",w:"Locust",r:["insect","agri","grasslands","kenyacountry","climchange"],
 p:[["Grasshoppers that swarm","Locusts are grasshoppers that can change form and gather into huge swarms."],["A farmer’s fear","Swarms can destroy crops over vast areas in days."],["An ancient plague","Locust plagues have been recorded for thousands of years."]],
@@ -61,8 +57,7 @@ s2:[["The East African outbreak","From 2019 to 2021, heavy rains from cyclones c
 sp:["Albert’s swarm","In June 1875, Dr. Albert Child, a weather observer in Nebraska in the United States, watched a swarm of Rocky Mountain locusts pass overhead for days. Using telegraph reports and his own observations, he estimated that it was about 2,900 kilometers long and 180 kilometers wide, containing perhaps trillions of insects. It may have been the largest gathering of animals ever recorded. Remarkably, less than 30 years later, the Rocky Mountain locust had vanished entirely."],
 g:[["Swarm","A large group of insects moving together"],["Gregarious","Living in groups"],["Hopper","A young locust that cannot yet fly"],["Food security","Having reliable access to enough food"]],
 f:["Locusts are a kind of grasshopper.","Serotonin triggers locust swarming.","In the Philippines, locusts are called balang."],
-fun:"The Rocky Mountain locust once formed perhaps the largest swarm ever recorded, then went extinct.",
-tl:"Ang balang ay uri ng tipaklong na maaaring magkumpol sa napakalalaking kawan. Kayang sirain ng mga kawan ang mga pananim sa malalawak na lugar. Ang desert locust ang pinakamapanganib na uri sa Aprika at Asya."});
+fun:"The Rocky Mountain locust once formed perhaps the largest swarm ever recorded, then went extinct."});
 
 ADDART({id:"fireflies",t:"Fireflies",c:"Animals and Nature",i:"✨",w:"Firefly",r:["beetle","insect","wetlands","ph","conservation"],
 p:[["Living lights","Fireflies are beetles that produce their own light."],["Flashing messages","They flash patterns of light to find mates."],["Trees of light","In Southeast Asia, thousands of fireflies flash together in mangrove trees."]],
@@ -74,5 +69,4 @@ s2:[["Synchronous fireflies","In mangrove swamps of Southeast Asia, males of Pte
 sp:["The glowing tobacco plant","In 1986, scientists at the University of California, San Diego, took the gene that lets fireflies make luciferase and inserted it into a tobacco plant. When the plant was watered with a solution containing luciferin, it glowed faintly in the dark. The famous photograph of the glowing plant appeared in the journal Science and showed that genes from one living thing could work in a completely different one. Today, the firefly gene is one of the most widely used tools in laboratories around the world."],
 g:[["Bioluminescence","Light produced by a living thing"],["Luciferin","The chemical that produces light in fireflies"],["Luciferase","The enzyme that helps luciferin produce light"],["Larva","The young, wingless stage of an insect"]],
 f:["Fireflies are beetles.","Their light produces almost no heat.","Filipinos call fireflies alitaptap."],
-fun:"In Southeast Asian mangroves, thousands of fireflies flash together in perfect rhythm.",
-tl:"Ang alitaptap ay salagubang na gumagawa ng sariling liwanag. Nagpapakislap ito upang makahanap ng kapareha. Sa mga bakawan sa Pilipinas, libu-libong alitaptap ang sabay-sabay na kumikislap."});
+fun:"In Southeast Asian mangroves, thousands of fireflies flash together in perfect rhythm."});

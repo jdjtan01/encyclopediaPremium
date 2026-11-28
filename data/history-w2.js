@@ -12,8 +12,7 @@ s2:[["Mansa Musa’s pilgrimage","In 1324 Mansa Musa traveled to Mecca with a ca
 sp:["The manuscripts of Timbuktu","Families in Timbuktu have kept hundreds of thousands of manuscripts, some dating back to the 1200s, on subjects such as religion, law, astronomy, medicine, poetry and trade. In 2012 and 2013, when armed groups occupied the city, librarians and families secretly smuggled hundreds of thousands of manuscripts to safety in Bamako, hidden in boxes and rice sacks."],
 g:[["Mansa","The title of the ruler of Mali"],["Caravan","A group of travelers and animals crossing a desert together"],["Griot","A West African storyteller, musician and historian"],["Pilgrimage","A journey to a holy place"]],
 f:["Mansa Musa is often called one of the richest people in history.","The Great Mosque of Djenné is the largest mud-brick building in the world.","The country of Mali is named after the empire."],
-fun:"Mansa Musa gave away so much gold in Cairo that its value fell there for years.",
-tl:"Ang Imperyong Mali sa Kanlurang Africa ay itinatag ni Sundiata Keita noong mga 1235. Yumaman ito sa kalakalan ng ginto at asin sa Sahara, at naging tanyag sa ilalim ni Mansa Musa. Ang Timbuktu ay naging sentro ng karunungan."});
+fun:"Mansa Musa gave away so much gold in Cairo that its value fell there for years."});
 
 ADDART({id:"zimbabwe",t:"Great Zimbabwe",c:"History",i:"🧱",w:"Great Zimbabwe",r:["southafricacountry","trade","mali","decol"],
 p:[["City of stone","Great Zimbabwe was a city of massive stone walls built between the 11th and 15th centuries in southern Africa."],["No mortar","Its walls, up to 11 meters high, were built from granite blocks fitted together without mortar."],["A nation’s name","The country of Zimbabwe takes its name from the site, which means houses of stone in the Shona language."]],
@@ -25,8 +24,7 @@ s2:[["Why it declined","By around 1450, Great Zimbabwe was largely abandoned. Ov
 sp:["The golden rhinoceros","At Mapungubwe, a kingdom that flourished just before Great Zimbabwe, near where South Africa, Zimbabwe and Botswana meet, archaeologists in 1933 found a small rhinoceros made of thin gold foil over a wooden core in a royal grave. Made in the 1200s, it is a symbol of the region’s early kingdoms, and South Africa now awards the Order of Mapungubwe, its highest honor."],
 g:[["Enclosure","An area surrounded by a wall or fence"],["Mortar","A paste used to hold bricks or stones together"],["Shona","A people and language of Zimbabwe"],["Soapstone","A soft stone that is easy to carve"]],
 f:["Zimbabwe means houses of stone in Shona.","The Great Enclosure was built without mortar.","The Zimbabwe bird appears on the country’s flag."],
-fun:"Zimbabwe is one of very few countries named after an archaeological site.",
-tl:"Ang Great Zimbabwe ay lungsod ng malalaking pader na bato sa timog Africa na itinayo mula ika-11 hanggang ika-15 siglo ng mga ninuno ng mga Shona. Ang bansang Zimbabwe ay ipinangalan dito."});
+fun:"Zimbabwe is one of very few countries named after an archaeological site."});
 
 ADDART({id:"benin",t:"The Kingdom of Benin",c:"History",i:"🗿",w:"Kingdom of Benin",r:["nigeriacountry","decol","trade","mali"],
 p:[["A West African kingdom","The Kingdom of Benin, in what is now southern Nigeria, was ruled by kings called obas from about the 1200s."],["Master metalworkers","Its artists made thousands of brass and bronze plaques and sculptures of extraordinary skill."],["Walls and a planned city","Benin City was surrounded by earthworks that stretched for thousands of kilometers."]],
@@ -38,5 +36,4 @@ s2:[["The Benin Bronzes","The Benin Bronzes are thousands of plaques, heads, fig
 sp:["Two Benins","The Kingdom of Benin should not be confused with the Republic of Benin, a country to the west of Nigeria. The modern country was known as Dahomey until 1975, when it chose the name Benin after the Bight of Benin, the bay on which it lies. That bay had itself been named after the old Kingdom of Benin, which lies entirely within present-day Nigeria."],
 g:[["Oba","The king of Benin"],["Guild","An association of craftspeople in the same trade"],["Lost-wax casting","A way of making metal sculptures from a wax model"],["Earthworks","Large banks and ditches made of earth"]],
 f:["The Benin Bronzes are mostly made of brass.","The Walls of Benin may have totaled about 16,000 kilometers.","The Kingdom of Benin is in present-day Nigeria, not the country of Benin."],
-fun:"The Walls of Benin may once have been longer than the Great Wall of China’s Ming section.",
-tl:"Ang Kaharian ng Benin sa kasalukuyang timog Nigeria ay pinamunuan ng mga oba mula noong mga ika-13 siglo. Kilala ito sa mga Benin Bronze, mga eskulturang tanso na kinuha ng mga Briton noong 1897 at ngayon ay unti-unting ibinabalik."});
+fun:"The Walls of Benin may once have been longer than the Great Wall of China’s Ming section."});

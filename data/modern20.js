@@ -9,8 +9,7 @@ s2:[["Families of victims","Many of those killed were poor men from crowded city
 sp:["Davao City","Before becoming president, Duterte was mayor of Davao City for over 20 years. Human rights groups linked a so-called Davao Death Squad to killings of suspected criminals there. Even while detained in The Hague, Duterte was elected mayor of Davao again in May 2025."],
 g:[["Extrajudicial killing","Killing by state agents without a legal trial"],["Tokhang","From the Cebuano words for ‘knock’ and ‘plead’"],["Crimes against humanity","Widespread or systematic attacks on civilians"],["Warrant","A legal order to arrest someone"]],
 f:["Tokhang combines the Cebuano words toktok (knock) and hangyo (plead).","Over a million people surrendered to authorities in the campaign’s first months.","Duterte is the first former Asian head of state to be tried at the ICC."],
-fun:"Duterte was arrested at Manila’s airport as he returned from a trip to Hong Kong, and was on a plane to The Hague the same night.",
-tl:"Ang drug war sa Pilipinas ay kampanya kontra droga ni Pangulong Rodrigo Duterte mula 2016 hanggang 2022. Libo-libo ang napatay, at inaresto si Duterte noong 2025 sa utos ng International Criminal Court, na nagtakda ng paglilitis sa kaniya."});
+fun:"Duterte was arrested at Manila’s airport as he returned from a trip to Hong Kong, and was on a plane to The Hague the same night."});
 
 ADDART({id:"phdynasties",t:"Political Dynasties in the Philippines",c:"Philippines",i:"🏛️",w:"Political dynasties in the Philippines",r:["phgov","elections","democ","constitution","marcos","barangay"],
 p:[["Family politics","Political dynasties are families whose members hold many elected posts."],["Banned on paper","The 1987 Constitution says the state should prohibit them, but no law did for decades."],["A first step","In 2026 the House passed an anti-dynasty bill for the first time."]],
@@ -22,8 +21,7 @@ s2:[["Degrees of relation","In Philippine law, relatives are counted by degrees.
 sp:["Why the Constitution says ‘as may be defined by law’","The framers of the 1987 Constitution agreed that dynasties should be banned but left it to Congress to define them. The Supreme Court has said this provision is not self-executing, which means it has no effect until Congress passes a law."],
 g:[["Dynasty","A family that holds power for generations"],["Patronage","Giving jobs or favors in exchange for political support"],["Term limit","A rule limiting how long a person can hold office"],["Affinity","Relation by marriage"]],
 f:["The 1987 Constitution calls for a ban on political dynasties.","Anti-dynasty bills were filed for decades before one passed the House in 2026.","Second-degree relatives include grandparents, grandchildren and siblings."],
-fun:"Some Philippine provinces have had a governor from the same family for more than half a century.",
-tl:"Ang political dynasty ay pamilyang maraming kasapi ang humahawak ng mga halal na posisyon. Sinasabi ng Saligang Batas ng 1987 na dapat itong ipagbawal ayon sa batas, at noong Hunyo 2026, ipinasa ng Kamara sa unang pagkakataon ang isang anti-dynasty bill."});
+fun:"Some Philippine provinces have had a governor from the same family for more than half a century."});
 
 ADDART({id:"maguindanao",t:"The Maguindanao Massacre",c:"Philippines",i:"🕯️",w:"Maguindanao massacre",r:["journalism","mindanao","elections","phdynasties","hrights"],
 p:[["A political killing","On 23 November 2009, 58 people were killed in Maguindanao, Mindanao."],["Journalists targeted","Thirty-two of the victims were journalists, making it the deadliest single attack on the press ever recorded."],["Justice after ten years","In 2019 a court convicted leaders of the powerful Ampatuan clan."]],
@@ -35,5 +33,4 @@ s2:[["Danger for journalists","The Philippines has long been one of the most dan
 sp:["The fight for justice","Families of the murdered journalists kept attending hearings for ten years, some traveling long distances from Mindanao to Manila. Journalists’ unions and media organizations followed the case closely, and the verdict was broadcast live on television."],
 g:[["Massacre","The killing of many defenseless people"],["Impunity","Escaping punishment for a crime"],["Convoy","A group of vehicles traveling together"],["Accessory","A person who helps a crime without being the main offender"]],
 f:["The massacre is the deadliest single attack on journalists ever recorded.","The trial took ten years.","Martial law was declared in Maguindanao for eight days after the massacre."],
-fun:"The verdict in the Maguindanao massacre case ran to more than 700 pages.",
-tl:"Noong 23 Nobyembre 2009, 58 katao ang pinatay sa Ampatuan, Maguindanao, kabilang ang 32 mamamahayag na kasama sa kombos ng kandidatong si Esmael Mangudadatu. Noong 2019, hinatulan ng korte ang mga pinuno ng angkang Ampatuan."});
+fun:"The verdict in the Maguindanao massacre case ran to more than 700 pages."});

@@ -9,8 +9,7 @@ s2:[["Stuxnet","Stuxnet, discovered in 2010, was a highly sophisticated worm tha
 sp:["Why ‘virus’?","Computer scientist Fred Cohen popularized the term ‘computer virus’ in 1983, comparing self-copying programs to biological viruses that infect cells and use them to make copies of themselves."],
 g:[["Malware","Software designed to cause harm"],["Ransomware","Malware that locks data and demands payment"],["Worm","Malware that spreads by itself across networks"],["Trojan","Malware disguised as a useful program"]],
 f:["Elk Cloner was written by a 15-year-old in 1982.","The ILOVEYOU worm spread to millions of computers.","Backups help victims recover from ransomware."],
-fun:"Elk Cloner, one of the first computer viruses, displayed a short poem on infected Apple II computers every 50th time they started up.",
-tl:"Ang malware ay software na idinisenyo upang sirain ang computer, magnakaw ng datos o humingi ng pera. Kabilang dito ang virus, worm, trojan, spyware at ransomware, at nakatutulong ang mga update, backup at pag-iingat sa mga link."});
+fun:"Elk Cloner, one of the first computer viruses, displayed a short poem on infected Apple II computers every 50th time they started up."});
 
 ADDART({id:"captcha",t:"CAPTCHAs",c:"Technology",i:"🤖",w:"CAPTCHA",r:["ai","cybersecurity","compvision","worldwideweb","passwords"],
 p:[["Are you human?","CAPTCHAs are tests that websites use to tell people from bots."],["Wavy letters and traffic lights","They ask users to type distorted text or pick images."],["An AI arms race","As AI improves, CAPTCHAs must become harder or invisible."]],
@@ -22,8 +21,7 @@ s2:[["Luis von Ahn","Luis von Ahn, a Guatemalan-born computer scientist, also co
 sp:["‘I’m not a robot’","The simple checkbox introduced in 2014 works by analyzing how the user moves the mouse and interacts with the page before clicking. Bots tend to move in perfectly straight lines or too quickly."],
 g:[["Bot","An automated software program"],["Turing test","A test of whether a machine can seem human"],["Optical character recognition","Software that reads printed text from images"],["Accessibility","Ease of use for people with disabilities"]],
 f:["CAPTCHA was coined in 2003.","reCAPTCHA helped digitize old books.","Clicking traffic lights helped train AI."],
-fun:"By clicking on images of traffic lights and buses, millions of people unknowingly helped train artificial intelligence systems for self-driving cars.",
-tl:"Ang CAPTCHA ay pagsusulit na ginagamit ng mga website upang makilala ang tao sa bot. Humihiling ito na mag-type ng baluktot na teksto o pumili ng larawan, at habang humuhusay ang AI, kailangang maging mas mahirap o hindi nakikita ang mga ito."});
+fun:"By clicking on images of traffic lights and buses, millions of people unknowingly helped train artificial intelligence systems for self-driving cars."});
 
 ADDART({id:"laptops",t:"Laptops and Tablets",c:"Technology",i:"💻",w:"Laptop",r:["comp","smartphone","touchscreens","battery","operatingsystems"],
 p:[["Computers on the go","Laptops and tablets are portable computers with built-in screens and batteries."],["From luggables to ultrabooks","Early portables weighed more than 10 kilograms."],["Tablets with touch","The iPad made touchscreen tablets popular in 2010."]],
@@ -35,8 +33,7 @@ s2:[["Alan Kay’s Dynabook","In 1972, computer scientist Alan Kay described the
 sp:["Laptops in space","The GRiD Compass flew on the Space Shuttle in 1983. Today, astronauts on the International Space Station use dozens of laptops to control experiments, check procedures and talk with family."],
 g:[["Laptop","A portable folding computer"],["Tablet","A flat touchscreen computer"],["Clamshell","A design with a hinged lid"],["Trackpad","A touch-sensitive pointing surface"]],
 f:["The Osborne 1 weighed about 11 kilograms.","Laptops outsold desktops in the US in 2008.","The iPad was released in 2010."],
-fun:"The first laptop to go to space, the GRiD Compass, cost about 8,000 dollars in 1982.",
-tl:"Ang laptop at tablet ay mga portable na computer na may sariling screen at baterya. Mahigit 10 kilo ang bigat ng mga unang portable, at pinasikat ng iPad ang mga touchscreen tablet noong 2010."});
+fun:"The first laptop to go to space, the GRiD Compass, cost about 8,000 dollars in 1982."});
 
 ADDART({id:"arcadegames",t:"Arcade Games and Pinball",c:"Technology",i:"🕹️",w:"Arcade video game",r:["videogames","esports","toys","japancountry","comp"],
 p:[["Coin-operated fun","Arcade games are coin-operated machines in public places."],["Pong and Pac-Man","Arcade hits launched the video game industry."],["Pinball’s comeback","Pinball, once banned in some cities, has enjoyed a revival."]],
@@ -48,8 +45,7 @@ s2:[["Pac-Man’s design","Toru Iwatani said Pac-Man’s shape was inspired by a
 sp:["Pong’s first test","Atari placed its first Pong machine in Andy Capp’s Tavern in Sunnyvale, California, in 1972. Days later the bar owner called to say it had broken; it was so full of coins that the coin box had jammed."],
 g:[["Arcade","A place with coin-operated games"],["Pinball","A game of keeping a ball in play with flippers"],["Cabinet","The box housing an arcade game"],["High score","The best score recorded on a game"]],
 f:["Pinball was banned in New York until 1976.","Pong was released in 1972.","Mario first appeared in Donkey Kong."],
-fun:"The first Pong machine stopped working because so many coins were stuffed into it that the coin box overflowed.",
-tl:"Ang arcade game ay mga makinang pinatatakbo ng barya sa pampublikong lugar. Inilunsad ng Pong at Pac-Man ang industriya ng video game, at muling sumikat ang pinball na minsang ipinagbawal sa ilang lungsod."});
+fun:"The first Pong machine stopped working because so many coins were stuffed into it that the coin box overflowed."});
 
 ADDART({id:"rubikscube",t:"The Rubik’s Cube",c:"Technology",i:"🧊",w:"Rubik's Cube",r:["toys","alg","robot","boardgames","esports"],
 p:[["A famous puzzle","The Rubik’s Cube is a colorful 3D puzzle invented in Hungary in 1974."],["Quintillions of positions","It has about 43 quintillion possible arrangements."],["Speedcubing","The fastest solvers finish in under three seconds."]],
@@ -61,8 +57,7 @@ s2:[["The 1980s craze","At the height of the craze, books explaining how to solv
 sp:["Blindfolded solving","In blindfolded speedcubing, solvers inspect the cube, memorize its pattern, put on a blindfold and then solve it. Top competitors complete the whole process in less than 15 seconds."],
 g:[["Algorithm","A sequence of moves with a specific result"],["Speedcubing","Solving cubes as fast as possible"],["God’s number","The maximum moves needed to solve any position"],["Combination puzzle","A puzzle solved by arranging pieces"]],
 f:["The Rubik’s Cube was invented in 1974.","Any position can be solved in 20 moves or fewer.","The first official sub-3-second solve came in 2026."],
-fun:"If you turned a Rubik’s Cube once every second, it would take you about 1.4 trillion years to go through all of its positions.",
-tl:"Ang Rubik’s Cube ay makulay na 3D puzzle na inimbento sa Hungary noong 1974. May mga 43 quintillion na posibleng ayos ito, at nalulutas ito ng pinakamabibilis na manlalaro sa wala pang tatlong segundo."});
+fun:"If you turned a Rubik’s Cube once every second, it would take you about 1.4 trillion years to go through all of its positions."});
 
 ADDART({id:"lego",t:"LEGO",c:"Technology",i:"🧱",w:"Lego",r:["toys","plastics","printing3d","robot","boardgames"],
 p:[["Building bricks","LEGO bricks are interlocking plastic toys from Denmark."],["Still compatible","Bricks made today still fit bricks made in 1958."],["More than toys","LEGO is used in education, robotics and art."]],
@@ -74,8 +69,7 @@ s2:[["Legoland","The first Legoland theme park opened in Billund in 1968. Legola
 sp:["Stepping on LEGO","Stepping on a LEGO brick in bare feet is famously painful because bricks are hard and distribute weight onto small points. The company once made slippers designed to protect feet from bricks."],
 g:[["Stud","A bump on top of a brick"],["Clutch power","How firmly bricks hold together"],["Minifigure","A small LEGO person"],["ABS plastic","A tough plastic used for bricks"]],
 f:["LEGO comes from Danish words meaning ‘play well’.","Bricks from 1958 still fit today’s bricks.","Six 2×4 bricks can combine in over 915 million ways."],
-fun:"A tower of about 375,000 LEGO bricks would be needed before the bottom brick broke under the weight, according to a test by scientists.",
-tl:"Ang LEGO ay mga plastik na brick mula sa Denmark na nagdudugtungan. Kasya pa rin ang mga brick na gawa ngayon sa mga gawa noong 1958, at ginagamit ang LEGO sa edukasyon, robotics at sining."});
+fun:"A tower of about 375,000 LEGO bricks would be needed before the bottom brick broke under the weight, according to a test by scientists."});
 
 ADDART({id:"pens",t:"Pens and Pencils",c:"Technology",i:"✏️",w:"Pen",r:["writing","paper","print","typewriter","calligraphy"],
 p:[["Writing tools","Pens and pencils are among the most common tools ever made."],["The ballpoint revolution","The ballpoint pen made writing cheap and easy."],["Pencils use graphite","‘Lead’ pencils actually contain graphite and clay."]],
@@ -87,8 +81,7 @@ s2:[["How long can a pencil write?","A typical pencil can draw a line about 56 k
 sp:["No lead in pencils","Pencils have never contained lead. Early users thought the newly discovered graphite was a type of lead ore and called it ‘plumbago’, meaning lead-like, and the name stuck."],
 g:[["Graphite","A soft form of carbon"],["Ballpoint","A pen that writes with a rolling ball"],["Fountain pen","A pen with an internal ink reservoir"],["Quill","A pen made from a feather"]],
 f:["Pencils contain graphite, not lead.","The ballpoint pen was patented in 1938.","The BIC Cristal has sold over 100 billion units."],
-fun:"The BIC Cristal pen is one of the best-selling consumer products in history, with more than 100 billion sold.",
-tl:"Ang ballpen at lapis ay kabilang sa pinakakaraniwang kasangkapang nagawa. Pinamura at pinadali ng ballpoint pen ang pagsusulat, at grapayt at luwad ang laman ng lapis, hindi tingga."});
+fun:"The BIC Cristal pen is one of the best-selling consumer products in history, with more than 100 billion sold."});
 
 ADDART({id:"eyeglasses",t:"Eyeglasses and Contact Lenses",c:"Health and the Body",i:"👓",w:"Glasses",r:["eye","light","glass","illusions","scope"],
 p:[["Seeing clearly","Eyeglasses and contact lenses correct blurry vision."],["Medieval invention","Eyeglasses were invented in Italy around 1286."],["Billions need them","Billions of people need glasses, but many cannot get them."]],
@@ -100,8 +93,7 @@ s2:[["A sermon about glasses","In 1306, Friar Giordano da Pisa said in a sermon 
 sp:["Glasses in art","One of the earliest paintings showing eyeglasses is a 1352 fresco by Tommaso da Modena in Treviso, Italy, depicting a cardinal reading with spectacles."],
 g:[["Myopia","Nearsightedness"],["Presbyopia","Age-related loss of near focus"],["Diopter","A unit of lens strength"],["Cornea","The clear front surface of the eye"]],
 f:["Eyeglasses were invented around 1286.","Benjamin Franklin invented bifocals.","More time outdoors may reduce myopia in children."],
-fun:"Early eyeglasses had no arms; people balanced them on their noses or held them up, and arms that rested on the ears became common only in the 18th century.",
-tl:"Itinatama ng salamin sa mata at contact lens ang malabong paningin. Inimbento ang salamin sa mata sa Italy noong mga 1286, at bilyun-bilyong tao ang nangangailangan nito ngunit marami ang hindi makakuha."});
+fun:"Early eyeglasses had no arms; people balanced them on their noses or held them up, and arms that rested on the ears became common only in the 18th century."});
 
 ADDART({id:"firesafety",t:"Fire Extinguishers and Sprinklers",c:"Technology",i:"🧯",w:"Fire extinguisher",r:["firefighters","smokedetectors","thermo","reactions","skyscrapers"],
 p:[["Fighting fires early","Fire extinguishers and sprinklers put out fires before they spread."],["Different fires, different extinguishers","Water, foam, powder and carbon dioxide suit different fires."],["Sprinklers save lives","Automatic sprinklers greatly reduce deaths in building fires."]],
@@ -113,8 +105,7 @@ s2:[["The Triangle fire","On 25 March 1911, a fire at the Triangle Shirtwaist Fa
 sp:["Fire safety at home","Fire services recommend keeping a small extinguisher and fire blanket in the kitchen, installing smoke alarms and planning escape routes. In a fire, people should get out, stay out and call emergency services."],
 g:[["Fire triangle","Heat, fuel and oxygen needed for fire"],["Extinguisher","A device that puts out fires"],["Sprinkler","A device that sprays water when heated"],["Smother","To cut off a fire’s oxygen"]],
 f:["Fire needs heat, fuel and oxygen.","Only sprinklers near a fire go off.","Never put water on an oil fire."],
-fun:"In films, every sprinkler in a building often goes off at once, but in reality each sprinkler head activates only when heat reaches it.",
-tl:"Pinapatay ng fire extinguisher at sprinkler ang sunog bago ito kumalat. Iba-iba ang angkop na extinguisher sa iba’t ibang uri ng sunog, at malaki ang ibinababa ng awtomatikong sprinkler sa bilang ng namamatay sa sunog sa gusali."});
+fun:"In films, every sprinkler in a building often goes off at once, but in reality each sprinkler head activates only when heat reaches it."});
 
 ADDART({id:"carsafety",t:"Seat Belts and Airbags",c:"Technology",i:"🚗",w:"Automobile safety",r:["cars","trafficlights","selfdriving","roads","newton"],
 p:[["Saving lives on the road","Seat belts and airbags protect people in car crashes."],["The three-point belt","Volvo engineer Nils Bohlin invented the modern seat belt in 1959."],["Fewer road deaths","Safety features have made cars far safer than in the past."]],
@@ -126,8 +117,7 @@ s2:[["Volvo’s gift","Volvo kept its patent on the three-point belt open for an
 sp:["Crash test dummies","The first crash test dummy, Sierra Sam, was built in 1949 to test aircraft ejection seats. Modern dummies contain dozens of sensors measuring forces on the head, neck, chest and legs."],
 g:[["Three-point belt","A seat belt crossing the lap and chest"],["Crumple zone","A part of a car designed to absorb crash energy"],["Airbag","A cushion that inflates in a crash"],["Recall","When a maker asks owners to return products for repair"]],
 f:["The three-point seat belt was invented in 1959.","Airbags inflate in about 30 milliseconds.","About 1.2 million people die in road crashes each year."],
-fun:"Volvo gave away the patent for its life-saving three-point seat belt so that every carmaker could use it.",
-tl:"Pinoprotektahan ng seat belt at airbag ang mga tao sa banggaan ng kotse. Inimbento ni Nils Bohlin ng Volvo ang makabagong seat belt noong 1959, at ginawang mas ligtas ng mga safety feature ang mga kotse kaysa noon."});
+fun:"Volvo gave away the patent for its life-saving three-point seat belt so that every carmaker could use it."});
 
 ADDART({id:"creditcards",t:"Credit and Debit Cards",c:"Technology",i:"💳",w:"Payment card",r:["money","digitalpay","rfid","atms","cybersecurity"],
 p:[["Plastic money","Credit and debit cards let people pay without cash."],["Born in the 1950s","Diners Club launched the first general charge card in 1950."],["Chips and taps","Cards now use chips and contactless payment."]],
@@ -139,8 +129,7 @@ s2:[["The ‘first supper’","According to Diners Club, Frank McNamara forgot h
 sp:["The magnetic stripe","IBM engineer Forrest Parry developed the magnetic stripe card in the 1960s. He reportedly got the idea when his wife suggested using a hot iron to attach a strip of magnetic tape to a plastic card."],
 g:[["Credit card","A card for borrowing money to pay"],["Debit card","A card that takes money directly from a bank account"],["Interest","The cost of borrowing money"],["EMV chip","A security chip in payment cards"]],
 f:["Diners Club was the first general charge card.","Chip cards are harder to copy than magnetic stripes.","Contactless cards use NFC."],
-fun:"The magnetic stripe on cards was attached using a household iron in its inventor’s first experiments.",
-tl:"Pinapayagan ng credit at debit card ang pagbabayad nang walang cash. Inilunsad ng Diners Club ang unang pangkalahatang charge card noong 1950, at gumagamit na ngayon ang mga card ng chip at contactless na pagbabayad."});
+fun:"The magnetic stripe on cards was attached using a household iron in its inventor’s first experiments."});
 
 ADDART({id:"machinetools",t:"Machine Tools",c:"Technology",i:"⚙️",w:"Machine tool",r:["indrev","steel","printing3d","robot","metals"],
 p:[["Machines that make machines","Machine tools cut and shape metal parts precisely."],["Lathes and mills","Lathes spin the workpiece; milling machines spin the cutter."],["Computer control","CNC machines are guided by computer programs."]],
@@ -152,8 +141,7 @@ s2:[["Interchangeable parts","The idea of interchangeable parts, demonstrated wi
 sp:["Maudslay’s micrometer","Henry Maudslay built a bench micrometer he called the ‘Lord Chancellor’ because its judgments were final; it could measure to about a ten-thousandth of an inch."],
 g:[["Lathe","A machine that spins a workpiece against a tool"],["Milling machine","A machine with a rotating cutter"],["CNC","Computer numerical control"],["Interchangeable parts","Identical parts that fit any product"]],
 f:["Machine tools are called the machines that make machines.","Maudslay’s lathe made standard screws possible.","CNC machines follow computer code."],
-fun:"Henry Maudslay’s workshop trained many of the great engineers of the 19th century, including Joseph Whitworth and James Nasmyth, inventor of the steam hammer.",
-tl:"Hinuhugis at pinuputol nang tumpak ng machine tools ang mga piyesang metal. Pinaiikot ng lathe ang materyal habang pinaiikot naman ng milling machine ang pamutol, at ginagabayan ng mga programa sa computer ang mga CNC machine."});
+fun:"Henry Maudslay’s workshop trained many of the great engineers of the 19th century, including Joseph Whitworth and James Nasmyth, inventor of the steam hammer."});
 
 ADDART({id:"aluminum",t:"Aluminum",c:"Technology",i:"🥫",w:"Aluminium",r:["metals","periodictable","recycling","flight","hydropower"],
 p:[["Once more precious than gold","Aluminum was once rare and expensive."],["Light and strong","It is used in planes, cans, cars and buildings."],["Endlessly recyclable","Recycling aluminum saves about 95 percent of the energy."]],
@@ -165,8 +153,7 @@ s2:[["Napoleon III’s cutlery","Napoleon III is said to have used aluminum plat
 sp:["The Washington Monument’s tip","The 2.8-kilogram aluminum pyramid placed atop the Washington Monument in 1884 was one of the largest pieces of aluminum made at the time and was displayed at Tiffany’s jewelry store before installation."],
 g:[["Bauxite","The main ore of aluminum"],["Electrolysis","Splitting compounds using electricity"],["Alloy","A mixture of metals"],["Oxide layer","A thin protective surface coating"]],
 f:["Aluminum is the most abundant metal in Earth’s crust.","Aluminum was once more valuable than gold.","Recycling aluminum saves about 95% of the energy."],
-fun:"About three-quarters of all the aluminum ever produced is still in use today, thanks to recycling.",
-tl:"Dating bihira at mas mahal pa sa ginto ang aluminyo. Magaan at matibay ito, ginagamit sa eroplano, lata, kotse at gusali, at nakatitipid ng mga 95 porsiyento ng enerhiya ang pag-recycle nito."});
+fun:"About three-quarters of all the aluminum ever produced is still in use today, thanks to recycling."});
 
 ADDART({id:"adhesives",t:"Glues and Adhesives",c:"Technology",i:"🧴",w:"Adhesive",r:["plastics","molecules","geckos","polymers","constructionmachines"],
 p:[["Sticking things together","Adhesives bond materials together."],["Ancient glues","Neanderthals made glue from birch tar over 200,000 years ago."],["Superglue and sticky notes","Some famous adhesives were discovered by accident."]],
@@ -178,8 +165,7 @@ s2:[["Duct tape","Duct tape, a cloth-backed waterproof tape, was developed durin
 sp:["Mussel glue","Mussels attach to rocks using threads with a protein-based glue that sticks strongly underwater. Scientists are developing similar adhesives for surgery, where wet surfaces make ordinary glues fail."],
 g:[["Adhesive","A substance that sticks things together"],["Epoxy","A strong two-part glue"],["Cyanoacrylate","The chemical in superglue"],["Pressure-sensitive adhesive","A sticky material used on tapes and labels"]],
 f:["Neanderthals made glue from birch tar.","Superglue was discovered by accident.","Post-it Notes use a weak, reusable adhesive."],
-fun:"Astronauts on Apollo 17 repaired a broken fender on their Moon buggy using duct tape and maps.",
-tl:"Pinagdidikit ng pandikit ang mga materyal. Gumawa ang mga Neanderthal ng pandikit mula sa birch tar mahigit 200,000 taon na ang nakalipas, at natuklasan nang hindi sinasadya ang ilang sikat na pandikit gaya ng superglue at sticky notes."});
+fun:"Astronauts on Apollo 17 repaired a broken fender on their Moon buggy using duct tape and maps."});
 
 ADDART({id:"teflon",t:"Teflon and Nonstick Coatings",c:"Technology",i:"🍳",w:"Polytetrafluoroethylene",r:["plastics","carbonchem","pollution","spacesuits","metals"],
 p:[["Slippery plastic","Teflon is a super-slippery plastic discovered by accident in 1938."],["Nonstick pans","It made eggs slide off frying pans."],["Forever chemicals","Chemicals used to make it have raised serious health and pollution concerns."]],
@@ -191,10 +177,9 @@ s2:[["The Teflon president","US Representative Patricia Schroeder called Preside
 sp:["How it sticks to the pan","Since nothing sticks to Teflon, attaching it to pans was a challenge. Grégoire roughened aluminum surfaces with acid so that PTFE could grip them mechanically."],
 g:[["PTFE","Polytetrafluoroethylene, the chemical in Teflon"],["Inert","Not chemically reactive"],["PFAS","A group of long-lasting fluorinated chemicals"],["Friction","Resistance when surfaces rub"]],
 f:["Teflon was discovered by accident in 1938.","The first nonstick pan was made in 1954.","PFAS are called forever chemicals."],
-fun:"Teflon is so slippery that geckos, which can climb glass, cannot cling to it.",
-tl:"Ang Teflon ay napakadulas na plastik na natuklasan nang hindi sinasadya noong 1938. Ginawa nitong hindi dumikit ang itlog sa kawali, ngunit nagdulot ng seryosong pag-aalala sa kalusugan at polusyon ang mga kemikal na ginamit sa paggawa nito."});
+fun:"Teflon is so slippery that geckos, which can climb glass, cannot cling to it."});
 
-ADDART({id:"youtube",t:"YouTube",c:"Technology",i:"▶️",w:"YouTube",r:["streaming","socialmedia","shortvideo","worldwideweb","recommender"],
+ADDART({id:"youtube",t:"YouTube",c:"Technology",i:"▶️",w:"YouTube",r:["streaming","socialmedia","shortvideo","worldwideweb","recommender","recalgorithms","copyrightonline"],
 p:[["Video for everyone","YouTube lets anyone upload and watch videos."],["Founded in 2005","The first video, ‘Me at the zoo’, was uploaded in April 2005."],["Billions of viewers","YouTube is one of the most visited websites in the world."]],
 l:"YouTube is a video-sharing platform where users upload, watch, comment on and share videos. It was founded in February 2005 by three former PayPal employees, Chad Hurley, Steve Chen and Jawed Karim; the first video, ‘Me at the zoo’, an 18-second clip of Karim at the San Diego Zoo, was uploaded on 23 April 2005. YouTube grew explosively, and Google bought it in 2006 for 1.65 billion dollars. Today it has more than 2.5 billion monthly users, and hundreds of hours of video are uploaded every minute, in more than 100 countries and 80 languages. YouTube changed entertainment, music, education and news, allowing ordinary people to become creators with millions of subscribers and earn money from advertising. It hosts music videos, tutorials, lectures, gaming streams, vlogs and ‘Shorts’, short vertical videos introduced in 2020. YouTube’s recommendation algorithm, which suggests videos to watch next, drives most viewing; critics say it can spread misinformation and extreme content, and YouTube has faced criticism over content moderation, copyright and children’s safety.",
 s:[["Early growth","YouTube’s easy uploading and embedding of videos on other websites helped it spread. A 2005 Nike advertisement featuring footballer Ronaldinho became one of the first videos to reach a million views. In 2012, ‘Gangnam Style’ by PSY became the first video to pass one billion views."],["Creators","YouTube creators earn money from advertising, memberships, sponsorships and merchandise. Some, such as MrBeast, have hundreds of millions of subscribers. Being a YouTuber has become a popular career aspiration among children."],["Learning","YouTube is widely used for learning, from cooking and repairs to mathematics and languages. Channels such as Khan Academy and Crash Course have reached millions of students."],["Problems","YouTube removes videos that break its rules on violence, hate speech and misinformation, using AI and human reviewers, but critics say harmful content still spreads. In 2019, YouTube paid a 170 million dollar settlement over collecting data from children without parental consent."]],
@@ -204,10 +189,9 @@ s2:[["Baby Shark","‘Baby Shark Dance’, a children’s song video from South 
 sp:["‘Me at the zoo’","The first YouTube video shows Jawed Karim in front of elephants, commenting that they have ‘really, really, really long trunks’. It has been viewed more than 300 million times."],
 g:[["Upload","To send a file to a website"],["Creator","A person who makes online content"],["Algorithm","Rules a computer uses to make decisions"],["Vlog","A video blog"]],
 f:["YouTube’s first video was uploaded in 2005.","Google bought YouTube in 2006.","Baby Shark is YouTube’s most-viewed video."],
-fun:"YouTube was originally planned as a video dating site called ‘Tune In Hook Up’ before its founders changed the idea.",
-tl:"Pinapayagan ng YouTube ang sinuman na mag-upload at manood ng video. Itinatag ito noong 2005 at in-upload ang unang video na ‘Me at the zoo’, at isa na ito ngayon sa pinakabinibisitang website sa mundo."});
+fun:"YouTube was originally planned as a video dating site called ‘Tune In Hook Up’ before its founders changed the idea."});
 
-ADDART({id:"wikipedia",t:"Wikipedia",c:"Technology",i:"📚",w:"Wikipedia",r:["encyclopedias","worldwideweb","opensource","searchengines","misinformation"],
+ADDART({id:"wikipedia",t:"Wikipedia",c:"Technology",i:"📚",w:"Wikipedia",r:["encyclopedias","worldwideweb","opensource","searchengines","misinformation","onlinecommunities"],
 p:[["The free encyclopedia","Wikipedia is a free online encyclopedia written by volunteers."],["Launched in 2001","It began on 15 January 2001."],["Hundreds of languages","It has millions of articles in more than 300 languages."]],
 l:"Wikipedia is a free online encyclopedia written and edited collaboratively by volunteers around the world. It was launched on 15 January 2001 by Jimmy Wales and Larry Sanger, growing out of Nupedia, an earlier expert-written encyclopedia that had produced few articles. Wikipedia uses wiki software, which lets anyone edit pages directly in a web browser, and its content is freely licensed so that anyone can reuse it. It grew rapidly and became one of the most visited websites in the world. By late 2025, the English Wikipedia had about 7 million articles, and Wikipedia editions in more than 340 languages together held more than 66 million articles. Wikipedia is run by the Wikimedia Foundation, a nonprofit organization funded mainly by donations, and carries no advertising. Its articles are expected to follow a neutral point of view and cite reliable published sources. Early critics doubted that an encyclopedia anyone could edit could be accurate, but studies found its quality comparable to traditional encyclopedias in many areas, though vandalism, bias and uneven coverage remain challenges. Wikipedia’s content is widely used to train artificial intelligence and power search results.",
 s:[["How it works","Every article has a history page showing all changes and a talk page for discussion. Volunteer editors watch for vandalism, and automated programs called bots revert many obvious problems within seconds. Disputes are resolved through discussion and policies, with experienced volunteers acting as administrators."],["Accuracy","A 2005 study in the journal Nature compared science articles in Wikipedia and Encyclopaedia Britannica and found a similar number of serious errors, though Britannica disputed the study. Wikipedia advises readers to check sources, especially for controversial topics."],["Gaps and bias","Most Wikipedia editors are men from wealthier countries, which affects coverage. Projects such as Women in Red have created hundreds of thousands of biographies of women to address this imbalance, and editors work to improve coverage of Africa, Asia and other regions."],["Wikipedia and AI","Wikipedia is one of the most important sources of text used to train large language models, and its information appears in search engine panels and voice assistants. The Wikimedia Foundation has asked AI companies to credit and support Wikipedia."]],
@@ -217,8 +201,7 @@ s2:[["The blackout","On 18 January 2012, the English Wikipedia blacked out for 2
 sp:["Wiki","The word ‘wiki’ comes from the Hawaiian word for ‘quick’. Ward Cunningham created the first wiki software, WikiWikiWeb, in 1995, naming it after the Wiki Wiki shuttle buses at Honolulu airport."],
 g:[["Wiki","A website anyone can edit"],["Vandalism","Deliberately damaging content"],["Neutral point of view","Presenting all significant views fairly"],["Free license","Permission for anyone to reuse content"]],
 f:["Wikipedia was launched on 15 January 2001.","English Wikipedia has about 7 million articles.","Wiki means ‘quick’ in Hawaiian."],
-fun:"The first edit on Wikipedia, made by Jimmy Wales on its launch day, was simply the text ‘Hello, World!’.",
-tl:"Ang Wikipedia ay libreng ensiklopedya sa internet na isinusulat ng mga boluntaryo. Inilunsad ito noong 15 Enero 2001 at may milyun-milyong artikulo na sa mahigit 300 wika."});
+fun:"The first edit on Wikipedia, made by Jimmy Wales on its launch day, was simply the text ‘Hello, World!’."});
 
 ADDART({id:"textmessaging",t:"Text Messaging",c:"Technology",i:"💬",w:"SMS",r:["phone","smartphone","emoji","socialmedia","email"],
 p:[["Short messages","Text messages are short written messages sent between phones."],["The first text","The first SMS, ‘Merry Christmas’, was sent in 1992."],["Messaging apps","Apps such as WhatsApp now carry most messages."]],
@@ -230,8 +213,7 @@ s2:[["The texting capital","In the early 2000s, Filipinos sent hundreds of milli
 sp:["The first text","Neil Papworth sent the first text message from a computer because phones could not yet type messages. The recipient, Vodafone director Richard Jarvis, was at a Christmas party and could not reply. The text was sold as an NFT in 2021."],
 g:[["SMS","Short Message Service"],["Predictive text","Software that guesses the word being typed"],["Encryption","Scrambling messages so only recipients can read them"],["RCS","Rich Communication Services, a successor to SMS"]],
 f:["The first text message was ‘Merry Christmas’.","SMS messages are limited to 160 characters.","WhatsApp has more than 2 billion users."],
-fun:"The first-ever text message was sold as a digital collectible in 2021 for about 107,000 euros.",
-tl:"Ang text message ay maiikling nakasulat na mensahe sa pagitan ng mga telepono. Ipinadala ang unang SMS na ‘Merry Christmas’ noong 1992, at karamihan ng mensahe ngayon ay dumaraan na sa mga app gaya ng WhatsApp."});
+fun:"The first-ever text message was sold as a digital collectible in 2021 for about 107,000 euros."});
 
 ADDART({id:"lithium",t:"Lithium",c:"Technology",i:"🔋",w:"Lithium",r:["battery","ev","periodictable","chilecountry","australiacountry"],
 p:[["The lightest metal","Lithium is the lightest metal and the third element in the periodic table."],["Battery power","Lithium-ion batteries power phones, laptops and electric cars."],["White gold","Demand for lithium has soared with electric vehicles."]],
@@ -243,8 +225,7 @@ s2:[["The Lithium Triangle","Chile, Argentina and Bolivia hold more than half of
 sp:["Lighter than water","Lithium is so light that it floats on water, but it reacts with it, fizzing and producing hydrogen gas. It is the least dense metal."],
 g:[["Lithium-ion battery","A rechargeable battery using lithium ions"],["Brine","Very salty water"],["Electrolyte","A substance that lets ions move"],["Spodumene","A lithium-bearing mineral"]],
 f:["Lithium is the lightest metal.","Lithium-ion batteries won the 2019 Nobel Prize.","Lithium floats on water."],
-fun:"Lithium is soft enough to cut with a knife and light enough to float on oil.",
-tl:"Ang lithium ang pinakamagaan na metal. Pinatatakbo ng mga lithium-ion battery ang mga telepono, laptop at electric car, at tumaas nang husto ang demand para sa lithium dahil sa mga electric vehicle."});
+fun:"Lithium is soft enough to cut with a knife and light enough to float on oil."});
 
 ADDART({id:"faxmachines",t:"Fax Machines",c:"Technology",i:"📠",w:"Fax",r:["telegraph","phone","printers","email","japancountry"],
 p:[["Sending pages by phone","Fax machines send copies of documents over telephone lines."],["Older than the telephone","The first fax patent dates from 1843."],["Still in use","Faxes remain common in some offices and hospitals."]],
@@ -256,5 +237,4 @@ s2:[["Faxes and the fall of communism","During the 1989 Tiananmen Square protest
 sp:["A sound of the past","The modem sounds of fax machines and dial-up internet, a series of beeps, hisses and screeches, are remembered fondly by many people as the soundtrack of early digital communication."],
 g:[["Facsimile","An exact copy"],["Scanner","A device that converts paper images into digital data"],["Thermal paper","Paper that darkens when heated"],["Modem","A device that converts data into sound signals"]],
 f:["The first fax patent came in 1843.","Fax machines predate the telephone.","Faxes are still used in some hospitals and offices."],
-fun:"The fax machine was invented 33 years before the telephone.",
-tl:"Nagpapadala ang fax machine ng kopya ng dokumento sa linya ng telepono. Mas matanda pa ito sa telepono, dahil 1843 ang unang patent, at ginagamit pa rin ito sa ilang opisina at ospital."});
+fun:"The fax machine was invented 33 years before the telephone."});

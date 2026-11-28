@@ -9,8 +9,7 @@ s2:[["Bamboo in daily life","Bamboo is used for houses, bridges, floors, furnitu
 sp:["Faster than you can watch","Some species of bamboo grow so fast that, on a warm, wet day, you could almost see them move. Growth of nearly a meter in 24 hours works out to about 4 centimeters an hour. Bamboo achieves this not by making many new cells quickly but by rapidly stretching cells that formed while the shoot was still underground."],
 g:[["Culm","The woody, hollow stem of bamboo"],["Rhizome","An underground stem that sends up new shoots"],["Node","A solid joint dividing a bamboo stem into sections"],["Invasive","Spreading quickly into places where it is not wanted"]],
 f:["Bamboo is a grass, not a tree.","Some bamboo grows nearly a meter in a day.","Many bamboos flower all at once only every few decades."],
-fun:"Thomas Edison used bamboo from Japan to make the filaments of early light bulbs.",
-tl:"Ang kawayan ay hindi puno kundi higanteng damo at isa sa pinakamabilis tumubong halaman. Ginagamit ito sa paggawa ng bahay, kasangkapan, pagkain at instrumentong pangmusika."});
+fun:"Thomas Edison used bamboo from Japan to make the filaments of early light bulbs."});
 
 ADDART({id:"cactus",t:"Cacti and Desert Plants",c:"Animals and Nature",i:"🌵",w:"Cactus",r:["desert","flower","mexicocountry","photo"],
 p:[["Surviving drought","Cacti and other desert plants have special ways to survive with very little water."],["Spines, not leaves","Most cacti have spines instead of leaves, which protect them and reduce water loss."],["Native to the Americas","Almost all of the roughly 1,750 cactus species are native to the Americas."]],
@@ -22,8 +21,7 @@ s2:[["The saguaro","The saguaro cactus of the Sonoran Desert in the southwestern
 sp:["Night bloomers","Some cacti, such as the night-blooming cereus and queen of the night, open their large, fragrant white flowers for just one night, often only once a year. They are pollinated by moths and bats. In some places, people gather to watch them bloom, and botanical gardens hold special night openings."],
 g:[["Succulent","A plant with thick, fleshy parts that store water"],["Spine","A sharp, modified leaf on a cactus"],["Stomata","Tiny pores in plants that let gases in and out"],["CAM photosynthesis","A way of photosynthesis that saves water by opening pores at night"]],
 f:["A cactus’s spines are modified leaves.","A saguaro takes 50 to 70 years to grow its first arm.","About 31 percent of cactus species are threatened."],
-fun:"A cactus appears on the national flag of Mexico.",
-tl:"Ang cactus ay halamang nabubuhay sa tuyong lugar at nag-iimbak ng tubig sa makapal na tangkay. May tinik ito sa halip na dahon. Halos lahat ng uri nito ay katutubo sa Amerika."});
+fun:"A cactus appears on the national flag of Mexico."});
 
 ADDART({id:"carnivplant",t:"Carnivorous Plants",c:"Animals and Nature",i:"🪴",w:"Carnivorous plant",r:["flower","insect","photo","wetlands"],
 p:[["Plants that eat animals","Carnivorous plants trap and digest insects and other small animals."],["Clever traps","They use snapping leaves, slippery pitchers, sticky hairs and underwater bladders."],["Living in poor soils","Most grow in bogs and other places where the soil lacks nutrients such as nitrogen."]],
@@ -35,8 +33,7 @@ s2:[["Darwin’s favorite plants","Charles Darwin experimented with sundews, fee
 sp:["Rat-eating plants","In 2007 scientists exploring Mount Victoria on the island of Palawan in the Philippines found a pitcher plant with pitchers up to about 30 centimeters tall. Named Nepenthes attenboroughii, it is one of the largest carnivorous plants and has been reported to trap rats, though it mostly catches insects."],
 g:[["Carnivorous plant","A plant that traps and digests animals"],["Pitcher","A jug-shaped leaf that traps insects"],["Enzyme","A substance that speeds up chemical reactions, such as digestion"],["Bog","Wet, spongy ground with acidic soil"]],
 f:["The Venus flytrap grows wild only in North and South Carolina.","Bladderworts have one of the fastest movements of any plant.","Some pitcher plants can trap rats."],
-fun:"A Venus flytrap only shuts if an insect touches its trigger hairs twice within about 20 seconds.",
-tl:"Ang mga halamang carnivorous, gaya ng Venus flytrap at pitcher plant, ay nanghuhuli at tumutunaw ng insekto upang makakuha ng sustansiya. Ilang uri nito ang matatagpuan sa Palawan."});
+fun:"A Venus flytrap only shuts if an insect touches its trigger hairs twice within about 20 seconds."});
 
 ADDART({id:"ferns",t:"Mosses and Ferns",c:"Animals and Nature",i:"🌿",w:"Fern",r:["trees","photo","flower","fungi"],
 p:[["Plants without flowers","Mosses and ferns are plants that reproduce by spores instead of seeds and never make flowers."],["Ancient plants","Their ancestors were among the first plants to grow on land, hundreds of millions of years ago."],["Coal from ferns","Giant ferns and their relatives formed the forests whose remains became coal."]],
@@ -48,5 +45,4 @@ s2:[["Forests that became coal","About 300 million years ago, in the Carbonifero
 sp:["Reviving ancient moss","In 2014 British scientists took a core of moss from deep in an Antarctic moss bank, where it had been frozen for about 1,500 years. Placed in a warm, lit incubator, the moss began to grow again within weeks. The experiment showed that some plants can survive very long periods of freezing, which may help them recolonize land after ice ages."],
 g:[["Spore","A tiny reproductive cell that can grow into a new plant"],["Frond","The leaf of a fern"],["Fiddlehead","The coiled young frond of a fern"],["Peat","Partly decayed plant matter, mostly moss, that builds up in bogs"]],
 f:["Mosses and ferns reproduce by spores, not seeds.","Coal formed from ancient swamp forests of fern-like plants.","Moss frozen for about 1,500 years has been brought back to life."],
-fun:"Peatlands store about twice as much carbon as all of the world’s forests.",
-tl:"Ang lumot at pako ay mga halamang hindi namumulaklak at nagpaparami gamit ang spore. Kabilang ang kanilang mga ninuno sa mga unang halamang tumubo sa lupa, at nagmula sa sinaunang kagubatan ng pako ang uling."});
+fun:"Peatlands store about twice as much carbon as all of the world’s forests."});

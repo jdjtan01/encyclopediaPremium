@@ -9,8 +9,7 @@ s2:[["How ships float","A steel ship floats even though steel is denser than wat
 sp:["Eureka!","According to a story told by the Roman writer Vitruvius, King Hiero II of Syracuse asked Archimedes to find out whether his new crown was pure gold. While bathing, Archimedes noticed the water level rise and realized he could measure the crown’s volume by the water it displaced, and so compare its density with gold. He supposedly ran through the streets shouting Eureka, I have found it."],
 g:[["Fluid","A substance that can flow, such as a liquid or gas"],["Pressure","Force divided by the area it acts on"],["Buoyancy","The upward force a fluid exerts on an object in it"],["Viscosity","A fluid’s resistance to flowing"]],
 f:["Air presses down with about 10 metric tons on every square meter at sea level.","Ships float because they displace their own weight of water.","Hydraulic machines can lift cars with a small push."],
-fun:"Air presses on every square meter of the ground with a force about equal to the weight of 10 metric tons.",
-tl:"Ang fluid ay anumang bagay na dumadaloy, gaya ng tubig at hangin. Ang presyon ay puwersang nakakalat sa isang lugar. Ipinaliliwanag ng fluid mechanics kung bakit lumulutang ang barko at lumilipad ang eroplano."});
+fun:"Air presses on every square meter of the ground with a force about equal to the weight of 10 metric tons."});
 
 ADDART({id:"timephys",t:"Time and Clocks",c:"Science",i:"⏱️",w:"Time",r:["relat","earthplanet","gps","atom","clocks"],
 p:[["Measuring time","People have measured time for thousands of years using the Sun, the Moon, water, sand, pendulums and atoms."],["The second","Today the second is defined using vibrations of cesium atoms."],["Time is relative","Einstein showed that time passes at different rates depending on speed and gravity."]],
@@ -22,5 +21,4 @@ s2:[["Time zones","When railways and telegraphs linked distant cities in the 180
 sp:["The longitude prize","For centuries, sailors could find their latitude from the Sun and stars, but not their longitude, causing many shipwrecks. In 1714 the British government offered a prize for a solution. The clockmaker John Harrison spent decades building marine clocks; his H4, a large pocket watch, kept time so well on a voyage to Jamaica in 1761–1762 that it allowed longitude to be found within a few kilometers."],
 g:[["Second","The basic unit of time"],["Atomic clock","A clock that keeps time using the vibrations of atoms"],["Time zone","A region that uses the same standard time"],["Leap second","An extra second added to keep clocks in step with Earth’s rotation"]],
 f:["The second is defined by the vibrations of cesium atoms.","GPS satellites must correct for relativity.","Greenwich was chosen as the prime meridian in 1884."],
-fun:"A clock on a high shelf ticks very slightly faster than one on the floor, because gravity is a little weaker there.",
-tl:"Ang panahon ay sinusukat ng tao gamit ang Araw, Buwan, tubig, pendulum at ngayon ay atomo. Ang segundo ay batay sa pag-vibrate ng mga atomo ng cesium, at ipinakita ni Einstein na ang takbo ng panahon ay nag-iiba ayon sa bilis at grabidad."});
+fun:"A clock on a high shelf ticks very slightly faster than one on the floor, because gravity is a little weaker there."});

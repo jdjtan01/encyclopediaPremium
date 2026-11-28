@@ -9,8 +9,7 @@ s2:[["Thunderstorms in the Philippines","During the southwest monsoon and the ra
 sp:["Counting the seconds","A family is having a picnic in a park in Davao on a hot afternoon when dark clouds begin to tower over the mountains. A flash of light streaks across the sky. The children start counting: one, two, three, four, five, six. Then comes a deep rumble of thunder. Their father explains that dividing six by three means the lightning was about two kilometers away, close enough to be dangerous. Quickly, they pack up and run to their car, closing the doors just as heavy rain begins to pour. Inside, they watch the storm safely, counting the seconds between each flash and boom as the storm moves past."],
 g:[["Cumulonimbus","A tall thunderstorm cloud"],["Lightning","A giant electric spark in the atmosphere"],["Thunder","The sound caused by lightning heating the air"],["Hail","Balls of ice that fall from storm clouds"]],
 f:["Lightning is hotter than the Sun’s surface.","Light travels faster than sound.","No place outdoors is safe in a thunderstorm."],
-fun:"One lightning flash stretched about 768 kilometers, longer than the road trip from Manila to Legazpi.",
-tl:"Ang bagyong may kulog at kidlat ay nabubuo mula sa matataas na ulap na tinatawag na cumulonimbus. Pinaiinit ng kidlat ang hangin nang napakabilis kaya sumasabog ito bilang kulog. Pumasok sa loob ng gusali kapag may kulog at kidlat."});
+fun:"One lightning flash stretched about 768 kilometers, longer than the road trip from Manila to Legazpi."});
 
 ADDART({id:"rainbows",t:"Rainbows",c:"Weather",i:"🌈",w:"Rainbow",r:["light","climate","newton","illusions","wcycle"],
 p:[["Sunlight and rain","Rainbows form when sunlight shines through raindrops."],["A circle of color","A rainbow is really a circle, usually cut off by the ground."],["A second bow","Sometimes a second, fainter rainbow appears with colors reversed."]],
@@ -22,8 +21,7 @@ s2:[["The science of Descartes and Newton","In 1637 the French philosopher René
 sp:["Newton’s dark room","In 1666, while Cambridge University was closed because of the plague, young Isaac Newton conducted experiments at his family home. He darkened a room, made a small hole in the window shutter to let in a beam of sunlight and placed a glass prism in its path. On the opposite wall appeared a long band of colors. Many people then believed that prisms added color to light. Newton used a second prism to recombine the colors into white light, showing that white light itself contains all the colors. His discoveries explained the rainbow and became part of his book Opticks, published in 1704."],
 g:[["Refraction","The bending of light as it passes into a new material"],["Prism","A piece of glass that splits light into colors"],["Spectrum","The range of colors in light"],["Bahaghari","The Filipino word for rainbow"]],
 f:["Rainbows appear opposite the Sun.","A rainbow is really a full circle.","In a double rainbow, the second bow’s colors are reversed."],
-fun:"No two people ever see exactly the same rainbow.",
-tl:"Ang bahaghari ay nabubuo kapag tumatama ang sikat ng araw sa mga patak ng ulan. Hinahati ng bawat patak ang liwanag sa iba't ibang kulay. Ang bahaghari ay tunay na bilog, ngunit karaniwang natatakpan ng lupa ang kalahati nito."});
+fun:"No two people ever see exactly the same rainbow."});
 
 ADDART({id:"rivers",t:"How Rivers Work",c:"Geography",i:"🏞️",w:"River",r:["wcycle","deltas","lakes","waterfalls","amazonriver"],
 p:[["From source to sea","Rivers carry water from highlands to lakes and seas."],["Shaping the land","They carve valleys and build deltas."],["Lifelines","Civilizations grew along rivers."]],
@@ -35,8 +33,7 @@ s2:[["Rivers of the Philippines","The Cagayan River in northern Luzon is the cou
 sp:["The river that rose overnight","On September 26, 2009, residents of Marikina City woke to heavy rain that did not stop. Tropical Storm Ondoy, known internationally as Ketsana, was dropping record rainfall on Metro Manila. By afternoon, the normally calm Marikina River had risen several meters, pouring into streets and homes. Families climbed onto roofs, waiting for rescue boats. Cars floated through flooded avenues. When the water finally receded, it left thick mud everywhere. The disaster led Marikina to build one of the country’s most advanced flood warning systems, with river gauges, sirens and color-coded alerts that tell residents when to prepare and when to evacuate."],
 g:[["Tributary","A stream that flows into a larger river"],["Watershed","The land that drains into a river"],["Meander","A loop in a river"],["Estuary","Where a river meets the sea"]],
 f:["The Cagayan River is the longest in the Philippines.","Meanders can form oxbow lakes.","The Amazon carries the most water of any river."],
-fun:"The Amazon River carries more water than the next several largest rivers combined.",
-tl:"Ang ilog ay daloy ng tubig-tabang mula sa kabundukan patungo sa dagat o lawa. Hinuhubog nito ang lupa, lumilikha ng lambak at delta. Ang Ilog Cagayan ang pinakamahabang ilog sa Pilipinas."});
+fun:"The Amazon River carries more water than the next several largest rivers combined."});
 
 ADDART({id:"deadsea",t:"The Dead Sea",c:"Geography",i:"🧂",w:"Dead Sea",r:["lakes","rift","desert","judaism","christ"],
 p:[["Lowest place on land","The Dead Sea shore is the lowest land on Earth."],["Float easily","Its water is so salty that people float easily."],["Shrinking","The Dead Sea is getting smaller every year."]],
@@ -48,5 +45,4 @@ s2:[["The shrinking sea","Since the 1960s, the Dead Sea’s surface has dropped 
 sp:["The goat and the scrolls","In the winter of 1946 to 1947, a young Bedouin shepherd named Muhammad edh-Dhib was searching for a lost goat among the cliffs near Qumran, close to the Dead Sea. He threw a stone into a cave opening and heard something shatter. Climbing in, he and his companions found tall clay jars, some containing old leather scrolls wrapped in linen. They did not know what they had found and sold some scrolls to an antiquities dealer. Scholars soon realized they were extraordinarily ancient, among the oldest surviving biblical manuscripts. Over the following years, archaeologists and Bedouin searchers found many more scrolls in nearby caves, one of the most important archaeological discoveries of the 20th century."],
 g:[["Salt lake","A lake with very salty water"],["Evaporation","Water turning into vapor"],["Sinkhole","A hole formed when the ground collapses"],["Rift valley","A valley formed where Earth’s crust pulls apart or slides"]],
 f:["The Dead Sea shore is the lowest land on Earth.","Its water is nearly ten times saltier than the ocean.","The Dead Sea is shrinking."],
-fun:"The Dead Sea is so salty that people can float on it while reading a newspaper.",
-tl:"Ang Dead Sea ay lawa ng maalat na tubig sa pagitan ng Jordan, Israel at West Bank. Ito ang pinakamababang lupa sa Daigdig. Napakaalat ng tubig nito kaya madaling lumutang ang tao, ngunit lumiliit ito taon-taon."});
+fun:"The Dead Sea is so salty that people can float on it while reading a newspaper."});

@@ -9,8 +9,7 @@ s2:[["Vera Rubin","Vera Rubin, an American astronomer, measured how fast stars o
 sp:["A universe we cannot see","Everything we have ever seen with telescopes, all the stars, planets, gas and galaxies, makes up only about one-twentieth of the universe. The rest is dark matter and dark energy, which we know about only because of their effects on what we can see. Understanding them may require new laws of physics."],
 g:[["Dark matter","Invisible matter detected only by its gravity"],["Dark energy","The unknown cause of the speeding-up expansion of the universe"],["Gravitational lensing","The bending of light by the gravity of massive objects"],["Cosmological constant","A term in Einstein’s equations representing the energy of empty space"]],
 f:["Ordinary matter makes up only about 5 percent of the universe.","Vera Rubin’s measurements of galaxy rotation supported dark matter.","The universe’s expansion is speeding up."],
-fun:"About 95 percent of the universe is made of something no one has ever seen directly.",
-tl:"Ang dark matter at dark energy ay malalaking misteryo sa agham. Hindi ito nakikita, ngunit tinatayang bumubuo ng mga 95 porsiyento ng sansinukob. Pinagbubuklod ng dark matter ang mga galaxy, habang pinabibilis ng dark energy ang paglawak ng sansinukob."});
+fun:"About 95 percent of the universe is made of something no one has ever seen directly."});
 
 ADDART({id:"cmb",t:"The Cosmic Microwave Background",c:"Space and Astronomy",i:"📡",w:"Cosmic microwave background",r:["bigbang","darkmatter","galaxies","light"],
 p:[["The oldest light","The cosmic microwave background is light left over from the early universe, about 380,000 years after the Big Bang."],["Everywhere in the sky","It comes from every direction and fills the whole universe."],["A baby picture","Maps of it show tiny ripples that grew into galaxies and clusters of galaxies."]],
@@ -22,8 +21,7 @@ s2:[["COBE","NASA’s Cosmic Background Explorer, launched in 1989, showed that 
 sp:["The pigeons of Holmdel","When Penzias and Wilson first heard the mysterious hiss in their antenna, they suspected the pigeons nesting inside it, and the white droppings the birds left behind, which they called a white dielectric material. They removed the pigeons and cleaned the antenna, but the hiss remained. It was not caused by birds at all, but by the afterglow of the birth of the universe."],
 g:[["Microwave","A type of radio wave with a short wavelength"],["Kelvin","A temperature scale starting at absolute zero"],["Absolute zero","The lowest possible temperature, about −273.15 °C"],["Cosmic inflation","A proposed burst of extremely rapid expansion just after the Big Bang"]],
 f:["The CMB is the oldest light in the universe.","It was discovered by accident in 1965.","Its temperature is less than 3 degrees above absolute zero."],
-fun:"Part of the snow on old analog televisions came from the afterglow of the Big Bang.",
-tl:"Ang cosmic microwave background ay pinakalumang liwanag sa sansinukob, inilabas mga 380,000 taon matapos ang Big Bang. Nasa lahat ng direksiyon ito at malakas na ebidensiya ng Big Bang."});
+fun:"Part of the snow on old analog televisions came from the afterglow of the Big Bang."});
 
 ADDART({id:"gravwaves",t:"Gravitational Waves",c:"Space and Astronomy",i:"〰️",w:"Gravitational wave",r:["relat","bh","pulsar","grav"],
 p:[["Ripples in spacetime","Gravitational waves are ripples in the fabric of space and time caused by massive objects accelerating."],["Einstein’s prediction","Albert Einstein predicted them in 1916 as part of his general theory of relativity."],["First detected in 2015","Scientists first detected them directly in 2015, from two black holes colliding over a billion light-years away."]],
@@ -35,5 +33,4 @@ s2:[["Indirect evidence first","In 1974 Russell Hulse and Joseph Taylor discover
 sp:["A tiny wobble","The waves detected in 2015 had traveled for 1.3 billion years, since before complex life appeared on Earth. By the time they reached LIGO, they changed the 4-kilometer arms by less than one ten-thousandth of the width of a proton. Measuring such a tiny change required shielding the detectors from vibrations, including passing trucks, ocean waves and even earthquakes on the other side of the world."],
 g:[["Spacetime","Space and time combined into a single fabric in Einstein’s theory"],["Interferometer","An instrument that combines light waves to measure tiny distances"],["Binary","A pair of objects orbiting each other"],["Multi-messenger astronomy","Studying cosmic events using different signals, such as light and gravitational waves"]],
 f:["Einstein predicted gravitational waves in 1916.","The first direct detection was in September 2015.","Gravitational waves travel at the speed of light."],
-fun:"The gravitational waves first detected in 2015 had been traveling for 1.3 billion years.",
-tl:"Ang gravitational wave ay alon sa espasyo at panahon na nililikha ng malalaking bagay gaya ng nagbabanggaang black hole. Hinulaan ito ni Einstein noong 1916 at unang natuklasan noong 2015."});
+fun:"The gravitational waves first detected in 2015 had been traveling for 1.3 billion years."});

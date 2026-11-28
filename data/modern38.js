@@ -9,8 +9,7 @@ s2:[["Juice","ESA’s Jupiter Icy Moons Explorer, Juice, launched in April 2023,
 sp:["A huge spacecraft","With its solar arrays unfolded, Europa Clipper is about as wide as a basketball court. It weighed about 6,000 kilograms at launch, more than half of it propellant."],
 g:[["Flyby","Passing close to an object without orbiting it"],["Ice shell","The frozen outer layer of an icy moon"],["Plume","A jet of gas or vapor"],["Gravity assist","Using a planet’s gravity to change speed"]],
 f:["Europa may have more water than Earth’s oceans.","Europa Clipper will fly past Europa about 49 times.","It carries a poem for Europa."],
-fun:"Europa Clipper’s ice-penetrating radar may be able to see up to about 30 kilometers into Europa’s icy crust.",
-tl:"Pag-aaralan ng Europa Clipper ang Europa, buwan ng Jupiter na may karagatan sa ilalim ng yelo. Ito ang pinakamalaking spacecraft na ginawa ng NASA para sa misyon sa planeta, at darating ito sa Jupiter sa Abril 2030."});
+fun:"Europa Clipper’s ice-penetrating radar may be able to see up to about 30 kilometers into Europa’s icy crust."});
 
 ADDART({id:"psyche",t:"Psyche: The Metal Asteroid",c:"Space Exploration",i:"⚙️",w:"Psyche (spacecraft)",r:["asteroidbelt","ionengines","vesta","pulsar","mars"],
 p:[["A metal world","The asteroid Psyche may be the exposed core of an early planet."],["NASA’s Psyche mission","A NASA spacecraft is traveling there, arriving in 2029."],["Lasers in space","Psyche tested laser communication across deep space."]],
@@ -22,8 +21,7 @@ s2:[["A delayed launch","Psyche was meant to launch in 2022, but problems testin
 sp:["Lindy Elkins-Tanton","Planetary scientist Lindy Elkins-Tanton of Arizona State University leads the Psyche mission, one of the few NASA planetary missions led by a woman."],
 g:[["Planetesimal","An early building block of planets"],["Core","The central part of a planet"],["Hall-effect thruster","A type of electric engine"],["Spectrometer","An instrument that analyzes light or radiation"]],
 f:["Psyche may be part of an ancient planet’s core.","The spacecraft flew past Mars in May 2026.","Psyche beamed a cat video to Earth by laser."],
-fun:"The first high-definition video sent by laser from deep space showed a cat named Taters chasing a laser pointer.",
-tl:"Ang Psyche ay asteroid na maaaring ang nakalantad na core ng isang sinaunang planeta. Naglalakbay doon ang isang spacecraft ng NASA na darating sa 2029, at sumubok ito ng komunikasyon gamit ang laser sa malalim na kalawakan."});
+fun:"The first high-definition video sent by laser from deep space showed a cat named Taters chasing a laser pointer."});
 
 ADDART({id:"hayabusa",t:"Hayabusa and Hayabusa2",c:"Space Exploration",i:"🦅",w:"Hayabusa2",r:["asteroidbelt","ionengines","japancountry","spaceagencies","osirisrex"],
 p:[["Japan’s asteroid samplers","Japan’s Hayabusa probes brought pieces of asteroids back to Earth."],["A dramatic comeback","The first Hayabusa returned in 2010 after many problems."],["Ryugu samples","Hayabusa2 returned samples from asteroid Ryugu in 2020."]],
@@ -35,8 +33,7 @@ s2:[["A national hero","The first Hayabusa’s survival made it a celebrity in J
 sp:["MINERVA rovers","Hayabusa2 deployed two tiny MINERVA-II1 rovers on Ryugu in 2018, the first rovers to move on an asteroid. Because gravity was so weak, they moved by hopping."],
 g:[["Sample return","Bringing material from space to Earth"],["Rubble pile","An asteroid made of loose rocks held by gravity"],["Organic molecule","A carbon-based molecule"],["Reaction wheel","A wheel used to point a spacecraft"]],
 f:["Hayabusa made the first asteroid sample return.","Hayabusa2 blasted a crater on Ryugu.","Ryugu samples contain amino acids."],
-fun:"The tiny MINERVA rovers on Ryugu moved by hopping, because a single step could have launched them off into space in its weak gravity.",
-tl:"Nagdala ng mga piraso ng asteroid sa Earth ang mga Hayabusa probe ng Japan. Bumalik ang unang Hayabusa noong 2010 sa kabila ng maraming problema, at nagdala ang Hayabusa2 ng mga sample mula sa asteroid na Ryugu noong 2020."});
+fun:"The tiny MINERVA rovers on Ryugu moved by hopping, because a single step could have launched them off into space in its weak gravity."});
 
 ADDART({id:"osirisrex",t:"OSIRIS-REx",c:"Space Exploration",i:"☄️",w:"OSIRIS-REx",r:["asteroidbelt","hayabusa","planetdefense","astrobio","dna"],
 p:[["Bringing back Bennu","OSIRIS-REx collected a sample from asteroid Bennu and returned it in 2023."],["Ingredients for life","The sample contains amino acids and all five bases of DNA and RNA."],["Off to Apophis","Renamed OSIRIS-APEX, it will visit asteroid Apophis in 2029."]],
@@ -48,8 +45,7 @@ s2:[["OSIRIS-APEX","OSIRIS-APEX will reach Apophis shortly after the asteroid’
 sp:["Dante Lauretta","Planetary scientist Dante Lauretta of the University of Arizona led OSIRIS-REx for nearly two decades and later wrote a book about the mission, The Asteroid Hunter."],
 g:[["Regolith","Loose material covering a solid surface"],["Nucleobase","A building block of DNA and RNA"],["Touch-and-go","A brief contact to collect a sample"],["Brine","Very salty water"]],
 f:["OSIRIS-REx returned 121.6 grams from Bennu.","The Bennu sample contains all five DNA and RNA bases.","The spacecraft will visit Apophis in 2029."],
-fun:"Bennu’s surface turned out to be so loose that the spacecraft would have sunk into it if it had not fired its thrusters to back away.",
-tl:"Kumuha ang OSIRIS-REx ng sample mula sa asteroid na Bennu at ibinalik ito noong 2023. Naglalaman ang sample ng mga amino acid at lahat ng limang base ng DNA at RNA, at pupunta ang spacecraft sa asteroid na Apophis sa 2029."});
+fun:"Bennu’s surface turned out to be so loose that the spacecraft would have sunk into it if it had not fired its thrusters to back away."});
 
 ADDART({id:"gaia",t:"Gaia Space Observatory",c:"Space Exploration",i:"✨",w:"Gaia (spacecraft)",r:["milky","lagrange","distances","stars","exoplanet"],
 p:[["Mapping the galaxy","Gaia made the most precise map of the Milky Way ever."],["Nearly 2 billion stars","It measured positions, distances and motions of about 1.8 billion stars."],["Retired in 2025","Gaia stopped observing in January 2025 and was switched off in March."]],
@@ -61,8 +57,7 @@ s2:[["A gentle goodbye","Before switching Gaia off, controllers moved it away fr
 sp:["Gaia and asteroids","Although designed to study stars, Gaia also measured the orbits of hundreds of thousands of asteroids in our solar system with great precision, helping planetary defense."],
 g:[["Parallax","The apparent shift of a star seen from different places"],["Astrometry","Measuring the positions and motions of stars"],["Data release","A published set of mission data"],["Dormant black hole","A black hole not actively feeding"]],
 f:["Gaia mapped about 1.8 billion stars.","Gaia was switched off in March 2025.","Its fourth data release is planned for December 2026."],
-fun:"Gaia’s measurements were so precise that it could detect the motion of stars equivalent to the growth of a human hair seen from across a continent.",
-tl:"Gumawa ang Gaia ng pinakatumpak na mapa ng Milky Way. Sinukat nito ang posisyon, layo at galaw ng mga 1.8 bilyong bituin, at itinigil ang operasyon nito noong 2025."});
+fun:"Gaia’s measurements were so precise that it could detect the motion of stars equivalent to the growth of a human hair seen from across a continent."});
 
 ADDART({id:"chandra",t:"Chandra X-ray Observatory",c:"Space Exploration",i:"🔭",w:"Chandra X-ray Observatory",r:["scope","bh","supernova","hubblest","spaceshuttle"],
 p:[["X-ray eyes","Chandra observes the universe in X-rays, which Earth’s atmosphere blocks."],["Launched by the Shuttle","It was launched in 1999 on a mission commanded by Eileen Collins."],["Fighting budget cuts","Its future has been threatened by NASA budget cuts."]],
@@ -74,8 +69,7 @@ s2:[["Eileen Collins","Eileen Collins, a US Air Force pilot, became the first wo
 sp:["Chandrasekhar","Subrahmanyan Chandrasekhar calculated as a young man in 1930 that a white dwarf star more than about 1.4 times the Sun’s mass cannot support itself and must collapse, a result called the Chandrasekhar limit. His name means ‘moon-holder’ in Sanskrit."],
 g:[["X-ray","High-energy light invisible to the eye"],["Great Observatories","NASA’s four large space telescopes"],["Galaxy cluster","A group of hundreds or thousands of galaxies"],["Sonification","Turning data into sound"]],
 f:["Earth’s atmosphere blocks X-rays.","Chandra’s mirrors are the smoothest ever made.","Chandra has worked for more than 27 years."],
-fun:"Chandra is so sensitive that it could read a stop sign from about 20 kilometers away, in X-ray terms.",
-tl:"Inoobserbahan ng Chandra ang uniberso gamit ang X-ray, na hinaharangan ng atmospera ng Earth. Inilunsad ito noong 1999 sa misyong pinamunuan ni Eileen Collins, at nanganib ang hinaharap nito dahil sa pagbawas sa badyet ng NASA."});
+fun:"Chandra is so sensitive that it could read a stop sign from about 20 kilometers away, in X-ray terms."});
 
 ADDART({id:"skylab",t:"Skylab",c:"Space Exploration",i:"🛰️",w:"Skylab",r:["iss","mir","saturnv","spacewalks","apollo"],
 p:[["America’s first space station","Skylab was the first US space station, launched in 1973."],["Saved by its crew","Astronauts repaired serious damage from its launch."],["A fiery end","Skylab fell back to Earth over Australia in 1979."]],
@@ -87,8 +81,7 @@ s2:[["Spiders in space","Two spiders, Arabella and Anita, flew on Skylab as part
 sp:["Comet Kohoutek","The third Skylab crew observed Comet Kohoutek in late 1973, which had been predicted to be spectacular but proved disappointing from the ground. The astronauts saw it well from space."],
 g:[["Space station","A spacecraft where crews live for long periods"],["Micrometeoroid","A tiny particle of space rock"],["Reentry","Returning into Earth’s atmosphere"],["Coronal hole","A dark region of the Sun’s corona"]],
 f:["Skylab was America’s first space station.","Astronauts repaired Skylab with a sunshade.","Skylab fell to Earth over Australia in 1979."],
-fun:"A teenager in Esperance found pieces of Skylab and flew to San Francisco to claim a 10,000-dollar prize offered by a newspaper for the first piece delivered.",
-tl:"Ang Skylab ang unang istasyong pangkalawakan ng Estados Unidos, inilunsad noong 1973. Inayos ng mga astronaut ang malubhang pinsala nito, at bumagsak ito sa Earth sa ibabaw ng Australia noong 1979."});
+fun:"A teenager in Esperance found pieces of Skylab and flew to San Francisco to claim a 10,000-dollar prize offered by a newspaper for the first piece delivered."});
 
 ADDART({id:"projectmercury",t:"Project Mercury and Gemini",c:"Space Exploration",i:"👨‍🚀",w:"Project Mercury",r:["space","apollo","gagarin","spacewalks","astronauts"],
 p:[["America’s first astronauts","Project Mercury put the first Americans into space."],["The Mercury Seven","NASA’s first seven astronauts became national heroes."],["Practicing for the Moon","Gemini tested spacewalks, docking and long flights for Apollo."]],
@@ -100,8 +93,7 @@ s2:[["Ham the chimpanzee","Before Shepard’s flight, a chimpanzee named Ham fle
 sp:["Gemini’s name","Gemini, Latin for ‘twins’, was named after the constellation because each capsule carried two astronauts."],
 g:[["Suborbital","Reaching space without completing an orbit"],["Rendezvous","Two spacecraft meeting in orbit"],["Docking","Joining two spacecraft"],["Retrorocket","A rocket fired to slow down"]],
 f:["Alan Shepard was the first American in space.","John Glenn orbited Earth in 1962.","Gemini made the first docking in space."],
-fun:"Alan Shepard’s first flight lasted only about 15 minutes, while John Glenn flew in space again 36 years after his first orbital flight.",
-tl:"Inilagay ng Project Mercury ang mga unang Amerikano sa kalawakan, at naging pambansang bayani ang Mercury Seven. Sinubukan naman ng Gemini ang spacewalk, docking at mahahabang paglipad bilang paghahanda sa Apollo."});
+fun:"Alan Shepard’s first flight lasted only about 15 minutes, while John Glenn flew in space again 36 years after his first orbital flight."});
 
 ADDART({id:"soyuz",t:"Soyuz",c:"Space Exploration",i:"🚀",w:"Soyuz (spacecraft)",r:["iss","sputnik","spaceports","gagarin","mir"],
 p:[["The space workhorse","Soyuz spacecraft have carried people to space since 1967."],["Longest-serving","Soyuz is the longest-used crewed spacecraft in history."],["A lifeline to the ISS","For years it was the only way to reach the International Space Station."]],
@@ -113,8 +105,7 @@ s2:[["Apollo–Soyuz","In July 1975, an American Apollo spacecraft docked with S
 sp:["Traditions","Before launch, Soyuz crews follow traditions, such as watching the film White Sun of the Desert, signing their hotel room doors and planting trees at Baikonur. A small toy hangs in the capsule as a zero-gravity indicator."],
 g:[["Descent module","The capsule that returns the crew to Earth"],["Launch escape system","A rocket that pulls the capsule away in an emergency"],["Steppe","A large, flat grassland"],["Détente","An easing of tension between countries"]],
 f:["Soyuz has flown people since 1967.","Soyuz capsules land on land, not water.","Soyuz was the only way to the ISS from 2011 to 2020."],
-fun:"Soyuz crews carry a small soft toy that starts floating when the spacecraft reaches weightlessness, a tradition started by Yuri Gagarin’s doll.",
-tl:"Nagdadala ang Soyuz spacecraft ng mga tao sa kalawakan mula pa noong 1967, kaya ito ang pinakamatagal na ginagamit na crewed spacecraft. Ilang taon itong naging tanging paraan upang marating ang International Space Station."});
+fun:"Soyuz crews carry a small soft toy that starts floating when the spacecraft reaches weightlessness, a tradition started by Yuri Gagarin’s doll."});
 
 ADDART({id:"saturnv",t:"Saturn V",c:"Space Exploration",i:"🚀",w:"Saturn V",r:["apollo","rocket","skylab","starship","space"],
 p:[["The Moon rocket","Saturn V launched the Apollo missions to the Moon."],["A giant","At 110 meters tall, it was taller than the Statue of Liberty."],["Never lost a payload","All 13 Saturn V launches delivered their payloads."]],
@@ -126,10 +117,9 @@ s2:[["Sound of power","The Saturn V launch was so loud that sound waves could be
 sp:["F-1 engines found","In 2013, an expedition funded by Amazon founder Jeff Bezos recovered parts of F-1 engines from Apollo missions from the Atlantic seabed, about 4 kilometers deep, including pieces from Apollo 11."],
 g:[["Stage","A section of a rocket with its own engines"],["Thrust","The force that pushes a rocket"],["Combustion instability","Dangerous vibrations inside a rocket engine"],["Crawler-transporter","A giant vehicle that moves rockets to the pad"]],
 f:["Saturn V was 110.6 meters tall.","All 13 Saturn Vs delivered their payloads.","The F-1 is the most powerful single-chamber engine flown."],
-fun:"Each of the Saturn V’s five F-1 engines pumped about 2.5 metric tons of propellant per second.",
-tl:"Inilunsad ng Saturn V ang mga misyong Apollo patungo sa Buwan. Mas mataas ito sa Statue of Liberty sa 110 metro, at lahat ng 13 paglulunsad nito ay nakapaghatid ng karga."});
+fun:"Each of the Saturn V’s five F-1 engines pumped about 2.5 metric tons of propellant per second."});
 
-ADDART({id:"apollo13",t:"Apollo 13",c:"Space Exploration",i:"🌘",w:"Apollo 13",r:["apollo","saturnv","moon","fuelcells","artemis"],
+ADDART({id:"apollo13",t:"Apollo 13",c:"Space Exploration",i:"🌘",w:"Apollo 13",r:["apollo","saturnv","moon","fuelcells","artemis","artemisii"],
 p:[["‘A successful failure’","Apollo 13’s Moon landing was cancelled after an explosion, but the crew returned safely."],["‘Houston, we’ve had a problem’","Astronaut Jack Swigert reported the emergency on 13 April 1970."],["A lifeboat in space","The lunar module kept the astronauts alive on the way home."]],
 l:"Apollo 13 was the third NASA mission planned to land on the Moon, launched on 11 April 1970 with astronauts Jim Lovell, Jack Swigert and Fred Haise. On 13 April, about 56 hours into the flight and more than 300,000 kilometers from Earth, an oxygen tank in the service module exploded, damaging another tank and crippling the command module’s supply of power, oxygen and water. Swigert radioed, ‘Okay, Houston, we’ve had a problem here.’ The Moon landing was abandoned, and the crew moved into the lunar module, Aquarius, designed to support two people for two days, using it as a lifeboat for four days. With mission control engineers, the crew swung around the Moon and fired the lunar module’s engine to speed their return. They endured cold, little water and rising carbon dioxide, solved by building an adapter from cardboard, plastic bags and tape to fit square air filters into round sockets. On 17 April 1970 they splashed down safely in the Pacific. Apollo 13 set a record for the farthest humans from Earth, which stood until Artemis II in April 2026.",
 s:[["The cause","Investigators found that a thermostat switch in oxygen tank 2 had not been upgraded to handle higher voltage, and during ground testing it welded shut, letting heaters overheat and damage wire insulation. In flight, when the crew stirred the tank, a spark ignited the insulation in pure oxygen, causing the explosion."],["The ‘mailbox’","Carbon dioxide built up because the lunar module’s round filter canisters could not handle three people for so long, and the command module’s square canisters did not fit. Engineers on the ground designed a fix from items on board, and the astronauts built it, nicknamed the ‘mailbox’."],["Getting home","Controllers led by flight director Gene Kranz worked out new procedures to power up the cold command module for reentry using limited battery power. The crew separated from the lunar module, nicknamed ‘lifeboat’, shortly before reentry and splashed down near Samoa."],["Records","Swinging around the far side of the Moon, Apollo 13 reached about 400,171 kilometers from Earth, the farthest any humans had traveled. Artemis II broke the record on 6 April 2026, reaching about 406,771 kilometers."]],
@@ -139,8 +129,7 @@ s2:[["The film","Ron Howard’s 1995 film Apollo 13, starring Tom Hanks as Jim L
 sp:["‘Failure is not an option’","The phrase ‘Failure is not an option’, associated with flight director Gene Kranz, was actually written for the 1995 film, though it captured the attitude of mission control. Kranz later used it as the title of his memoir."],
 g:[["Service module","The part of Apollo with engines, oxygen and power"],["Command module","The capsule where the crew lived and returned"],["Lunar module","The spacecraft designed to land on the Moon"],["Carbon dioxide","A gas breathed out that is harmful in large amounts"]],
 f:["Apollo 13 was called a ‘successful failure’.","The lunar module served as a lifeboat.","Artemis II broke Apollo 13’s distance record in 2026."],
-fun:"After splashdown, the lunar module’s maker, Grumman, jokingly sent North American Rockwell, the maker of the damaged service module, an invoice for ‘towing’ the spacecraft back to Earth.",
-tl:"Kinansela ang paglapag ng Apollo 13 sa Buwan matapos ang isang pagsabog, ngunit ligtas na nakabalik ang mga astronaut. Nagsilbing lifeboat ang lunar module, at noong 2026 lamang nalampasan ng Artemis II ang rekord nito sa layo mula sa Earth."});
+fun:"After splashdown, the lunar module’s maker, Grumman, jokingly sent North American Rockwell, the maker of the damaged service module, an invoice for ‘towing’ the spacecraft back to Earth."});
 
 ADDART({id:"spaceanimals",t:"Animals in Space",c:"Space Exploration",i:"🐕",w:"Animals in space",r:["sputnik","space","tardigrades","projectmercury","animaltesting"],
 p:[["Pioneers before people","Animals flew into space before humans to test safety."],["Laika","The dog Laika was the first animal to orbit Earth, in 1957."],["Many species","Flies, monkeys, dogs, cats, mice, fish and tardigrades have flown."]],
@@ -152,8 +141,7 @@ s2:[["A gift from space","One of Strelka’s puppies, Pushinka, was given by Sov
 sp:["Tortoises around the Moon","In September 1968, two Russian tortoises aboard Zond 5 flew around the Moon and returned to Earth alive, along with flies and worms, three months before the Apollo 8 astronauts."],
 g:[["Suborbital","Reaching space without orbiting"],["Centrifuge","A spinning machine that simulates strong forces"],["Weightlessness","Floating in free fall"],["Euthanize","To end an animal’s life painlessly"]],
 f:["Fruit flies were the first animals in space.","Laika was the first animal to orbit Earth.","Tortoises flew around the Moon before humans."],
-fun:"Before Apollo 8’s astronauts, the first living things to circle the Moon were two tortoises, which lost some weight but otherwise returned healthy.",
-tl:"Lumipad ang mga hayop sa kalawakan bago ang tao upang subukan ang kaligtasan. Ang asong si Laika ang unang hayop na umikot sa Earth noong 1957, at lumipad na rin ang mga langaw, unggoy, aso, pusa, daga, isda at tardigrade."});
+fun:"Before Apollo 8’s astronauts, the first living things to circle the Moon were two tortoises, which lost some weight but otherwise returned healthy."});
 
 ADDART({id:"magnetars",t:"Magnetars",c:"Space and Astronomy",i:"🧲",w:"Magnetar",r:["pulsar","supernova","gammaraybursts","magnet","radioastronomy"],
 p:[["The strongest magnets","Magnetars are neutron stars with the strongest magnetic fields known."],["Starquakes","Cracks in their crusts release huge bursts of energy."],["Fast radio bursts","A magnetar was linked to a mysterious fast radio burst in 2020."]],
@@ -165,8 +153,7 @@ s2:[["Too dangerous to approach","Within about 1,000 kilometers of a magnetar, i
 sp:["Duncan and Thompson","Astrophysicists Robert Duncan and Christopher Thompson proposed magnetars in 1992 to explain unusual repeating gamma-ray bursts. Their idea was confirmed in 1998 by measurements of a magnetar’s slowing spin."],
 g:[["Neutron star","The collapsed core of a massive star"],["Starquake","A sudden shift in a neutron star’s crust"],["Fast radio burst","A millisecond flash of radio waves"],["Ionosphere","A charged layer of Earth’s upper atmosphere"]],
 f:["Magnetars have the strongest magnetic fields known.","A magnetar flare affected Earth’s atmosphere in 2004.","A magnetar produced a fast radio burst in 2020."],
-fun:"A teaspoon of material from a neutron star like a magnetar would weigh about a billion metric tons on Earth.",
-tl:"Ang magnetar ay neutron star na may pinakamalakas na magnetic field na kilala. Naglalabas ng malalaking pagsabog ng enerhiya ang mga bitak sa balat nito, at iniugnay ang isang magnetar sa isang fast radio burst noong 2020."});
+fun:"A teaspoon of material from a neutron star like a magnetar would weigh about a billion metric tons on Earth."});
 
 ADDART({id:"lensing",t:"Gravitational Lensing",c:"Space and Astronomy",i:"🔍",w:"Gravitational lens",r:["relat","einstein","darkmatter","jwst","eclipse"],
 p:[["Gravity bends light","Massive objects bend light passing near them, like a lens."],["Proof for Einstein","The 1919 eclipse confirmed that the Sun bends starlight."],["A cosmic magnifying glass","Lensing reveals distant galaxies, dark matter and planets."]],
@@ -178,8 +165,7 @@ s2:[["Einstein rings and crosses","When a source, lens and observer line up exac
 sp:["Planets by microlensing","Microlensing can detect planets far from their stars and even free-floating planets with no star. NASA’s Nancy Grace Roman Space Telescope, planned for launch in the late 2020s, will search for thousands of planets this way."],
 g:[["Space-time","Space and time combined in relativity"],["Einstein ring","A ring-shaped image produced by lensing"],["Quasar","A very bright galaxy center powered by a black hole"],["Microlensing","Brightening caused by a star or planet acting as a lens"]],
 f:["Gravity can bend light.","The 1919 eclipse confirmed Einstein’s prediction.","Lensing helps map invisible dark matter."],
-fun:"Astronomers correctly predicted the date when a lensed supernova would reappear in a new spot in the sky, because its light took a longer path around a galaxy.",
-tl:"Ang gravitational lensing ay pagbaluktot ng liwanag dahil sa grabidad ng malaking bagay, na parang lente. Kinumpirma ng eklipse noong 1919 ang hula ni Einstein, at ibinubunyag ng lensing ang malalayong galaxy, dark matter at mga planeta."});
+fun:"Astronomers correctly predicted the date when a lensed supernova would reappear in a new spot in the sky, because its light took a longer path around a galaxy."});
 
 ADDART({id:"interstellarobjects",t:"Interstellar Objects",c:"Space and Astronomy",i:"🌠",w:"Interstellar object",r:["comet","asteroidbelt","exoplanet","scope","fermiparadox"],
 p:[["Visitors from other stars","Interstellar objects come from outside our solar system."],["Only three known","‘Oumuamua, Borisov and 3I/ATLAS have been found so far."],["Clues from far away","They carry material from other planetary systems."]],
@@ -191,8 +177,7 @@ s2:[["Naming","Interstellar objects receive the letter I and a number in order o
 sp:["Interstellar meteors?","Some scientists have claimed that small meteors that struck Earth, such as one over Papua New Guinea in 2014, came from interstellar space, but these claims are disputed because of uncertainties in the data."],
 g:[["Interstellar","Between the stars"],["Hyperbolic orbit","An open path not bound to the Sun"],["Coma","The cloud of gas and dust around a comet"],["Survey telescope","A telescope that scans large areas of sky"]],
 f:["Only three interstellar objects are known.","ʻOumuamua was the first, found in 2017.","3I/ATLAS may be older than the solar system."],
-fun:"Gennadiy Borisov discovered the second interstellar object with a 0.65-meter telescope he built himself.",
-tl:"Ang interstellar object ay mga bagay na nagmumula sa labas ng ating solar system. Tatlo pa lamang ang kilala, ang ʻOumuamua, Borisov at 3I/ATLAS, at nagdadala ang mga ito ng materyal mula sa ibang sistema ng planeta."});
+fun:"Gennadiy Borisov discovered the second interstellar object with a 0.65-meter telescope he built himself."});
 
 ADDART({id:"spacebody",t:"The Human Body in Space",c:"Space Exploration",i:"🧑‍🚀",w:"Effect of spaceflight on the human body",r:["astronauts","iss","bones","muscles","cosmicrays"],
 p:[["Weightlessness changes the body","In space, bones and muscles weaken and fluids shift upward."],["Radiation risk","Astronauts are exposed to more radiation than on Earth."],["Exercise every day","Astronauts exercise about two hours a day to stay healthy."]],
@@ -204,5 +189,4 @@ s2:[["Space and the immune system","Spaceflight can alter the immune system, and
 sp:["Sleeping in space","Astronauts sleep in small cabins, zipped into sleeping bags attached to walls so they do not float around. Without a sense of up or down, they can sleep in any orientation, and some report vivid dreams."],
 g:[["Weightlessness","Floating in free fall"],["Countermeasure","An action to prevent harm"],["Space sickness","Nausea in the first days in space"],["Osteoporosis","A disease that weakens bones"]],
 f:["Astronauts grow up to about 5 cm taller in space.","Astronauts exercise about two hours a day.","The longest spaceflight lasted 437 days."],
-fun:"Astronauts’ feet lose their tough skin in space because they rarely walk, while the tops of their feet get calluses from hooking under handrails.",
-tl:"Binabago ng kalawakan ang katawan: humihina ang buto at kalamnan at umaakyat ang mga likido sa ulo. Mas mataas ang radyasyon doon, kaya nag-eehersisyo ang mga astronaut nang mga dalawang oras araw-araw."});
+fun:"Astronauts’ feet lose their tough skin in space because they rarely walk, while the tops of their feet get calluses from hooking under handrails."});

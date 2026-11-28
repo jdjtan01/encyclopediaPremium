@@ -12,8 +12,7 @@ s2:[["Peace at a price","In March 1918, the Bolsheviks signed the Treaty of Bres
 sp:["Two calendars","Russia still used the old Julian calendar in 1917, which was 13 days behind the Gregorian calendar used in most of the world. So the February Revolution happened in March by the Western calendar, and the October Revolution in November. The Bolsheviks switched Russia to the Gregorian calendar in February 1918, and from then on the anniversary of the October Revolution was celebrated on 7 November."],
 g:[["Tsar","The title of the emperor of Russia"],["Bolshevik","A member of Lenin’s communist party"],["Soviet","A council of workers and soldiers; later, the name for the Soviet Union and its people"],["Abdicate","To give up a throne"]],
 f:["The October Revolution took place in November by the Western calendar.","Lenin’s body is still displayed in Moscow.","The Soviet Union lasted from 1922 to 1991."],
-fun:"The October Revolution happened in November, because Russia used an older calendar.",
-tl:"Ang Rebolusyong Ruso noong 1917 ang nagwakas sa pamumuno ng mga tsar at nagdala sa kapangyarihan sa mga Bolshevik ni Vladimir Lenin. Humantong ito sa pagtatatag ng Unyong Sobyet noong 1922."});
+fun:"The October Revolution happened in November, because Russia used an older calendar."});
 
 ADDART({id:"depression",t:"The Great Depression",c:"History",i:"📉",w:"Great Depression",r:["wwi","ww2","usacountry","money","trade"],
 p:[["The worst economic crisis","The Great Depression of the 1930s was the deepest and longest economic downturn of the modern industrial world."],["The crash","It began in the United States after the stock market crashed in October 1929."],["Worldwide hardship","Banks failed, factories closed, and tens of millions of people lost their jobs across the world."]],
@@ -25,5 +24,4 @@ s2:[["The Dust Bowl","In the 1930s, drought and poor farming methods turned larg
 sp:["Migrant Mother","One of the most famous photographs of the Depression, Migrant Mother, was taken by Dorothea Lange in California in 1936. It shows Florence Owens Thompson, a 32-year-old mother of seven, with a worried face, her children leaning on her shoulders. Lange worked for a government agency recording the lives of poor farmers, and her photograph became a symbol of the hardships of the era."],
 g:[["Depression","A long and severe downturn in the economy"],["Stock market","A place where shares in companies are bought and sold"],["Tariff","A tax on imported goods"],["Unemployment","Not having a paid job when wanting one"]],
 f:["About a quarter of American workers were unemployed in 1933.","World trade fell by about two-thirds.","The Dust Bowl drove hundreds of thousands of families from their farms."],
-fun:"Camps of homeless people in the United States were called Hoovervilles after the president at the time.",
-tl:"Ang Great Depression ay malubhang krisis pang-ekonomiya sa buong mundo noong dekada 1930. Nagsimula ito sa pagbagsak ng stock market sa Estados Unidos noong 1929, at milyon-milyong tao ang nawalan ng trabaho."});
+fun:"Camps of homeless people in the United States were called Hoovervilles after the president at the time."});

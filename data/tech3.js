@@ -9,8 +9,7 @@ s2:[["Freedom on wheels","In the 1890s the bicycle gave many women new independe
 sp:["The most efficient machine","A person on a bicycle uses less energy to travel a kilometer than a person walking, and far less than any car, train or plane per person. Cycling turns the power of leg muscles into motion very efficiently because the wheels roll with little friction. That is why the bicycle is often called the most efficient means of transport ever invented."],
 g:[["Chainring","The front toothed wheel turned by the pedals"],["Gear","A toothed wheel that changes pedaling effort"],["Velocipede","An early pedal-powered bicycle"],["Pedicab","A bicycle that carries passengers in a sidecar or cab"]],
 f:["The first two-wheeler had no pedals.","The Tour de France began in 1903.","The Wright brothers were bicycle makers."],
-fun:"The first bicycle, built in 1817, had no pedals at all.",
-tl:"Ang bisikleta ay sasakyang may dalawang gulong na pinaaandar ng pagpedal. Isa ito sa pinakamatipid sa enerhiya na paraan ng paglalakbay. Sa Pilipinas, ginagamit ang padyak o trisikad para magsakay ng pasahero."});
+fun:"The first bicycle, built in 1817, had no pedals at all."});
 
 ADDART({id:"submarine",t:"Submarines",c:"Technology",i:"🚢",w:"Submarine",r:["ships","pacific","nuclear","ww2"],
 p:[["Ships that dive","A submarine is a vessel that can travel underwater as well as on the surface."],["Sinking and rising","Submarines dive and surface by filling tanks with water or air."],["Exploring the deep","Small submarines called submersibles explore the deepest parts of the ocean."]],
@@ -22,8 +21,7 @@ s2:[["Nuclear submarines","In 1954 the United States launched USS Nautilus, the 
 sp:["The Turtle","The Turtle, built by the American inventor David Bushnell in 1775, was a wooden, egg-shaped submarine just big enough for one person, who turned hand cranks to move it and pumped water to dive. In 1776, during the American Revolution, Sergeant Ezra Lee tried to attach an explosive to the British warship HMS Eagle in New York Harbor but could not fix it to the hull. It was the first recorded use of a submarine in war."],
 g:[["Ballast tank","A tank filled with water or air to make a vessel sink or rise"],["Sonar","Using sound waves to detect objects underwater"],["Submersible","A small underwater craft, often supported by a ship"],["Periscope","A tube with mirrors for seeing above the surface"]],
 f:["Submarines dive by filling tanks with water.","USS Nautilus was the first nuclear submarine.","People have reached the deepest point in the ocean."],
-fun:"The first nuclear submarine was named after the submarine in a Jules Verne novel.",
-tl:"Ang submarino ay sasakyang-dagat na kayang maglakbay sa ilalim ng tubig. Lumulubog at umaangat ito sa pagpuno ng tubig o hangin sa mga tangke. Ang maliliit na submersible ay ginagamit sa paggalugad ng pinakamalalim na bahagi ng karagatan."});
+fun:"The first nuclear submarine was named after the submarine in a Jules Verne novel."});
 
 ADDART({id:"solarpower",t:"Solar Power",c:"Technology",i:"☀️",w:"Solar power",r:["renew","sun","elec","battery","chip"],
 p:[["Electricity from sunlight","Solar power turns sunlight into electricity using solar panels or concentrated sunlight."],["Clean and growing","Solar power produces no pollution while running and is the fastest-growing source of electricity."],["Cheaper than ever","The cost of solar panels has fallen dramatically since 2010."]],
@@ -35,8 +33,7 @@ s2:[["Rooftop solar","Millions of homes, schools and businesses have solar panel
 sp:["Solar power in space","Almost all satellites and spacecraft, including the International Space Station, are powered by solar panels. The ISS has huge solar arrays covering an area larger than a basketball court. Spacecraft traveling to Jupiter, such as Juno, use extra-large panels because sunlight there is about 25 times weaker than at Earth. Missions beyond Jupiter usually rely on nuclear power instead."],
 g:[["Photovoltaic","Producing electricity directly from light"],["Solar panel","A group of solar cells joined together"],["Net metering","Selling extra solar electricity back to the grid"],["Terawatt","One trillion watts"]],
 f:["Solar cells are usually made of silicon.","The first practical solar cell was made in 1954.","Solar panels power the International Space Station."],
-fun:"A solar-powered airplane flew all the way around the world in 2015 and 2016.",
-tl:"Ang solar power ay enerhiya mula sa araw na ginagawang kuryente gamit ang mga solar panel. Malinis ito at isa sa pinakamabilis lumagong pinagkukunan ng kuryente. Malaki ang ibinaba ng presyo ng mga solar panel mula 2010."});
+fun:"A solar-powered airplane flew all the way around the world in 2015 and 2016."});
 
 ADDART({id:"hydropower",t:"Hydroelectric Power and Dams",c:"Technology",i:"💧",w:"Hydroelectricity",r:["renew","elec","bridges","wcycle","nile"],
 p:[["Power from flowing water","Hydroelectric power uses the energy of falling or flowing water to make electricity."],["Dams and reservoirs","Most hydropower plants use dams that store water in large lakes called reservoirs."],["A major renewable source","Hydropower is one of the world’s largest sources of renewable electricity."]],
@@ -48,8 +45,7 @@ s2:[["Three Gorges Dam","The Three Gorges Dam on the Yangtze River in China is t
 sp:["Lighting Niagara","In 1895 the Adams Power Plant at Niagara Falls began producing electricity using alternating current, the system championed by Nikola Tesla and George Westinghouse. In 1896 it began sending power about 40 kilometers to the city of Buffalo, New York. Its success helped make alternating current the standard for electricity around the world."],
 g:[["Turbine","A machine with blades turned by flowing water, steam or air"],["Reservoir","An artificial lake that stores water"],["Penstock","A pipe carrying water to a turbine"],["Pumped storage","Storing energy by pumping water uphill"]],
 f:["The Three Gorges Dam is the world’s largest power station.","Water wheels have been used for over 2,000 years.","Angat Dam supplies most of Metro Manila’s water."],
-fun:"Pumped-storage hydropower plants work like giant water batteries.",
-tl:"Ang hydroelectric power ay kuryenteng nagmumula sa dumadaloy o bumabagsak na tubig. Karamihan ay gumagamit ng dam na nag-iimbak ng tubig. Sa Pilipinas, mahalaga ang mga dam gaya ng Angat, San Roque at Magat."});
+fun:"Pumped-storage hydropower plants work like giant water batteries."});
 
 ADDART({id:"refrigeration",t:"Refrigeration and Air Conditioning",c:"Technology",i:"🧊",w:"Refrigeration",r:["thermo","elec","climchange","vacc","steam"],
 p:[["Keeping things cool","Refrigerators and air conditioners move heat from one place to another to keep things cold."],["Fresh food and medicine","Refrigeration keeps food fresh, medicines safe and buildings comfortable."],["A cool revolution","Before refrigerators, people stored ice cut from frozen lakes or kept food in cool cellars."]],
@@ -61,5 +57,4 @@ s2:[["Frozen food","The American inventor Clarence Birdseye noticed that fish ca
 sp:["The ice king","In 1806 the Boston merchant Frederic Tudor shipped a cargo of ice cut from frozen ponds to the Caribbean island of Martinique. Many people laughed, but Tudor learned to insulate ice with sawdust and built icehouses in hot ports. His company eventually shipped ice as far as Calcutta in India. He became known as the Ice King, and the ice trade boomed until mechanical refrigeration replaced it."],
 g:[["Refrigerant","A fluid that carries heat in a cooling system"],["Compressor","A pump that squeezes refrigerant gas"],["Cold chain","Refrigerated storage and transport from start to finish"],["CFC","A chemical once used in fridges that damages the ozone layer"]],
 f:["Refrigerators pump heat out rather than making cold.","Air conditioning was invented for a printing plant.","The Montreal Protocol protects the ozone layer."],
-fun:"Albert Einstein co-invented a refrigerator with no moving parts.",
-tl:"Ang refrigeration ay paglilipat ng init para mapalamig ang isang lugar o bagay. Pinananatili nitong sariwa ang pagkain at ligtas ang gamot. Bago naimbento ang refrigerator, nag-iimbak ang mga tao ng yelo mula sa nagyelong lawa."});
+fun:"Albert Einstein co-invented a refrigerator with no moving parts."});

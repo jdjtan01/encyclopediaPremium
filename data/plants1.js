@@ -1,5 +1,5 @@
 // Plants: orchids, rafflesia, fruits, seaweeds, coconut and seeds.
-ADDART({id:"orchids",t:"Orchids",c:"Plants",i:"🌸",w:"Orchid",r:["flower","fungi","bee","darwin","conservation"],
+ADDART({id:"orchids",t:"Orchids",c:"Plants",i:"🌸",w:"Orchid",r:["flower","fungi","bee","darwin","conservation","mycorrhiza"],
 p:[["A huge family","Orchids are one of the largest families of flowering plants."],["Clever flowers","Many orchids trick insects into carrying their pollen."],["A Philippine queen","The Philippines is home to the famous waling-waling orchid."]],
 l:"Orchids are flowering plants of the family Orchidaceae, one of the two largest plant families on Earth, with roughly 28,000 known species. They grow on every continent except Antarctica, from tropical rainforests to cold mountains, but are most varied in the tropics. Many tropical orchids are epiphytes, growing on tree branches rather than in soil. Orchid flowers are often elaborate and are shaped to attract particular pollinators, sometimes by deception. Their seeds are as fine as dust and need fungi to sprout. Vanilla comes from an orchid. The Philippines has a rich orchid flora, with many species found nowhere else, including the waling-waling of Mindanao, often called the queen of Philippine orchids.",
 s:[["Flower design","Orchid flowers usually have three sepals and three petals, one of which forms a special lip called the labellum that serves as a landing platform for insects. Their pollen is packed into sticky bundles called pollinia, which attach to a visiting insect’s body and are carried to the next flower."],["Tricking pollinators","Many orchids offer no nectar at all. Some look and smell like female insects, so males try to mate with them and pick up pollen. Others imitate rotting meat to attract flies, or trap insects briefly so they must squeeze past the pollen to escape."],["Dust-like seeds","A single orchid seed pod can hold huge numbers of tiny seeds with almost no stored food. To grow, a seed must meet a suitable fungus that supplies it with nutrients, a partnership called mycorrhiza. This is one reason many orchids are hard to grow from seed."],["Living on trees","Epiphytic orchids cling to branches with thick roots covered by a spongy layer that soaks up rain and moisture from the air. They are not parasites; they simply use the tree for support and access to light."]],
@@ -9,8 +9,7 @@ s2:[["The waling-waling","The waling-waling, Vanda sanderiana, grows high on tre
 sp:["A flower that pretends to be a bee","In parts of Europe and Australia, some orchids have flowers that look remarkably like female bees or wasps, complete with furry bodies and shiny wings. They even release scents that mimic the chemicals female insects use to attract mates. Male insects arrive and try to mate with the flower. In doing so, they pick up a bundle of pollen and carry it to the next deceptive flower. The orchid gets pollinated without offering any nectar at all. It is one of nature’s most extraordinary examples of mimicry, and Darwin himself was fascinated by such tricks."],
 g:[["Orchid","A member of a large family of flowering plants"],["Epiphyte","A plant that grows on another plant for support"],["Pollinia","Bundles of orchid pollen"],["Labellum","The lip-shaped petal of an orchid"]],
 f:["Vanilla comes from an orchid.","Orchid seeds are as fine as dust.","Some orchids imitate insects."],
-fun:"Orchid seeds are so tiny and light that they can drift on the wind like dust.",
-tl:"Ang orchid ay isa sa pinakamalaking pamilya ng halamang namumulaklak. Marami ang tumutubo sa sanga ng puno. Ang waling-waling ng Mindanao ay tinaguriang reyna ng mga orchid sa Pilipinas."});
+fun:"Orchid seeds are so tiny and light that they can drift on the wind like dust."});
 
 ADDART({id:"rafflesia",t:"Rafflesia",c:"Plants",i:"🌺",w:"Rafflesia",r:["flower","orchids","conservation","mindanao","deforestation"],
 p:[["Giant flowers","Rafflesia produces some of the largest single flowers in the world."],["No leaves","It has no leaves, stems or roots of its own."],["Philippine species","Many rafflesia species grow only in the Philippines."]],
@@ -22,8 +21,7 @@ s2:[["Rafflesia in the Philippines","The Philippines is a center of rafflesia di
 sp:["Searching for a flower in the forest","Finding a blooming rafflesia takes patience. Botanists and local guides trek through steep rainforest, looking for the twisting Tetrastigma vines that host the parasite. They search the ground and lower stems for small brown buds. A bud may take many months to mature, and then it opens for only a few days. When the team finally finds an open flower, the smell usually reaches them first. In 2016, researchers in Nueva Ecija, Luzon, found a previously unknown species this way and named it Rafflesia consueloae, showing that the Philippine forests still hold botanical surprises."],
 g:[["Parasite","A living thing that feeds on another"],["Host","The plant a parasite lives on"],["Carrion","Dead, decaying flesh"],["Endemic","Found naturally in only one place"]],
 f:["Rafflesia has no leaves or roots.","Its flowers smell like rotting meat.","Many species are found only in the Philippines."],
-fun:"A rafflesia flower can weigh several kilograms but has no leaves at all.",
-tl:"Ang rafflesia ay halamang parasito na may isa sa pinakamalalaking bulaklak sa mundo. Wala itong dahon, tangkay o ugat. Maraming uri ng rafflesia ang matatagpuan lamang sa Pilipinas."});
+fun:"A rafflesia flower can weigh several kilograms but has no leaves at all."});
 
 ADDART({id:"fruits",t:"Fruits",c:"Plants",i:"🥭",w:"Fruit",r:["flower","seeds","agri","domestication","phfood"],
 p:[["Seeds inside","A fruit is the part of a flowering plant that carries seeds."],["Surprising fruits","Tomatoes, cucumbers and peppers are fruits to a botanist."],["Philippine fruits","Mangoes, bananas and durian are famous Philippine fruits."]],
@@ -35,8 +33,7 @@ s2:[["Philippine mangoes","The Carabao mango, also called the Manila mango, is k
 sp:["Why plants make fruit","To a plant, a juicy fruit is a deal with animals. The plant packs its seeds inside sweet flesh that animals want to eat. In return, the animal carries the seeds away and drops them elsewhere, often in a small pile of fertilizer. Bright red and orange colors signal ripeness to birds, which see color well, while bat-pollinated and bat-dispersed fruits are often dull but strong-smelling. Some seeds even sprout better after passing through an animal’s gut. Over millions of years, this partnership has shaped both fruits and the animals that eat them, including humans."],
 g:[["Fruit","The seed-bearing part of a flowering plant"],["Ovary","The part of a flower that becomes the fruit"],["Drupe","A fruit with one hard stone"],["Ethylene","A gas that makes fruits ripen"]],
 f:["Tomatoes are botanically fruits.","Bananas are berries.","Ethylene gas makes fruits ripen."],
-fun:"Botanically, strawberries are not true berries, but bananas and eggplants are.",
-tl:"Ang prutas ay bahagi ng halamang namumulaklak na naglalaman ng buto. Sa agham, prutas din ang kamatis at talong. Kilala ang Pilipinas sa mangga, saging, pinya at durian."});
+fun:"Botanically, strawberries are not true berries, but bananas and eggplants are."});
 
 ADDART({id:"seaweeds",t:"Seaweeds",c:"Plants",i:"🌿",w:"Seaweed",r:["sea","coral","oxygen","fishes","phfood"],
 p:[["Ocean algae","Seaweeds are large algae that grow in the sea."],["Underwater forests","Giant kelp forms forests along cold coasts."],["Philippine farming","The Philippines is one of the world’s leading seaweed farmers."]],
@@ -48,8 +45,7 @@ s2:[["Seaweed farming in the Philippines","In the early 1970s, Philippine farmer
 sp:["A day on a seaweed farm","Before sunrise, a family in Tawi-Tawi paddles out to their seaweed farm, a grid of nylon lines strung between wooden stakes in clear, shallow water. They check each line, removing weeds and replacing broken cuttings. When the seaweed has grown thick, they pull it up into their boats and spread it out to dry on bamboo platforms in the sun. After a few days, the dried seaweed is packed into sacks and sold to traders, who send it to factories that extract carrageenan. Much of that carrageenan ends up in foods and products sold around the world."],
 g:[["Algae","Simple organisms that make food from sunlight"],["Holdfast","The structure that anchors seaweed"],["Kelp","A large brown seaweed"],["Carrageenan","A thickener made from red seaweeds"]],
 f:["Seaweeds are algae, not true plants.","Giant kelp grows very fast.","The Philippines is a major seaweed farmer."],
-fun:"The gelatin-like agar in laboratory dishes comes from seaweed.",
-tl:"Ang damong-dagat ay malalaking algae na tumutubo sa dagat. Kinakain ito ng mga Pilipino, gaya ng lato at gulaman. Isa ang Pilipinas sa pangunahing nagsasaka ng damong-dagat sa mundo."});
+fun:"The gelatin-like agar in laboratory dishes comes from seaweed."});
 
 ADDART({id:"coconut",t:"The Coconut Palm",c:"Plants",i:"🥥",w:"Coconut",r:["trees","phfood","agri","fruits","sea"],
 p:[["Tree of life","The coconut palm is called the tree of life because every part is useful."],["Floating seeds","Coconuts can float across oceans and sprout on distant beaches."],["Philippine crop","The Philippines is one of the world’s largest coconut producers."]],
@@ -61,8 +57,7 @@ s2:[["Coconut in the Philippines","Coconut palms grow throughout the Philippines
 sp:["Pigafetta and the tree of life","When Ferdinand Magellan’s expedition reached the Philippines in 1521, the chronicler Antonio Pigafetta was amazed by the coconut palm. He wrote that the people obtained bread, wine, oil and vinegar from it, and that a family could live from just a couple of trees. He described how the islanders tapped the palm for sweet sap and made oil and milk from the flesh. Five centuries later, coconut still plays a central role in Philippine life, in kitchens, farms, crafts and celebrations."],
 g:[["Drupe","A fruit with a single hard stone"],["Copra","Dried coconut flesh"],["Coir","Fiber from coconut husks"],["Buko","A young coconut"]],
 f:["A coconut is not a true nut.","Coconuts can float across oceans.","Nata de coco was developed in the Philippines."],
-fun:"A coconut can survive months floating at sea and still sprout on a distant beach.",
-tl:"Ang niyog ay tinaguriang puno ng buhay dahil halos lahat ng bahagi nito ay may gamit. Kaya ng niyog na lumutang sa dagat at tumubo sa malayong dalampasigan. Isa ang Pilipinas sa pinakamalaking prodyuser ng niyog."});
+fun:"A coconut can survive months floating at sea and still sprout on a distant beach."});
 
 ADDART({id:"seeds",t:"Seeds",c:"Plants",i:"🌱",w:"Seed",r:["fruits","flower","agri","rice","mendel"],
 p:[["Baby plants","A seed contains a tiny plant and a supply of food."],["Waiting to grow","Some seeds can wait for years before sprouting."],["Seed vaults","People store seeds in vaults to protect crops for the future."]],
@@ -74,5 +69,4 @@ s2:[["Seeds and farming","Farming began when people learned to save seeds from t
 sp:["The tree from Masada","In the 1960s, archaeologists digging at Masada, an ancient hilltop fortress in Israel, found a jar of date palm seeds about 2,000 years old. The seeds sat in a drawer for decades. In 2005, scientists soaked a few in water and fertilizer and planted them. To their surprise, one sprouted. The seedling, nicknamed Methuselah, grew into a tall date palm. Later, more ancient seeds were sprouted, including a female palm that was pollinated with Methuselah’s pollen and produced dates. The ancient Judean date, once famous in the region, is being brought back to life."],
 g:[["Seed","A package containing a baby plant and its food"],["Embryo","The tiny plant inside a seed"],["Germination","When a seed begins to sprout"],["Dormancy","A resting state before sprouting"]],
 f:["A 2,000-year-old seed has grown into a tree.","The coco de mer has the largest seed.","Seeds can stay dormant for years."],
-fun:"The world’s largest seed, from the coco de mer palm, can weigh as much as a small child.",
-tl:"Ang buto ay naglalaman ng maliit na halaman at pagkain nito. Kaya ng ilang buto na maghintay ng maraming taon bago tumubo. Nag-iimbak ang IRRI sa Los Baños ng napakaraming uri ng binhi ng palay."});
+fun:"The world’s largest seed, from the coco de mer palm, can weigh as much as a small child."});

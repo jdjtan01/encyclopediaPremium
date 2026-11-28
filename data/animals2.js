@@ -9,8 +9,7 @@ s2:[["Where the name came from","In 1770 the crew of James Cook’s ship Endeavo
 sp:["The Wallace Line","Marsupials live mainly in Australia, New Guinea and the Americas. The westernmost wild marsupials in Asia are cuscuses, slow, woolly tree climbers found on Sulawesi and other islands of eastern Indonesia. An invisible boundary called the Wallace Line, running between Bali and Lombok and between Borneo and Sulawesi, roughly separates the animals of Asia from those of Australia. It is named after the naturalist Alfred Russel Wallace, who noticed it in the 1850s."],
 g:[["Marsupial","A mammal whose young grow in a pouch"],["Joey","A baby kangaroo"],["Mob","A group of kangaroos"],["Tendon","A strong cord joining muscle to bone"]],
 f:["A newborn kangaroo is about the size of a jelly bean.","Kangaroos cannot easily walk backward.","Wombats produce cube-shaped droppings."],
-fun:"A newborn kangaroo is only about 2 centimeters long.",
-tl:"Ang kanggaru ay marsupial, isang mamalya na nagpapalaki ng anak sa isang supot sa tiyan. Tumatalon ito gamit ang malalakas na hulihang paa at nakatira sa Australia at New Guinea."});
+fun:"A newborn kangaroo is only about 2 centimeters long."});
 
 ADDART({id:"tarsier",t:"The Philippine Tarsier",i:"🐒",w:"Philippine tarsier",r:["bohol","phbio","mindanao"],cons:["NT","Philippine tarsier"],
 p:[["A tiny primate","The Philippine tarsier is one of the smallest primates in the world, small enough to sit in the palm of a hand."],["Enormous eyes","Each of its eyes is about as big as its whole brain, helping it see in the dark."],["A Philippine treasure","It lives only in the southeastern Philippines, including Bohol, Samar, Leyte and Mindanao."]],
@@ -22,8 +21,7 @@ s2:[["Silent screams","In 2012 scientists discovered that Philippine tarsiers ma
 sp:["Visiting the Tarsier Sanctuary","At the Philippine Tarsier Sanctuary in Corella, Bohol, guides lead visitors along a forest path to spot tarsiers resting in the trees. Talking loudly, touching and flash photography are not allowed. The sanctuary protects forest habitat and supports research and education about these tiny primates."],
 g:[["Primate","A mammal group that includes tarsiers, monkeys and apes"],["Nocturnal","Active at night"],["Ultrasound","Sound too high for humans to hear"],["Endemic","Found naturally in only one place"]],
 f:["Each tarsier eye is about as big as its brain.","A tarsier can turn its head about 180 degrees.","Philippine tarsiers make calls too high for humans to hear."],
-fun:"Each of a tarsier’s eyes is about as large as its brain.",
-tl:"Ang mamag o tarsier ay isa sa pinakamaliit na primate sa mundo at matatagpuan lamang sa timog-silangang Pilipinas, gaya ng Bohol. Malalaki ang mata nito at nangangaso ng insekto sa gabi; protektado ito ng batas."});
+fun:"Each of a tarsier’s eyes is about as large as its brain."});
 
 ADDART({id:"birds",t:"Birds",i:"🐦",w:"Bird",r:["dino","evo","penguin"],
 p:[["Feathered animals","Birds are the only animals with feathers. They lay hard-shelled eggs and have beaks instead of teeth."],["Living dinosaurs","Scientists agree that birds evolved from small, feathered meat-eating dinosaurs."],["Everywhere on Earth","About 11,000 species of birds live on every continent, from Antarctic penguins to tropical hummingbirds."]],
@@ -35,8 +33,7 @@ s2:[["From dinosaurs to birds","In 1861, two years after Darwin’s Origin of Sp
 sp:["The dodo","The dodo was a large, flightless pigeon that lived only on Mauritius in the Indian Ocean. It had no fear of people, and after sailors arrived in the late 1500s it was hunted, and introduced rats, pigs and monkeys ate its eggs. The last confirmed sighting was in 1662. The phrase dead as a dodo still means gone forever."],
 g:[["Molting","Shedding old feathers and growing new ones"],["Migration","A regular journey between two places"],["Theropod","A group of two-legged, mostly meat-eating dinosaurs"],["Down","Soft, fluffy feathers that keep a bird warm"]],
 f:["Birds are the only living animals with feathers.","The Arctic tern flies about 70,000 kilometers a year.","A peregrine falcon can dive at more than 300 km/h."],
-fun:"The Arctic tern sees more daylight than any other animal, flying between the Arctic and Antarctic summers.",
-tl:"Ang ibon ay hayop na may balahibo, tuka at pakpak, at karamihan ay nakalilipad. May mga 11,000 uri nito sa mundo, at higit sa 600 sa Pilipinas, kung saan halos ikatlo ay dito lamang matatagpuan."});
+fun:"The Arctic tern sees more daylight than any other animal, flying between the Arctic and Antarctic summers."});
 
 ADDART({id:"eagle",t:"Eagles and the Philippine Eagle",i:"🦅",w:"Philippine eagle",r:["phbio","mindanao","birds"],cons:["CR","Philippine eagle"],
 p:[["Birds of prey","Eagles are large birds of prey with hooked beaks, sharp talons and superb eyesight."],["Our national bird","The Philippine eagle, found only in the Philippines, is one of the largest and rarest eagles in the world."],["Symbols of power","Eagles appear on flags, seals and coats of arms in many countries."]],
@@ -48,5 +45,4 @@ s2:[["Eagles of the world","The heaviest eagles include Steller’s sea eagle of
 sp:["Our national bird","In 1995 President Fidel V. Ramos signed Proclamation No. 615, making the Philippine eagle the national bird in place of the maya. Its name was changed from monkey-eating eagle in 1978 to show that it belongs to the nation. Every June the country celebrates Philippine Eagle Week to raise awareness of the bird and its forests."],
 g:[["Bird of prey","A bird that hunts other animals with its feet and beak"],["Talon","A sharp, curved claw"],["Eyrie","An eagle’s nest"],["Colugo","A gliding mammal, also called a flying lemur"]],
 f:["A Philippine eagle pair raises just one chick every two years.","Eagles can see ultraviolet light.","Pag-asa means hope; it was the first Philippine eagle bred in captivity."],
-fun:"The Philippine eagle’s wingspan is about 2 meters.",
-tl:"Ang agila ay malaking ibong mandaragit na may matatalas na kuko at mata. Ang Philippine eagle o haribon ang pambansang ibon ng Pilipinas, ngunit mga 400 pares na lamang ang natitira sa gubat."});
+fun:"The Philippine eagle’s wingspan is about 2 meters."});

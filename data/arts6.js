@@ -9,8 +9,7 @@ s2:[["Pinoy rock","Filipino rock grew from the 1960s and 1970s. The Juan de la C
 sp:["The Eraserheads","The Eraserheads formed in 1989 among students at the University of the Philippines Diliman. Ely Buendia, Raymund Marasigan, Buddy Zabala and Marcus Adoro wrote witty, heartfelt songs in Filipino and English about student life, love and Philippine society. Albums such as Ultraelectromagneticpop! of 1993 and Cutterpillow of 1995 sold hugely, and songs like Ang Huling El Bimbo became anthems. A reunion concert in 2022 drew tens of thousands of fans."],
 g:[["Rock and roll","A music style of the 1950s combining blues and country"],["Pop music","Popular music with catchy melodies"],["Riff","A short repeated musical phrase"],["Pinoy rock","Filipino rock music"]],
 f:["Rock and roll began in the United States in the 1950s.","Thriller is the best-selling album of all time.","The Eraserheads formed at UP Diliman."],
-fun:"Sister Rosetta Tharpe, a gospel guitarist, is called the godmother of rock and roll.",
-tl:"Ang rock at pop ay kabilang sa pinakapopular na musika sa mundo. Sumibol ang rock and roll sa Amerika noong 1950s. Sa Pilipinas, kilala ang Juan de la Cruz Band at ang Eraserheads sa Pinoy rock."});
+fun:"Sister Rosetta Tharpe, a gospel guitarist, is called the godmother of rock and roll."});
 
 ADDART({id:"kpop",t:"K-pop and the Korean Wave",c:"Arts and Literature",i:"🎤",w:"K-pop",r:["southkoreacountry","rockpop","tv","korea","socialmedia"],
 p:[["Korean pop","K-pop is popular music from South Korea, known for catchy songs, dazzling choreography and polished videos."],["A global wave","K-pop is part of Hallyu, the worldwide spread of Korean music, dramas, films and culture."],["Fans everywhere","K-pop has millions of fans worldwide, including in the Philippines."]],
@@ -22,8 +21,7 @@ s2:[["Fandoms","K-pop fans form highly organized communities, called fandoms, su
 sp:["Gangnam Style","In July 2012 the South Korean singer PSY released Gangnam Style, a satirical song about the wealthy Gangnam district of Seoul, with a comic horse-riding dance. Its music video spread rapidly around the world, inspiring parodies and flash mobs. In December 2012 it became the first video on YouTube to reach one billion views, introducing millions of people to K-pop."],
 g:[["K-pop","Korean popular music"],["Hallyu","The Korean Wave, the global spread of Korean culture"],["Idol","A K-pop performer trained by an agency"],["Fandom","A community of fans"]],
 f:["Gangnam Style was the first YouTube video to reach a billion views.","BTS topped the Billboard Hot 100 in 2020.","SB19 was the first Filipino act nominated at the Billboard Music Awards."],
-fun:"Gangnam Style became the first YouTube video to reach a billion views in 2012.",
-tl:"Ang K-pop ay musikang popular mula sa Timog Korea na kilala sa nakaaaliw na awit at sayaw. Bahagi ito ng Korean Wave o Hallyu. Napakapopular nito sa Pilipinas at naging inspirasyon ng P-pop gaya ng SB19."});
+fun:"Gangnam Style became the first YouTube video to reach a billion views in 2012."});
 
 ADDART({id:"indianmusic",t:"Indian Classical Music and Dance",c:"Arts and Literature",i:"🪕",w:"Indian classical music",r:["drums","hindu","indiacountry","bollywood","beatles"],
 p:[["Ancient traditions","Indian classical music and dance have roots going back more than 2,000 years."],["Raga and tala","Music is built on ragas, melodic frameworks, and talas, rhythmic cycles."],["Dancing stories","Classical dances tell stories through precise movements, expressions and hand gestures."]],
@@ -35,8 +33,7 @@ s2:[["Ravi Shankar","Ravi Shankar, the sitar virtuoso, brought Indian classical 
 sp:["The guru and the student","Traditionally, Indian classical music and dance were passed down from guru, teacher, to shishya, student, often over many years of living and practicing together. Students learn by listening, imitating and absorbing not just techniques but the teacher’s style and values. Families of musicians, called gharanas in Hindustani music, preserve distinctive styles across generations. This oral tradition continues alongside music schools and online lessons."],
 g:[["Raga","A melodic framework for improvisation in Indian music"],["Tala","A rhythmic cycle in Indian music"],["Mudra","A symbolic hand gesture in dance"],["Sitar","A long-necked Indian string instrument"]],
 f:["Indian classical music is based on ragas and talas.","Ravi Shankar played at Woodstock in 1969.","Kathakali dancers wear painted faces and huge headdresses."],
-fun:"Legends say the musician Tansen could make it rain with his singing.",
-tl:"Ang klasikong musika at sayaw ng India ay may ugat na mahigit 2,000 taon. Batay ang musika sa raga at tala. Nagkukuwento ang mga klasikong sayaw sa pamamagitan ng galaw, ekspresyon at kumpas ng kamay."});
+fun:"Legends say the musician Tansen could make it rain with his singing."});
 
 ADDART({id:"bollywood",t:"Bollywood and Indian Cinema",c:"Arts and Literature",i:"🎬",w:"Cinema of India",r:["cinema","indiacountry","indianmusic","musicals","phcinema"],
 p:[["The world’s biggest film industry","India produces more films than any other country."],["Song and dance","Indian films are famous for colorful song-and-dance numbers."],["Many cinemas","Bollywood, based in Mumbai, is one of several Indian film industries in different languages."]],
@@ -48,8 +45,7 @@ s2:[["Many Indian cinemas","Besides Bollywood, India has major film industries i
 sp:["Lata Mangeshkar","Lata Mangeshkar, born in 1929, began singing for films as a teenager in the 1940s and continued for more than seven decades, recording thousands of songs in more than 30 languages. Her voice was heard on screen for generations of actresses. Called the Nightingale of India, she received the Bharat Ratna, India’s highest civilian award, in 2001. When she died in 2022, India declared two days of national mourning."],
 g:[["Bollywood","The Hindi film industry based in Mumbai"],["Playback singer","A singer whose recorded voice is used for actors on screen"],["Tollywood","The Telugu film industry"],["Diaspora","People living outside their ancestral homeland"]],
 f:["India produces more films than any other country.","India’s first sound film was Alam Ara in 1931.","Naatu Naatu won an Oscar in 2023."],
-fun:"Dilwale Dulhania Le Jayenge played in one Mumbai cinema for more than 25 years.",
-tl:"Ang India ang may pinakamaraming pelikulang ginagawa sa mundo. Kilala ang Bollywood ng Mumbai sa makukulay na awit at sayaw. Nanalo ng Oscar ang awiting Naatu Naatu mula sa pelikulang RRR noong 2023."});
+fun:"Dilwale Dulhania Le Jayenge played in one Mumbai cinema for more than 25 years."});
 
 ADDART({id:"asiantheatre",t:"Theatre of Asia",c:"Arts and Literature",i:"👺",w:"Asian theatre",r:["puppetry","theatre","opera","japan","phlit"],
 p:[["Ancient stage traditions","Asia has some of the oldest and most elaborate theatre traditions in the world."],["Masks, makeup and music","Japanese Noh and kabuki and Chinese opera combine acting, music, dance and striking costumes."],["Philippine stage","Filipino traditions include the sarswela, the komedya and the senakulo."]],
@@ -61,5 +57,4 @@ s2:[["Mei Lanfang","Mei Lanfang, who lived from 1894 to 1961, was the most famou
 sp:["Okuni, the founder of kabuki","In 1603 a woman named Izumo no Okuni, said to have been connected with the great Izumo shrine, began performing unusual, lively dances and comic sketches on the dry riverbed of the Kamo River in Kyoto, sometimes dressed as a man. Her performances, called kabuki, meaning something like strange or unconventional, drew huge crowds. Within decades, the government banned women from performing, and kabuki became an all-male art, but Okuni is remembered as its founder, and a statue of her stands in Kyoto."],
 g:[["Noh","A classical Japanese masked musical drama"],["Kabuki","A Japanese theatre known for dramatic makeup and costumes"],["Onnagata","A male kabuki actor who plays female roles"],["Sarswela","A Philippine musical play with songs and dialogue"]],
 f:["Kabuki began in Kyoto in 1603.","Peking opera face colors show character.","The senakulo is performed during Holy Week."],
-fun:"Kabuki was started by a woman, Izumo no Okuni, though it later became all-male.",
-tl:"May mayayamang tradisyon ng teatro ang Asya, gaya ng Noh at kabuki ng Hapon at opera ng Tsina. Pinagsasama nito ang pag-arte, musika at sayaw. Sa Pilipinas, kabilang dito ang komedya, sarswela at senakulo."});
+fun:"Kabuki was started by a woman, Izumo no Okuni, though it later became all-male."});

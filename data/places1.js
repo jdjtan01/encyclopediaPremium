@@ -12,8 +12,7 @@ s2:[["Did it work?","The wall was never a perfect barrier. Raiders sometimes bro
 sp:["The Great Wall in numbers","The 2012 survey by China’s State Administration of Cultural Heritage counted more than 43,000 sites linked to the wall, including walls, trenches, towers and forts, across 15 provinces and regions. The Ming wall alone measures about 8,850 kilometers. If all sections were laid end to end, they would stretch about halfway around the Earth."],
 g:[["Dynasty","A series of rulers from the same family"],["Rammed earth","Soil packed hard between wooden frames to make walls"],["Nomad","A person who moves from place to place, often with herds"],["Garrison","A group of soldiers stationed to guard a place"]],
 f:["All sections of the Great Wall add up to about 21,000 kilometers.","It cannot be seen from the Moon with the naked eye.","Some Ming mortar is said to contain sticky rice."],
-fun:"The Great Wall cannot be seen from the Moon with the naked eye, despite the famous myth.",
-tl:"Ang Great Wall of China ay serye ng mga pader, tore at kuta sa hilagang Tsina na itinayo ng maraming dinastiya sa loob ng halos 2,000 taon upang ipagtanggol ang bansa. Isa itong World Heritage Site."});
+fun:"The Great Wall cannot be seen from the Moon with the naked eye, despite the famous myth."});
 
 ADDART({id:"tajmahal",t:"Taj Mahal",c:"Countries and Places",i:"🕌",w:"Taj Mahal",r:["indiacountry","islam","indus","greatwall"],
 p:[["A monument to love","The Mughal emperor Shah Jahan built the Taj Mahal as a tomb for his beloved wife, Mumtaz Mahal."],["White marble","Its shining white marble is inlaid with precious stones in delicate patterns of flowers and verses."],["A jewel of India","It stands on the banks of the Yamuna River in Agra and is one of the most famous buildings in the world."]],
@@ -25,8 +24,7 @@ s2:[["A paradise garden","In front of the tomb lies a charbagh, a Persian-style 
 sp:["Tears on the cheek of time","The Bengali poet Rabindranath Tagore described the Taj Mahal as a teardrop on the cheek of time. Shah Jahan himself wrote that the sight of the tomb made people sigh with grief and that the Sun and Moon shed tears from their eyes. The building has inspired poets, painters and travelers for nearly 400 years."],
 g:[["Mausoleum","A large, grand tomb"],["Minaret","A tall, slender tower beside a mosque or tomb"],["Pietra dura","Decoration made by setting cut stones into marble"],["Symmetry","Matching exactly on both sides"]],
 f:["About 20,000 workers helped build the Taj Mahal.","Its minarets lean slightly outward for safety in earthquakes.","Shah Jahan’s tomb is the only object that breaks its symmetry."],
-fun:"The Taj Mahal’s minarets lean slightly outward so they would fall away from the tomb in an earthquake.",
-tl:"Ang Taj Mahal ay puting libingang marmol sa Agra, India, na ipinatayo ni Emperador Shah Jahan para sa kanyang asawang si Mumtaz Mahal. Natapos ito noong mga 1653 at isa sa pinakatanyag na gusali sa mundo."});
+fun:"The Taj Mahal’s minarets lean slightly outward so they would fall away from the tomb in an earthquake."});
 
 ADDART({id:"pyramids",t:"Pyramids of Giza",c:"Countries and Places",i:"🔺",w:"Giza pyramid complex",r:["egypt","egyptcountry","nile","mesop"],
 p:[["Tombs for kings","The pyramids were built about 4,500 years ago as tombs for the pharaohs Khufu, Khafre and Menkaure."],["Record holder","Khufu’s Great Pyramid was the tallest human-made structure on Earth for about 3,800 years."],["The last ancient wonder","It is the only one of the Seven Wonders of the Ancient World still standing."]],
@@ -38,5 +36,4 @@ s2:[["Who built them?","Greek writers imagined armies of slaves, but archaeologi
 sp:["The Seven Wonders","Ancient Greek travelers made lists of the most amazing sights of their world, which became the Seven Wonders of the Ancient World: the Great Pyramid, the Hanging Gardens of Babylon, the Statue of Zeus at Olympia, the Temple of Artemis at Ephesus, the Mausoleum at Halicarnassus, the Colossus of Rhodes and the Lighthouse of Alexandria. Only the Great Pyramid, the oldest of them all, still stands."],
 g:[["Pharaoh","A king of ancient Egypt"],["Mummy","A body preserved after death"],["Old Kingdom","The period of Egyptian history when the great pyramids were built"],["Causeway","A raised road or path"]],
 f:["The Great Pyramid has about 2.3 million stone blocks.","It was the tallest human-made structure for about 3,800 years.","The pyramid builders were paid workers, not slaves."],
-fun:"The Great Pyramid was the tallest human-made structure on Earth for about 3,800 years.",
-tl:"Ang mga Piramide ng Giza sa Ehipto ay itinayo mga 4,500 taon na ang nakalipas bilang libingan ng mga paraon. Ang Great Pyramid ang tanging natitira sa Pitong Kahanga-hangang Bagay ng Sinaunang Mundo."});
+fun:"The Great Pyramid was the tallest human-made structure on Earth for about 3,800 years."});

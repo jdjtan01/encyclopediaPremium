@@ -1,5 +1,5 @@
 // New articles, 18 November 2026 (part 4): technology and space.
-ADDART({id:"telegraph",t:"The Telegraph and Morse Code",c:"Technology",i:"📠",w:"Electrical telegraph",r:["phone","radio","elec","subseacables","indrev"],
+ADDART({id:"telegraph",t:"The Telegraph and Morse Code",c:"Technology",i:"📠",w:"Electrical telegraph",r:["phone","radio","elec","subseacables","indrev","morsecode"],
 p:[["Messages by wire","The electric telegraph sent messages along wires using electrical pulses."],["Dots and dashes","Morse code turned letters into short and long signals."],["The Victorian internet","Telegraph cables linked the world in the 19th century."]],
 l:"The electric telegraph was the first technology to send messages almost instantly over long distances, using electrical signals along wires. Before it, news traveled only as fast as a horse, ship or train. Several inventors developed telegraphs in the 1830s, including William Cooke and Charles Wheatstone in Britain, whose system went into use on a railway in 1838, and Samuel Morse in the United States. Morse and Alfred Vail created Morse code, which represents letters and numbers as combinations of short and long signals, dots and dashes. On 24 May 1844, Morse sent the message ‘What hath God wrought’ from Washington, D.C., to Baltimore. Telegraph lines spread rapidly along railways, and a lasting transatlantic cable was laid in 1866. Telegrams carried news, business deals, diplomatic messages and personal greetings, and telegraph networks have been called the ‘Victorian internet’. The telephone, radio and later the internet replaced the telegraph; Western Union sent its last telegram in 2006. Morse code is still used by some radio amateurs.",
 s:[["How it worked","Pressing a telegraph key closed an electric circuit, sending current down the wire. At the other end, an electromagnet moved a lever that clicked or marked paper tape. Skilled operators could send and read about 30 to 40 words a minute by ear."],["Morse code","Morse code gives the most common letters the shortest codes: E is a single dot and T a single dash. International Morse code, adopted in 1865, became standard worldwide. The distress signal SOS, three dots, three dashes, three dots, was adopted in 1906 because it was easy to send and recognize."],["Changing the world","The telegraph let newspapers report events from distant places on the same day, helped railways run safely, allowed businesses to trade across continents and changed warfare and diplomacy. Time zones and standardized time were partly driven by telegraph timing signals."],["Wireless telegraphy","In the 1890s, Guglielmo Marconi developed wireless telegraphy using radio waves, and in 1901 he received signals across the Atlantic. Ships carried wireless operators, and the Titanic’s distress calls in 1912 brought rescuers. Ships stopped officially using Morse code for distress in 1999."]],
@@ -9,8 +9,7 @@ s2:[["Telegram style","Because telegrams were charged by the word, people wrote 
 sp:["What hath God wrought","The first official Morse message, a Bible verse chosen by Annie Ellsworth, the daughter of a patent official, was sent from the US Capitol to Alfred Vail in Baltimore on 24 May 1844."],
 g:[["Telegraph","A system for sending messages by electric signals"],["Morse code","A code of short and long signals"],["Telegram","A message sent by telegraph"],["Telegraph key","A switch used to send Morse code"]],
 f:["Morse code’s shortest letter is E, a single dot.","SOS became the distress signal in 1906.","Western Union sent its last telegram in 2006."],
-fun:"Skilled Morse code operators can recognize each other’s ‘fist’, the personal rhythm of their sending, like a handwriting style.",
-tl:"Ang telegrapo ay nagpapadala ng mensahe sa kawad gamit ang mga senyas na elektrikal. Ginawang tuldok at gitling ng Morse code ang mga titik, at pinag-ugnay ng mga kable ng telegrapo ang mundo noong ika-19 na siglo."});
+fun:"Skilled Morse code operators can recognize each other’s ‘fist’, the personal rhythm of their sending, like a handwriting style."});
 
 ADDART({id:"email",t:"Email",c:"Technology",i:"📧",w:"Email",r:["internet","comp","passwords","cybersecurity","socialmedia"],
 p:[["Electronic letters","Email sends messages between computers over networks."],["The @ sign","Ray Tomlinson chose @ for email addresses in 1971."],["Billions of users","More than 4 billion people use email, and spam is a constant problem."]],
@@ -22,8 +21,7 @@ s2:[["The @ sign","Before email, the @ symbol was used mainly in accounting to m
 sp:["Queen Elizabeth’s email","In 1976, Queen Elizabeth II sent an email from a British army research center using ARPANET, making her one of the first heads of state to send one."],
 g:[["Email address","A name and domain separated by @"],["Spam","Unwanted bulk email"],["Phishing","Tricking people with fake messages"],["Server","A computer that stores and delivers data"]],
 f:["Ray Tomlinson chose @ for email addresses.","The first spam was sent in 1978.","More than 4 billion people use email."],
-fun:"Ray Tomlinson said he could not remember the text of the first email, which was probably a test such as ‘QWERTYUIOP’.",
-tl:"Ang email ay paraan ng pagpapadala ng mensahe sa pagitan ng mga computer. Pinili ni Ray Tomlinson ang simbolong @ noong 1971, at mahigit 4 bilyong tao na ang gumagamit nito."});
+fun:"Ray Tomlinson said he could not remember the text of the first email, which was probably a test such as ‘QWERTYUIOP’."});
 
 ADDART({id:"fasteners",t:"Zippers and Velcro",c:"Technology",i:"🤐",w:"Zipper",r:["clothing","sewingmachine","plastics","spaceagencies","astronauts"],
 p:[["Closing clothes","Zippers and hook-and-loop fasteners close clothes, bags and shoes."],["A slow start","The zipper took decades to become popular."],["Inspired by burrs","Velcro was invented after a Swiss engineer studied burrs stuck to his dog."]],
@@ -35,8 +33,7 @@ s2:[["The name Velcro","The name Velcro combines the French words velours, ‘ve
 sp:["Biomimicry","Biomimicry means copying designs from nature. Besides Velcro, examples include swimsuits inspired by sharkskin, self-cleaning surfaces inspired by lotus leaves and train noses inspired by kingfisher beaks."],
 g:[["Fastener","A device that joins two things"],["Slider","The part that opens and closes a zipper"],["Burr","A seed head with hooks that sticks to fur"],["Biomimicry","Designs inspired by nature"]],
 f:["The modern zipper was designed in 1913.","Velcro was inspired by burrs on a dog.","Astronauts used Velcro to scratch their noses."],
-fun:"George de Mestral’s idea took about ten years to perfect, because making tiny, strong hooks from fabric was very difficult until he used nylon.",
-tl:"Isinasara ng zipper at Velcro ang damit, bag at sapatos. Matagal bago sumikat ang zipper, at naimbento ang Velcro matapos pag-aralan ng isang Swiss na inhinyero ang mga burr na dumikit sa kanyang aso."});
+fun:"George de Mestral’s idea took about ten years to perfect, because making tiny, strong hooks from fabric was very difficult until he used nylon."});
 
 ADDART({id:"subseacables",t:"Undersea Internet Cables",c:"Technology",i:"🌊",w:"Submarine communications cable",r:["internet","fiberoptics","telegraph","trench","cybersecurity"],
 p:[["The internet’s backbone","Most data between continents travels through cables on the seabed."],["Hundreds of cables","About 600 cable systems are in service around the world."],["Vulnerable","Ship anchors, earthquakes and sabotage can cut cables."]],
@@ -48,8 +45,7 @@ s2:[["Sharks and cables","In the 1980s, sharks were found to have bitten some fi
 sp:["Tonga cut off","In January 2022, the eruption of the Hunga Tonga–Hunga Haʻapai volcano severed Tonga’s only international cable, cutting the country off from the internet for about five weeks until it was repaired."],
 g:[["Optical fiber","A thin glass strand that carries light"],["Repeater","A device that boosts a signal along a cable"],["Grapnel","A hook used to lift cables from the seabed"],["Bandwidth","The amount of data that can be carried"]],
 f:["About 99% of international data travels through undersea cables.","About 600 cable systems are in service.","Most cable damage is caused by fishing and anchors."],
-fun:"In deep water, an internet cable crossing an ocean may be only about as thick as a garden hose.",
-tl:"Karamihan ng datos sa pagitan ng mga kontinente ay dumaraan sa mga kable sa ilalim ng dagat. Mga 600 sistema ng kable ang ginagamit sa buong mundo, ngunit maaaring maputol ang mga ito ng angkla, lindol at sabotahe."});
+fun:"In deep water, an internet cable crossing an ocean may be only about as thick as a garden hose."});
 
 ADDART({id:"searchengines",t:"Search Engines",c:"Technology",i:"🔍",w:"Search engine",r:["internet","ai","dataprivacy","recommender","misinformation"],
 p:[["Finding information","Search engines help people find pages on the web."],["Crawl, index, rank","They copy the web, organize it and rank the results."],["One giant","Google handles about 90 percent of searches worldwide."]],
@@ -61,8 +57,7 @@ s2:[["To google","The verb ‘to google’ was added to the Oxford English Dicti
 sp:["The name Google","Google’s name is a play on ‘googol’, the number 1 followed by 100 zeros, reflecting the founders’ goal of organizing a huge amount of information."],
 g:[["Crawler","A program that visits and copies web pages"],["Index","An organized database of web pages"],["Algorithm","A set of rules a computer follows"],["SEO","Search engine optimization"]],
 f:["Google handles about 90 percent of searches worldwide.","Search engines work by crawling, indexing and ranking.","Google’s name comes from ‘googol’."],
-fun:"Google receives billions of searches every day, and about 15 percent of searches each day have never been searched before.",
-tl:"Tinutulungan ng search engine ang mga tao na makahanap ng mga pahina sa web sa pamamagitan ng pagkopya, pag-aayos at pagraranggo ng mga ito. Hawak ng Google ang mga 90 porsiyento ng mga paghahanap sa buong mundo."});
+fun:"Google receives billions of searches every day, and about 15 percent of searches each day have never been searched before."});
 
 ADDART({id:"datacenters",t:"Data Centers",c:"Technology",i:"🏢",w:"Data center",r:["cloud","ai","internet","elec","waterscarcity"],
 p:[["Where the internet lives","Data centers are buildings full of computers that store and process data."],["Power-hungry","They use about 1.5 percent of the world’s electricity, and demand is rising fast."],["Driven by AI","Artificial intelligence is fueling a boom in data center building."]],
@@ -74,8 +69,7 @@ s2:[["Underwater data center","In 2018, Microsoft sank a sealed data center the 
 sp:["Waste heat","In Stockholm, Helsinki and other northern cities, heat from data centers is piped into district heating networks, warming thousands of homes."],
 g:[["Server","A computer that provides data or services to others"],["Hyperscale","Extremely large-scale computing facilities"],["Terawatt-hour","A billion kilowatt-hours of electricity"],["GPU","A powerful processor used for graphics and AI"]],
 f:["Data centers use about 1.5% of the world’s electricity.","AI is driving rapid growth in data center power use.","Some data centers heat nearby homes."],
-fun:"Northern Virginia, near Washington, D.C., has so many data centers that a large share of the world’s internet traffic is thought to pass through the area.",
-tl:"Ang data center ay gusaling puno ng mga computer na nag-iimbak at nagpoproseso ng datos. Gumagamit ito ng mga 1.5 porsiyento ng kuryente sa mundo, at mabilis na tumataas ang demand dahil sa artificial intelligence."});
+fun:"Northern Virginia, near Washington, D.C., has so many data centers that a large share of the world’s internet traffic is thought to pass through the area."});
 
 ADDART({id:"thermometers",t:"Thermometers",c:"Technology",i:"🌡️",w:"Thermometer",r:["thermo","fever","climate","galileo","mercury"],
 p:[["Measuring temperature","Thermometers measure how hot or cold something is."],["Three famous scales","Fahrenheit, Celsius and Kelvin are the main temperature scales."],["Leaving mercury behind","Mercury thermometers are being phased out because mercury is toxic."]],
@@ -87,8 +81,7 @@ s2:[["Celsius upside down","Anders Celsius’s original scale was reversed: wate
 sp:["Hottest and coldest","The highest air temperature accepted by the World Meteorological Organization is 56.7°C, recorded in Death Valley, California, in 1913, though some scientists doubt it. The lowest is −89.2°C at Vostok Station in Antarctica in 1983."],
 g:[["Temperature","How hot or cold something is"],["Absolute zero","The lowest possible temperature, −273.15°C"],["Infrared","Heat radiation invisible to the eye"],["Thermocouple","A temperature sensor made of two metals"]],
 f:["Celsius and Fahrenheit are equal at −40°.","Celsius’s original scale was upside down.","Mercury thermometers are being phased out."],
-fun:"Daniel Fahrenheit set 0° on his scale using a mixture of ice, water and salt, the coldest temperature he could reliably make.",
-tl:"Sinusukat ng thermometer kung gaano kainit o kalamig ang isang bagay. Fahrenheit, Celsius at Kelvin ang pangunahing iskala, at unti-unting itinitigil ang thermometer na may mercury dahil nakalalason ito."});
+fun:"Daniel Fahrenheit set 0° on his scale using a mixture of ice, water and salt, the coldest temperature he could reliably make."});
 
 ADDART({id:"browndwarfs",t:"Brown Dwarfs",c:"Space and Astronomy",i:"🟤",w:"Brown dwarf",r:["stars","jupiter","exoplanet","jwst","fusion"],
 p:[["Failed stars","Brown dwarfs are too massive to be planets but too small to be true stars."],["Not quite shining","They cannot sustain hydrogen fusion, so they slowly cool and fade."],["Discovered in 1995","The first brown dwarfs were confirmed only in 1995."]],
@@ -100,8 +93,7 @@ s2:[["Why ‘brown’?","Astronomer Jill Tarter suggested the name ‘brown dwar
 sp:["Luhman 16","Luhman 16, discovered in 2013, is a pair of brown dwarfs only about 6.5 light-years away, the closest brown dwarfs to the Sun. Weather maps of one of them show cloud bands like Jupiter’s."],
 g:[["Fusion","Joining atomic nuclei, releasing energy"],["Deuterium","A heavy form of hydrogen"],["Infrared","Light with longer wavelengths than red"],["Red dwarf","A small, cool star"]],
 f:["Brown dwarfs are called failed stars.","Most brown dwarfs are about the size of Jupiter.","The first brown dwarfs were confirmed in 1995."],
-fun:"The coldest brown dwarf known, WISE 0855, is colder than −20°C, cold enough to have water ice clouds.",
-tl:"Ang brown dwarf ay masyadong malaki upang maging planeta ngunit masyadong maliit upang maging tunay na bituin. Hindi nito kayang ipagpatuloy ang hydrogen fusion kaya unti-unti itong lumalamig, at noong 1995 lamang nakumpirma ang mga una."});
+fun:"The coldest brown dwarf known, WISE 0855, is colder than −20°C, cold enough to have water ice clouds."});
 
 ADDART({id:"redgiants",t:"Red Giants",c:"Space and Astronomy",i:"🔴",w:"Red giant",r:["sun","stars","whitedwarfs","betelgeuse","nebula"],
 p:[["Swollen old stars","Red giants are stars that have swollen hugely near the end of their lives."],["The Sun’s future","In about 5 billion years, the Sun will become a red giant."],["Making elements","Red giants create carbon and other elements later spread into space."]],
@@ -113,8 +105,7 @@ s2:[["The Hertzsprung–Russell diagram","Around 1910, Ejnar Hertzsprung and Hen
 sp:["Arcturus","Arcturus, in the constellation Boötes, is a red giant about 25 times the Sun’s diameter and one of the brightest stars visible from Earth. Light from Arcturus was used to switch on the lights of the 1933 Chicago World’s Fair."],
 g:[["Red giant","A large, cool, very bright old star"],["Planetary nebula","A glowing shell of gas thrown off by a dying star"],["White dwarf","The hot, dense core left after a red giant"],["Main sequence","The stage when stars fuse hydrogen in their cores"]],
 f:["The Sun will become a red giant in about 5 billion years.","Much of the carbon in living things was made in red giants.","Arcturus is a red giant."],
-fun:"Betelgeuse is so large that if it replaced the Sun, its surface would extend beyond the orbit of Mars.",
-tl:"Ang red giant ay bituing lumaki nang husto malapit na sa katapusan ng buhay nito. Sa mga 5 bilyong taon, magiging red giant ang Araw, at gumagawa ang mga red giant ng carbon at iba pang elemento na kumakalat sa kalawakan."});
+fun:"Betelgeuse is so large that if it replaced the Sun, its surface would extend beyond the orbit of Mars."});
 
 ADDART({id:"phobosdeimos",t:"Phobos and Deimos",c:"Space and Astronomy",i:"🥔",w:"Moons of Mars",r:["mars","moons","marsrovers","asteroidbelt","impactcraters"],
 p:[["The moons of Mars","Mars has two small, potato-shaped moons, Phobos and Deimos."],["Fear and dread","They are named after sons of Ares, the Greek god of war."],["Phobos is doomed","Phobos is slowly spiraling toward Mars and will break apart."]],
@@ -126,8 +117,7 @@ s2:[["Swift’s prediction","In Gulliver’s Travels (1726), Jonathan Swift desc
 sp:["Asaph Hall’s discovery","Asaph Hall searched for Martian moons with the US Naval Observatory’s new telescope in 1877. He almost gave up, but his wife, Angeline Stickney, encouraged him to continue. He found Deimos on 12 August and Phobos on 18 August. Phobos’s largest crater is named Stickney in her honor."],
 g:[["Captured asteroid","An asteroid pulled into orbit by a planet’s gravity"],["Tidal force","The stretching effect of gravity"],["Groove","A long, narrow channel"],["Sample return","Bringing material from space to Earth"]],
 f:["Phobos orbits Mars three times a day.","Phobos will break apart in tens of millions of years.","Mars never has total solar eclipses."],
-fun:"From the surface of Mars, Phobos rises in the west and sets in the east, crossing the sky in about four and a half hours.",
-tl:"Ang Phobos at Deimos ay ang dalawang maliit at hugis-patatas na buwan ng Mars. Dahan-dahang lumalapit ang Phobos sa Mars at mababasag ito, at layunin ng MMX ng Japan na magdala ng mga sample nito sa Earth."});
+fun:"From the surface of Mars, Phobos rises in the west and sets in the east, crossing the sky in about four and a half hours."});
 
 ADDART({id:"gammaraybursts",t:"Gamma-Ray Bursts",c:"Space and Astronomy",i:"💥",w:"Gamma-ray burst",r:["supernova","bh","pulsar","gravwaves","radioastronomy"],
 p:[["The brightest explosions","Gamma-ray bursts are the most powerful explosions known in the universe."],["Found by spy satellites","Satellites watching for nuclear tests discovered them in 1967."],["Dying stars and colliding stars","They come from collapsing giant stars and merging neutron stars."]],
@@ -139,8 +129,7 @@ s2:[["A danger to life?","If a gamma-ray burst occurred within a few thousand li
 sp:["Spy satellites","The Vela satellites were launched by the United States after the 1963 treaty banning nuclear tests in the atmosphere and space. Their detectors recorded unexpected gamma-ray flashes that did not match nuclear explosions; scientists kept the discovery secret until they were sure the flashes came from space."],
 g:[["Gamma ray","The most energetic form of light"],["Afterglow","Fading light after a burst"],["Kilonova","An explosion from merging neutron stars"],["Jet","A narrow, fast stream of matter"]],
 f:["Gamma-ray bursts are the most powerful explosions known.","They were found by satellites watching for nuclear tests.","The brightest burst ever seen was in 2022."],
-fun:"A single gamma-ray burst can briefly outshine all the other stars in the universe put together, as seen in gamma rays.",
-tl:"Ang gamma-ray burst ang pinakamalakas na pagsabog na kilala sa uniberso. Natuklasan ito ng mga satellite na nagbabantay sa mga nuclear test noong 1967, at nagmumula ito sa gumuguhong malalaking bituin at nagbabanggaang neutron star."});
+fun:"A single gamma-ray burst can briefly outshine all the other stars in the universe put together, as seen in gamma rays."});
 
 ADDART({id:"cosmicrays",t:"Cosmic Rays",c:"Space and Astronomy",i:"⚛️",w:"Cosmic ray",r:["radioact","sun","atom","carbondating","supernova"],
 p:[["Particles from space","Cosmic rays are fast-moving particles that rain on Earth from space."],["Discovered by balloon","Victor Hess discovered them on a balloon flight in 1912."],["Mysterious origins","The most energetic cosmic rays come from unknown sources."]],
@@ -152,8 +141,7 @@ s2:[["The Oh-My-God particle","On 15 October 1991, the Fly’s Eye detector in U
 sp:["Seeing cosmic rays","Apollo astronauts reported seeing flashes of light with their eyes closed. Scientists concluded that these were caused by cosmic rays passing through their eyes and striking the retina."],
 g:[["Cosmic ray","A high-energy particle from space"],["Muon","A heavier cousin of the electron created in air showers"],["Air shower","A cascade of particles from a cosmic ray impact"],["Electron volt","A unit of energy used for particles"]],
 f:["Cosmic rays are particles, not rays of light.","Millions of muons pass through you every day.","Cosmic rays make carbon-14."],
-fun:"About one muon created by cosmic rays passes through every square centimeter of Earth’s surface each minute.",
-tl:"Ang cosmic rays ay mabibilis na partikulo mula sa kalawakan na tumatama sa Earth. Natuklasan ang mga ito ni Victor Hess sa isang paglipad sakay ng lobo noong 1912, at hindi pa alam kung saan nagmumula ang pinakamalalakas."});
+fun:"About one muon created by cosmic rays passes through every square centimeter of Earth’s surface each minute."});
 
 ADDART({id:"ionengines",t:"Ion Engines",c:"Space Exploration",i:"🔵",w:"Ion thruster",r:["rocket","ceres","asteroidbelt","megaconstellations","solarsails"],
 p:[["Electric rockets","Ion engines push spacecraft using electrically charged atoms."],["Gentle but tireless","Their thrust is tiny, but they can run for years."],["Deep-space travel","Ion engines carried spacecraft such as Dawn to the asteroid belt."]],
@@ -165,5 +153,4 @@ s2:[["Science fiction","Ion engines appeared in science fiction long before they
 sp:["The blue glow","Ion engines produce a ghostly blue glow from excited xenon ions. Photos of the engines being tested in vacuum chambers show beams of soft blue light."],
 g:[["Ion","An atom with an electric charge"],["Xenon","A heavy, unreactive gas"],["Specific impulse","A measure of rocket fuel efficiency"],["Hall-effect thruster","An ion engine using magnetic fields"]],
 f:["Ion engines push with about the force of a sheet of paper.","Dawn orbited both Vesta and Ceres.","Ion engines usually use xenon gas."],
-fun:"Over its mission, Dawn’s ion engines increased its speed by about 11.5 kilometers per second, more than any other spacecraft’s own propulsion at the time.",
-tl:"Itinutulak ng ion engine ang sasakyang pangkalawakan gamit ang mga atom na may kargang elektrikal. Napakahina ng tulak nito ngunit maaari itong gumana nang ilang taon, at dinala nito ang Dawn sa asteroid belt."});
+fun:"Over its mission, Dawn’s ion engines increased its speed by about 11.5 kilometers per second, more than any other spacecraft’s own propulsion at the time."});

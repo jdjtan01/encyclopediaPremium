@@ -9,8 +9,7 @@ s2:[["Fuji in art","Mount Fuji has appeared in Japanese art for more than a thou
 sp:["A perfect cone","Mount Fuji’s graceful shape comes from repeated eruptions of fluid lava and ash, piling up evenly around the central vent. From many directions, its slopes appear almost perfectly symmetrical, rising gently at the base and steeply near the top. Snow covers the peak for much of the year, usually from autumn to late spring. This classic shape has made Fuji one of the most recognizable mountains on Earth."],
 g:[["Stratovolcano","A tall, cone-shaped volcano of layered lava and ash"],["Goraikō","Watching the sunrise from Fuji’s summit"],["Pilgrimage","A journey to a sacred place"],["Lenticular cloud","A lens-shaped cloud that forms over mountains"]],
 f:["Mount Fuji is 3,776 meters high.","Fuji last erupted in 1707.","Women were banned from climbing Fuji until 1872."],
-fun:"On clear winter days, Mount Fuji can be seen from Tokyo, about 100 kilometers away.",
-tl:"Ang Bundok Fuji ang pinakamataas na bundok sa Hapon, na may taas na 3,776 metro. Isa itong aktibong bulkan na huling pumutok noong 1707. Banal ito para sa mga Hapones at naging inspirasyon ng maraming alagad ng sining."});
+fun:"On clear winter days, Mount Fuji can be seen from Tokyo, about 100 kilometers away."});
 
 ADDART({id:"rockies",t:"The Rocky Mountains",c:"Geography",i:"🏔️",w:"Rocky Mountains",r:["usacountry","andes","geysers","alps","canyon"],
 p:[["Backbone of a continent","The Rocky Mountains stretch more than 4,800 kilometers through western Canada and the United States."],["The Continental Divide","Rivers on one side of the Rockies flow toward the Pacific; on the other, toward the Atlantic and Arctic."],["Wild places","The Rockies are home to grizzly bears, elk, wolves and famous national parks."]],
@@ -22,8 +21,7 @@ s2:[["National parks","The Rockies contain some of North America’s most famous
 sp:["The Continental Divide","Along the crest of the Rockies runs the Continental Divide, an imaginary line separating watersheds. A raindrop falling on one side may flow to the Pacific Ocean, while one falling a few meters away on the other side may flow to the Gulf of Mexico and the Atlantic. At a place called Triple Divide Peak in Montana, water can flow to three oceans: the Pacific, the Atlantic and, through Hudson Bay, the Arctic."],
 g:[["Orogeny","A period of mountain building"],["Continental Divide","A line separating rivers flowing to different oceans"],["Watershed","An area of land that drains into one river or sea"],["Alpine","Relating to high mountains above the tree line"]],
 f:["The Rockies stretch more than 4,800 km.","Mount Elbert is the highest peak of the Rockies.","Wolves were reintroduced to Yellowstone in 1995."],
-fun:"From Triple Divide Peak in Montana, water can flow to three different oceans.",
-tl:"Ang Rocky Mountains ay malaking hanay ng bundok sa kanlurang Hilagang Amerika, na umaabot nang higit 4,800 kilometro mula Canada hanggang Estados Unidos. Dito nagsisimula ang maraming malalaking ilog at dito matatagpuan ang mga tanyag na pambansang parke."});
+fun:"From Triple Divide Peak in Montana, water can flow to three different oceans."});
 
 ADDART({id:"waterfalls",t:"Waterfalls",c:"Geography",i:"💦",w:"Waterfall",r:["hydropower","wcycle","canyon","amazon","nile"],
 p:[["Water in free fall","A waterfall is a place where a river or stream drops over a steep edge."],["Shaped by erosion","Waterfalls form where water wears away soft rock faster than hard rock."],["Natural wonders","Angel Falls, Victoria Falls, Iguazu and Niagara are among the most famous."]],
@@ -35,8 +33,7 @@ s2:[["Mosi-oa-Tunya","Victoria Falls is known locally as Mosi-oa-Tunya, the smok
 sp:["The world’s biggest waterfall is underwater","Beneath the Denmark Strait, between Greenland and Iceland, very cold, heavy water from the Nordic seas flows over a ridge and plunges down into the deep Atlantic. It falls about 3,500 meters, more than three times the height of Angel Falls, carrying millions of cubic meters of water each second. No one can see it, since it happens entirely beneath the sea surface, but it is part of the great ocean currents that move heat around the planet."],
 g:[["Plunge pool","A deep pool at the base of a waterfall"],["Gorge","A narrow valley with steep rock walls"],["Cascade","A waterfall that tumbles down rock steps"],["Erosion","The wearing away of rock and soil"]],
 f:["Angel Falls is the tallest waterfall.","Victoria Falls is called the smoke that thunders.","The biggest waterfall on Earth is under the sea."],
-fun:"The largest waterfall on Earth is hidden under the sea between Greenland and Iceland.",
-tl:"Ang talon ay lugar kung saan bumabagsak ang tubig ng ilog sa matarik na gilid. Ang Angel Falls ang pinakamataas, at ang Victoria Falls ang isa sa pinakamalaki. Sa Pilipinas, kilala ang Maria Cristina Falls at Pagsanjan Falls."});
+fun:"The largest waterfall on Earth is hidden under the sea between Greenland and Iceland."});
 
 ADDART({id:"monsoon",t:"Monsoons",c:"Geography",i:"🌧️",w:"Monsoon",r:["climate","phtyph","storms","rice","indocean"],
 p:[["Seasonal winds","A monsoon is a seasonal change in wind direction that brings wet and dry seasons."],["Rain for billions","Monsoon rains water the crops that feed billions of people in Asia and Africa."],["Habagat and amihan","In the Philippines, the southwest monsoon is habagat and the northeast monsoon is amihan."]],
@@ -48,8 +45,7 @@ s2:[["Sailing with the monsoon","For thousands of years, sailors in the Indian O
 sp:["Amihan and Habagat in Filipino life","The words amihan and habagat are part of everyday Filipino life. Weather forecasts on television announce when the habagat season begins, signaling the rainy season and school class suspensions during heavy rains. The amihan brings cool, breezy months around Christmas, when many festivals take place. Fishermen and farmers have long planned their work around these seasonal winds."],
 g:[["Monsoon","A seasonal reversal of winds bringing wet and dry seasons"],["Habagat","The southwest monsoon in the Philippines"],["Amihan","The northeast monsoon in the Philippines"],["El Niño","A periodic warming of the eastern Pacific Ocean"]],
 f:["Monsoon comes from the Arabic word for season.","India gets most of its rain during the summer monsoon.","Amihan brings cooler air to the Philippines."],
-fun:"People in Meghalaya, India, one of the wettest places on Earth, use woven umbrellas called knups.",
-tl:"Ang monsoon o habagat at amihan ay pana-panahong pagbabago ng direksiyon ng hangin na nagdadala ng tag-ulan at tag-araw. Mahalaga ang ulan nito sa pagsasaka ng bilyon-bilyong tao, ngunit maaari rin itong magdulot ng baha."});
+fun:"People in Meghalaya, India, one of the wettest places on Earth, use woven umbrellas called knups."});
 
 ADDART({id:"trench",t:"The Deep Ocean and Ocean Trenches",c:"Geography",i:"🌊",w:"Deep sea",r:["pacific","submarine","tect","geysers"],
 p:[["The largest habitat","The deep ocean is the largest living space on Earth, dark, cold and under huge pressure."],["Ocean trenches","Trenches are the deepest places on Earth, formed where tectonic plates dive beneath each other."],["Mostly unexplored","Much of the deep seafloor has never been mapped in detail or seen by people."]],
@@ -61,5 +57,4 @@ s2:[["The Philippine Trench","The Philippine Trench runs about 1,300 kilometers 
 sp:["Giants of the deep","The giant squid, which can grow longer than a school bus, lived for centuries in sailors’ legends of sea monsters. Scientists had only dead or dying specimens until 2004, when Japanese researchers photographed a live giant squid in its natural habitat, and in 2012 it was filmed in the deep sea for the first time. Its eyes, as big as dinner plates, are among the largest of any animal, helping it see in the dim depths."],
 g:[["Trench","A long, deep valley in the ocean floor"],["Subduction","When one tectonic plate sinks beneath another"],["Bioluminescence","Light produced by living things"],["Hadal zone","The deepest ocean zone, found in trenches"]],
 f:["The Challenger Deep is nearly 11 km deep.","Many deep-sea animals make their own light.","The Philippine Trench is one of the deepest on Earth."],
-fun:"If Mount Everest were placed in the Challenger Deep, its peak would still be underwater.",
-tl:"Ang malalim na karagatan ay madilim, malamig at may napakalakas na presyon. Ang mga trench ang pinakamalalim na lugar sa Earth, gaya ng Mariana Trench. Ang Philippine Trench ay isa rin sa pinakamalalim sa mundo."});
+fun:"If Mount Everest were placed in the Challenger Deep, its peak would still be underwater."});

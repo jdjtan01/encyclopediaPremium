@@ -9,8 +9,7 @@ s2:[["Leaves in Filipino life","Banana leaves are used to wrap and serve food, f
 sp:["Priestley’s mint and the mouse","In 1771 the English scientist Joseph Priestley placed a burning candle in a sealed glass jar. The flame soon went out, and a mouse in such a jar could not survive. Then he put a sprig of mint in a jar where a candle had burned out. Days later, he found that a candle could burn there again. The mint had restored the air. A few years later, the Dutch scientist Jan Ingenhousz showed that plants refresh the air only in light. These experiments helped reveal that leaves produce oxygen, a gas later named and studied by Antoine Lavoisier."],
 g:[["Chlorophyll","The green pigment that captures sunlight"],["Stomata","Tiny pores in leaves"],["Transpiration","The loss of water vapor from leaves"],["Petiole","The stalk joining a leaf to a stem"]],
 f:["Leaves release oxygen.","Cactus spines are modified leaves.","Raffia palms have the longest leaves."],
-fun:"A single large tree can release hundreds of liters of water through its leaves on a hot day.",
-tl:"Ang dahon ang gumagawa ng pagkain ng halaman gamit ang sikat ng araw. Humihinga ito sa maliliit na butas na tinatawag na stomata. Ginagamit ng mga Pilipino ang dahon ng saging, pandan at anahaw sa araw-araw na buhay."});
+fun:"A single large tree can release hundreds of liters of water through its leaves on a hot day."});
 
 ADDART({id:"roots",t:"Roots",c:"Plants",i:"🥕",w:"Root",r:["soil","trees","fungi","leaves","wetlands"],
 p:[["Hidden half","Roots anchor plants and soak up water and nutrients."],["Fungus partners","Most plant roots work together with fungi."],["Roots we eat","Carrots, cassava and sweet potatoes are roots."]],
@@ -22,8 +21,7 @@ s2:[["Roots on the table","Root crops are important foods in the Philippines, es
 sp:["The root tip as a brain","In 1880 Charles Darwin and his son Francis published a book on how plants move. After many experiments, they noticed that the very tip of a root seemed to control its direction, sensing gravity, moisture and obstacles and steering the root around them. They wrote that the root tip acts somewhat like the brain of a lower animal. Most scientists today would not call it a brain, but research has confirmed that root tips process many signals at once. Darwin’s simple experiments with seedlings opened a field of research that continues today."],
 g:[["Root hair","A tiny cell that absorbs water"],["Taproot","A main root that grows straight down"],["Mycorrhiza","A partnership between roots and fungi"],["Nodule","A swelling on roots that holds nitrogen-fixing bacteria"]],
 f:["Most plant roots partner with fungi.","Ube and kamote are roots.","Roots grow downward by sensing gravity."],
-fun:"A single rye plant was found to have over 600 kilometers of roots, not counting its root hairs.",
-tl:"Ang ugat ng halaman ay humahawak dito sa lupa at sumisipsip ng tubig at sustansiya. Karamihan sa ugat ay may katuwang na fungi. Ang kamote, kamoteng kahoy at ube ay mga ugat na kinakain natin."});
+fun:"A single rye plant was found to have over 600 kilometers of roots, not counting its root hairs."});
 
 ADDART({id:"medicinalplants",t:"Medicinal Plants",c:"Plants",i:"🌿",w:"Medicinal plants",r:["malaria","antibiotics","flower","trees","conservation"],
 p:[["Medicine from nature","Many modern medicines were first found in plants."],["Traditional healing","People have used plants to treat illness for thousands of years."],["Philippine herbs","Lagundi and sambong are well-known Philippine herbal medicines."]],
@@ -35,8 +33,7 @@ s2:[["Herbal medicine in the Philippines","Filipinos have long used plants such 
 sp:["The willow and the aspirin","For thousands of years, people in ancient Egypt, Greece and elsewhere used willow bark and leaves to ease pain and fever. In the 1800s, chemists extracted salicin from willow and turned it into salicylic acid, which worked but irritated the stomach. In 1897 chemists at the German company Bayer produced a gentler form, acetylsalicylic acid. Sold from 1899 as aspirin, it became one of the most widely used medicines in history. Scientists later found that aspirin also helps prevent some heart attacks and strokes. A remedy from a riverside tree had become a modern drug."],
 g:[["Medicinal plant","A plant used to treat illness"],["Active ingredient","The chemical in a remedy that has an effect"],["Herbal medicine","Treatment using plants"],["Clinical trial","A careful scientific test of a treatment"]],
 f:["Aspirin was first made from a substance in willow bark.","Artemisinin treats malaria.","Lagundi is a Philippine herbal medicine for cough."],
-fun:"The malaria drug artemisinin was rediscovered with help from a medical text written about 1,600 years ago.",
-tl:"Ang halamang gamot ay ginagamit upang gamutin ang sakit. Maraming makabagong gamot, tulad ng aspirin, ang unang natuklasan sa halaman. Kilala sa Pilipinas ang lagundi at sambong bilang halamang gamot."});
+fun:"The malaria drug artemisinin was rediscovered with help from a medical text written about 1,600 years ago."});
 
 ADDART({id:"grasses",t:"Grasses",c:"Plants",i:"🌾",w:"Poaceae",r:["rice","wheat","maize","bamboo","grasslands"],
 p:[["Feeding the world","Rice, wheat and corn are all grasses."],["Growing from the base","Grasses grow from near the ground, so they survive grazing and mowing."],["Covering the land","Grasslands cover a large part of Earth’s land."]],
@@ -48,8 +45,7 @@ s2:[["Grains that built civilizations","The domestication of grasses changed hum
 sp:["The grass that became corn","About 9,000 years ago in southern Mexico, people began gathering a wild grass called teosinte. Its tiny ears held only a handful of hard kernels, each wrapped in a tough casing. Over thousands of years, farmers kept seeds from plants with bigger ears and softer kernels. Slowly, teosinte was transformed into maize, or corn, with large cobs packed with hundreds of kernels. Scientists were long puzzled about corn’s origins because it looks so different from its wild ancestor, but genetic studies have confirmed the link. Corn is now one of the most widely grown crops in the world."],
 g:[["Grass","A plant of the family Poaceae"],["Cereal","A grass grown for its grain"],["Culm","The hollow stem of a grass"],["Teosinte","The wild grass ancestor of corn"]],
 f:["Rice, wheat and corn are grasses.","Bamboo is a giant grass.","Grasses are pollinated by wind."],
-fun:"Fossil dinosaur dung shows that grasses existed when dinosaurs were alive.",
-tl:"Ang damo ay pamilya ng halaman na kinabibilangan ng palay, trigo at mais. Lumalaki ito mula sa ibaba kaya muling tumutubo kahit kainin o gapasin. Ang kawayan ay isang napakalaking damo."});
+fun:"Fossil dinosaur dung shows that grasses existed when dinosaurs were alive."});
 
 ADDART({id:"giantrees",t:"Giant Trees",c:"Plants",i:"🌲",w:"List of superlative trees",r:["trees","deforestation","conservation","amazon","climate"],
 p:[["The tallest","Coast redwoods are the tallest trees on Earth."],["The biggest","Giant sequoias are the largest trees by volume."],["The oldest","Some bristlecone pines are nearly 5,000 years old."]],
@@ -61,8 +57,7 @@ s2:[["Giant trees of the Philippines","The Philippines once had vast forests of 
 sp:["The secret location of Hyperion","In 2006, two naturalists exploring a remote valley in Redwood National Park in California found a redwood that seemed taller than any known tree. A scientist climbed it and measured it at about 115.5 meters, making it the tallest known living tree. They named it Hyperion. Park officials kept its location secret to protect it. But after the location leaked online, many visitors hiked off-trail to find it, trampling the soil around its roots. In 2022, the park closed the area and warned of fines for anyone who visited, saying that people were damaging the very tree they came to admire."],
 g:[["Redwood","A very tall conifer of California’s coast"],["Sequoia","A massive conifer of the Sierra Nevada"],["Dipterocarp","A family of tall tropical trees"],["Old-growth forest","A forest that has never been logged"]],
 f:["The tallest known tree is about 116 meters tall.","Some bristlecone pines are nearly 5,000 years old.","Giant sequoias need fire to reproduce."],
-fun:"The tallest known tree, Hyperion, is taller than a 30-story building.",
-tl:"Ang redwood ang pinakamatataas na puno sa mundo, at ang giant sequoia ang pinakamalaki. May mga bristlecone pine na halos 5,000 taon na ang edad. Dating may malalawak na kagubatan ng matatayog na dipterocarp sa Pilipinas."});
+fun:"The tallest known tree, Hyperion, is taller than a 30-story building."});
 
 ADDART({id:"aquaticplants",t:"Water Plants",c:"Plants",i:"🪷",w:"Aquatic plant",r:["wetlands","lakes","flower","dugongs","seaweeds"],
 p:[["Living in water","Aquatic plants grow in ponds, lakes, rivers and the sea."],["Floating leaves","Water lilies and lotuses float their leaves on the surface."],["A troublesome invader","Water hyacinth clogs many Philippine rivers and lakes."]],
@@ -74,5 +69,4 @@ s2:[["The lotus","The sacred lotus has been revered in Asian cultures for thousa
 sp:["A leaf that inspired a palace","In 1849 Joseph Paxton, head gardener at Chatsworth House in England, built a special heated tank and became the first person to make the giant Amazon water lily bloom in Europe. To show how strong its leaves were, he placed his young daughter on one. Paxton studied the network of ribs beneath the leaf and said it gave him ideas for a building of iron and glass. Two years later, he designed the Crystal Palace, a huge glass hall for the Great Exhibition of 1851 in London. A water plant from the Amazon had helped inspire one of the most famous buildings of the age."],
 g:[["Aquatic plant","A plant that lives in water"],["Seagrass","A flowering plant that grows in shallow seawater"],["Invasive species","A non-native living thing that spreads harmfully"],["Duckweed","Tiny floating plants"]],
 f:["The smallest flowering plant is a duckweed.","Kangkong is a water plant.","Water hyacinth is invasive in the Philippines."],
-fun:"A giant water lily leaf can support the weight of a small child.",
-tl:"Ang halamang-tubig ay tumutubo sa lawa, ilog at dagat. Ang kangkong ay isang halamang-tubig na paboritong gulay ng mga Pilipino. Ang water hyacinth o water lily naman ay nagbabara sa Ilog Pasig at Laguna de Bay."});
+fun:"A giant water lily leaf can support the weight of a small child."});

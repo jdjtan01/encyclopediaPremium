@@ -9,8 +9,7 @@ s2:[["Robert Koch","On 24 March 1882, the German doctor Robert Koch announced th
 sp:["Ancient bones tell a story","Scientists have found signs of TB in the spines of Egyptian mummies thousands of years old and in skeletons from ancient Peru, showing that TB existed in the Americas before Europeans arrived. By studying the DNA of TB bacteria from ancient remains, researchers are learning how the disease spread around the world with human migrations."],
 g:[["Bacterium","A tiny single-celled organism; some cause disease"],["Latent TB","Infection without symptoms that can become active later"],["BCG","A vaccine that protects children against severe TB"],["Drug resistance","When germs survive the medicines meant to kill them"]],
 f:["TB is caused by bacteria, not a virus.","TB is treated with several medicines for about six months.","World TB Day is on 24 March."],
-fun:"Signs of tuberculosis have been found in Egyptian mummies thousands of years old.",
-tl:"Ang tuberculosis o TB ay sakit na dulot ng bakterya na kadalasang umaatake sa baga. Kumakalat ito sa hangin kapag umuubo ang may sakit. Nagagamot ito sa pag-inom ng ilang gamot sa loob ng mga anim na buwan."});
+fun:"Signs of tuberculosis have been found in Egyptian mummies thousands of years old."});
 
 ADDART({id:"dengue",t:"Dengue",c:"Health and the Body",i:"🦟",w:"Dengue fever",r:["malaria","microbe","vacc","pandemic","immune"],
 p:[["Spread by mosquitoes","Dengue is a disease caused by a virus spread by the bites of Aedes mosquitoes."],["Common in the tropics","It is common in warm, rainy parts of Asia, Africa and the Americas, including the Philippines."],["Prevention starts at home","Removing standing water where mosquitoes breed helps prevent dengue."]],
@@ -22,8 +21,7 @@ s2:[["A growing problem","Dengue cases reported to the World Health Organization
 sp:["Mosquito eggs that wait","Aedes aegypti lays its eggs on the inside walls of containers just above the water line. The eggs can survive dry for many months. When rain or fresh water covers them, they hatch, and within about a week new adult mosquitoes can emerge. This is why scrubbing the inside of containers, not just emptying them, is important to stop dengue."],
 g:[["Virus","A tiny germ that can only multiply inside living cells"],["Aedes aegypti","The main mosquito that spreads dengue"],["Severe dengue","A dangerous form of dengue with bleeding or shock"],["Breeding site","A place where mosquitoes lay eggs"]],
 f:["Dengue mosquitoes bite mostly during the day.","There are four types of dengue virus.","Mosquito eggs can survive dry for months."],
-fun:"Dengue was once called breakbone fever because of its painful aches.",
-tl:"Ang dengue ay sakit na dulot ng virus na ikinakalat ng kagat ng lamok na Aedes. Karaniwan ito sa mga bansang tropikal gaya ng Pilipinas. Maiiwasan ito sa pag-alis ng tubig na naiipon kung saan nangingitlog ang lamok."});
+fun:"Dengue was once called breakbone fever because of its painful aches."});
 
 ADDART({id:"hiv",t:"HIV and AIDS",c:"Health and the Body",i:"🎗️",w:"HIV/AIDS",r:["immune","microbe","pandemic","blood","vacc"],
 p:[["A virus that attacks defenses","HIV is a virus that damages the immune system, the body’s defense against infections."],["AIDS","Without treatment, HIV can lead to AIDS, when the immune system becomes very weak."],["Treatable","Modern medicines let people with HIV live long, healthy lives and prevent passing it on."]],
@@ -35,8 +33,7 @@ s2:[["Discovering the virus","In 1981 doctors noticed rare infections and cancer
 sp:["U=U","In the 2010s, large studies following thousands of couples found that people with HIV whose treatment kept the virus undetectable did not pass HIV to their partners through sex. This led health organizations to endorse the message Undetectable = Untransmittable. It encourages people to get tested and stay on treatment, and helps reduce fear and stigma."],
 g:[["Immune system","The body’s defense against germs"],["CD4 cell","A white blood cell that HIV attacks"],["Antiretroviral","A medicine that stops HIV from multiplying"],["Stigma","Unfair negative beliefs about a group of people"]],
 f:["HIV is not spread by hugging or sharing cups.","Daily medicines can keep HIV under control.","World AIDS Day is on 1 December."],
-fun:"The red ribbon, a worldwide symbol of HIV awareness, was created in 1991.",
-tl:"Ang HIV ay virus na sumisira sa immune system, ang depensa ng katawan laban sa impeksiyon. Kung hindi gagamutin, maaari itong humantong sa AIDS. Sa modernong gamot, maaaring mabuhay nang mahaba at malusog ang taong may HIV."});
+fun:"The red ribbon, a worldwide symbol of HIV awareness, was created in 1991."});
 
 ADDART({id:"pain",t:"Pain",c:"Health and the Body",i:"🤕",w:"Pain",r:["nervous","brain","surgery","skin"],
 p:[["A warning signal","Pain is the body’s alarm system, warning us of injury or danger."],["Made in the brain","Nerves send signals, but the feeling of pain is created by the brain."],["Many treatments","Medicines, rest, exercise and other methods can relieve pain."]],
@@ -48,8 +45,7 @@ s2:[["People who feel no pain","A few people are born unable to feel pain, a rar
 sp:["Willow bark to aspirin","For thousands of years, people in Egypt, Greece and elsewhere chewed willow bark or drank willow tea to ease pain and fever. In the 1800s chemists found that its active substance was related to salicylic acid. In 1897 Felix Hoffmann at the German company Bayer made a gentler form, acetylsalicylic acid, sold as aspirin from 1899. It became one of the most widely used medicines in history."],
 g:[["Nociceptor","A nerve ending that detects harmful stimuli"],["Chronic pain","Pain lasting longer than about three months"],["Opioid","A strong painkiller related to morphine"],["Endorphin","A natural painkiller made by the body"]],
 f:["Pain is produced by the brain.","Some people are born unable to feel pain.","Aspirin comes from a substance found in willow bark."],
-fun:"Chili peppers feel hot because they trigger the same nerve sensors as real heat.",
-tl:"Ang sakit o kirot ay babala ng katawan sa pinsala o panganib. Nagpapadala ang mga nerbiyo ng signal, ngunit ang utak ang lumilikha ng pakiramdam ng sakit. May iba't ibang paraan para maibsan ito, gaya ng gamot, pahinga at ehersisyo."});
+fun:"Chili peppers feel hot because they trigger the same nerve sensors as real heat."});
 
 ADDART({id:"emotions",t:"Emotions",c:"Health and the Body",i:"😊",w:"Emotion",r:["brain","mental","hormone","memory","sleep"],
 p:[["Feelings that move us","Emotions such as joy, fear, anger and sadness are reactions of the mind and body to what happens around us."],["Brain and body","Emotions involve the brain, hormones, heartbeat, breathing and facial expressions."],["Managing feelings","Understanding and managing emotions helps people stay healthy and get along with others."]],
@@ -61,8 +57,7 @@ s2:[["Emotional intelligence","In 1990 the psychologists Peter Salovey and John 
 sp:["Inside Out","The 2015 animated film Inside Out, made with advice from psychologists including Paul Ekman and Dacher Keltner, shows the emotions of a girl named Riley as characters: Joy, Sadness, Fear, Anger and Disgust. The film’s message, that sadness is important too because it helps us get comfort and support, has been used by teachers and therapists to help children talk about feelings."],
 g:[["Emotion","A reaction involving feelings, thoughts and body changes"],["Amygdala","A brain area involved in fear and emotion"],["Empathy","Understanding and sharing others’ feelings"],["Fight or flight","The body’s response to danger"]],
 f:["The amygdala helps the brain detect danger.","Darwin wrote a book about emotions in 1872.","Filipino has special words such as kilig and gigil."],
-fun:"The Filipino word gigil describes the urge to squeeze something extremely cute.",
-tl:"Ang emosyon tulad ng saya, takot, galit at lungkot ay reaksiyon ng isip at katawan sa mga nangyayari. Kasama rito ang utak, mga hormone at ekspresyon ng mukha. Mahalaga ang pag-unawa at pamamahala ng emosyon sa kalusugan ng isip."});
+fun:"The Filipino word gigil describes the urge to squeeze something extremely cute."});
 
 ADDART({id:"pregnancy",t:"Pregnancy and Birth",c:"Health and the Body",i:"👶",w:"Pregnancy",r:["cell","hormone","mendel","nutri","vacc"],
 p:[["A new life grows","Pregnancy is the time, about nine months, when a baby develops inside its mother’s womb."],["From one cell","Every person begins as a single fertilized cell that divides into trillions."],["Care for mother and baby","Good care before, during and after birth keeps mothers and babies healthy."]],
@@ -74,5 +69,4 @@ s2:[["Prenatal care","During pregnancy, health workers check the mother’s bloo
 sp:["The first IVF baby","On 25 July 1978, Louise Brown was born in Oldham, England, the first person conceived through in vitro fertilization, IVF, in which an egg is fertilized by sperm in a laboratory dish and then placed in the mother’s uterus. The scientists Robert Edwards and Patrick Steptoe developed the method; Edwards won the Nobel Prize in 2010. More than ten million babies have since been born through IVF."],
 g:[["Embryo","A baby in the earliest stage of development"],["Fetus","A developing baby from about eight weeks after fertilization until birth"],["Placenta","The organ that nourishes a baby in the womb"],["Trimester","One of three stages of pregnancy, each about three months long"]],
 f:["Pregnancy lasts about 40 weeks.","Every person begins as a single cell.","Identical twins share the same genes."],
-fun:"More than ten million babies have been born through IVF since 1978.",
-tl:"Ang pagbubuntis ay panahon, mga siyam na buwan, kung kailan lumalaki ang sanggol sa sinapupunan ng ina. Nagsisimula ang bawat tao bilang iisang selula. Mahalaga ang maayos na pangangalaga bago, habang at pagkatapos manganak."});
+fun:"More than ten million babies have been born through IVF since 1978."});

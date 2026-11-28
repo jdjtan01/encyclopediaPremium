@@ -9,8 +9,7 @@ s2:[["The onion crisis","In late 2022 and early 2023, onion prices in the Philip
 sp:["The basket of goods","To measure inflation, statisticians imagine a basket filled with the things a typical household buys: rice, bread, fish, meat, vegetables, cooking oil, rent, electricity, transport fares, school supplies, haircuts and more. Every month, they check the prices of these items in markets and stores across the country. If the basket costs more than it did a year earlier, prices have risen. The contents are updated over time; mobile phone plans and internet subscriptions were added as they became part of everyday life, while items such as typewriters were removed."],
 g:[["Cost of living","The money needed to pay for basic needs"],["Inflation","A general rise in prices over time"],["Consumer price index","A measure of the prices of a basket of goods and services"],["Shrinkflation","Reducing product size while keeping the price"]],
 f:["Prices surged worldwide from 2021 to 2023.","Inflation is measured with a consumer price index.","Onions briefly cost more than meat in the Philippines."],
-fun:"In early 2023, onions in the Philippines briefly cost more per kilo than meat.",
-tl:"Ang cost of living ay ang halagang kailangan para sa pagkain, bahay, pamasahe at iba pang pangangailangan. Mula 2021 hanggang 2023, mabilis tumaas ang presyo sa maraming bansa, kabilang ang Pilipinas, gaya ng sibuyas at bigas."});
+fun:"In early 2023, onions in the Philippines briefly cost more per kilo than meat."});
 
 ADDART({id:"startups",t:"Start-ups and Entrepreneurs",c:"Economics and Society",i:"🚀",w:"Startup company",r:["money","stockm","internet","gigeconomy","digitalpay"],
 p:[["New businesses","A start-up is a young company trying to grow quickly with a new idea."],["Taking risks","Entrepreneurs start businesses, taking risks in hope of success."],["Billion-dollar start-ups","Start-ups valued at a billion dollars are called unicorns."]],
@@ -22,8 +21,7 @@ s2:[["Start-ups in Southeast Asia","Southeast Asia has produced major tech compa
 sp:["The garage in Palo Alto","In 1939 two young Stanford University graduates, Bill Hewlett and David Packard, set up a business in a small rented garage behind a house at 367 Addison Avenue in Palo Alto, California, with about 538 dollars. Their first major product was an audio oscillator, an electronic instrument for testing sound equipment; one of their first customers was Walt Disney Studios, which used it for the film Fantasia. Hewlett-Packard grew into a giant electronics company, and the garage is now a historic landmark known as the birthplace of Silicon Valley."],
 g:[["Start-up","A young company aiming for rapid growth"],["Entrepreneur","A person who starts a business, taking risks"],["Venture capital","Money invested in young companies in exchange for ownership"],["Unicorn","A start-up valued at over a billion dollars"]],
 f:["Many famous companies began as start-ups in garages.","A unicorn is a start-up worth over $1 billion.","The Philippines passed an Innovative Startup Act in 2019."],
-fun:"One of Hewlett-Packard’s first customers was Walt Disney Studios.",
-tl:"Ang start-up ay bagong kompanyang naglalayong lumago nang mabilis gamit ang bagong ideya. Ang mga negosyanteng nagsisimula nito ay tinatawag na entrepreneur. Ang start-up na nagkakahalaga ng mahigit isang bilyong dolyar ay tinatawag na unicorn."});
+fun:"One of Hewlett-Packard’s first customers was Walt Disney Studios."});
 
 ADDART({id:"automation",t:"Automation and the Future of Work",c:"Economics and Society",i:"🤖",w:"Technological unemployment",r:["robot","ai","labor","gigeconomy","education"],
 p:[["Machines at work","Automation means machines and software doing tasks once done by people."],["Jobs lost and created","Technology removes some jobs but creates new ones."],["Learning for the future","New skills help workers adapt as work changes."]],
@@ -35,8 +33,7 @@ s2:[["How many jobs?","Estimates vary widely. A famous 2013 Oxford study estimat
 sp:["The Luddites","Between 1811 and 1816, skilled textile workers in the north of England, facing falling wages and unemployment, broke into workshops at night and smashed new mechanized looms and knitting frames. They claimed to follow a mysterious leader called General Ned Ludd, probably a legendary figure. The government sent thousands of soldiers to stop them and made machine-breaking punishable by death. Today the word Luddite is used for anyone who opposes new technology, but historians point out that the original Luddites were not against machines as such; they were protesting how machines were used to cut wages and worsen their working conditions."],
 g:[["Automation","Using machines to do work once done by people"],["Industrial robot","A programmable machine used in manufacturing"],["Retraining","Learning new skills for a different job"],["Universal basic income","Regular payments to all citizens regardless of work"]],
 f:["The first industrial robot began work in 1961.","The Luddites protested against machines in 1811–1816.","South Korea uses the most robots per worker."],
-fun:"The original Luddites claimed to follow a leader called General Ned Ludd, who probably never existed.",
-tl:"Ang automation ay paggamit ng makina, robot at artificial intelligence sa mga gawaing dating ginagawa ng tao. Nawawala ang ilang trabaho ngunit may mga bagong nalilikha. Mahalaga ang pag-aaral ng bagong kasanayan."});
+fun:"The original Luddites claimed to follow a leader called General Ned Ludd, who probably never existed."});
 
 ADDART({id:"onlinelearning",t:"Online Learning",c:"Economics and Society",i:"🎓",w:"Online learning",r:["education","internet","digitaldivide","covid19","remotework"],
 p:[["Learning online","Online learning uses the internet to teach and learn."],["Classes for everyone","Free online courses let anyone study subjects from top universities."],["A pandemic test","During COVID-19, schools around the world moved to distance learning."]],
@@ -48,8 +45,7 @@ s2:[["The Philippines during the pandemic","When schools closed in 2020, the Dep
 sp:["Khan Academy began with a cousin","In 2004, Salman Khan, a financial analyst in the United States, began tutoring his young cousin Nadia in mathematics over the phone and internet. Soon other relatives wanted help too, so he started recording short video lessons and posting them on YouTube, where anyone could watch. His cousins said they preferred him on video, because they could pause and replay him without feeling embarrassed. The videos became so popular that in 2008 he founded Khan Academy, a nonprofit offering free lessons. Today it has lessons in dozens of languages used by millions of students around the world."],
 g:[["Online learning","Education delivered through the internet"],["MOOC","Massive open online course"],["Blended learning","A mix of online and in-person teaching"],["Module","A self-learning booklet or unit of study"]],
 f:["The Open University was founded in 1969.","2012 was called the year of the MOOC.","About 1.6 billion students were affected by pandemic school closures."],
-fun:"Khan Academy began when Salman Khan tutored his cousin online.",
-tl:"Ang online learning ay pag-aaral gamit ang internet. Noong pandemya ng COVID-19, gumamit ang mga paaralan sa Pilipinas ng modular at online distance learning. Kapaki-pakinabang ito ngunit nangangailangan ng gadget at internet."});
+fun:"Khan Academy began when Salman Khan tutored his cousin online."});
 
 ADDART({id:"cyberbullying",t:"Cyberbullying",c:"Technology",i:"🛑",w:"Cyberbullying",r:["socialmedia","mentalyouth","dataprivacy","cybersecurity","misinformation"],
 p:[["Bullying online","Cyberbullying is using phones, games or the internet to hurt, threaten or embarrass someone."],["It can be stopped","Blocking, reporting and telling a trusted adult help stop it."],["Be an upstander","Friends and bystanders can make a big difference."]],
@@ -61,8 +57,7 @@ s2:[["What to do if you are cyberbullied","Experts advise: do not reply or retal
 sp:["Pink shirts against bullying","In 2007, in Nova Scotia, Canada, a ninth-grade boy was bullied for wearing a pink shirt to school. Two older students, David Shepherd and Travis Price, decided to take a stand. They bought dozens of pink shirts and handed them out, encouraging classmates to wear them. The next day, hundreds of students came to school dressed in pink, and the bullies backed down. Their simple act grew into Pink Shirt Day, an anti-bullying day now marked in many countries, showing how bystanders acting together can stop bullying."],
 g:[["Cyberbullying","Bullying through digital devices and the internet"],["Bystander","A person who sees something happen"],["Upstander","A person who acts to help when they see wrongdoing"],["Digital citizenship","Responsible and respectful behavior online"]],
 f:["About one in three young people in a UNICEF poll said they were bullied online.","The Philippines passed the Anti-Bullying Act in 2013.","Save evidence, block, report and tell a trusted adult."],
-fun:"Pink Shirt Day began when two students handed out pink shirts to stand up to bullies.",
-tl:"Ang cyberbullying ay pananakit, pananakot o pagpapahiya sa isang tao gamit ang cellphone, laro o internet. Huwag gumanti, mag-screenshot ng ebidensiya, mag-block, mag-report at magsabi sa mapagkakatiwalaang matanda."});
+fun:"Pink Shirt Day began when two students handed out pink shirts to stand up to bullies."});
 
 ADDART({id:"digitaldivide",t:"The Digital Divide",c:"Technology",i:"📶",w:"Digital divide",r:["internet","inequality","onlinelearning","smartphone","sat"],
 p:[["Connected and unconnected","The digital divide is the gap between people who have internet access and those who do not."],["Billions still offline","More than 2 billion people have never used the internet or rarely do."],["Closing the gap","Cheaper devices, better networks and digital skills help."]],
@@ -74,8 +69,7 @@ s2:[["The Philippines","Internet use in the Philippines has grown rapidly, and F
 sp:["Climbing for a signal","During the COVID-19 pandemic, stories and photos spread of students in the Philippines and other countries climbing hills, trees and rooftops, or walking long distances to roadsides, to find a mobile signal strong enough to submit assignments or join online classes. In some communities, residents built small bamboo huts on hilltops as study spots with better reception. These images showed the determination of students, but also how unequal access to the internet could decide who was able to keep learning."],
 g:[["Digital divide","The gap between those with and without digital access"],["Connectivity","The ability to connect to the internet"],["Digital literacy","The skills to use digital technology well"],["Accessibility","Design that allows people with disabilities to use something"]],
 f:["More than 2 billion people are offline.","The Philippines passed a free public Wi-Fi law in 2017.","Many people first go online through mobile phones."],
-fun:"During the pandemic, some students built bamboo huts on hilltops to get a better phone signal.",
-tl:"Ang digital divide ay agwat sa pagitan ng may access sa internet at wala. Mahigit 2 bilyong tao pa rin ang walang internet. Sa Pilipinas, maraming malalayong lugar ang mahina ang signal."});
+fun:"During the pandemic, some students built bamboo huts on hilltops to get a better phone signal."});
 
 ADDART({id:"smarthome",t:"Smart Homes and the Internet of Things",c:"Technology",i:"🏠",w:"Internet of things",r:["internet","ai","dataprivacy","cybersecurity","elec"],
 p:[["Connected things","The Internet of Things connects everyday objects to the internet."],["Smart homes","Lights, speakers, cameras and appliances can be controlled by phone or voice."],["Convenience and risks","Smart devices are convenient but raise privacy and security concerns."]],
@@ -87,8 +81,7 @@ s2:[["Energy saving","Smart thermostats, air conditioners, lights and plugs can 
 sp:["The coffee pot that made history","In 1991, researchers at the University of Cambridge in England grew tired of walking to the coffee pot in the Trojan Room only to find it empty. They pointed a camera at the pot and wrote software so they could see a small picture of it on their computer screens. In 1993 the image was put on the World Wide Web, making it one of the first webcams. People around the world logged on just to watch a coffee pot. When it was finally switched off in 2001, the pot was sold at auction for thousands of pounds."],
 g:[["Internet of Things","Everyday objects connected to the internet"],["Smart home","A home with devices controlled remotely or automatically"],["Sensor","A device that detects changes such as heat, light or motion"],["Voice assistant","Software that responds to spoken commands"]],
 f:["The term Internet of Things was coined in 1999.","A Cambridge coffee pot was one of the first webcams.","Weak passwords make smart devices vulnerable to hackers."],
-fun:"One of the first webcams showed a university coffee pot.",
-tl:"Ang Internet of Things ay ang pagkonekta ng mga pang-araw-araw na bagay sa internet, gaya ng ilaw, kamera at appliances. Sa smart home, nakokontrol ang mga ito gamit ang cellphone o boses. May mga alalahanin sa privacy at seguridad."});
+fun:"One of the first webcams showed a university coffee pot."});
 
 ADDART({id:"housing",t:"Housing and Homes",c:"Economics and Society",i:"🏘️",w:"Affordable housing",r:["urban","megacities","inequality","costliving","architecture"],
 p:[["A place to live","Everyone needs a safe, decent and affordable home."],["A global challenge","Billions of people live in inadequate or unaffordable housing."],["Different solutions","Countries try public housing, new building, subsidies and slum upgrading."]],
@@ -100,8 +93,7 @@ s2:[["Housing in the Philippines","The Philippines has a large housing backlog, 
 sp:["Bayanihan: moving a house together","In the traditional Filipino custom of bayanihan, when a family in a village needed to move, neighbors would gather to lift their entire nipa hut on bamboo poles and carry it on their shoulders to its new location, sometimes dozens of men walking together. In return, the family would prepare a meal for everyone. The image of villagers carrying a house became a symbol of community spirit in the Philippines, celebrated in art and the famous painting by Carlos Botong Francisco. Today the word bayanihan is used for any act of communities working together, including building homes for those in need."],
 g:[["Adequate housing","Safe, secure, affordable housing with basic services"],["Informal settlement","An area of unplanned housing without secure ownership"],["Public housing","Homes built or owned by the government"],["Bayanihan","The Filipino spirit of community cooperation"]],
 f:["Housing is recognized as a human right.","About 80 percent of Singapore residents live in public housing.","Bayanihan once meant carrying a neighbor’s house together."],
-fun:"In traditional bayanihan, neighbors carried a whole nipa hut on their shoulders.",
-tl:"Ang pabahay ay pangunahing pangangailangan at karapatang pantao. Bilyun-bilyong tao ang nakatira sa hindi sapat o mahal na tirahan. Sa Pilipinas, malaki ang kakulangan sa pabahay, at simbolo ng pagtutulungan ang bayanihan."});
+fun:"In traditional bayanihan, neighbors carried a whole nipa hut on their shoulders."});
 
 ADDART({id:"loneliness",t:"Loneliness and Social Connection",c:"Health and the Body",i:"🤝",w:"Loneliness",r:["mental","family","agingworld","mentalyouth","socialmedia"],
 p:[["Feeling alone","Loneliness is the painful feeling of having fewer close connections than you want."],["A public health issue","Health organizations now treat loneliness as a serious health concern."],["Connection helps","Friendships, family and community protect health and happiness."]],
@@ -113,8 +105,7 @@ s2:[["What helps","Ways to build connection include reaching out to friends and 
 sp:["Chatty benches","In 2019, police in the town of Burnham-on-Sea in England put up signs on park benches reading: Happy to chat bench. Sit here if you don’t mind someone stopping to say hello. The idea was simple: anyone who sat on the bench was signaling that they would welcome a conversation with a stranger. Chat benches spread to many towns in the United Kingdom and other countries, from Australia to Canada, helping lonely people, especially older people, find someone to talk to. Some cafés followed with chatter tables where customers could join others for conversation."],
 g:[["Loneliness","The painful feeling of lacking close connections"],["Social isolation","Having few social contacts"],["Social prescribing","Doctors referring patients to community activities"],["Barkada","A Filipino word for a close group of friends"]],
 f:["About one in six people worldwide is affected by loneliness.","The UK appointed a minister for loneliness in 2018.","Close relationships predict long, healthy lives."],
-fun:"Some towns have chat benches where sitting down means you are happy to talk.",
-tl:"Ang kalungkutan o loneliness ay ang pakiramdam na kulang ang malapit na ugnayan. Maaari itong makasama sa kalusugan. Nakatutulong ang pamilya, barkada, komunidad at pakikipag-usap sa iba."});
+fun:"Some towns have chat benches where sitting down means you are happy to talk."});
 
 ADDART({id:"urbanfarm",t:"Urban Farming",c:"Food and Agriculture",i:"🥬",w:"Urban agriculture",r:["agri","foodsecurity","urban","megacities","recycling"],
 p:[["Farms in the city","Urban farming means growing food in and around cities."],["Rooftops and walls","Food grows on rooftops, balconies, vacant lots and even indoors."],["Fresh and local","City farms provide fresh food, green space and community."]],
@@ -126,5 +117,4 @@ s2:[["Havana’s organopónicos","When the Soviet Union collapsed in 1991, Cuba 
 sp:["Kangkong in a bottle","One of the easiest vegetables to grow in a small space is kangkong, water spinach, a favorite in Filipino dishes such as adobong kangkong and sinigang. Gardeners can take kangkong stems bought at the market, remove the leaves for cooking and place the stems in a container of water or moist soil near a sunny window. Within days, roots appear and new leaves sprout, ready to harvest within weeks. Many Filipino families grow kangkong in cut plastic bottles hung on walls or fences, turning trash into a small garden."],
 g:[["Urban agriculture","Growing food in and around cities"],["Hydroponics","Growing plants in water with nutrients instead of soil"],["Vertical farm","An indoor farm with crops grown in stacked layers"],["Compost","Decayed organic matter used to enrich soil"]],
 f:["Victory gardens fed people during the World Wars.","Hydroponics grows plants without soil.","Many Filipinos started home gardens during the pandemic."],
-fun:"Kangkong can regrow from market stems placed in a bottle of water.",
-tl:"Ang urban farming ay pagtatanim ng pagkain sa lungsod, gaya ng sa bubong, balkonahe at bakanteng lote. Lumaganap ito sa Pilipinas noong pandemya. Madaling magtanim ng kangkong, pechay at kamatis sa maliit na espasyo."});
+fun:"Kangkong can regrow from market stems placed in a bottle of water."});

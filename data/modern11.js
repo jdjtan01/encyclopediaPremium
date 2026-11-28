@@ -11,8 +11,7 @@ s2:[["Life inside a castle","A castle was a busy community. Besides the lord’s
 sp:["Windsor Castle","Windsor Castle, west of London, was founded by William the Conqueror around 1070 and has been a royal residence for over 900 years, longer than any other castle in Europe. It is said to be the largest and oldest occupied castle in the world, and it is still used by the British royal family."],
 g:[["Keep","The strongest tower at the heart of a castle"],["Moat","A deep ditch, often filled with water, around a castle"],["Portcullis","A heavy iron or wooden grille that drops to block a gateway"],["Siege","Surrounding a castle to force it to surrender"]],
 f:["Some castle toilets, called garderobes, emptied straight down the outside wall.","Malbork Castle in Poland is the largest castle in the world by land area.","Many castles took ten years or more to build."],
-fun:"The battlements on top of castle walls are also called crenellations.",
-tl:"Ang kastilyo ay matibay na tirahan ng isang panginoon o pinuno na itinayo upang maipagtanggol sa digmaan. Lumaki ang mga ito mula sa mga kutang lupa at kahoy hanggang sa malalaking kutang bato na may tore at moat, ngunit nawalan ng silbi nang dumating ang kanyon."});
+fun:"The battlements on top of castle walls are also called crenellations."});
 
 ADDART({id:"pirates",t:"Pirates",c:"History",i:"🏴‍☠️",w:"Piracy",r:["explor","ships","slavetrade","spice","viking"],
 p:[["Robbers of the sea","Pirates attack ships or coasts to steal cargo, take hostages or demand ransom."],["A golden age","Pirates were especially active in the Caribbean between about 1650 and 1730."],["Still a problem","Piracy still happens today in some waters, though navies work to stop it."]],
@@ -24,8 +23,7 @@ s2:[["Zheng Yi Sao","Zheng Yi Sao, also known as Ching Shih, led one of the larg
 sp:["Blackbeard","Edward Teach, known as Blackbeard, terrorized ships in the Caribbean and off the American coast around 1716–1718. He is said to have tied slow-burning fuses into his beard to look frightening in battle. He was killed in a fierce fight with a British naval force in November 1718."],
 g:[["Privateer","A private sailor licensed by a government to attack enemy ships"],["Letter of marque","An official permit to capture enemy ships"],["Corsair","A pirate or privateer, especially of the Mediterranean"],["Jolly Roger","A pirate flag, usually a skull and crossbones"]],
 f:["Pirates captured Julius Caesar when he was young and released him for a ransom.","Many pirate crews voted for their captains.","The skull and crossbones was not the only pirate flag; many used their own designs."],
-fun:"Some pirate crews offered payments to members injured in battle, an early form of insurance.",
-tl:"Ang pirata ay umaatake sa mga barko o baybayin upang magnakaw, mangidnap o humingi ng pantubos. Kilala ang mga pirata ng Caribbean noong mga 1650 hanggang 1730, ngunit may pirata pa rin hanggang ngayon sa ilang karagatan."});
+fun:"Some pirate crews offered payments to members injured in battle, an early form of insurance."});
 
 ADDART({id:"samurai",t:"The Samurai",c:"History",i:"⚔️",w:"Samurai",r:["japan","meiji","martial","calligraphy","japancountry"],
 p:[["Warriors of Japan","The samurai were a warrior class that served Japan’s lords for about 700 years."],["Swords and honor","They were famous for their skill with sword and bow and for ideals of loyalty and honor."],["An end in 1870s","Japan abolished the samurai class during its rapid modernization in the 1870s."]],
@@ -37,8 +35,7 @@ s2:[["The Mongol invasions","In 1274 and 1281, the Mongol Empire under Kublai Kh
 sp:["The 47 rōnin","A rōnin was a samurai without a master. In 1701, a lord named Asano was forced to take his own life after attacking an official. Nearly two years later, 47 of his former samurai avenged him and then were ordered to die. Their story of loyalty became one of Japan’s most famous legends."],
 g:[["Shogun","A military ruler who governed Japan in the emperor’s name"],["Katana","A long, curved, single-edged samurai sword"],["Daimyo","A powerful lord who employed samurai"],["Rōnin","A samurai without a master"]],
 f:["Samurai made up only a small share of Japan’s population, around 5 to 6 percent in the 1800s.","Many samurai wrote poetry and practised calligraphy.","Wearing two swords was a sign of samurai status."],
-fun:"Samurai armor was so carefully made that many suits are displayed today as works of art.",
-tl:"Ang samurai ay uri ng mandirigma sa Hapon na naglingkod sa mga panginoon nang mga 700 taon. Kilala sila sa husay sa espada at pana at sa katapatan at dangal, at inalis ang kanilang uri noong dekada 1870."});
+fun:"Samurai armor was so carefully made that many suits are displayed today as works of art."});
 
 ADDART({id:"floods",t:"Floods",c:"Geography",i:"🌊",w:"Flood",r:["storms","monsoon","climchange","disasterprep","wetlands"],
 p:[["Too much water","A flood happens when water covers land that is normally dry."],["The most common disaster","Floods affect more people than any other natural hazard."],["Living with floods","Warnings, barriers, wetlands and good planning help reduce flood damage."]],
@@ -50,8 +47,7 @@ s2:[["The Dutch and the sea","About a quarter of the Netherlands lies below sea 
 sp:["The Thames Barrier","London’s Thames Barrier, opened in 1982, is a row of huge steel gates across the River Thames. When a storm surge threatens, the gates rotate upwards to block the tide and protect the city. It has been closed over 200 times."],
 g:[["Floodplain","Flat land beside a river that floods naturally"],["Levee","A raised bank built to keep a river from overflowing"],["Storm surge","A rise in sea level pushed ashore by a storm"],["Flash flood","A flood that rises very quickly after intense rain"]],
 f:["Just 15 centimeters of fast-moving water can knock an adult off their feet.","Floods affect more people worldwide than any other natural disaster.","The ancient Egyptians measured the Nile’s flood with structures called nilometers."],
-fun:"Before the Aswan High Dam, the Nile’s yearly flood left behind a layer of rich black mud that gave Egypt its ancient name, Kemet, ‘the black land’.",
-tl:"Ang baha ay pag-apaw ng tubig sa lupang karaniwang tuyo. Ito ang pinakamadalas na sakuna sa mundo, at nakatutulong ang babala, harang, wetlands at maayos na pagpaplano upang mabawasan ang pinsala."});
+fun:"Before the Aswan High Dam, the Nile’s yearly flood left behind a layer of rich black mud that gave Egypt its ancient name, Kemet, ‘the black land’."});
 
 ADDART({id:"droughts",t:"Droughts",c:"Geography",i:"🏜️",w:"Drought",r:["desert","sahel","waterscarcity","climchange","agri"],
 p:[["Long dry spells","A drought is a long period with much less water than usual."],["Slow but serious","Droughts develop slowly but can ruin crops, dry up rivers and cause famine."],["Saving water","Better irrigation, water storage and planning help communities cope."]],
@@ -63,8 +59,7 @@ s2:[["The Dust Bowl","In the 1930s, years of drought struck the Great Plains of 
 sp:["Drip irrigation","Drip irrigation delivers small amounts of water through tubes directly to the roots of each plant, wasting far less than flooding fields or spraying. Developed in Israel in the 1960s, it is now used by farmers around the world to grow more food with less water."],
 g:[["Drought","A long period of unusually low rainfall and water"],["Reservoir","A lake, often artificial, used to store water"],["Groundwater","Water stored underground in soil and rock"],["Desalination","Removing salt from seawater to make fresh water"]],
 f:["During the Dust Bowl, dust from the Great Plains fell on ships in the Atlantic Ocean.","Cape Town’s residents cut their water use by about half in 2018.","Some droughts have lasted for decades."],
-fun:"Tree rings can reveal droughts from hundreds of years ago, because trees grow thinner rings in dry years.",
-tl:"Ang tagtuyot ay mahabang panahon na kulang na kulang ang ulan at tubig. Mabagal itong dumating ngunit maaaring sumira ng ani, magpatuyo ng ilog at magdulot ng gutom, kaya mahalaga ang pagtitipid at maayos na patubig."});
+fun:"Tree rings can reveal droughts from hundreds of years ago, because trees grow thinner rings in dry years."});
 
 ADDART({id:"snow",t:"Snow",c:"Geography",i:"❄️",w:"Snow",r:["storms","glaciers","iceage","weatherforecast","climchange"],
 p:[["Frozen crystals","Snow is made of tiny ice crystals that form in clouds and fall to the ground."],["Six-sided flakes","Most snowflakes have six sides because of the way water molecules join together."],["Water for the world","Melting snow supplies drinking water and farming for billions of people."]],
@@ -76,8 +71,7 @@ s2:[["The Snowflake Man","Wilson Bentley, a farmer in Vermont, USA, was the firs
 sp:["Snow country","Some of the snowiest inhabited places on Earth are on the western coast of Japan, where cold winds from Siberia pick up moisture over the Sea of Japan and dump it as snow. Several meters of snow can fall in a winter, and some roads pass between walls of snow taller than a bus."],
 g:[["Snowpack","The layers of snow that build up on the ground over winter"],["Blizzard","A snowstorm with strong winds and very poor visibility"],["Avalanche","A large mass of snow sliding quickly down a slope"],["Albedo","How much sunlight a surface reflects"]],
 f:["Fresh snow can be over 90 percent air.","Snow looks white because its ice crystals scatter all colors of light.","Wilson Bentley photographed more than 5,000 snowflakes."],
-fun:"Falling snow absorbs sound, which is why a snowy landscape seems so quiet.",
-tl:"Ang niyebe ay maliliit na kristal ng yelo na nabubuo sa ulap at bumabagsak sa lupa. Karaniwang anim ang gilid ng mga snowflake, at ang natutunaw na niyebe sa kabundukan ay pinagkukunan ng tubig ng bilyun-bilyong tao."});
+fun:"Falling snow absorbs sound, which is why a snowy landscape seems so quiet."});
 
 ADDART({id:"yoga",t:"Yoga and Meditation",c:"Health and the Body",i:"🧘",w:"Yoga",r:["hindu","buddh","stress","exercise","mental"],
 p:[["An ancient practice","Yoga began in ancient India as a spiritual discipline for body and mind."],["Training attention","Meditation means training the mind to focus, often on the breath."],["Popular worldwide","Today, millions practise yoga and meditation for health and wellbeing."]],
@@ -89,8 +83,7 @@ s2:[["Yoga goes global","In 1893, Swami Vivekananda spoke at the World’s Parli
 sp:["Breathing exercises","Many yoga and meditation practices begin with slow, deep breathing. Breathing out slowly can activate the body’s ‘rest and digest’ system, slowing the heart rate and calming the mind. Simple breathing exercises are now taught in schools, workplaces and sports teams."],
 g:[["Asana","A yoga posture"],["Pranayama","Yoga breathing exercises"],["Meditation","Training the mind to focus attention"],["Mindfulness","Paying calm attention to the present moment"]],
 f:["The word yoga comes from a Sanskrit root meaning ‘to join’ or ‘to yoke’.","International Day of Yoga is held on 21 June.","Meditation is practised in many religions and also without religion."],
-fun:"The popular ‘lotus position’ for meditation is named after the lotus flower, a symbol of purity in Indian traditions.",
-tl:"Ang yoga ay sinaunang gawain mula sa India para sa katawan at isipan, at ang meditasyon ay pagsasanay ng isip na magtuon, kadalasan sa paghinga. Milyun-milyong tao ngayon ang gumagawa nito para sa kalusugan."});
+fun:"The popular ‘lotus position’ for meditation is named after the lotus flower, a symbol of purity in Indian traditions."});
 
 ADDART({id:"writing",t:"The History of Writing",c:"Languages",i:"✍️",w:"History of writing",r:["alphabet","mesop","egypt","paper","print"],
 p:[["A world-changing invention","Writing lets people record language so it can last and travel."],["Invented several times","Writing was invented independently in Mesopotamia, Egypt, China and Mesoamerica."],["Many systems","Scripts can use signs for words, syllables or single sounds."]],
@@ -102,8 +95,7 @@ s2:[["Oracle bones","The oldest known Chinese writing is found on oracle bones f
 sp:["The Rosetta Stone","The Rosetta Stone was found in 1799 near the town of Rashid (Rosetta) in Egypt. It records a decree from 196 BC in three scripts. Because scholars could read the Greek, it became the key to deciphering Egyptian hieroglyphs. It is now in the British Museum."],
 g:[["Script","A system of signs for writing a language"],["Cuneiform","Ancient wedge-shaped writing pressed into clay"],["Hieroglyphs","The picture-based writing of ancient Egypt"],["Logogram","A written sign that stands for a whole word"]],
 f:["Some of the oldest writing in the world is about beer and grain rations.","Cuneiform was used for over 3,000 years.","The Indus script of ancient South Asia has still not been deciphered."],
-fun:"The word ‘alphabet’ comes from alpha and beta, the first two letters of the Greek alphabet.",
-tl:"Ang pagsulat ay sistema ng mga tanda na nagtatala ng wika. Naimbento ito nang hiwalay sa Mesopotamia, Ehipto, Tsina at Mesoamerica, at ang alpabeto ang naging ninuno ng maraming sulat na ginagamit ngayon."});
+fun:"The word ‘alphabet’ comes from alpha and beta, the first two letters of the Greek alphabet."});
 
 ADDART({id:"london",t:"London",c:"Countries and Places",i:"🎡",w:"London",r:["ukcountry","rome","indrev","megacities","tourism"],
 p:[["Capital on the Thames","London is the capital of England and the United Kingdom, on the River Thames."],["Two thousand years old","It was founded by the Romans almost 2,000 years ago."],["A world city","It is a global center of finance, culture and education, home to people from all over the world."]],
@@ -115,8 +107,7 @@ s2:[["The Great Fire","The Great Fire of London began in a bakery on Pudding Lan
 sp:["Big Ben","Big Ben is the nickname of the great bell in the clock tower of the Houses of Parliament, though it is often used for the tower itself, officially renamed the Elizabeth Tower in 2012. The bell first rang in 1859 and weighs about 13.7 metric tons."],
 g:[["Thames","The river that flows through London"],["Tube","The nickname of London’s underground railway"],["The City","London’s historic center and financial district"],["Meridian","A line of longitude"]],
 f:["London was the first city to host the Summer Olympics three times.","The London Underground opened in 1863.","More than 300 languages are spoken in London."],
-fun:"The Tower of London has kept ravens for centuries; legend says the kingdom will fall if they leave.",
-tl:"Ang London ang kabisera ng Inglatera at ng United Kingdom, sa tabi ng Ilog Thames. Itinatag ito ng mga Romano halos 2,000 taon na ang nakararaan at isa na ngayong pandaigdigang sentro ng pananalapi at kultura."});
+fun:"The Tower of London has kept ravens for centuries; legend says the kingdom will fall if they leave."});
 
 ADDART({id:"beijing",t:"Beijing",c:"Countries and Places",i:"🏯",w:"Beijing",r:["chinacountry","china","modernchina","greatwall","megacities"],
 p:[["China’s capital","Beijing is the capital of China and its political and cultural center."],["Imperial city","For centuries it was the home of China’s emperors in the Forbidden City."],["A modern megacity","Today over 21 million people live there, among ancient sites and modern towers."]],
@@ -128,8 +119,7 @@ s2:[["The Temple of Heaven","At the Temple of Heaven, built in the early 1400s, 
 sp:["Tiananmen Square","Tiananmen Square, one of the largest city squares in the world, lies in front of the Gate of Heavenly Peace, where Mao Zedong proclaimed the People’s Republic in 1949. It has been the site of major celebrations and protests, including the pro-democracy demonstrations of 1989 that were ended by a military crackdown."],
 g:[["Hutong","A narrow lane in old Beijing"],["Siheyuan","A traditional courtyard house"],["Dynasty","A line of rulers from the same family"],["Forbidden City","The former palace of China’s emperors"]],
 f:["Beijing means ‘northern capital’.","The Forbidden City has around 980 buildings.","Beijing is the only city to have hosted both the Summer and Winter Olympics."],
-fun:"In older English books, Beijing is spelled Peking, a name still used for Peking duck and Peking opera.",
-tl:"Ang Beijing ang kabisera ng Tsina at sentro ng pamahalaan at kultura nito. Dito nakatira ang mga emperador sa Forbidden City, at ngayon ay mahigit 21 milyong tao ang naninirahan dito."});
+fun:"In older English books, Beijing is spelled Peking, a name still used for Peking duck and Peking opera."});
 
 ADDART({id:"mumbai",t:"Mumbai",c:"Countries and Places",i:"🌆",w:"Mumbai",r:["indiacountry","indus","bollywood","megacities","trade"],
 p:[["India’s biggest city","Mumbai is India’s most populous city and its financial capital."],["Seven islands","It was built on seven islands that were joined together by land reclamation."],["Home of Bollywood","It is the center of India’s Hindi film industry."]],
@@ -141,8 +131,7 @@ s2:[["The dabbawalas","Every day, Mumbai’s dabbawalas deliver around 200,000 h
 sp:["The Gateway of India","The Gateway of India is a large stone arch on the waterfront, built to commemorate the visit of King George V and Queen Mary in 1911 and completed in 1924. In 1948, the last British troops left India through it, making it a symbol of the end of colonial rule."],
 g:[["Reclamation","Creating new land from the sea or marshes"],["Dabbawala","A lunchbox delivery worker in Mumbai"],["Bollywood","The Hindi film industry based in Mumbai"],["Monsoon","A seasonal wind that brings heavy rain"]],
 f:["Mumbai was built on seven islands.","Its name comes from Mumba Devi, a local Hindu goddess.","Mumbai’s suburban trains carry millions of passengers every day."],
-fun:"Mumbai’s Marine Drive is nicknamed the ‘Queen’s Necklace’ because its streetlights curve like a string of pearls at night.",
-tl:"Ang Mumbai, dating Bombay, ang pinakamalaking lungsod sa India at sentro ng pananalapi nito. Itinayo ito sa pitong pulo na pinagdugtong, at dito nakabase ang industriya ng pelikulang Bollywood."});
+fun:"Mumbai’s Marine Drive is nicknamed the ‘Queen’s Necklace’ because its streetlights curve like a string of pearls at night."});
 
 ADDART({id:"nairobi",t:"Nairobi",c:"Countries and Places",i:"🦒",w:"Nairobi",r:["kenyacountry","rift","africacolon","megacities","conservation"],
 p:[["Kenya’s capital","Nairobi is the capital and largest city of Kenya, in East Africa."],["Wildlife next door","It has a national park with lions and giraffes right next to the city."],["A hub for Africa","It is a center of business, technology and international organizations."]],
@@ -154,8 +143,7 @@ s2:[["The ivory burning","In 1989 and again in 2016, Kenya burned huge piles of 
 sp:["Matatus","Nairobi’s privately run minibuses, called matatus, carry millions of commuters. Many are painted with colorful art showing musicians, sports stars and cartoon characters, and play loud music to attract passengers."],
 g:[["Depot","A place where supplies are stored"],["Matatu","A minibus used as public transport in Kenya"],["Mobile money","Paying and sending money using a mobile phone"],["Savannah","Tropical grassland with scattered trees"]],
 f:["Nairobi is the only capital city with a national park inside its boundaries.","Its name means ‘cool water’ in the Maasai language.","Nairobi hosts the global headquarters of the UN Environment Programme."],
-fun:"Giraffes can be seen in Nairobi National Park with skyscrapers in the background.",
-tl:"Ang Nairobi ang kabisera at pinakamalaking lungsod ng Kenya. May pambansang liwasan ito na may mga leon at giraffe sa tabi mismo ng lungsod, at sentro ito ng negosyo at teknolohiya sa Africa."});
+fun:"Giraffes can be seen in Nairobi National Park with skyscrapers in the background."});
 
 ADDART({id:"petra",t:"Petra",c:"Countries and Places",i:"🏜️",w:"Petra",r:["jordancountry","rome","silk","architecture","tourism"],
 p:[["Carved from rock","Petra is an ancient city with buildings carved directly into rose-red sandstone cliffs."],["A trading capital","It was the capital of the Nabataeans, who grew rich on the incense trade."],["A world wonder","It is a UNESCO World Heritage Site and one of the New Seven Wonders of the World."]],
@@ -167,8 +155,7 @@ s2:[["Water in the desert","Petra receives very little rain, but the Nabataeans 
 sp:["The Treasury","The Treasury’s facade is about 40 meters tall, carved from the top down into the cliff face. Local legend said treasure was hidden in the urn at its top, and bullet marks show where people shot at it hoping to release the riches. It was most likely the tomb of a Nabataean king."],
 g:[["Nabataeans","An ancient Arab people who built Petra"],["Facade","The front face of a building"],["Cistern","A tank for storing rainwater"],["Caravan","A group of traders traveling together with animals"]],
 f:["Petra’s Monastery is reached by about 800 rock-cut steps.","The Siq is about 1.2 kilometers long.","Petra was chosen as one of the New Seven Wonders of the World in 2007."],
-fun:"Petra is often called the ‘Rose City’ because of the color of its stone.",
-tl:"Ang Petra ay sinaunang lungsod sa Jordan na may mga gusaling inukit sa kulay-rosas na bato. Ito ang kabisera ng mga Nabateano na yumaman sa kalakalan, at isa na ito ngayon sa New Seven Wonders of the World."});
+fun:"Petra is often called the ‘Rose City’ because of the color of its stone."});
 
 ADDART({id:"colosseum",t:"The Colosseum",c:"Countries and Places",i:"🏟️",w:"Colosseum",r:["rome","italycountry","architecture","greece","tourism"],
 p:[["Rome’s great arena","The Colosseum is a huge ancient amphitheater in the center of Rome."],["Games and shows","Tens of thousands watched gladiator fights and animal hunts there."],["A symbol of Rome","Though damaged, it is one of the most famous buildings in the world."]],
@@ -180,8 +167,7 @@ s2:[["The hypogeum","Beneath the arena floor was a two-level underground maze of
 sp:["Gladiators","Gladiators came in many types, each with different armor and weapons, such as the heavily armed murmillo or the net-fighter called the retiarius, who carried a trident. Successful gladiators could become celebrities, and some won their freedom."],
 g:[["Amphitheater","An oval or round open-air arena surrounded by seats"],["Gladiator","A fighter who entertained Roman crowds in combat"],["Hypogeum","The underground area beneath the arena"],["Velarium","A canvas awning that shaded spectators"]],
 f:["The Colosseum had 80 entrances.","Its opening games reportedly lasted 100 days.","Its image appears on Italy’s five-cent euro coin."],
-fun:"Some historians believe the arena may have been flooded for mock sea battles in its early years.",
-tl:"Ang Colosseum ay malaking sinaunang arena sa gitna ng Roma, Italya. Libu-libong tao ang nanonood dito ng labanan ng mga gladiator at pangangaso ng hayop, at isa ito ngayon sa pinakatanyag na gusali sa mundo."});
+fun:"Some historians believe the arena may have been flooded for mock sea battles in its early years."});
 
 ADDART({id:"baseball",t:"Baseball",c:"How We Live",i:"⚾",w:"Baseball",r:["cricket","olymp","soccer","bball","japancountry"],
 p:[["Bat and ball","Baseball is a bat-and-ball game between two teams of nine players."],["Run the bases","Batters hit the ball and run around four bases to score runs."],["Popular worldwide","It is especially popular in the Americas, Japan, South Korea and Taiwan."]],
@@ -193,8 +179,7 @@ s2:[["Jackie Robinson","For decades, Black players were barred from Major League
 sp:["The diamond","The four bases form a square, called the diamond, with sides of 90 feet (about 27.4 meters). The pitcher throws from a raised mound about 18.4 meters from home plate. Outfield sizes vary from stadium to stadium, unlike most sports."],
 g:[["Inning","A period in which each team bats once"],["Strike","A pitch the batter misses or does not swing at in the strike zone"],["Home run","A hit that lets the batter circle all the bases"],["Pitcher","The player who throws the ball to the batter"]],
 f:["A regulation baseball has 108 double stitches.","Japan has won the World Baseball Classic three times.","Every major league player wears number 42 on Jackie Robinson Day."],
-fun:"Baseball is one of the few major sports with no game clock for most of its history; a pitch timer was added in Major League Baseball only in 2023.",
-tl:"Ang baseball ay larong may bat at bola sa pagitan ng dalawang koponang may tig-siyam na manlalaro. Tumatakbo ang mga batter sa apat na base upang makapuntos, at sikat ito sa Amerika, Hapon, Korea at Taiwan."});
+fun:"Baseball is one of the few major sports with no game clock for most of its history; a pitch timer was added in Major League Baseball only in 2023."});
 
 ADDART({id:"lunarnewyear",t:"Lunar New Year",c:"How We Live",i:"🧧",w:"Lunar New Year",r:["festivals","china","korea","mandarin","buddh"],
 p:[["A new year by the moon","Lunar New Year marks the start of a year in the traditional lunisolar calendar."],["Family and luck","It is a time for family reunions, feasts, red decorations and wishes for good luck."],["Celebrated widely","It is celebrated in China, Korea, Vietnam and by communities around the world."]],
@@ -206,8 +191,7 @@ s2:[["The legend of Nian","According to legend, a monster called Nian came every
 sp:["Red envelopes","Red envelopes, called hongbao in Mandarin and lai see in Cantonese, are given by married adults to children and younger relatives. Red symbolizes good luck. Today, many people send digital red envelopes through mobile payment apps, with billions sent each new year."],
 g:[["Lunisolar","A calendar based on both the moon and the sun"],["Hongbao","A red envelope containing money given as a gift"],["Zodiac","A cycle of animals linked to years"],["Chunyun","The Spring Festival travel season in China"]],
 f:["Lunar New Year can fall on any date between 21 January and 20 February.","The Year of the Horse began on 17 February 2026.","In Vietnam’s zodiac, the Cat takes the place of the Rabbit."],
-fun:"The number 8 is considered lucky because in Chinese it sounds like the word for wealth, so red envelopes often contain amounts with eights.",
-tl:"Ang Lunar New Year ay pagdiriwang ng bagong taon ayon sa kalendaryong batay sa buwan at araw. Panahon ito ng pagsasama-sama ng pamilya, piging, pulang dekorasyon at pagbati ng suwerte sa Tsina, Korea, Vietnam at sa buong mundo."});
+fun:"The number 8 is considered lucky because in Chinese it sounds like the word for wealth, so red envelopes often contain amounts with eights."});
 
 ADDART({id:"intramuros",t:"Intramuros",c:"Philippines",i:"🧱",w:"Intramuros",r:["manila","spanph","rizal","phrev","christ"],
 p:[["The walled city","Intramuros is the historic walled city at the heart of Manila."],["Spanish Manila","It was the center of Spanish rule in the Philippines for over 300 years."],["Rebuilt after war","Destroyed in 1945, much of it has since been restored."]],
@@ -219,8 +203,7 @@ s2:[["San Agustin Church","San Agustin Church, completed in 1607, is the oldest 
 sp:["Kalesas and bamboo bikes","Visitors to Intramuros can tour its streets by kalesa, a horse-drawn carriage, or on bicycles with bamboo frames made by a local social enterprise. Walking tours along the top of the walls give views of the city and Manila Bay."],
 g:[["Intramuros","Latin for ‘within the walls’"],["Bastion","A part of a fortress wall that sticks out for defense"],["Moat","A deep ditch around a fortified place"],["Baroque","An ornate style of art and architecture"]],
 f:["Intramuros covers about 64 hectares.","San Agustin Church is the oldest stone church in the Philippines.","Brass footprints in Fort Santiago mark José Rizal’s final walk."],
-fun:"Several of Intramuros’ gates are still named after saints and Spanish officials, such as Puerta Real, the ‘Royal Gate’.",
-tl:"Ang Intramuros, na ang ibig sabihin ay ‘sa loob ng pader’, ang makasaysayang lungsod na napapaderan sa puso ng Maynila. Ito ang sentro ng pamamahala ng Espanya nang mahigit 300 taon, at naibalik ang malaking bahagi nito matapos masira noong 1945."});
+fun:"Several of Intramuros’ gates are still named after saints and Spanish officials, such as Puerta Real, the ‘Royal Gate’."});
 
 ADDART({id:"chocolatehills",t:"The Chocolate Hills",c:"Philippines",i:"⛰️",w:"Chocolate Hills",r:["bohol","caves","coral","tourism","conservation"],
 p:[["Over a thousand hills","The Chocolate Hills are more than 1,200 rounded hills in Bohol."],["Turning brown","Their grass turns brown in the dry season, like chocolate drops."],["Made of limestone","They formed from ancient coral and shell deposits shaped by rain and erosion."]],
@@ -232,8 +215,7 @@ s2:[["The 2013 earthquake","On 15 October 2013, a magnitude 7.2 earthquake struc
 sp:["Karst landscapes","Karst landscapes form where rainwater dissolves soluble rocks such as limestone, creating caves, sinkholes, towers and rounded hills. Other famous karst landscapes include Ha Long Bay in Vietnam and the tower hills of Guilin in China."],
 g:[["Limestone","Rock formed mostly from the remains of marine creatures"],["Karst","A landscape shaped by the dissolving of soluble rock"],["Erosion","The wearing away of land by water, wind or ice"],["Geological monument","A protected natural feature of special scientific value"]],
 f:["There are at least 1,268 Chocolate Hills.","The hills turn brown during the dry season.","The Chocolate Hills appear on the provincial flag and seal of Bohol."],
-fun:"The hills look green for much of the year; they only look like chocolate in the dry season.",
-tl:"Ang Chocolate Hills ay mahigit 1,200 bilugang burol sa Bohol. Nagiging kulay-tsokolate ang damo nito tuwing tag-araw, at nabuo ang mga ito mula sa sinaunang batong-apog na hinubog ng ulan at erosyon."});
+fun:"The hills look green for much of the year; they only look like chocolate in the dry season."});
 
 ADDART({id:"undergroundriver",t:"The Puerto Princesa Underground River",c:"Philippines",i:"🦇",w:"Puerto Princesa Subterranean River National Park",r:["palawan","caves","conservation","tourism","bats"],
 p:[["A river through a mountain","The Underground River flows for over 8 kilometers through a cave in Palawan."],["Straight to the sea","It is one of the world’s longest navigable underground rivers and flows directly into the sea."],["A protected wonder","It is a UNESCO World Heritage Site and one of the New Seven Wonders of Nature."]],
@@ -245,8 +227,7 @@ s2:[["The Italian’s Chamber","One of the cave’s greatest spaces, the Italian
 sp:["Echolocation","Bats and some swiftlets find their way in total darkness by making sounds and listening to the echoes that bounce back from walls and objects. This lets them fly through narrow cave passages without crashing."],
 g:[["Stalactite","A rock formation hanging from a cave ceiling"],["Stalagmite","A rock formation rising from a cave floor"],["Navigable","Deep and wide enough for boats to travel on"],["Echolocation","Finding the way using echoes of sounds"]],
 f:["The underground part of the river is about 8.2 kilometers long.","Its lower part rises and falls with the tides.","Visitor numbers are limited each day to protect the cave."],
-fun:"Some cave formations have been given nicknames by guides, such as ‘the cathedral’ and shapes said to look like vegetables.",
-tl:"Ang Puerto Princesa Underground River ay ilog na dumadaloy nang mahigit 8 kilometro sa loob ng kuweba sa Palawan at tuloy-tuloy sa dagat. Isa itong UNESCO World Heritage Site at isa sa New Seven Wonders of Nature."});
+fun:"Some cave formations have been given nicknames by guides, such as ‘the cathedral’ and shapes said to look like vegetables."});
 
 ADDART({id:"phchristmas",t:"Christmas in the Philippines",c:"Philippines",i:"⭐",w:"Christmas in the Philippines",r:["christ","phfest","festivals","spanph","rice"],
 p:[["The longest Christmas","Filipinos begin celebrating Christmas as early as September."],["Dawn masses","Simbang Gabi is a series of nine masses before Christmas Day."],["Lanterns and feasts","Star lanterns called parol and the Noche Buena feast are beloved traditions."]],
@@ -258,5 +239,4 @@ s2:[["The Giant Lantern Festival","Every December, villages in San Fernando, Pam
 sp:["Puto bumbong and bibingka","Puto bumbong is purple sticky rice steamed in bamboo tubes and served with butter, sugar and grated coconut. Bibingka is a rice cake baked in clay pots lined with banana leaves, with hot coals above and below. Both are classic treats sold outside churches during Simbang Gabi."],
 g:[["Simbang Gabi","Nine masses held before Christmas"],["Parol","A star-shaped Christmas lantern"],["Noche Buena","The Christmas Eve feast"],["Pamamasko","Visiting relatives and godparents for Christmas gifts"]],
 f:["Christmas songs can be heard in the Philippines as early as September.","Simbang Gabi lasts nine days.","San Fernando, Pampanga, is called the Christmas Capital of the Philippines."],
-fun:"Some Filipinos say the season starts on 1 September because it is the first of the ‘ber months’: September, October, November and December.",
-tl:"Ang Pasko sa Pilipinas ay sinasabing pinakamahabang Pasko sa mundo, na nagsisimula pa sa Setyembre. Kabilang sa mga tradisyon ang Simbang Gabi, ang parol at ang Noche Buena."});
+fun:"Some Filipinos say the season starts on 1 September because it is the first of the ‘ber months’: September, October, November and December."});

@@ -9,8 +9,7 @@ s2:[["Earthquake Baroque","Spanish missionaries brought the Baroque style to the
 sp:["Bernini’s Ecstasy of Saint Teresa","In a chapel in Rome, Gian Lorenzo Bernini created a marble sculpture, completed in 1652, showing the Spanish mystic Saint Teresa of Ávila in a moment of spiritual rapture, as an angel prepares to pierce her heart with a golden arrow. Hidden windows let light fall on the figures, and gilded rays stream down behind them. Marble seems to become soft cloth and floating clouds. Bernini even carved members of the chapel’s patron family watching from theater boxes on the side walls, turning the chapel into a stage."],
 g:[["Baroque","A dramatic European style of about 1600–1750"],["Chiaroscuro","Strong contrast of light and dark in art"],["Counter-Reformation","The Catholic Church’s response to the Protestant Reformation"],["Oratorio","A large musical work for voices and orchestra, often religious"]],
 f:["The Baroque period lasted from about 1600 to 1750.","Four Philippine Baroque churches are UNESCO sites.","Vivaldi wrote The Four Seasons."],
-fun:"The facade of Miagao Church in Iloilo is carved with coconut, papaya and guava trees.",
-tl:"Ang Baroque ay istilo ng sining, arkitektura at musika sa Europa mula mga 1600 hanggang 1750. Gumamit ito ng madramang liwanag at galaw. Ang mga simbahang Baroque ng Pilipinas, gaya ng Miagao at Paoay, ay UNESCO World Heritage Sites."});
+fun:"The facade of Miagao Church in Iloilo is carved with coconut, papaya and guava trees."});
 
 ADDART({id:"romanticism",t:"Romanticism",c:"Arts and Literature",i:"🌄",w:"Romanticism",r:["enlightenment","poetry","beethoven","nationalism","jluna"],
 p:[["Feeling and imagination","Romanticism was a movement in art, literature and music that celebrated emotion, imagination and nature."],["A reaction","It arose in the late 1700s, partly as a reaction to the Enlightenment’s focus on reason and to industrialization."],["Heroes and nations","Romantic artists admired individual genius, the sublime power of nature and national traditions."]],
@@ -22,8 +21,7 @@ s2:[["Frankenstein","In 1818 Mary Shelley, then a young woman of 20, published F
 sp:["Wanderer above the Sea of Fog","Caspar David Friedrich’s painting of about 1818 shows a man in a dark coat, seen from behind, standing on a rocky peak and gazing over a sea of mist and distant mountains. Because we cannot see his face, viewers imagine themselves in his place, contemplating the vastness of nature. The painting has become one of the most famous images of Romanticism, symbolizing reflection, solitude and the search for meaning."],
 g:[["Romanticism","A movement valuing emotion, imagination and nature"],["Sublime","A feeling of awe before something vast or powerful"],["Sturm und Drang","A German movement emphasizing passion"],["Folklore","Traditional stories, songs and customs of a people"]],
 f:["Lyrical Ballads was published in 1798.","Mary Shelley wrote Frankenstein at age 20.","Juan Luna’s Spoliarium won gold in Madrid in 1884."],
-fun:"Frankenstein began as an entry in a ghost-story contest among friends.",
-tl:"Ang Romantisismo ay kilusan sa sining, panitikan at musika na nagdiwang sa damdamin, imahinasyon at kalikasan. Nagsimula ito noong huling bahagi ng 1700s. Itinuturing na akdang Romantiko ang Florante at Laura ni Balagtas."});
+fun:"Frankenstein began as an entry in a ghost-story contest among friends."});
 
 ADDART({id:"modernart",t:"Modern Art",c:"Arts and Literature",i:"🖼️",w:"Modern art",r:["impress","vangogh","picasso","kahlo","photography"],
 p:[["Breaking the rules","Modern art refers to bold new styles from the late 1800s to the 1970s that broke with traditional ways of painting."],["Many movements","Cubism, Surrealism, Abstract art and Pop Art are among its famous movements."],["New ways of seeing","Modern artists explored color, shape, dreams and ideas rather than simply copying reality."]],
@@ -35,8 +33,7 @@ s2:[["Philippine modernism","In 1928 the painter Victorio Edades, who had studie
 sp:["Duchamp’s Fountain","In 1917 Marcel Duchamp bought an ordinary porcelain urinal, turned it on its side, signed it R. Mutt and submitted it to an art exhibition in New York under the title Fountain. The organizers refused to display it. Duchamp’s point was that an artist’s choice and idea could make something art. The original was lost, but Fountain was later voted in a 2004 survey of art experts as the most influential modern artwork of the 20th century."],
 g:[["Cubism","Art showing objects broken into geometric shapes from many viewpoints"],["Abstract art","Art that does not represent recognizable objects"],["Surrealism","Art inspired by dreams and the unconscious"],["Pop Art","Art based on popular culture and advertising"]],
 f:["Picasso and Braque developed Cubism.","Munch painted The Scream in 1893.","Victorio Edades is called the father of Philippine modern art."],
-fun:"Duchamp’s Fountain, a signed urinal, was voted one of the most influential artworks of the 20th century.",
-tl:"Ang modernong sining ay mga bagong istilo mula huling bahagi ng 1800s hanggang 1970s na lumabag sa tradisyonal na paraan ng pagpipinta. Kabilang dito ang Cubism, Surrealism at Pop Art. Si Victorio Edades ang tinaguriang ama ng modernong sining sa Pilipinas."});
+fun:"Duchamp’s Fountain, a signed urinal, was voted one of the most influential artworks of the 20th century."});
 
 ADDART({id:"islamicart",t:"Islamic Art and Architecture",c:"Arts and Literature",i:"🕌",w:"Islamic art",r:["islam","calligraphy","goldage","tajmahal","istanbul"],
 p:[["Beauty in pattern","Islamic art is famous for geometric patterns, flowing plant designs and beautiful calligraphy."],["Great buildings","Mosques, palaces and tombs from Spain to India are among the world’s architectural masterpieces."],["A shared tradition","Islamic art developed across many lands and cultures over more than 1,400 years."]],
@@ -48,8 +45,7 @@ s2:[["The Dome of the Rock","Completed in 691 or 692 in Jerusalem, the Dome of t
 sp:["The oldest mosque in the Philippines","On the island of Simunul in Tawi-Tawi stands the Sheikh Karimul Makhdum Mosque, traditionally said to have been founded in 1380 by an Arab missionary, Karimul Makhdum, who helped spread Islam in the southern Philippines. Though rebuilt over the centuries, some original wooden pillars are said to survive. It is regarded as the oldest mosque in the Philippines and has been declared a National Historical Landmark."],
 g:[["Arabesque","A flowing design of plant forms"],["Mihrab","A niche in a mosque showing the direction of Mecca"],["Minaret","A tall tower of a mosque"],["Muqarnas","Honeycomb-like decorative vaulting"]],
 f:["The Dome of the Rock was completed around 691–692.","The Alhambra is in Granada, Spain.","The Sheikh Karimul Makhdum Mosque is the oldest in the Philippines."],
-fun:"A Persian saying calls the city of Isfahan half the world because of its beauty.",
-tl:"Kilala ang sining Islamiko sa mga disenyong heometriko, arabesque at kaligrapiya. Kabilang sa mga obra maestra ang Alhambra at Taj Mahal. Sa Pilipinas, makikita ang okir ng Maranao at ang pinakamatandang moske sa Simunul, Tawi-Tawi."});
+fun:"A Persian saying calls the city of Isfahan half the world because of its beauty."});
 
 ADDART({id:"chineseart",t:"Chinese Art",c:"Arts and Literature",i:"🏞️",w:"Chinese art",r:["calligraphy","china","sculpture","chinesephil","paper"],
 p:[["Thousands of years","Chinese art has a continuous history of more than 5,000 years."],["Ink and brush","Landscape painting with ink and brush is one of its most celebrated forms."],["Porcelain and jade","China is famous for porcelain, jade carving, bronze vessels and silk."]],
@@ -61,8 +57,7 @@ s2:[["Along the River During the Qingming Festival","This handscroll, attributed
 sp:["The secret of porcelain","For centuries, Europeans imported Chinese porcelain at great expense but could not make it themselves. They called it white gold. In the early 1700s, the alchemist Johann Friedrich Böttger, working for the ruler of Saxony, finally discovered how to make true hard-paste porcelain using kaolin clay, the key ingredient used in China. The Meissen porcelain factory was founded in 1710. Until then, porcelain was so linked to China that the English simply called it china."],
 g:[["Shan shui","Chinese landscape painting of mountains and water"],["Porcelain","A hard, white, translucent ceramic"],["Handscroll","A long horizontal painting viewed by unrolling"],["Chinoiserie","European imitation of Chinese styles"]],
 f:["Chinese art has a history of over 5,000 years.","Jingdezhen is China’s porcelain capital.","Chinese porcelain has been found at many sites in the Philippines."],
-fun:"Porcelain was so linked to China that the English simply called it china.",
-tl:"Ang sining Tsino ay may mahigit 5,000 taong kasaysayan. Tanyag ang pagpipinta ng tanawin gamit ang tinta at pinsel, pati ang porselana, jade at seda. Natagpuan ang porselanang Tsino sa maraming lugar sa Pilipinas."});
+fun:"Porcelain was so linked to China that the English simply called it china."});
 
 ADDART({id:"africanart",t:"African Art",c:"Arts and Literature",i:"🎭",w:"African art",r:["caveart","sculpture","africacolon","nigeriacountry","ghanacountry"],
 p:[["Rich and diverse","African art includes the sculptures, masks, textiles and paintings of a continent of thousands of cultures."],["Ancient roots","Some of the oldest art in the world comes from Africa."],["Global influence","African art inspired modern artists such as Picasso and Matisse."]],
@@ -74,5 +69,4 @@ s2:[["Influence on modern art","In the early 1900s, European artists such as Pab
 sp:["The Ife heads","In 1938 workers digging the foundations of a house in Ife, Nigeria, found a group of bronze heads of astonishing beauty and realism, with fine facial lines and calm expressions. Some European experts at first refused to believe Africans had made them, wrongly suggesting outside influence. Scientific study confirmed they were made by Ife artists between about the 1100s and 1400s, using the lost-wax technique. They are now recognized as masterpieces of world art."],
 g:[["Terracotta","Fired clay used for sculpture"],["Kente","A colorful woven cloth of Ghana"],["Mask","A face covering used in ceremonies and dances"],["Restitution","Returning objects to their rightful owners"]],
 f:["Nok terracottas date from about 500 BCE.","African masks influenced Picasso.","El Anatsui makes sculptures from bottle caps."],
-fun:"Great Zimbabwe’s carved soapstone bird appears on the flag of Zimbabwe.",
-tl:"Ang sining Aprikano ay binubuo ng mga eskultura, maskara, tela at pinta ng libu-libong kultura sa Aprika. Ilan sa pinakamatandang sining sa mundo ay mula rito. Naging inspirasyon ito ng mga modernong pintor gaya ni Picasso."});
+fun:"Great Zimbabwe’s carved soapstone bird appears on the flag of Zimbabwe."});

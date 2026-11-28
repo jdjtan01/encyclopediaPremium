@@ -9,8 +9,7 @@ s2:[["Auschwitz","Auschwitz-Birkenau, in German-occupied Poland, was the largest
 sp:["Shanghai, a refuge","In the late 1930s, Shanghai was an international port where refugees needed no visa to land. About 20,000 Jews from Germany, Austria and Poland escaped there, some with visas issued by the Chinese consul in Vienna, Ho Feng-Shan. During the Japanese occupation they were forced into a crowded district of Hongkou, but most survived the war. Today a museum in the old synagogue tells their story."],
 g:[["Genocide","The deliberate killing of a large group of people because of their identity"],["Ghetto","A walled-off area where Jews were forced to live"],["Pogrom","A violent attack on a minority community"],["Antisemitism","Hatred of or prejudice against Jews"]],
 f:["About six million Jews were murdered in the Holocaust.","International Holocaust Remembrance Day is 27 January.","About 20,000 Jewish refugees found safety in Shanghai during World War II."],
-fun:"The Philippines welcomed about 1,300 Jewish refugees fleeing Nazi Europe between 1937 and 1941.",
-tl:"Ang Holocaust ay ang sistematikong pagpatay ng Nazi Germany sa mga anim na milyong Hudyo at milyon-milyong iba pa noong Ikalawang Digmaang Pandaigdig. Tumanggap ang Pilipinas ng mga 1,300 Hudyong refugee bago ang digmaan."});
+fun:"The Philippines welcomed about 1,300 Jewish refugees fleeing Nazi Europe between 1937 and 1941."});
 
 ADDART({id:"koreanwar",t:"The Korean War",c:"History",i:"🎖️",w:"Korean War",r:["korea","coldwar","un"],
 p:[["A divided peninsula","The Korean War began in 1950 when communist North Korea invaded South Korea."],["A UN war","Troops from 16 countries fought under the United Nations flag."],["No peace treaty","The fighting stopped with an armistice in 1953, but no peace treaty has ever been signed."]],
@@ -22,8 +21,7 @@ s2:[["Sixteen nations under the UN flag","The United States sent by far the most
 sp:["Reporting from the front","Many journalists risked their lives to cover the war. The American reporter Marguerite Higgins landed with the troops at Inchon and reported from the front lines despite orders banning women correspondents. In 1951 she became the first woman to win the Pulitzer Prize for international reporting. Several reporters were killed, and photographs from the war shaped how the world saw it."],
 g:[["Armistice","An agreement to stop fighting"],["Demilitarized zone","A strip of land where military forces are not allowed"],["Parallel","An imaginary line around Earth at a given latitude"],["Stalemate","A situation in which neither side can win"]],
 f:["Sixteen countries sent combat troops to fight under the UN flag in Korea.","The Korean War ended with an armistice, not a peace treaty.","The DMZ has become a refuge for rare wildlife."],
-fun:"The two Koreas are technically still at war, because the 1953 armistice was never followed by a peace treaty.",
-tl:"Ang Digmaang Koreano mula 1950 hanggang 1953 ay sa pagitan ng Hilagang Korea at Tsina laban sa Timog Korea at United Nations. Nagpadala ang Pilipinas ng mga 7,400 sundalo, at natapos ito sa armistice, hindi sa kasunduang pangkapayapaan."});
+fun:"The two Koreas are technically still at war, because the 1953 armistice was never followed by a peace treaty."});
 
 ADDART({id:"vietnam",t:"The Vietnam War",c:"History",i:"🚁",w:"Vietnam War",r:["coldwar","sea","asean"],
 p:[["A long war","The Vietnam War was fought from about 1955 to 1975 between communist North Vietnam and US-backed South Vietnam."],["A Cold War conflict","The United States sent more than half a million troops at the war’s height."],["Reunification","The war ended in 1975 when North Vietnamese forces captured Saigon and reunited the country."]],
@@ -35,8 +33,7 @@ s2:[["Protest and peace talks","As casualties mounted and television brought the
 sp:["Camps for the boat people","From the late 1970s, refugee camps across Southeast Asia sheltered people fleeing Vietnam, Cambodia and Laos. Pulau Bidong in Malaysia, Galang in Indonesia and a processing center in Bataan in the Philippines each housed tens of thousands at a time, where refugees learned new languages and prepared to resettle abroad. In 1979 an international conference in Geneva agreed to share the task of resettling them."],
 g:[["Domino theory","The belief that if one country fell to communism, its neighbors would follow"],["Guerrilla","A fighter in small, irregular groups using surprise attacks"],["Draft","A system for calling people into military service"],["Refugee","A person forced to flee their country"]],
 f:["Saigon was renamed Ho Chi Minh City after 1975.","About 800,000 Vietnamese boat people reached other countries between 1975 and 1995.","Vietnam joined ASEAN in 1995."],
-fun:"The Philippine Refugee Processing Center in Bataan sheltered hundreds of thousands of refugees from Vietnam, Cambodia and Laos.",
-tl:"Ang Digmaang Vietnam ay mahabang labanan mula mga 1955 hanggang 1975 sa pagitan ng komunistang Hilagang Vietnam at Timog Vietnam na sinuportahan ng Estados Unidos. Natapos ito nang bumagsak ang Saigon noong 1975, at maraming refugee ang kinupkop ng Pilipinas."});
+fun:"The Philippine Refugee Processing Center in Bataan sheltered hundreds of thousands of refugees from Vietnam, Cambodia and Laos."});
 
 ADDART({id:"ussrfall",t:"The Fall of the Soviet Union",c:"History",i:"🧱",w:"Dissolution of the Soviet Union",r:["coldwar","ww2","un"],
 p:[["A superpower collapses","In 1991 the Soviet Union, the world’s largest country, broke apart into 15 independent states."],["The Cold War ends","The collapse ended more than four decades of rivalry with the United States."],["Walls come down","The fall of the Berlin Wall in 1989 symbolized the end of communist rule in Eastern Europe."]],
@@ -48,5 +45,4 @@ s2:[["Fifteen new countries","The Soviet Union split into 15 independent countri
 sp:["The night the Wall opened","On the evening of 9 November 1989, an East German official mistakenly announced at a press conference that citizens could cross the border immediately. Thousands rushed to the checkpoints in Berlin, and overwhelmed guards opened the gates. People climbed on the Wall, hugged strangers and chipped off pieces as souvenirs. Within a year, Germany was reunited."],
 g:[["Communism","A system in which the state owns property and controls the economy"],["Glasnost","Openness, Gorbachev’s policy of freer speech"],["Perestroika","Restructuring, Gorbachev’s economic reforms"],["Coup","A sudden, illegal seizure of power"]],
 f:["The Soviet Union broke into 15 countries.","The Berlin Wall stood from 1961 to 1989.","Gorbachev won the Nobel Peace Prize in 1990."],
-fun:"The Berlin Wall opened in 1989 partly because an official misread his notes at a press conference.",
-tl:"Ang Unyong Sobyet ay komunistang bansa mula 1922 hanggang 1991. Matapos ang mga reporma ni Gorbachev at pagbagsak ng Berlin Wall noong 1989, nahati ito sa 15 malayang bansa noong Disyembre 1991, na nagwakas sa Cold War."});
+fun:"The Berlin Wall opened in 1989 partly because an official misread his notes at a press conference."});

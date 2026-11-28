@@ -12,8 +12,7 @@ s2:[["The Statue of Liberty","The Statue of Liberty, a gift from France designed
 sp:["The subway","The New York City Subway opened in 1904 and now has 472 stations, more than any other metro system in the world. It carries several million riders on a typical weekday and runs around the clock, which few metros do. Many lines have express and local tracks side by side, so some trains skip stations to travel faster."],
 g:[["Borough","One of the five main divisions of New York City"],["Immigrant","A person who moves to live in another country"],["Skyscraper","A very tall building with many floors"],["Stock exchange","A market where shares in companies are bought and sold"]],
 f:["About 12 million immigrants passed through Ellis Island.","The subway has 472 stations, more than any other system.","More than 600 languages may be spoken in New York."],
-fun:"The New York City Subway has more stations than any other metro system in the world.",
-tl:"Ang New York City ang pinakamalaking lungsod sa Estados Unidos, may limang borough kabilang ang Manhattan. Kilala ito sa Statue of Liberty, sa mga skyscraper, sa Broadway at sa punong-tanggapan ng United Nations."});
+fun:"The New York City Subway has more stations than any other metro system in the world."});
 
 ADDART({id:"sydney",t:"Sydney",c:"Countries and Places",i:"🎭",w:"Sydney",r:["australiacountry","nzcountry","pacific","reef"],
 p:[["Australia’s largest city","Sydney, on the southeast coast, is Australia’s largest and oldest city, with more than 5 million people."],["A great harbor","It is built around Sydney Harbour, one of the world’s finest natural harbors."],["Famous icons","The Sydney Opera House and the Sydney Harbour Bridge are among the most recognized structures on Earth."]],
@@ -25,8 +24,7 @@ s2:[["The Harbour Bridge","The steel arch of the Sydney Harbour Bridge, opened i
 sp:["Building the Opera House","In 1957 Jørn Utzon won an international design competition with sketches of sail-like roofs, but no one knew how to build them. After years of trials, Utzon found a solution: every roof shell is a piece cut from the same imaginary sphere, so they could all be made from standard parts. The building cost about 14 times its first estimate, yet it became one of the most admired buildings of the 20th century."],
 g:[["Penal colony","A settlement where convicts were sent as punishment"],["Harbor","A sheltered stretch of water where ships can anchor"],["Eora","Aboriginal peoples of the Sydney coastal area"],["Multicultural","Made up of many cultures"]],
 f:["The Opera House roofs are covered in more than a million tiles.","The Harbour Bridge is nicknamed the Coathanger.","Canberra was built as a compromise between Sydney and Melbourne."],
-fun:"The Sydney Harbour Bridge is nicknamed the Coathanger.",
-tl:"Ang Sydney ang pinakamalaking lungsod ng Australia at nasa paligid ng Sydney Harbour. Kilala ito sa Sydney Opera House at Harbour Bridge. Matagal na itong tahanan ng mga Aboriginal na tao bago dumating ang mga Briton noong 1788."});
+fun:"The Sydney Harbour Bridge is nicknamed the Coathanger."});
 
 ADDART({id:"greenland",t:"Greenland",c:"Countries and Places",i:"🧊",w:"Greenland",r:["arctic","climchange","iceland","viking"],
 p:[["The largest island","Greenland is the world’s largest island that is not a continent, about 2.2 million square kilometers in area."],["Under the ice","About four-fifths of it is covered by an ice sheet up to about 3 kilometers thick."],["Inuit homeland","Most of its 57,000 people are Inuit, and it is a self-governing territory within the Kingdom of Denmark."]],
@@ -38,5 +36,4 @@ s2:[["Life in Greenland","No roads link Greenland’s towns, so people travel by
 sp:["Why green?","According to old Icelandic sagas, Erik the Red named the land Greenland because people would be more eager to go there if it had a good name. His settlements were in sheltered southern fjords that are green in summer, but most of the island is white with ice. In Greenlandic, its name is Kalaallit Nunaat, Land of the Greenlanders."],
 g:[["Ice sheet","A huge, thick layer of ice covering land"],["Inuit","Indigenous peoples of the Arctic"],["Fjord","A long, narrow inlet of the sea between cliffs"],["Autonomous","Self-governing"]],
 f:["Greenland is the largest island in the world.","If its ice sheet melted, seas would rise by about 7 meters.","No roads connect its towns."],
-fun:"There are no roads between towns in Greenland.",
-tl:"Ang Greenland ang pinakamalaking pulo sa mundo, karamihang natatakpan ng makapal na yelo. Karamihan sa mga 57,000 naninirahan dito ay Inuit, at ito ay may sariling pamahalaan sa ilalim ng Kaharian ng Denmark."});
+fun:"There are no roads between towns in Greenland."});

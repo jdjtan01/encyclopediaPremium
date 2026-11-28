@@ -9,8 +9,7 @@ s2:[["Stars of many cultures","The Pleiades star cluster is called Matariki by t
 sp:["Matariki","Matariki, the Māori name for the Pleiades star cluster, marks the Māori New Year in midwinter, when the cluster reappears in the dawn sky in June or July. It is a time for remembering those who have died, celebrating the present and planning for the year ahead. Since 2022 Matariki has been a public holiday in New Zealand, the first official holiday based on Indigenous knowledge of the stars."],
 g:[["Constellation","A named pattern or area of stars in the sky"],["Asterism","A star pattern that is not an official constellation"],["Zodiac","The band of constellations the Sun appears to pass through in a year"],["Light-year","The distance light travels in one year, about 9.46 trillion km"]],
 f:["There are 88 official constellations.","Hydra is the largest constellation and Crux the smallest.","Many star names come from Arabic."],
-fun:"The smallest constellation, Crux (the Southern Cross), appears on the flags of Australia, New Zealand, Brazil, Papua New Guinea and Samoa.",
-tl:"Ang mga konstelasyon ay mga hugis o pangkat ng mga bituin na binigyan ng pangalan, gaya ng Orion at Southern Cross. May 88 opisyal na konstelasyon, at ginamit ang mga ito ng mga mandaragat upang malaman ang direksiyon."});
+fun:"The smallest constellation, Crux (the Southern Cross), appears on the flags of Australia, New Zealand, Brazil, Papua New Guinea and Samoa."});
 
 ADDART({id:"nebula",t:"Nebulae and the Birth of Stars",c:"Space and Astronomy",i:"☁️",w:"Nebula",r:["stars","supernova","milky","jwst"],
 p:[["Clouds in space","A nebula is a giant cloud of gas and dust in space."],["Star nurseries","New stars and planets are born when parts of these clouds collapse under gravity."],["Glowing colors","Some nebulae glow with light from hot young stars, painting space in red, green and blue."]],
@@ -22,8 +21,7 @@ s2:[["The Pillars of Creation","In 1995 the Hubble Space Telescope photographed 
 sp:["We are made of star stuff","Almost all of the hydrogen in the universe was made in the Big Bang, but most heavier elements were made in stars. The calcium in our bones, the iron in our blood and the oxygen we breathe were forged in stars that lived and died before the Sun was born. As the astronomer Carl Sagan put it, we are made of star stuff."],
 g:[["Nebula","A cloud of gas and dust in space (plural: nebulae)"],["Protostar","A young star that is still forming"],["Planetary nebula","A glowing shell of gas thrown off by a dying Sun-like star"],["Infrared","Light with longer wavelengths than red light, invisible to our eyes"]],
 f:["The Orion Nebula can be seen with the naked eye.","Planetary nebulae have nothing to do with planets.","The Crab Nebula comes from a star that exploded in 1054."],
-fun:"The iron in your blood was made inside stars that died before the Sun was born.",
-tl:"Ang nebula ay malaking ulap ng gas at alikabok sa kalawakan. Dito isinisilang ang mga bagong bituin at planeta. May mga nebula ring nabubuo mula sa mga namamatay na bituin."});
+fun:"The iron in your blood was made inside stars that died before the Sun was born."});
 
 ADDART({id:"supernova",t:"Supernovae",c:"Space and Astronomy",i:"💥",w:"Supernova",r:["stars","bh","pulsar","nebula"],
 p:[["Exploding stars","A supernova is the explosion of a star, one of the most powerful events in the universe."],["Brighter than a galaxy","For a few weeks, a single supernova can outshine an entire galaxy of billions of stars."],["Makers of elements","Supernovae scatter heavy elements into space, which later become part of new stars, planets and living things."]],
@@ -35,8 +33,7 @@ s2:[["Measuring the universe","Because Type Ia supernovae reach a similar peak b
 sp:["The guest star of 1054","On 4 July 1054, Chinese astronomers recorded a guest star in the constellation Taurus, bright enough to be seen in daylight for 23 days and at night for nearly two years. Today, at that spot, telescopes see the Crab Nebula, an expanding cloud of debris about 11 light-years across, with a rapidly spinning neutron star at its heart."],
 g:[["Supernova","The explosion of a star"],["White dwarf","The small, dense remains of a Sun-like star"],["Neutron star","The extremely dense collapsed core of a massive star"],["Standard candle","An object of known brightness used to measure distances"]],
 f:["A supernova can outshine a whole galaxy.","The last naked-eye supernova in the Milky Way was seen in 1604.","Some gold on Earth was made in exploding stars and colliding neutron stars."],
-fun:"The supernova of 1006 was bright enough to cast shadows at night.",
-tl:"Ang supernova ay pagsabog ng isang bituin, isa sa pinakamalakas na pangyayari sa sansinukob. Maaari nitong lampasan ang liwanag ng buong galaxy, at nagkakalat ito ng mabibigat na elemento sa kalawakan."});
+fun:"The supernova of 1006 was bright enough to cast shadows at night."});
 
 ADDART({id:"galaxies",t:"Galaxies",c:"Space and Astronomy",i:"🌀",w:"Galaxy",r:["milky","stars","bh","darkmatter","hubble"],
 p:[["Cities of stars","A galaxy is an enormous collection of stars, gas, dust and dark matter held together by gravity."],["Billions of galaxies","The observable universe contains hundreds of billions, perhaps trillions, of galaxies."],["Our neighbor","The Andromeda Galaxy, about 2.5 million light-years away, is the nearest large galaxy to the Milky Way."]],
@@ -48,5 +45,4 @@ s2:[["The Hubble Deep Field","In 1995 astronomers pointed the Hubble Space Teles
 sp:["How many galaxies?","Counting galaxies in deep images and allowing for those too faint to see, astronomers estimate that the observable universe contains hundreds of billions to perhaps two trillion galaxies. If each has on average tens to hundreds of billions of stars, the universe may hold more stars than there are grains of sand on all of Earth’s beaches."],
 g:[["Galaxy","A huge system of stars, gas, dust and dark matter held together by gravity"],["Spiral galaxy","A galaxy with a flat disk and curving arms"],["Quasar","An extremely bright galaxy center powered by a supermassive black hole"],["Local Group","The group of galaxies that includes the Milky Way and Andromeda"]],
 f:["The Andromeda Galaxy can be seen with the naked eye on dark nights.","Most large galaxies have a supermassive black hole at their center.","The Milky Way and Andromeda may merge in about 4 to 5 billion years."],
-fun:"The Andromeda Galaxy is the most distant object most people can see with the naked eye.",
-tl:"Ang galaxy ay napakalaking kumpol ng mga bituin, gas, alikabok at dark matter na pinagbubuklod ng grabidad. Bilyon-bilyon ang galaxy sa sansinukob, at ang Andromeda ang pinakamalapit na malaking kapitbahay ng Milky Way."});
+fun:"The Andromeda Galaxy is the most distant object most people can see with the naked eye."});

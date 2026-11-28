@@ -9,8 +9,7 @@ s2:[["Paper money","China was also the first country to use paper money. Merchan
 sp:["Cai Lun","Cai Lun was a court official of the Han dynasty who, according to Chinese records, presented the emperor in 105 CE with a method of making paper from mulberry bark, hemp, rags and old fishing nets. The emperor praised his work, and Cai Lun became famous. Archaeological finds show that simpler paper existed earlier, but his improvements helped make paper practical for writing. He is honored in China as a patron of papermaking."],
 g:[["Pulp","Mashed, wet plant fibers used to make paper"],["Papyrus","A writing material made from reeds in ancient Egypt"],["Parchment","Writing material made from animal skin"],["Washi","Traditional Japanese handmade paper"]],
 f:["Paper was invented in China.","China issued the first paper money.","Paper can be recycled several times."],
-fun:"Marco Polo was amazed that people in China used paper as money.",
-tl:"Naimbento ang papel sa Tsina mga 2,000 taon na ang nakararaan. Dahil sa murang papel, lumaganap ang mga aklat, liham, pahayagan at salapi. Isa ito sa Apat na Dakilang Imbensiyon ng sinaunang Tsina."});
+fun:"Marco Polo was amazed that people in China used paper as money."});
 
 ADDART({id:"compass",t:"The Compass",c:"Technology",i:"🧭",w:"Compass",r:["magnet","explor","maps","china","zhenghe"],
 p:[["Finding north","A compass is an instrument with a magnetic needle that points toward Earth’s magnetic north."],["A Chinese invention","The magnetic compass was developed in China and used for navigation by about 1100."],["Opening the oceans","The compass helped sailors cross oceans and explore the world."]],
@@ -22,8 +21,7 @@ s2:[["William Gilbert","In 1600 the English physician William Gilbert published 
 sp:["Shen Kuo’s discovery","Shen Kuo was a Chinese polymath of the Song dynasty, a statesman, astronomer, engineer and writer. In his Dream Pool Essays of 1088, he described how magicians rubbed a needle with lodestone so that it pointed south, and how to hang it by a single silk thread. He also observed that the needle pointed slightly east of true south, the first known description of magnetic declination, centuries before it was noted in Europe."],
 g:[["Lodestone","A naturally magnetic rock"],["Magnetic north","The direction a compass needle points"],["Declination","The angle between magnetic north and true north"],["Gyrocompass","A compass using a spinning wheel to find true north"]],
 f:["The compass was invented in China.","Shen Kuo described the needle compass in 1088.","Earth’s magnetic field has reversed many times."],
-fun:"Your smartphone contains a tiny electronic compass.",
-tl:"Ang kompas ay kasangkapang may magnetikong karayom na tumuturo sa hilaga. Naimbento ito sa Tsina at ginamit sa paglalayag noong mga 1100. Tumulong ito sa mga mandaragat na tumawid ng karagatan."});
+fun:"Your smartphone contains a tiny electronic compass."});
 
 ADDART({id:"gunpowder",t:"Gunpowder",c:"Technology",i:"🎆",w:"Gunpowder",r:["china","mongol","ottoman","medieurope","alchemy"],
 p:[["An accidental discovery","Gunpowder was discovered in China by alchemists seeking an elixir of life."],["Changing warfare","It led to cannons and guns, transforming warfare around the world."],["Lights in the sky","Gunpowder also gave us fireworks, used in celebrations everywhere."]],
@@ -35,8 +33,7 @@ s2:[["Fireworks","Fireworks began in China, where bamboo stalks thrown into fire
 sp:["An elixir that exploded","Chinese alchemists of the Tang dynasty spent years mixing substances, hoping to create an elixir that would grant eternal life. Ironically, one of their most important discoveries was a mixture that could cause death and destruction. A book from the mid-800s warned alchemists not to mix saltpeter, sulfur and charcoal, because the mixture flared up and burned their hands, faces and houses. That dangerous mixture was gunpowder."],
 g:[["Saltpeter","Potassium nitrate, a key ingredient of gunpowder"],["Cannon","A large gun that fires heavy projectiles"],["Lantaka","A bronze swivel cannon used in the Philippines and Southeast Asia"],["Star fort","A fortress with angled walls designed against cannons"]],
 f:["Gunpowder was discovered in China.","The first written formulas date from 1044.","Ottoman cannons breached Constantinople’s walls in 1453."],
-fun:"Gunpowder was discovered by alchemists trying to make an elixir of eternal life.",
-tl:"Natuklasan ang pulbura sa Tsina ng mga alkemistang naghahanap ng elixir ng buhay. Binago nito ang digmaan dahil sa kanyon at baril. Nagbigay rin ito ng paputok na ginagamit sa mga pagdiriwang."});
+fun:"Gunpowder was discovered by alchemists trying to make an elixir of eternal life."});
 
 ADDART({id:"skyscrapers",t:"Skyscrapers",c:"Technology",i:"🏙️",w:"Skyscraper",r:["architecture","urban","malaysiacountry","bridges","quake"],
 p:[["Reaching for the sky","Skyscrapers are very tall buildings with many floors."],["Steel and elevators","Steel frames and safe elevators made skyscrapers possible in the late 1800s."],["Record breakers","The tallest building, the Burj Khalifa in Dubai, is 828 meters tall."]],
@@ -48,8 +45,7 @@ s2:[["The Burj Khalifa","The Burj Khalifa in Dubai, United Arab Emirates, opened
 sp:["Otis’s daring demonstration","In 1854 at the Crystal Palace exhibition in New York, the inventor Elisha Otis stood on an open elevator platform raised high above a crowd. He then ordered the only rope holding it to be cut. The crowd gasped, but the platform dropped only a few centimeters before his safety brake, spring-loaded teeth gripping the guide rails, stopped it. All safe, gentlemen, he reportedly said. His invention made tall buildings practical."],
 g:[["Skyscraper","A very tall building with many floors"],["Steel frame","A skeleton of steel beams supporting a building"],["Tuned mass damper","A heavy weight that reduces a building’s swaying"],["Spire","A tall pointed structure on top of a building"]],
 f:["The Burj Khalifa is 828 meters tall.","Elisha Otis invented the safety elevator brake.","Taipei 101 has a 660-metric ton damper ball."],
-fun:"Taipei 101 has a giant steel ball inside that sways to keep the building steady.",
-tl:"Ang skyscraper ay napakataas na gusali na may maraming palapag. Naging posible ito dahil sa balangkas na bakal at ligtas na elevator. Ang Burj Khalifa sa Dubai, 828 metro ang taas, ang pinakamataas na gusali sa mundo."});
+fun:"Taipei 101 has a giant steel ball inside that sways to keep the building steady."});
 
 ADDART({id:"tunnels",t:"Tunnels",c:"Technology",i:"🚇",w:"Tunnel",r:["rail","bridges","canals","rocks","istanbul"],
 p:[["Passages underground","Tunnels are underground passages for trains, cars, water, people and utilities."],["Engineering marvels","Some tunnels run for tens of kilometers through mountains or under the sea."],["Ancient and modern","People have dug tunnels for thousands of years, from ancient aqueducts to modern subways."]],
@@ -61,8 +57,7 @@ s2:[["The Channel Tunnel","The Channel Tunnel, opened in 1994, links England and
 sp:["Digging from both ends","Around 550 BCE, the engineer Eupalinos of Megara directed the digging of a 1,036-meter tunnel through Mount Kastro on the Greek island of Samos to bring water to the city. Two teams dug from opposite sides of the mountain using only hand tools. When they met in the middle, their tunnels were off by only a few meters, a stunning achievement of ancient geometry and surveying. The tunnel can still be visited today."],
 g:[["Tunnel boring machine","A machine that digs tunnels with a rotating cutting head"],["Subway","An underground railway in a city"],["Qanat","An ancient underground water channel"],["Ventilation","Bringing fresh air into an enclosed space"]],
 f:["The Gotthard Base Tunnel is about 57 km long.","London opened the first underground railway in 1863.","The Philippines is building the Metro Manila Subway."],
-fun:"Workers digging the Channel Tunnel from England and France shook hands underground when they met in 1990.",
-tl:"Ang tunnel ay daanan sa ilalim ng lupa o tubig para sa tren, sasakyan, tubig at iba pa. May mga tunnel na umaabot nang sampu-sampung kilometro sa ilalim ng bundok o dagat. Itinatayo ngayon ang Metro Manila Subway."});
+fun:"Workers digging the Channel Tunnel from England and France shook hands underground when they met in 1990."});
 
 ADDART({id:"medimaging",t:"Medical Imaging",c:"Health and the Body",i:"🩻",w:"Medical imaging",r:["surgery","curie","cancer","bones","pregnancy"],
 p:[["Seeing inside the body","Medical imaging lets doctors see inside the body without surgery."],["X-rays to MRI","Methods include X-rays, ultrasound, CT scans and MRI."],["Saving lives","Imaging helps doctors diagnose diseases and injuries and plan treatment."]],
@@ -74,8 +69,7 @@ s2:[["The little Curies","During World War I, Marie Curie realized that X-rays c
 sp:["Röntgen’s mysterious rays","In November 1895, Wilhelm Röntgen was experimenting with electricity passed through a glass tube in his darkened laboratory in Würzburg, Germany, when he noticed a nearby screen glowing. He realized that invisible rays from the tube were passing through cardboard. He called them X-rays, X meaning unknown. When he photographed his wife Anna Bertha’s hand, she reportedly exclaimed that she had seen her own death. Within months, X-rays were being used in hospitals around the world."],
 g:[["X-ray","Radiation that passes through soft tissue but is blocked by bone"],["CT scan","Computer-combined X-ray slices of the body"],["MRI","Imaging using magnets and radio waves"],["Ultrasound","Imaging using high-frequency sound waves"]],
 f:["Röntgen discovered X-rays in 1895.","Ultrasound uses sound waves, not radiation.","Marie Curie organized mobile X-ray units in World War I."],
-fun:"X-rays got their name because X stood for unknown.",
-tl:"Ang medical imaging ay paggamit ng teknolohiya para makita ang loob ng katawan nang walang operasyon. Kabilang dito ang X-ray, ultrasound, CT scan at MRI. Natuklasan ang X-ray noong 1895."});
+fun:"X-rays got their name because X stood for unknown."});
 
 ADDART({id:"nukeweapons",t:"Nuclear Weapons",c:"Technology",i:"☢️",w:"Nuclear weapon",r:["atomicbomb","coldwar","cubancrisis","nuclear","radioact"],
 p:[["The most destructive weapons","Nuclear weapons release enormous energy from splitting or fusing atoms."],["Used twice in war","They were used only twice in war, on Hiroshima and Nagasaki in 1945."],["Efforts to control them","Treaties aim to stop their spread, ban testing and eventually eliminate them."]],
@@ -87,5 +81,4 @@ s2:[["Who has nuclear weapons","The United States and Russia hold about 90 perce
 sp:["The Doomsday Clock","Since 1947 the Bulletin of the Atomic Scientists, founded by scientists who had worked on the Manhattan Project, has published the Doomsday Clock, a symbolic clock showing how close humanity is to a global catastrophe, represented as midnight. It was set at 7 minutes to midnight in 1947, moved to 17 minutes after the Cold War ended, and in recent years has been set closer to midnight than ever, at less than two minutes, reflecting nuclear risks, climate change and other threats."],
 g:[["Fission","Splitting heavy atoms to release energy"],["Fusion","Joining light atoms to release energy"],["Deterrence","Preventing attack by threatening retaliation"],["Fallout","Radioactive particles spread after a nuclear explosion"]],
 f:["Nuclear weapons were used in war only in 1945.","Nine countries have nuclear weapons.","The Philippines is a party to the Treaty on the Prohibition of Nuclear Weapons."],
-fun:"The Doomsday Clock has been set closer to midnight in recent years than ever before.",
-tl:"Ang sandatang nukleyar ay naglalabas ng napakalaking enerhiya mula sa paghati o pagsasanib ng mga atom. Dalawang beses lamang itong ginamit sa digmaan, sa Hiroshima at Nagasaki noong 1945. May mga kasunduan para pigilan ang paglaganap nito."});
+fun:"The Doomsday Clock has been set closer to midnight in recent years than ever before."});

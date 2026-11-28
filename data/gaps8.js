@@ -9,8 +9,7 @@ s2:[["Automatic control","The autonomic nervous system controls things we do not
 sp:["Cajal’s drawings","The Spanish scientist Santiago Ramón y Cajal spent years looking at stained brain tissue under a microscope and drew neurons in beautiful, detailed pictures. He showed that the nervous system is made of separate cells that communicate across gaps, not one continuous web. He shared the 1906 Nobel Prize and is often called the father of modern neuroscience. His drawings are still used in textbooks."],
 g:[["Neuron","A nerve cell that carries signals"],["Synapse","A gap where one neuron passes a signal to another"],["Reflex","An automatic, rapid response"],["Myelin","A fatty layer that speeds nerve signals"]],
 f:["Some nerve signals travel faster than 100 meters per second.","Some axons are about a meter long.","Reflexes can act before the brain feels pain."],
-fun:"A nerve signal can travel from your toe to your brain in about a hundredth of a second.",
-tl:"Ang nervous system ang sistemang pangkomunikasyon ng katawan, na binubuo ng utak, spinal cord at mga nerbiyo. Kinokontrol nito ang galaw, pag-iisip at mga awtomatikong gawain gaya ng paghinga at tibok ng puso."});
+fun:"A nerve signal can travel from your toe to your brain in about a hundredth of a second."});
 
 ADDART({id:"mental",t:"Mental Health",c:"Health and the Body",i:"💚",w:"Mental health",r:["brain","sleep","exercise"],
 p:[["Health of the mind","Mental health is about how we think, feel and act, and how we cope with life’s challenges."],["Common and treatable","About one in eight people worldwide lives with a mental health condition, and most can be helped."],["It’s okay to ask for help","Talking to someone you trust is an important first step."]],
@@ -22,8 +21,7 @@ s2:[["Looking after your mind","Simple habits support mental health: getting eno
 sp:["Talking helps","Many people find that simply talking about how they feel makes a difference. Sharing worries with a trusted person can bring relief, new ideas and the reminder that you are not alone. Counselors, psychologists and psychiatrists are trained to help, and what you tell them is kept confidential except when someone’s safety is at risk."],
 g:[["Mental health","Emotional, psychological and social wellbeing"],["Anxiety","Strong, lasting worry or fear"],["Depression","Lasting sadness and loss of interest that affect daily life"],["Stigma","Negative attitudes that cause shame or unfair treatment"]],
 f:["About one in eight people worldwide lives with a mental health condition.","About one in eight people in the world lives with a mental health condition.","World Mental Health Day is 10 October."],
-fun:"World Mental Health Day has been observed every 10 October since 1992.",
-tl:"Ang kalusugang pangkaisipan ay tungkol sa ating damdamin, pag-iisip at pakikitungo sa iba. Karaniwan at nagagamot ang mga kondisyon gaya ng anxiety at depression; maaaring tumawag sa NCMH Crisis Hotline sa 1553 kapag kailangan ng tulong."});
+fun:"World Mental Health Day has been observed every 10 October since 1992."});
 
 ADDART({id:"genome",t:"The Human Genome",c:"Science",i:"🧬",w:"Human genome",r:["dna","mendel","evo"],
 p:[["The instruction book","The human genome is the complete set of DNA instructions in a human cell."],["Three billion letters","It contains about 3.1 billion base pairs of DNA and around 20,000 genes that make proteins."],["Read in 2003","The Human Genome Project finished reading the human genome in 2003."]],
@@ -35,5 +33,4 @@ s2:[["Cheaper and faster","Reading the first human genome took 13 years and bill
 sp:["Denisovan ancestors","Denisovans were an ancient group of humans known mostly from DNA in a few bones found in Siberia and Tibet. A 2021 study found that the Ayta Magbukon, an Indigenous Negrito people of Bataan, carry more Denisovan DNA than any other group studied, suggesting their ancestors mixed with Denisovans who once lived in the islands of Southeast Asia."],
 g:[["Genome","The complete set of an organism’s DNA"],["Gene","A section of DNA that carries instructions for a protein or function"],["Chromosome","A package of DNA in the cell nucleus"],["Sequencing","Reading the order of bases in DNA"]],
 f:["The human genome has about 3.1 billion base pairs.","Only about 1–2 percent of the genome codes for proteins.","The Ayta Magbukon carry one of the highest levels of Denisovan DNA known."],
-fun:"Any two people share about 99.9 percent of their DNA.",
-tl:"Ang human genome ay ang buong hanay ng DNA sa selula ng tao, na may mga 3.1 bilyong pares ng base at mga 20,000 gene. Natapos itong basahin noong 2003, at nakatutulong ito sa medisina at sa pag-unawa sa kasaysayan ng tao."});
+fun:"Any two people share about 99.9 percent of their DNA."});

@@ -12,8 +12,7 @@ s2:[["The Temple of the Sun","The curved Temple of the Sun, or Torreón, is buil
 sp:["The New Seven Wonders","In 2007 a worldwide public vote organized by a Swiss foundation chose the New Seven Wonders of the World: Machu Picchu, the Great Wall of China, Petra in Jordan, the Colosseum in Rome, Chichén Itzá in Mexico, the Taj Mahal in India and the statue of Christ the Redeemer in Rio de Janeiro. The Pyramids of Giza were given an honorary place."],
 g:[["Inca","The people and empire of the Andes in the 15th and 16th centuries"],["Citadel","A fortress or stronghold on high ground"],["Terrace","A flat step cut into a hillside for farming"],["Quipu","Knotted cords used by the Inca to keep records"]],
 f:["Machu Picchu stands about 2,430 meters above sea level.","Its finest walls were built without mortar.","The Spanish never found it."],
-fun:"Some walls at Machu Picchu fit so tightly that a knife blade cannot slip between the stones.",
-tl:"Ang Machu Picchu ay sinaunang lungsod ng mga Inca sa kabundukan ng Andes sa Peru, na itinayo noong mga 1450. Kilala ito sa mga pader na batong walang semento at isa sa New Seven Wonders of the World."});
+fun:"Some walls at Machu Picchu fit so tightly that a knife blade cannot slip between the stones."});
 
 ADDART({id:"angkor",t:"Angkor",c:"Countries and Places",i:"🛕",w:"Angkor",r:["hindu","buddh","mekong","vietnamcountry"],
 p:[["Capital of an empire","Angkor was the capital of the Khmer Empire, which ruled much of mainland Southeast Asia from the 9th to the 15th centuries."],["The greatest temple","Its great temple, Angkor Wat, is the largest religious monument in the world."],["A city of water","The city was surrounded by huge reservoirs and canals that watered rice fields."]],
@@ -25,8 +24,7 @@ s2:[["Carvings in stone","Angkor Wat has more than 1,000 square meters of bas-re
 sp:["Angkor on the flag","Cambodia’s flag shows a white outline of Angkor Wat on a red band between two blue bands. Cambodia is one of very few countries to show a building on its national flag. The temple is a deep source of national pride, and its image also appears on banknotes, beer labels and the badges of schools and sports teams."],
 g:[["Khmer","The main people and language of Cambodia"],["Baray","A large reservoir built by the Khmer"],["Bas-relief","A carving that stands out slightly from a flat surface"],["Lidar","A way of mapping the ground using laser pulses"]],
 f:["Angkor Wat is the largest religious monument in the world.","The Bayon has more than 200 carved stone faces.","Angkor Wat appears on Cambodia’s national flag."],
-fun:"Angkor Wat appears on the flag of Cambodia.",
-tl:"Ang Angkor sa Cambodia ang kabisera ng Imperyong Khmer mula ika-9 hanggang ika-15 siglo. Naroon ang Angkor Wat, ang pinakamalaking monumentong panrelihiyon sa mundo."});
+fun:"Angkor Wat appears on the flag of Cambodia."});
 
 ADDART({id:"paris",t:"Paris",c:"Countries and Places",i:"🗼",w:"Paris",r:["francecountry","frrev","impress","gothic","davinci"],
 p:[["The capital of France","Paris lies on the River Seine in northern France and is the country’s political, economic and cultural center."],["City of art","It is home to the Louvre, the world’s most visited art museum, and was a world center of painting for centuries."],["Famous landmarks","The Eiffel Tower, Notre-Dame Cathedral and the Arc de Triomphe are known around the world."]],
@@ -38,5 +36,4 @@ s2:[["The Louvre","The Louvre began as a fortress around 1200, became a royal pa
 sp:["Paris 2024","In 2024 Paris hosted the Summer Olympics and Paralympics, exactly 100 years after it last held them. The opening ceremony was held along the Seine instead of in a stadium, with athletes sailing past landmarks on boats. Events took place beneath the Eiffel Tower, at the Grand Palais and at the Palace of Versailles."],
 g:[["Boulevard","A wide city street, often lined with trees"],["Gothic","A style of medieval architecture with pointed arches"],["Metropolitan area","A city together with its surrounding suburbs"],["World’s Fair","A large international exhibition of inventions and culture"]],
 f:["The Eiffel Tower was meant to stand for only 20 years.","The Louvre is the world’s most visited art museum.","Paris has hosted the Summer Olympics three times."],
-fun:"The Eiffel Tower was supposed to be taken down after 20 years.",
-tl:"Ang Paris ang kabisera ng France, nasa pampang ng Ilog Seine. Kilala ito sa Eiffel Tower, sa museong Louvre at sa sining, pagkain at moda. Dito ginanap ang Olimpiyada ng 2024."});
+fun:"The Eiffel Tower was supposed to be taken down after 20 years."});

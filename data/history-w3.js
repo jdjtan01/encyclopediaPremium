@@ -12,8 +12,7 @@ s2:[["The road system","The Qhapaq Ñan, or Royal Road, linked the empire with a
 sp:["Cusco, the navel of the world","Cusco means navel or center in Quechua, and the Inca saw their capital as the center of the world. Its main temple, the Qorikancha, had walls covered in sheets of gold. The Spanish built churches and houses on top of Inca foundations, and in earthquakes many Spanish walls fell while the Inca walls beneath them stood firm. The famous twelve-angled stone, perfectly fitted into a wall, can still be seen today."],
 g:[["Sapa Inca","The emperor of the Inca"],["Mit’a","A system of labor paid to the state as tax"],["Quipu","Knotted cords used to keep records"],["Conquistador","A Spanish conqueror in the Americas"]],
 f:["The Inca Empire had no money.","Its roads totaled about 40,000 kilometers.","Inca farmers grew thousands of potato varieties."],
-fun:"Inca walls in Cusco have survived earthquakes that toppled the Spanish buildings built on top of them.",
-tl:"Ang Imperyong Inca ang pinakamalaking imperyo sa Amerika bago dumating ang mga Europeo. Mula sa kabisera nitong Cusco sa Peru, nagtayo ito ng malawak na network ng daan sa Andes. Sinakop ito ng mga Espanyol simula 1532."});
+fun:"Inca walls in Cusco have survived earthquakes that toppled the Spanish buildings built on top of them."});
 
 ADDART({id:"caliphate",t:"The Islamic Caliphates",c:"History",i:"🕌",w:"Caliphate",r:["islam","goldage","ibnsina","silk","byzant","crusades"],
 p:[["Successors of the Prophet","After the Prophet Muhammad died in 632, his successors, called caliphs, led a state that grew into a vast empire."],["From Spain to Central Asia","Within about a century, the caliphate stretched from Spain and Morocco to the Indus River."],["Baghdad’s golden age","Under the Abbasids, Baghdad became one of the largest and most learned cities in the world."]],
@@ -25,5 +24,4 @@ s2:[["The House of Wisdom","In Baghdad, the Abbasid caliphs supported scholars w
 sp:["The round city of Baghdad","Al-Mansur’s Baghdad, built in the 760s, was designed as a perfect circle about 2 kilometers across, with the caliph’s palace and a great mosque at the center and four gates leading toward the corners of the empire. Thousands of workers, architects and engineers built it in about four years. Nothing of the round city survives above ground today, but it was one of the most famous examples of city planning in history."],
 g:[["Caliph","A successor of the Prophet Muhammad as leader of the Muslim community"],["Dynasty","A series of rulers from the same family"],["Al-Andalus","The parts of Spain and Portugal under Muslim rule"],["Sunni and Shia","The two main branches of Islam"]],
 f:["Baghdad was founded in 762 as a round city.","The words algebra and algorithm come from the work of a Baghdad scholar.","The last caliphate was abolished in 1924."],
-fun:"The word algorithm comes from the name of the Baghdad scholar al-Khwarizmi.",
-tl:"Ang mga kalipato ay mga estadong pinamunuan ng mga kalipa, mga kahalili ni Propeta Muhammad. Lumawak ang mga ito mula Espanya hanggang Gitnang Asya, at naging sentro ng karunungan ang Baghdad sa ilalim ng mga Abbasid."});
+fun:"The word algorithm comes from the name of the Baghdad scholar al-Khwarizmi."});

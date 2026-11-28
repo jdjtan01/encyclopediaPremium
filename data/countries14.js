@@ -12,8 +12,7 @@ s2:[["The Atacama Desert","The Atacama, in northern Chile, is the driest non-pol
 sp:["The strongest earthquake","The earthquake that struck near Valdivia in southern Chile on 22 May 1960 had a magnitude of 9.5, the strongest ever measured by instruments. It lasted about ten minutes, changed the shape of the coastline and triggered landslides and a volcanic eruption. Its tsunami crossed the Pacific Ocean, killing people in Hawaii, Japan and the Philippines many hours later. The disaster led to the creation of better Pacific tsunami warning systems."],
 g:[["Atacama","A very dry desert in northern Chile"],["Mapuche","The largest Indigenous people of Chile"],["Fjord","A long, narrow sea inlet between steep cliffs"],["Referendum","A vote by all citizens on a single question"],["Copper","A reddish metal used in electric wires"]],
 f:["Chile is about 4,300 km long.","The strongest earthquake ever recorded struck Chile in 1960.","Easter Island belongs to Chile."],
-fun:"NASA has tested Mars rovers in Chile’s Atacama Desert because it is so dry.",
-tl:"Ang Chile ay mahaba at makitid na bansa sa Timog Amerika, sa pagitan ng Andes at Karagatang Pasipiko. Ito ang pinakamalaking tagagawa ng tanso sa mundo. Bahagi nito ang Easter Island o Rapa Nui."});
+fun:"NASA has tested Mars rovers in Chile’s Atacama Desert because it is so dry."});
 
 ADDART({id:"colombiacountry",t:"Colombia",c:"Countries and Places",i:"☕",w:"Colombia",r:["coffee","andes","amazon","latinind","birds","novel"],
 p:[["Two oceans","Colombia is the only country in South America with coasts on both the Caribbean Sea and the Pacific Ocean."],["Wonderfully diverse","It has more kinds of birds than any other country and amazing variety in plants and animals."],["Coffee and culture","Colombia is famous for coffee, emeralds, music, dance and the novels of Gabriel García Márquez."]],
@@ -25,8 +24,7 @@ s2:[["The legend of El Dorado","The Muisca people of the Andes held a ceremony i
 sp:["The Lost City","High in the Sierra Nevada de Santa Marta lies Ciudad Perdida, the Lost City, built by the Tayrona people around 800 CE, centuries before Machu Picchu. Its stone terraces, stairways and plazas were abandoned after the Spanish conquest and hidden by forest until 1972. Visitors reach it by a multi-day hike through the jungle. The Indigenous peoples of the Sierra, including the Kogi and Arhuaco, still consider it sacred."],
 g:[["Llanos","Tropical grasslands of Colombia and Venezuela"],["Magical realism","A style of fiction mixing reality with magical events"],["Emerald","A green gemstone"],["Muisca","An Indigenous people of the Colombian Andes"],["Cumbia","A Colombian music and dance style"]],
 f:["Colombia has more bird species than any other country.","Colombia has coasts on two oceans.","Most of the world’s finest emeralds come from Colombia."],
-fun:"The Caño Cristales river in Colombia is called the river of five colors.",
-tl:"Ang Colombia ay bansa sa hilagang-kanluran ng Timog Amerika na may baybayin sa Caribbean at Pasipiko. Ito ang may pinakamaraming uri ng ibon sa mundo at kilala sa kape, esmeralda at mga nobela ni García Márquez."});
+fun:"The Caño Cristales river in Colombia is called the river of five colors."});
 
 ADDART({id:"netherlandscountry",t:"The Netherlands",c:"Countries and Places",i:"🌷",w:"Netherlands",r:["vangogh","bicycle","canals","eu","trade","indonesiacountry"],
 p:[["Low land","The Netherlands means low lands; about a quarter of the country lies below sea level."],["Holding back the sea","For centuries the Dutch have built dikes, dams and pumps to protect their land from water."],["Bikes and tulips","It is famous for bicycles, windmills, tulips, canals and great painters."]],
@@ -38,8 +36,7 @@ s2:[["The Delta Works","On the night of 31 January 1953, a storm surge broke thr
 sp:["Making new land","The Dutch have created large areas of land from the sea. After a great dam, the Afsluitdijk, closed off an inlet of the sea in 1932, creating a freshwater lake, engineers pumped dry huge sections to make new polders. Flevoland, the newest province, created in 1986, was almost entirely reclaimed from the water. A saying goes that God created the world, but the Dutch created the Netherlands."],
 g:[["Dike","A wall or bank built to hold back water"],["Polder","Low land reclaimed from water and protected by dikes"],["Delta","Land formed where a river splits and meets the sea"],["Golden Age","A period of great wealth and achievement"],["Sluice","A gate that controls the flow of water"]],
 f:["About a quarter of the Netherlands is below sea level.","The Netherlands has more bicycles than people.","Flevoland was reclaimed from the sea."],
-fun:"There are more bicycles than people in the Netherlands.",
-tl:"Ang Netherlands ay maliit na bansa sa hilagang-kanlurang Europa. Halos isang-kapat nito ay mas mababa sa antas ng dagat, kaya nagtayo ang mga Dutch ng mga dike at dam. Kilala ito sa bisikleta, windmill at tulip."});
+fun:"There are more bicycles than people in the Netherlands."});
 
 ADDART({id:"tanzaniacountry",t:"Tanzania",c:"Countries and Places",i:"🦒",w:"Tanzania",r:["kilimanjaro","grasslands","lakes","kenyacountry","decol","evo"],
 p:[["Roof of Africa","Tanzania is home to Mount Kilimanjaro, Africa’s highest mountain."],["Great wildlife","The Serengeti and Ngorongoro Crater are among the greatest wildlife areas on Earth."],["Swahili nation","Kiswahili, spoken across East Africa, unites Tanzania’s more than 120 ethnic groups."]],
@@ -51,8 +48,7 @@ s2:[["Olduvai and Laetoli","Olduvai Gorge, in northern Tanzania, is one of the w
 sp:["Ngorongoro Crater","About 2 to 3 million years ago, a giant volcano in northern Tanzania collapsed, leaving the Ngorongoro Crater, the world’s largest unbroken, unflooded volcanic caldera, about 20 kilometers across and 600 meters deep. Its floor of grassland, swamp and forest supports about 25,000 large animals, including lions, elephants, buffaloes and some of the last black rhinos in East Africa. Maasai herders also live in the wider Ngorongoro Conservation Area."],
 g:[["Kiswahili","A Bantu language spoken across East Africa"],["Ujamaa","Nyerere’s policy of village-based African socialism"],["Caldera","A large crater formed when a volcano collapses"],["Archipelago","A group of islands"],["Union","The joining of two states into one"]],
 f:["Tanzania was formed by uniting Tanganyika and Zanzibar.","Tanzanite is found only in Tanzania.","Lake Tanganyika is the second-deepest lake in the world."],
-fun:"Freddie Mercury, singer of the band Queen, was born in Zanzibar.",
-tl:"Ang Tanzania ay bansa sa Silangang Aprika na nabuo noong 1964 mula sa Tanganyika at Zanzibar. Narito ang Bundok Kilimanjaro, ang Serengeti at ang Ngorongoro Crater. Kiswahili ang pambansang wika nito."});
+fun:"Freddie Mercury, singer of the band Queen, was born in Zanzibar."});
 
 ADDART({id:"samoacountry",t:"Samoa",c:"Countries and Places",i:"🌺",w:"Samoa",r:["fijicountry","nzcountry","pacific","australiacountry","decol","hawaii"],
 p:[["Heart of Polynesia","Samoa is an island nation in the South Pacific, with two main islands, Upolu and Savai’i."],["The Samoan way","Samoans value fa’a Samoa, the Samoan way of life built on family, chiefs, church and respect."],["First to independence","In 1962 Samoa became the first Pacific island country to gain independence in the 20th century."]],
@@ -64,8 +60,7 @@ s2:[["The Apia cyclone","In March 1889, warships of the United States, Germany a
 sp:["First woman prime minister","In 2021 Fiamē Naomi Mata’afa became Samoa’s first woman prime minister after a close election and a constitutional crisis, during which the outgoing government briefly locked Parliament’s doors. Her party’s members were sworn in at a ceremony in a tent outside Parliament, and the courts confirmed her government. The episode was seen as a test of the rule of law in the Pacific."],
 g:[["Matai","A Samoan chief who leads an extended family"],["Fale","A traditional open-sided Samoan house"],["Aiga","A Samoan extended family"],["Tatau","Traditional Samoan tattooing"],["Mau","A Samoan movement for independence"]],
 f:["The word tattoo comes from Polynesian words like tatau.","Samoa skipped 30 December 2011.","Robert Louis Stevenson is buried in Samoa."],
-fun:"Samoa skipped a whole day, 30 December 2011, when it moved across the International Date Line.",
-tl:"Ang Samoa ay bansang Polynesian sa Timog Pasipiko na may dalawang pangunahing isla, ang Upolu at Savai'i. Pinahahalagahan ng mga Samoan ang fa'a Samoa, ang kanilang tradisyonal na pamumuhay. Naging malaya ito noong 1962."});
+fun:"Samoa skipped a whole day, 30 December 2011, when it moved across the International Date Line."});
 
 ADDART({id:"tongacountry",t:"Tonga",c:"Countries and Places",i:"🌋",w:"Tonga",r:["samoacountry","fijicountry","volc","tsunami","pacific","olymp"],
 p:[["A Pacific kingdom","Tonga is the only kingdom in the Pacific, ruled by a royal family for over a thousand years."],["Never fully colonized","It was never fully colonized, though it was a British protected state from 1900 to 1970."],["Friendly Islands","Captain James Cook called Tonga the Friendly Islands because of the welcome he received."]],
@@ -77,5 +72,4 @@ s2:[["The 2022 eruption","On 15 January 2022, the undersea volcano Hunga Tonga�
 sp:["Ha’amonga ’a Maui","On the northeastern tip of Tongatapu stands Ha’amonga ’a Maui, the Burden of Maui, built around 1200 by the eleventh Tu’i Tonga, Tu’itātui. Two upright stones, each about 5 meters high, support a third laid across the top, each weighing many metric tons. Its purpose is debated: it may have been a royal gateway or a monument. In 1967 King Tāufa’āhau Tupou IV suggested that notches on its top might mark the sunrise on the longest and shortest days of the year."],
 g:[["Kingdom","A country ruled by a king or queen"],["Ngatu","Tongan decorated bark cloth"],["Ta’ovala","A woven mat worn around the waist"],["Trilithon","A structure of two upright stones and one across the top"],["Protected state","A country that keeps its own government but is protected by a stronger power"]],
 f:["Tonga is the only kingdom in the Pacific.","The 2022 Tongan eruption sent a plume about 57 km high.","Humpback whales visit Tonga each year."],
-fun:"Captain Cook called Tonga the Friendly Islands.",
-tl:"Ang Tonga ay kaharian sa Timog Pasipiko na binubuo ng mga 170 isla. Hindi ito lubos na nasakop ng ibang bansa. Noong 2022, pumutok ang bulkang Hunga Tonga–Hunga Ha'apai sa ilalim ng dagat."});
+fun:"Captain Cook called Tonga the Friendly Islands."});

@@ -9,8 +9,7 @@ s2:[["The Americas","Peoples of ancient Mexico made small wheeled toys or figuri
 sp:["The oldest wheel","In 2002, archaeologists in the Ljubljana Marshes in Slovenia found a wooden wheel and axle about 5,150 years old. The wheel, made of ash wood, is about 70 centimeters across, and the axle of oak. The axle turned together with the wheel, a design used on early two-wheeled carts. It is one of the oldest wooden wheels ever found."],
 g:[["Axle","A rod on which a wheel turns"],["Spoke","A rod connecting the hub of a wheel to its rim"],["Friction","A force that resists movement between surfaces"],["Gear","A toothed wheel that meshes with another to transmit motion"]],
 f:["The wheel was invented about 5,500 years ago.","One of the oldest surviving wheels is about 5,150 years old, from Slovenia.","Air-filled tires were patented in 1845."],
-fun:"The potter’s wheel was probably invented before wheels were used on vehicles.",
-tl:"Ang gulong ay isa sa pinakamahalagang imbensyon, naimbento mga 5,500 taon na ang nakalipas. Pinadali nito ang pagdadala ng mabibigat na bagay at ginagamit sa maraming makina."});
+fun:"The potter’s wheel was probably invented before wheels were used on vehicles."});
 
 ADDART({id:"lightbulb",t:"The Electric Light Bulb",c:"Technology",i:"💡",w:"Incandescent light bulb",r:["currents","light","bamboo","laser"],
 p:[["Light at the flick of a switch","Electric light bulbs transformed homes, streets, factories and cities after the late 1800s."],["Many inventors","Thomas Edison and Joseph Swan made practical bulbs in 1879 and 1880, building on decades of work by others."],["From glow to LED","Today efficient LED lights have largely replaced old incandescent bulbs."]],
@@ -22,8 +21,7 @@ s2:[["Tungsten filaments","Carbon filaments were fragile and dim. From about 191
 sp:["The light that never goes out","In a fire station in Livermore, California, a hand-blown carbon filament bulb has been glowing almost continuously since 1901. Called the Centennial Light, it gives off only about 4 watts of dim light, but has been recognized as the longest-lasting light bulb. It even has its own webcam."],
 g:[["Filament","A thin wire that glows when electric current flows through it"],["Incandescent","Giving off light because of heat"],["LED","Light-emitting diode, a semiconductor that gives off light"],["Light pollution","Excess artificial light at night"]],
 f:["Swan and Edison both developed practical light bulbs around 1879.","LEDs use about 75 to 90 percent less energy than incandescent bulbs.","A light bulb in California has been glowing since 1901."],
-fun:"A light bulb in a Californian fire station has been glowing since 1901.",
-tl:"Ang bombilya ay gumagawa ng liwanag mula sa kuryente. Naging praktikal ito noong 1879 dahil kina Joseph Swan at Thomas Edison. Ngayon ay mas matipid na LED ang karaniwang ginagamit."});
+fun:"A light bulb in a Californian fire station has been glowing since 1901."});
 
 ADDART({id:"printing3d",t:"3D Printing",c:"Technology",i:"🖨️",w:"3D printing",r:["print","robot","comp","ai"],
 p:[["Building layer by layer","3D printing makes solid objects by adding material one thin layer at a time, following a digital design."],["From toys to rockets","It is used to make prototypes, tools, medical implants, houses and even rocket engine parts."],["Making at home","Affordable desktop 3D printers let schools, hobbyists and small businesses make their own objects."]],
@@ -35,5 +33,4 @@ s2:[["Medicine","Doctors use 3D printing to make custom implants, such as hip jo
 sp:["Printing in space","In November 2014, astronauts on the International Space Station used a 3D printer to make a small plastic part, the first object ever 3D-printed in space. Weeks later, engineers on the ground emailed the design for a ratchet wrench to the station, and it was printed there. Future missions to the Moon and Mars may print tools, parts and even buildings from local materials."],
 g:[["Additive manufacturing","Making objects by adding material layer by layer"],["Filament","A thin strand of plastic used in many 3D printers"],["Prototype","An early model used to test a design"],["Bioprinting","Printing structures made of living cells"]],
 f:["3D printing was invented in the 1980s.","Astronauts have 3D-printed tools in space.","Whole houses have been built with 3D printers."],
-fun:"In 2014 a wrench was designed on Earth, emailed to space and 3D-printed on the International Space Station.",
-tl:"Ang 3D printing ay paggawa ng bagay patong-patong mula sa disenyong digital. Ginagamit ito sa paggawa ng prototype, kagamitang medikal, bahay at maging bahagi ng rocket."});
+fun:"In 2014 a wrench was designed on Earth, emailed to space and 3D-printed on the International Space Station."});

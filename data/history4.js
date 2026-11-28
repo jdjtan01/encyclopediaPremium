@@ -9,8 +9,7 @@ s2:[["Homo luzonensis","In Callao Cave in Cagayan, northern Luzon, archaeologist
 sp:["One human family","All living humans belong to a single species, Homo sapiens, and are remarkably similar genetically: any two people share about 99.9 percent of their DNA. Because humans lived longest in Africa, African populations hold the greatest genetic diversity. Differences in skin color and other features developed relatively recently as people adapted to different climates. Studies of DNA show that the idea of separate human races has no basis in biology."],
 g:[["Hominin","A member of the human branch of the family tree"],["Fossil","Remains or traces of ancient life preserved in rock"],["Genus","A group of closely related species"],["Neanderthal","A human species that lived in Europe and western Asia"]],
 f:["Humans and chimpanzees share a common ancestor.","Homo sapiens appeared about 300,000 years ago.","Homo luzonensis lived in the Philippines."],
-fun:"Many people today carry a small amount of Neanderthal DNA.",
-tl:"Nagmula ang tao sa Aprika sa loob ng milyon-milyong taon. Noong unang panahon, ilang uri ng tao ang sabay na nabuhay. Isa rito ang Homo luzonensis na natagpuan sa Callao Cave, Cagayan."});
+fun:"Many people today carry a small amount of Neanderthal DNA."});
 
 ADDART({id:"stoneage",t:"The Stone Age",c:"History",i:"🪓",w:"Stone Age",r:["humanorigins","caveart","agri","metals","banaue"],
 p:[["Tools of stone","The Stone Age is the long period of prehistory when people made tools mainly from stone."],["Hunters to farmers","It began with hunter-gatherers and ended after people learned to farm and build villages."],["The longest age","It lasted more than three million years, over 99 percent of human history."]],
@@ -22,8 +21,7 @@ s2:[["Göbekli Tepe","Göbekli Tepe, in southeastern Türkiye, is a site of huge
 sp:["The first tools","At a site called Lomekwi 3 in Kenya, scientists announced in 2015 the discovery of stone tools about 3.3 million years old, older than any known member of our genus Homo. Some were large cores and flakes made by striking rocks together. They suggest that earlier hominins, perhaps related to Lucy’s species, were already making tools. Toolmaking was a key step in human evolution."],
 g:[["Prehistory","The time before written records"],["Paleolithic","The Old Stone Age"],["Neolithic","The New Stone Age, when farming began"],["Hunter-gatherer","A person who lives by hunting and gathering wild food"]],
 f:["The Stone Age lasted more than three million years.","Farming began in the Neolithic.","Ötzi the Iceman is about 5,300 years old."],
-fun:"Ötzi the Iceman carried a first-aid kit of medicinal mushrooms.",
-tl:"Ang Panahon ng Bato ay mahabang panahon ng prehistorya kung kailan gumamit ang tao ng kasangkapang bato. Nagsimula ito sa mga mangangaso at natapos nang matuto ang tao na magsaka. Sa Pilipinas, mahalaga ang Tabon Caves sa Palawan."});
+fun:"Ötzi the Iceman carried a first-aid kit of medicinal mushrooms."});
 
 ADDART({id:"phamwar",t:"The Philippine–American War",c:"History",i:"⚔️",w:"Philippine–American War",r:["phrev","malolos","spanph","commonwealth","aguinaldo"],
 p:[["A war for independence","The Philippine–American War was fought from 1899 between the First Philippine Republic and the United States."],["After Spain","It began after Spain ceded the Philippines to the United States in 1898."],["A long struggle","Organized fighting ended in 1902, but resistance continued for years in some regions."]],
@@ -35,8 +33,7 @@ s2:[["The human cost","About 4,200 American soldiers died, and estimates of Fili
 sp:["The Battle of Tirad Pass","On 2 December 1899, General Gregorio del Pilar, just 24 years old, held the narrow Tirad Pass in the mountains of Ilocos Sur with about 60 men against a much larger American force, to give Emilio Aguinaldo time to escape. After hours of fighting, the Americans found a path around the Filipino position, and del Pilar was killed along with most of his men. He became known as the hero of Tirad Pass, a symbol of youthful sacrifice."],
 g:[["Cede","To give up territory, usually by treaty"],["Guerrilla warfare","Fighting in small, mobile groups using surprise attacks"],["Annexation","Taking over a territory and making it part of a country"],["Anti-imperialist","Opposed to building an empire by ruling other lands"]],
 f:["The war began on 4 February 1899.","Aguinaldo was captured in Palanan, Isabela, in 1901.","General Gregorio del Pilar died at Tirad Pass aged 24."],
-fun:"The Balangiga bells, taken as trophies in 1901, returned to the Philippines in 2018.",
-tl:"Ang Digmaang Pilipino–Amerikano ay nagsimula noong 4 Pebrero 1899 sa pagitan ng Unang Republika ng Pilipinas at Estados Unidos. Ipinaglaban ng mga Pilipino ang kanilang kasarinlan. Idineklarang tapos ito ng Amerika noong 1902, ngunit nagpatuloy ang paglaban sa ilang lugar."});
+fun:"The Balangiga bells, taken as trophies in 1901, returned to the Philippines in 2018."});
 
 ADDART({id:"enlightenment",t:"The Enlightenment",c:"History",i:"💡",w:"Age of Enlightenment",r:["scimeth","frrev","usrev","hrights","democ"],
 p:[["The Age of Reason","The Enlightenment was a movement of ideas in the 1600s and 1700s that emphasized reason, science and individual rights."],["Questioning authority","Thinkers challenged the power of kings and churches and argued for freedom and equality."],["Changing the world","Enlightenment ideas inspired revolutions and modern democracy, human rights and science."]],
@@ -48,8 +45,7 @@ s2:[["Dare to know","In 1784 the German philosopher Immanuel Kant answered the q
 sp:["An encyclopedia that changed minds","The Encyclopédie, edited by Denis Diderot, eventually filled 28 volumes with more than 70,000 articles and thousands of illustrations of crafts and machines. Its contributors included Voltaire, Rousseau and Montesquieu. By giving detailed attention to the work of ordinary craftspeople and questioning religious and political authority, it spread Enlightenment ideas across Europe. French authorities banned it more than once, but publication continued in secret."],
 g:[["Reason","The power of the mind to think logically"],["Natural rights","Rights that all people have by nature"],["Social contract","An agreement by which people form a society and government"],["Salon","A gathering in a private home for discussion"]],
 f:["The Enlightenment emphasized reason and rights.","Diderot edited the Encyclopédie.","Kant’s motto for the Enlightenment was dare to know."],
-fun:"The Encyclopédie was banned by French authorities but kept being published in secret.",
-tl:"Ang Enlightenment ay kilusan ng mga ideya noong 1600s at 1700s na nagbigay-diin sa katwiran, agham at karapatan ng tao. Nakaimpluwensiya ito sa mga rebolusyon at sa mga ilustrado gaya ni José Rizal."});
+fun:"The Encyclopédie was banned by French authorities but kept being published in secret."});
 
 ADDART({id:"medieurope",t:"Charlemagne and Medieval Europe",c:"History",i:"🏰",w:"Feudalism",r:["gothic","crusades","viking","byzant","renais"],
 p:[["Lords, knights and peasants","Medieval Europe was organized around lords, knights, peasants and the Church."],["Charlemagne","In 800, Charlemagne was crowned emperor, uniting much of western Europe."],["Castles and cathedrals","The Middle Ages produced castles, universities, cathedrals and lasting laws."]],
@@ -61,8 +57,7 @@ s2:[["Knights and chivalry","Knights were mounted warriors who served lords and 
 sp:["The crowning of Charlemagne","On Christmas Day in the year 800, as Charlemagne knelt in prayer at Old St Peter’s Basilica in Rome, Pope Leo III placed a crown on his head and proclaimed him emperor of the Romans. It was the first time in over 300 years that western Europe had an emperor. The event linked the Frankish kingdom, the papacy and the memory of Rome, and shaped European politics for centuries."],
 g:[["Feudalism","A system of land granted in return for loyalty and service"],["Vassal","A person who held land from a lord in exchange for loyalty"],["Serf","A peasant bound to work a lord’s land"],["Guild","An association of merchants or craftspeople"]],
 f:["Charlemagne was crowned emperor in 800.","The University of Bologna dates from about 1088.","Joan of Arc helped lift the siege of Orléans in 1429."],
-fun:"Medieval Europe invented eyeglasses and mechanical clocks.",
-tl:"Ang Middle Ages sa Europa ay mula 476 hanggang mga 1500. Hinubog ang lipunan ng Simbahan, mga panginoon at sistemang piyudal. Kinoronahan si Charlemagne bilang emperador noong 800."});
+fun:"Medieval Europe invented eyeglasses and mechanical clocks."});
 
 ADDART({id:"khmer",t:"The Khmer Empire",c:"History",i:"🛕",w:"Khmer Empire",r:["angkor","seaempires","buddh","hindu","sea"],
 p:[["Builders of Angkor","The Khmer Empire ruled much of mainland Southeast Asia from the 800s to the 1400s."],["Temples and reservoirs","Its capital, Angkor, had magnificent temples and huge reservoirs for water."],["A great city","Angkor was one of the largest cities of the pre-industrial world."]],
@@ -74,5 +69,4 @@ s2:[["A giant city","Laser scanning from aircraft, called lidar, used in the 201
 sp:["The faces of the Bayon","The Bayon temple, at the heart of Angkor Thom, has more than 200 giant stone faces carved on its towers, gazing calmly in all directions with gentle smiles. They may represent the bodhisattva Avalokiteshvara, a figure of compassion, or King Jayavarman VII himself, or both. The temple’s walls also show scenes of daily life, markets, fishing and battles with the Cham, giving a vivid picture of the Khmer world."],
 g:[["Baray","A large reservoir built by the Khmer"],["God-king","A ruler believed to be divine or linked to the gods"],["Lidar","Laser scanning used to map the ground"],["Apsara","A heavenly dancer in Hindu and Buddhist art"]],
 f:["Angkor Wat is the largest religious monument in the world.","Angkor Wat appears on Cambodia’s flag.","The Bayon has more than 200 stone faces."],
-fun:"Angkor Wat appears on the national flag of Cambodia.",
-tl:"Ang Imperyong Khmer ay namuno sa malaking bahagi ng Timog-silangang Asya mula 800s hanggang 1400s. Itinayo nito ang Angkor Wat, ang pinakamalaking relihiyosong monumento sa mundo."});
+fun:"Angkor Wat appears on the national flag of Cambodia."});

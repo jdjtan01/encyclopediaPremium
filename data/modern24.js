@@ -9,8 +9,7 @@ s2:[["Operation Entebbe","In June 1976, hijackers took an Air France plane to En
 sp:["Uganda’s Asians in Britain","Many of the Ugandan Asians who resettled in Britain arrived with almost nothing but went on to build successful businesses and careers. Their story is often cited as an example of refugees contributing to their new country."],
 g:[["Coup","A sudden seizure of power, often by the military"],["Dictator","A ruler with total power"],["Expulsion","Forcing people to leave a country"],["Exile","Living away from one’s home country, often by force"]],
 f:["Idi Amin was Uganda’s heavyweight boxing champion for years.","About 27,000 expelled Ugandan Asians settled in Britain.","Amin was never put on trial for his crimes."],
-fun:"Amin awarded himself titles including ‘Conqueror of the British Empire’ and ‘Last King of Scotland’.",
-tl:"Si Idi Amin ang diktador ng Uganda mula 1971 hanggang 1979. Tinatayang 100,000 hanggang 500,000 ang pinatay ng kaniyang rehimen, pinaalis niya ang mga Asyano noong 1972, at pinatalsik siya noong 1979."});
+fun:"Amin awarded himself titles including ‘Conqueror of the British Empire’ and ‘Last King of Scotland’."});
 
 ADDART({id:"castro",t:"Fidel Castro",c:"People",i:"🇨🇺",w:"Fidel Castro",r:["cubacountry","cubancrisis","cheguevara","coldwar","socialism"],
 p:[["Cuban revolutionary","Fidel Castro led the Cuban Revolution of 1959."],["Communist ruler","He ruled Cuba for nearly 50 years as a one-party state."],["Divisive legacy","Supporters praise his health and education gains; critics condemn repression."]],
@@ -22,8 +21,7 @@ s2:[["The embargo","The US embargo on Cuba, begun in 1960–62, is one of the lo
 sp:["Assassination attempts","The CIA plotted many times to kill Castro in the 1960s, with schemes reportedly including poisoned cigars and an exploding seashell. A Senate committee confirmed several plots in 1975. Castro joked that if surviving assassination attempts were an Olympic event, he would win gold."],
 g:[["Guerrilla","A fighter in a small, irregular armed group"],["Nationalize","To put private businesses under state ownership"],["Embargo","A ban on trade with a country"],["One-party state","A country where only one political party is allowed"]],
 f:["Castro ruled Cuba for almost 50 years.","Cuba lies about 150 kilometers from Florida.","Castro gave speeches lasting many hours; one at the UN in 1960 lasted over four hours."],
-fun:"Castro was a talented baseball player as a student, giving rise to a popular but untrue story that US teams once offered him a contract.",
-tl:"Si Fidel Castro ang namuno sa Rebolusyong Cubano noong 1959 at sa Cuba bilang estadong komunista hanggang 2008. Pinupuri siya ng ilan dahil sa kalusugan at edukasyon, at kinokondena ng iba dahil sa panunupil."});
+fun:"Castro was a talented baseball player as a student, giving rise to a popular but untrue story that US teams once offered him a contract."});
 
 ADDART({id:"cheguevara",t:"Che Guevara",c:"People",i:"⭐",w:"Che Guevara",r:["castro","cubacountry","coldwar","socialism","argentinacountry"],
 p:[["Revolutionary icon","Che Guevara was an Argentine-born Marxist revolutionary."],["Cuban Revolution","He was a key leader of Castro’s guerrilla war."],["Divisive image","His face became a global symbol, but his record includes executions."]],
@@ -35,8 +33,7 @@ s2:[["The famous photograph","Alberto Korda photographed Guevara at a memorial s
 sp:["The Motorcycle Diaries","Guevara’s diary of his 1952 journey was published decades after his death and adapted into an acclaimed 2004 film. It shows a young, curious and humorous traveler, very different from the later guerrilla commander."],
 g:[["Marxist","A follower of Karl Marx’s ideas about class struggle and communism"],["Guerrilla war","Fighting by small, mobile groups against a larger force"],["Tribunal","A court, here one set up by revolutionaries"],["Icon","A widely recognized symbol"]],
 f:["Che Guevara trained as a doctor.","His face is one of the most reproduced images in the world.","He was executed in Bolivia at the age of 39."],
-fun:"Alberto Korda never received royalties for his famous photograph of Che, though he sued when it was used in a vodka advertisement.",
-tl:"Si Che Guevara ay isang rebolusyonaryong Marxista na ipinanganak sa Argentina at naging pinuno sa Rebolusyong Cubano. Naging pandaigdigang simbolo ang kaniyang mukha, ngunit kasama sa kaniyang talaan ang mga pagbitay."});
+fun:"Alberto Korda never received royalties for his famous photograph of Che, though he sued when it was used in a vodka advertisement."});
 
 ADDART({id:"pinochet",t:"Augusto Pinochet",c:"People",i:"📕",w:"Augusto Pinochet",r:["chilecountry","coldwar","hrights","democ","capitalism"],
 p:[["Military dictator of Chile","Augusto Pinochet seized power in a coup on 11 September 1973."],["Repression","Thousands were killed or disappeared and tens of thousands tortured."],["Free-market reforms","His economic policies remain debated; Chileans voted him out in 1988."]],
@@ -48,8 +45,7 @@ s2:[["The ‘No’ campaign","The opposition’s 1988 television campaign used u
 sp:["The Pinochet case","Pinochet’s arrest in London in October 1998 was the first time a former head of state was detained abroad on the principle of universal jurisdiction, the idea that some crimes such as torture can be prosecuted anywhere. The case influenced later international justice efforts."],
 g:[["Coup d’état","The violent overthrow of a government"],["Junta","A military group that rules after taking power"],["Disappeared","People secretly abducted and killed by the state"],["Plebiscite","A direct vote by the people on an important question"]],
 f:["The coup took place on 11 September 1973.","Pinochet was arrested in London in 1998 on a Spanish warrant.","He died on International Human Rights Day."],
-fun:"Santiago’s National Stadium, once used as a detention center, kept a section of old wooden benches as a memorial with the words ‘A people without memory is a people without a future’.",
-tl:"Si Augusto Pinochet ay heneral na namuno sa kudeta sa Chile noong 11 Setyembre 1973 at naging diktador hanggang 1990. Libo-libo ang pinatay o nawala at sampu-sampung libo ang pinahirapan; ibinoto siyang palitan ng mga Chilean noong 1988."});
+fun:"Santiago’s National Stadium, once used as a detention center, kept a section of old wooden benches as a memorial with the words ‘A people without memory is a people without a future’."});
 
 ADDART({id:"franco",t:"Francisco Franco",c:"People",i:"📕",w:"Francisco Franco",r:["spaincountry","fascism","hitler","mussolini","ww2"],
 p:[["Dictator of Spain","Francisco Franco ruled Spain from 1939 until his death in 1975."],["Civil war","He led the Nationalist side to victory in the Spanish Civil War."],["Memory debates","Spain still debates how to remember his rule."]],
@@ -61,8 +57,7 @@ s2:[["Guernica","Pablo Picasso painted Guernica in 1937 for the Paris World’s 
 sp:["International Brigades","About 35,000 to 40,000 volunteers from over 50 countries, including writers such as George Orwell and Ernest Hemingway as a journalist, went to fight or report for the Spanish Republic. Orwell’s Homage to Catalonia and Hemingway’s For Whom the Bell Tolls drew on their experiences."],
 g:[["Nationalists","Franco’s side in the Spanish Civil War"],["Republicans","Supporters of Spain’s elected Republic"],["Caudillo","A military or political leader"],["Exhume","To dig up a buried body"]],
 f:["Picasso’s Guernica was painted in 1937.","Spain was officially neutral in World War II.","Spain became a democracy after Franco’s death in 1975."],
-fun:"For years after Franco’s death, the comedy show Saturday Night Live ran a joke news item: ‘Generalísimo Francisco Franco is still dead.’",
-tl:"Si Francisco Franco ang heneral na nanalo sa Digmaang Sibil ng Espanya at naging diktador mula 1939 hanggang 1975. Pinatay at ikinulong ng kaniyang rehimen ang maraming kalaban, at naging demokrasya ang Espanya pagkamatay niya."});
+fun:"For years after Franco’s death, the comedy show Saturday Night Live ran a joke news item: ‘Generalísimo Francisco Franco is still dead.’"});
 
 ADDART({id:"gaddafi",t:"Muammar Gaddafi",c:"People",i:"📗",w:"Muammar Gaddafi",r:["africanunion","terrorism","isis"],
 p:[["Ruler of Libya","Muammar Gaddafi ruled Libya from 1969 to 2011."],["Revolution and repression","He used oil wealth for development but crushed all opposition."],["Overthrown","He was killed during the 2011 civil war."]],
@@ -74,8 +69,7 @@ s2:[["Debate over the intervention","Supporters of the 2011 NATO intervention sa
 sp:["The tent","Gaddafi often stayed in a large Bedouin tent on foreign visits, pitching it in Paris, Rome and New York, accompanied by a unit of female bodyguards. The tent became part of his famously eccentric public image."],
 g:[["Coup","A sudden seizure of power"],["Jamahiriya","Gaddafi’s term for ‘state of the masses’"],["Sanctions","Penalties placed on a country"],["Arab Spring","A wave of uprisings in the Arab world from 2010–11"]],
 f:["Gaddafi ruled Libya for 42 years.","He held no official title for most of his rule, calling himself ‘Brotherly Leader’.","The Lockerbie bombing is the deadliest terrorist attack in British history."],
-fun:"Under Gaddafi, from 1977 to 2011, Libya’s flag was plain green with no design at all, the only national flag of a single color.",
-tl:"Si Muammar Gaddafi ang namuno sa Libya mula 1969 hanggang 2011. Ginamit niya ang yaman ng langis para sa kaunlaran ngunit sinupil ang lahat ng oposisyon, at napatay siya noong digmaang sibil ng 2011."});
+fun:"Under Gaddafi, from 1977 to 2011, Libya’s flag was plain green with no design at all, the only national flag of a single color."});
 
 ADDART({id:"kimdynasty",t:"The Kim Dynasty of North Korea",c:"People",i:"🔴",w:"Kim dynasty",r:["korea","koreanwar","nukeweapons","coldwar","propaganda"],
 p:[["A family dictatorship","Three generations of the Kim family have ruled North Korea since 1948."],["Total control","North Korea is one of the most closed and repressive countries in the world."],["Nuclear weapons","It has tested nuclear weapons and long-range missiles."]],
@@ -87,8 +81,7 @@ s2:[["Propaganda and control","Every home must display portraits of Kim Il Sung 
 sp:["Defectors","More than 30,000 North Koreans have resettled in South Korea since the 1990s. Some, such as Yeonmi Park and Hyeonseo Lee, have written memoirs describing life in North Korea and their dangerous escapes."],
 g:[["Cult of personality","Glorifying a leader as almost godlike"],["Juche","North Korea’s ideology of self-reliance"],["Armistice","An agreement to stop fighting, not a peace treaty"],["Defector","A person who escapes from their country"]],
 f:["North Korea is the only communist state with three generations of family rule.","Kim Il Sung is still officially ‘Eternal President’.","The Korean War never formally ended with a peace treaty."],
-fun:"North Korea used its own time zone, half an hour behind South Korea, from 2015 to 2018, before switching back as a gesture of goodwill.",
-tl:"Ang dinastiyang Kim ay pamilyang namuno sa Hilagang Korea mula 1948: sina Kim Il Sung, Kim Jong Il at Kim Jong Un. Isa ito sa pinakasarado at mapaniil na bansa sa mundo, at nakagawa ito ng mga sandatang nukleyar."});
+fun:"North Korea used its own time zone, half an hour behind South Korea, from 2015 to 2018, before switching back as a gesture of goodwill."});
 
 ADDART({id:"leopold2",t:"Leopold II and the Congo Free State",c:"History",i:"🕯️",w:"Congo Free State",r:["colonialism","drccountry","slavetrade","hrights","genocide"],
 p:[["A king’s private colony","King Leopold II of Belgium owned the Congo Free State personally from 1885 to 1908."],["Rubber and terror","Forced labor to collect rubber caused enormous suffering and death."],["Exposed","Campaigners revealed the abuses, and Belgium took over the colony in 1908."]],
@@ -100,5 +93,4 @@ s2:[["King Leopold’s Ghost","Adam Hochschild’s 1998 book King Leopold’s Gh
 sp:["One of the first human rights campaigns","The Congo Reform Association used photographs, public meetings and magic-lantern slide shows to rally public opinion in Britain and the United States. Historians often describe it as one of the first international human rights campaigns."],
 g:[["Concession","Land or rights granted to a company to exploit"],["Force Publique","The Congo Free State’s army"],["Quota","A required amount"],["Annex","To take over a territory"]],
 f:["The Congo Free State was Leopold’s personal property, not Belgium’s.","The rubber boom was driven by demand for tires.","Leopold had the Free State’s archives burned in 1908."],
-fun:"Mark Twain wrote a satirical pamphlet in 1905, King Leopold’s Soliloquy, in which the king complains about the camera because photographs exposed his crimes.",
-tl:"Pag-aari ni Haring Leopold II ng Belgium ang Congo Free State mula 1885 hanggang 1908. Ang sapilitang pangongolekta ng goma ay nagdulot ng matinding pagdurusa at kamatayan, hanggang ilantad ito ng mga kampanyador at kunin ito ng Belgium noong 1908."});
+fun:"Mark Twain wrote a satirical pamphlet in 1905, King Leopold’s Soliloquy, in which the king complains about the camera because photographs exposed his crimes."});

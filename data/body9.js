@@ -9,8 +9,7 @@ s2:[["Voice change in puberty","During puberty, hormones cause the larynx to gro
 sp:["The teacher with a mirror","In 1854 Manuel García, a famous Spanish singing teacher working in London, wished he could see what happened inside his throat when he sang. One sunny day in Paris, he placed a small dental mirror at the back of his mouth and held a hand mirror to reflect sunlight onto it. To his amazement, he could see his own vocal folds opening, closing and vibrating as he sang different notes. He presented his observations to the Royal Society the following year. Doctors quickly adopted his method, called laryngoscopy, to examine patients’ throats. García lived to be 101 years old and is honored as a founder of the science of the voice."],
 g:[["Larynx","The voice box in the throat"],["Vocal folds","Bands of tissue that vibrate to make sound"],["Pitch","How high or low a sound is"],["Laryngitis","Inflammation of the larynx"]],
 f:["Vocal folds vibrate to produce the voice.","Voices deepen during puberty.","The tongue and lips shape speech sounds."],
-fun:"The inventor of the laryngoscope first saw his own vocal folds using a dental mirror and sunlight.",
-tl:"Ang boses ay nagmumula sa pag-vibrate ng vocal folds sa lalamunan habang dumadaan ang hangin. Hinuhubog ng dila, labi at ngipin ang tunog upang maging pananalita. Nagbabago ang boses sa pagbibinata o pagdadalaga at sa pagtanda."});
+fun:"The inventor of the laryngoscope first saw his own vocal folds using a dental mirror and sunlight."});
 
 ADDART({id:"balance",t:"Balance and the Inner Ear",c:"Human Body",i:"⚖️",w:"Vestibular system",r:["ear","brain","reflexes","astronauts","eye"],
 p:[["A hidden sense","Balance is controlled by tiny organs in the inner ear."],["Feeling motion","Fluid-filled canals sense when the head turns."],["Mixed signals","Confusing signals can make us feel sick on boats and cars."]],
@@ -22,8 +21,7 @@ s2:[["Seasickness in an archipelago","In the Philippines, many people travel by 
 sp:["The doctor who moved crystals","In the late 1970s, John Epley, an ear specialist in Portland, Oregon, kept seeing patients with brief, violent spells of spinning whenever they rolled over in bed or looked up. He became convinced that tiny loose crystals were drifting in their inner ear canals. Working with models, he designed a series of slow head turns that would move the crystals out of the canal, like rolling a marble through a maze. Many colleagues were skeptical, and he struggled to get his work published. But patients improved, often after a single treatment. Today the Epley maneuver is a standard, simple treatment for one of the most common causes of dizziness."],
 g:[["Vestibular system","The balance organs of the inner ear"],["Semicircular canal","A fluid-filled loop that senses rotation"],["Proprioception","The sense of body position"],["Vertigo","A false feeling of spinning"]],
 f:["Balance organs are in the inner ear.","Motion sickness comes from mixed signals.","Astronauts must adapt their balance in space."],
-fun:"Dancers avoid dizziness by fixing their eyes on one spot as they spin.",
-tl:"Ang balanse ng katawan ay kontrolado ng maliliit na bahagi sa loob ng tainga. Nararamdaman ng mga ito ang galaw ng ulo at ang grabidad. Kapag nagkakasalungat ang senyales ng mata at tainga, maaaring mahilo o masuka, gaya sa bangka o sasakyan."});
+fun:"Dancers avoid dizziness by fixing their eyes on one spot as they spin."});
 
 ADDART({id:"polio",t:"Polio",c:"Health",i:"💉",w:"Polio",r:["vacc","pandemic","measles","who","immune"],
 p:[["A paralyzing disease","Polio is a virus that can cause permanent paralysis."],["Nearly eradicated","Vaccines have eliminated polio from most of the world."],["Philippine outbreak","Polio returned to the Philippines briefly in 2019."]],
@@ -35,8 +33,7 @@ s2:[["The 2019 Philippine outbreak","In September 2019, nearly two decades after
 sp:["Drops for every child","In late 2019, health workers in Mindanao set out with cooler boxes full of vaccine vials. They walked from house to house in villages and city neighborhoods, asking parents if they had children under five. Each child received two drops of oral polio vaccine on the tongue, and a finger was marked with purple ink to show they had been vaccinated. Some parents were hesitant, worried by stories they had heard about vaccines; health workers, local leaders and religious figures explained why the drops were important. Over several rounds, millions of children across the Philippines were vaccinated, and by 2021 the outbreak was declared over."],
 g:[["Polio","A disease caused by the poliovirus"],["Paralysis","Loss of the ability to move muscles"],["Eradication","Eliminating a disease worldwide"],["Iron lung","A machine that helped polio patients breathe"]],
 f:["Polio can cause permanent paralysis.","The Salk vaccine was introduced in 1955.","Polio reappeared in the Philippines in 2019."],
-fun:"When the polio vaccine was announced in 1955, church bells rang across the United States.",
-tl:"Ang polio ay sakit na dulot ng virus na maaaring magdulot ng permanenteng pagkaparalisa, lalo na sa mga bata. Halos naalis na ito sa mundo dahil sa bakuna. Nagkaroon ng muling pagsiklab sa Pilipinas noong 2019, kaya nagkaroon ng malawakang pagbabakuna."});
+fun:"When the polio vaccine was announced in 1955, church bells rang across the United States."});
 
 ADDART({id:"blooddonation",t:"Blood Donation",c:"Health",i:"🩸",w:"Blood donation",r:["blood","bloodtypes","dengue","surgery","volunteering"],
 p:[["Giving life","Donated blood saves lives in surgery, accidents and illness."],["Safe and quick","Donating takes about an hour, with the blood draw itself only minutes."],["Always needed","Blood cannot be manufactured, so donors are always needed."]],
@@ -48,5 +45,4 @@ s2:[["Blood donation in the Philippines","The National Blood Services Act of 199
 sp:["A blood drive in a school gym","On a Saturday morning, a university gym in Iloilo is filled with rows of beds and volunteers in red vests. Students line up to register, answer health questions and have a finger prick test for hemoglobin. One first-time donor, nervous, holds a friend’s hand as the nurse inserts the needle. Ten minutes later, she is sitting up, eating biscuits and drinking juice, proudly wearing a sticker that says she has donated blood. By the end of the day, the blood bags will be tested, separated and sent to hospitals, where they may help a mother after childbirth, a child with dengue or a patient in surgery."],
 g:[["Blood donation","Giving blood to help others"],["Transfusion","Giving blood to a patient"],["Platelets","Blood cells that help clotting"],["Plasma","The liquid part of blood"]],
 f:["Blood cannot be manufactured.","World Blood Donor Day is June 14.","Type O negative red cells can be given to almost anyone."],
-fun:"One Australian man donated plasma more than 1,100 times over about 60 years.",
-tl:"Ang pagbibigay ng dugo ay boluntaryong pagdo-donate ng dugo upang makatulong sa mga pasyente. Hindi kayang gawin ang dugo sa pabrika, kaya laging kailangan ang mga donor. Ang World Blood Donor Day ay ipinagdiriwang tuwing Hunyo 14."});
+fun:"One Australian man donated plasma more than 1,100 times over about 60 years."});
