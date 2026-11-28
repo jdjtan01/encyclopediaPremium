@@ -191,7 +191,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [8,18,1877,"Asaph Hall discovers Phobos, the larger moon of Mars.","phobosdeimos"],
 [8,12,1877,"Asaph Hall discovers Deimos, the smaller moon of Mars.","phobosdeimos"],
 [10,9,2022,"Astronomers detect GRB 221009A, the brightest gamma-ray burst ever seen.","gammaraybursts"],
-[8,17,2017,"Gravitational waves and a gamma-ray burst reveal two neutron stars merging.","gammaraybursts"],
+[8,17,2017,"Gravitational waves and a gamma-ray burst reveal two neutron stars merging.","kilonovae"],
 [9,27,2007,"NASA’s Dawn spacecraft launches on an ion-powered journey to Vesta and Ceres.","ionengines"],
 [10,24,1998,"Deep Space 1 launches, testing an ion engine on an interplanetary mission.","ionengines"],
 [1,27,2006,"Western Union sends its last telegram.","telegraph"],

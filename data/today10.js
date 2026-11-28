@@ -9,7 +9,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [2,18,2021,"NASA’s Perseverance rover lands on Mars.","mars"],
 [3,14,1988,"The first Pi Day is celebrated at the Exploratorium in San Francisco.","pi"],
 [4,4,1949,"NATO is founded in Washington."],
-[4,10,2019,"Astronomers release the first image of a black hole.","eht"],
+[4,10,2019,"Astronomers release the first image of a black hole, M87*.","m87bh"],
 [4,18,1955,"Albert Einstein dies in Princeton, New Jersey.","relat"],
 [4,19,2021,"Ingenuity makes the first powered flight on another planet.","ingenuity"],
 [5,22,1960,"The most powerful earthquake ever recorded, magnitude 9.5, strikes Chile.","quake"],
