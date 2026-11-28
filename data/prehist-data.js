@@ -54,11 +54,18 @@ deinonychus:["Dinosaur (dromaeosaur)","Meat",115,108,3.4,0.9,70,"raptor","About 
 plateosaurus:["Dinosaur (early sauropodomorph)","Plants",214,204,8,2.5,700,"ornitho","About 5–10 m long",[["Trossingen, Germany",48.07,8.63],["Frick, Switzerland",47.51,8.01],["Halberstadt, Germany",51.9,11.05],["Jameson Land, Greenland",71.4,-23.5]]],
 helicoprion:["Fish (eugeneodont, ratfish relative)","Squid-like animals",290,270,6,1,0,"shark","About 5–8 m long (estimate)",[["Phosphoria Formation, Idaho",42.7,-111.4],["Krasnoufimsk, Russia",56.6,57.8],["Western Australia",-25.0,115.0]]],
 arthropleura:["Arthropod (giant millipede)","Plants",346,290,2.6,0.3,0,"trilo","Up to about 2.6 m long",[["Montceau-les-Mines, France",46.67,4.37],["Howick Bay, Northumberland, England",55.46,-1.59],["Joggins, Nova Scotia",45.7,-64.45]]],
-paraceratherium:["Mammal (hornless rhino)","Leaves and twigs",34,23,7.5,4.8,17000,"rhino","About 4.8 m tall at the shoulder",[["Dera Bugti, Pakistan",29.03,69.15],["Gansu, China",36.0,103.8],["Mongolia",44.5,103.0],["Kazakhstan",48.0,67.0]]]
+paraceratherium:["Mammal (hornless rhino)","Leaves and twigs",34,23,7.5,4.8,17000,"paracer","About 4.8 m tall at the shoulder",[["Dera Bugti, Pakistan",29.03,69.15],["Gansu, China",36.0,103.8],["Mongolia",44.5,103.0],["Kazakhstan",48.0,67.0]]],
+compsognathus:["Dinosaur (small theropod)","Small animals such as lizards",150,149,1,0.3,3,"theropod","About 1 m long",[["Solnhofen, Bavaria, Germany",48.9,11.0],["Canjuers, near Nice, France",43.6,6.4]]],
+oviraptor:["Dinosaur (oviraptorosaur)","Mixed diet, possibly eggs, plants and small animals",75,71,1.8,0.8,30,"bird","About 1.6–2 m long",[["Flaming Cliffs (Bayanzag), Mongolia",44.14,103.73]]],
+maiasaura:["Dinosaur (hadrosaur)","Plants",77,75,9,2.5,3500,"hadro","About 9 m long",[["Egg Mountain, Montana",47.83,-112.55]]],
+dimorphodon:["Pterosaur","Insects and small animals",195,190,1.4,0.4,2,"ptero","About 1.4 m wingspan",[["Lyme Regis, Dorset, England",50.72,-2.94]]],
+baryonyx:["Dinosaur (spinosaurid theropod)","Fish and other animals",130,125,9,2.5,1500,"spino","About 7.5–10 m long",[["Smokejacks Pit, Surrey, England",51.15,-0.36],["Isle of Wight, England",50.65,-1.3],["Iberian Peninsula",40.0,-3.7]]],
+deinosuchus:["Reptile (giant alligator relative)","Turtles, fish, dinosaurs",82,73,10,1,5000,"mosa","About 8–10 m long",[["Big Bend, Texas",29.25,-103.25],["Montana",47.5,-109.5],["Georgia",32.5,-84.9],["North Carolina",35.5,-77.5]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
 window.PRESIL={
+paracer:[[0,30,1],[8,22],[30,16],[54,16],[66,18],[74,10],[82,2],[94,0],[100,6,1],[100,14],[92,16],[86,18],[80,26],[74,36],[70,52],[72,100,1],[62,100,1],[60,56],[36,56],[32,100,1],[22,100,1],[20,54],[10,46],[4,36]],
 terror:[[0,40,1],[10,36],[24,32],[40,30],[52,32],[60,28],[64,18],[66,8],[72,2],[84,1],[96,4],[100,10,1],[96,12],[98,18,1],[92,15],[84,14],[76,16],[72,24],[70,36],[66,48],[58,56],[52,58],[54,72],[56,94],[64,100,1],[50,100,1],[48,94],[46,74],[42,60],[38,60],[40,76],[42,96],[50,100,1],[36,100,1],[34,96],[32,76],[30,58],[18,54],[8,48]],
 theropod:[[0,40,1],[20,30],[44,13],[60,15],[72,19],[78,9],[90,6],[100,13],[98,24],[82,26],[74,34],[66,46],[69,53],[64,53],[58,56],[55,62],[57,74],[53,92],[61,100,1],[47,100,1],[45,92],[46,76],[40,58],[28,46],[12,43]],
 raptor:[[0,34,1],[22,32],[46,22],[60,24],[70,22],[78,12],[90,10],[100,16],[96,24],[82,24],[74,32],[66,44],[74,52],[70,56],[60,52],[56,60],[58,74],[54,92],[62,100,1],[48,100,1],[46,92],[46,76],[40,56],[28,42],[10,38]],
