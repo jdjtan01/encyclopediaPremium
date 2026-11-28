@@ -159,7 +159,7 @@ $("#acq").addEventListener("change",e=>{const v=e.target.value.trim().toLowerCas
 /* Size and theme */
 const measure=()=>{const r=svg.getBoundingClientRect();if(r.width)A=r.height/r.width};
 if(window.ResizeObserver){const ro=new ResizeObserver(()=>{if(!svg.isConnected){ro.disconnect();return}const a=A;measure();if(Math.abs(a-A)>.001)apply();else{if(!raf)raf=requestAnimationFrame(()=>{raf=0;layout()})}});ro.observe(wrap)}
-const mo=new MutationObserver(()=>{if(!svg.isConnected){mo.disconnect();return}paint()});mo.observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
+const mo=new MutationObserver(()=>{if(!svg.isConnected){mo.disconnect();return}clearTimeout(mo.t);mo.t=setTimeout(paint,120)});mo.observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
 /* ---------- 3D globe view (v179) ---------- */
 const G=(()=>{const cv=$("#agl"),g=cv.getContext("2d");let hov=false,on=false,W=0,Hh=0,dpr=Math.min(2,devicePixelRatio||1),rot={l:-.2,p:.32},z=1,tgt=null,vel={l:0,p:0},spin=!matchMedia("(prefers-reduced-motion: reduce)").matches,drag=null,moving=0,loopOn=false,cols=[],dark=false,stars=[];
 const geo=()=>{if(!GLO.lo){GLO.lo=MC.map(c=>window.EPLL?window.EPLL(c[1]||c[2]):[]);GLO.bb=GLO.lo.map(rs=>{let a=9,b=9,c2=-9,d=-9;rs.forEach(r=>{for(let i=0;i<r.length;i+=2){const x=r[i],y=r[i+1];if(x<a)a=x;if(x>c2)c2=x;if(y<b)b=y;if(y>d)d=y}});return[a,b,c2,d]});

@@ -17,6 +17,8 @@ html[data-dir=back]::view-transition-old(root){animation-name:vtOutB}html[data-d
 ::view-transition-image-pair(morph){isolation:isolate}
 html.vt-ok #v.ld-out{opacity:1;filter:none}
 /* theme reveal */
+html.thsw *,html.thsw *::before,html.thsw *::after{transition:none!important}
+.th-wipe{position:fixed;inset:0;z-index:99999;pointer-events:none;clip-path:circle(0 at var(--x) var(--y));transition:clip-path .38s cubic-bezier(.4,0,.2,1),opacity .4s ease}.th-wipe.grow{clip-path:circle(var(--r) at var(--x) var(--y))}.th-wipe.fade{opacity:0}
 html[data-vt=theme] header,html[data-vt=theme] #ldb,html[data-vt=theme] .sprog{view-transition-name:none!important}
 html[data-vt=theme]::view-transition-old(root){animation:none;transform:none;opacity:1}
 html[data-vt=theme]::view-transition-new(root){animation:thR .7s cubic-bezier(.4,0,.2,1) both;transform:none;opacity:1}
@@ -81,9 +83,15 @@ t.ready.catch(()=>{});t.updateCallbackDone.catch(()=>{});t.finished.catch(()=>{}
 
 /* ---------- theme reveal ---------- */
 const th=document.getElementById("th");
-if(th){const orig=th.onclick;th.onclick=e=>{if(!VT){orig&&orig(e);spin();return}const r=th.getBoundingClientRect(),x=r.left+r.width/2,y=r.top+r.height/2;
-root.style.setProperty("--tx",x+"px");root.style.setProperty("--ty",y+"px");root.style.setProperty("--tr",Math.hypot(Math.max(x,innerWidth-x),Math.max(y,innerHeight-y))+"px");
-root.dataset.vt="theme";const t=document.startViewTransition(()=>{orig&&orig(e)});t.ready.catch(()=>{});t.finished.catch(()=>{}).finally(()=>{delete root.dataset.vt;spin()})};
+const LITE=matchMedia("(pointer:coarse), (max-width:900px)");let lastTh=0;
+const swapQuiet=fn=>{root.classList.add("thsw");fn();requestAnimationFrame(()=>requestAnimationFrame(()=>root.classList.remove("thsw")))};
+if(th){const orig=th.onclick;th.onclick=e=>{const now=Date.now();if(now-lastTh<350)return;lastTh=now;
+  const old=document.querySelector(".th-wipe");if(old)old.remove();
+  if(still||LITE.matches){swapQuiet(()=>orig&&orig(e));spin();return}
+  const r=th.getBoundingClientRect(),x=r.left+r.width/2,y=r.top+r.height/2,R=Math.hypot(Math.max(x,innerWidth-x),Math.max(y,innerHeight-y));
+  const goingDark=(root.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"))!="dark";
+  const w=document.createElement("div");w.className="th-wipe";w.style.cssText=`--x:${x}px;--y:${y}px;--r:${R}px;background:${goingDark?"#14120f":"#f6f4ef"}`;document.body.appendChild(w);
+  requestAnimationFrame(()=>{w.classList.add("grow");setTimeout(()=>{swapQuiet(()=>orig&&orig(e));w.classList.add("fade");setTimeout(()=>w.remove(),420)},380)});spin()};
 const spin=()=>{th.classList.remove("spin");void th.offsetWidth;th.classList.add("spin")}}
 
 /* ---------- bookmark burst and read-aloud waves (article pages) ---------- */

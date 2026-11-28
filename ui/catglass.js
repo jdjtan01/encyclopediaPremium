@@ -120,6 +120,7 @@ background:color-mix(in srgb,var(--sc,#334) 50%,rgba(255,255,255,.12))!important
 @media (prefers-reduced-motion:reduce){#v.cgon .acards .card{animation:none}.cg-shero .sico{animation:none}}
 
 @media (max-width:640px){.cg-aura i{width:340px!important;height:340px!important}#v.cgon .featrow .card .ban{height:140px!important}#v.cgon .sthead .ban{height:150px!important}}
+@media (pointer:coarse){.cg-aura i{animation:none!important;filter:blur(40px)}}
 @media (prefers-reduced-motion:reduce){.cg-aura i,#v.cgon .sthead .sico{animation:none!important}#v.cgon .subtile.cgw li{opacity:1;translate:none}#v.cgon .featrow .card:after{display:none}}
 `;
 const st=document.createElement("style");st.id="catglasscss";st.textContent=css;document.head.appendChild(st);
