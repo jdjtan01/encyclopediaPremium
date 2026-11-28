@@ -61,7 +61,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [11,21,1783,"The first free flight by humans, in a hot-air balloon, takes place in Paris.","flight"],
 [11,22,1963,"President Kennedy is assassinated in Dallas.","coldwar"],
 [11,28,1520,"Magellan’s ships enter the Pacific Ocean.","pacific"],
-[12,3,1967,"Christiaan Barnard performs the first human heart transplant in Cape Town."],
+[12,3,1967,"Christiaan Barnard performs the first human heart transplant in Cape Town.","organdonation"],
 [12,9,1968,"Douglas Engelbart demonstrates the mouse and interactive computing.","keyboards"],
 [12,19,1972,"Apollo 17 returns, the last crewed mission to the Moon.","space"],
 [12,24,1968,"Apollo 8 astronauts photograph Earthrise.","apollo8"],

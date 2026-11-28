@@ -84,11 +84,18 @@ pachyrhinosaurus:["Dinosaur (centrosaurine ceratopsian)","Plants",73.5,69,7,2,35
 gorgonops:["Synapsid (gorgonopsian)","Meat",265,252,3.5,1,300,"cat","Largest (Inostrancevia) about 3.5 m long",[["Karoo Basin, South Africa",-32.3,22.6],["Northern Dvina, Russia",62.0,44.0],["Ruhuhu Basin, Tanzania",-10.5,35.0]]],
 lystrosaurus:["Synapsid (dicynodont)","Plants",255,250,1.5,0.5,90,"wombat","About 0.6–2.5 m long",[["Karoo Basin, South Africa",-31.5,25.0],["Fremouw Formation, Antarctica",-84.5,164.0],["Panchet Formation, India",23.7,86.8],["Xinjiang, China",44.0,88.0]]],
 gastornis:["Bird (giant flightless bird)","Plants, nuts and seeds",56,45,2,1.9,150,"terror","About 1.75–2 m tall",[["Meudon, near Paris, France",48.81,2.24],["Wyoming",43.0,-108.5],["Ellesmere Island, Canada",79.0,-82.0],["Messel Pit, Germany",49.92,8.75]]],
-moa:["Bird (moa and elephant birds)","Plants",3,0.0006,3,3.6,250,"terror","Giant moa up to about 3.6 m tall with neck stretched",[["Canterbury, New Zealand",-43.5,171.5],["Otago, New Zealand",-45.5,169.5],["Southern Madagascar (elephant birds)",-24.5,45.0]]]
+moa:["Bird (moa and elephant birds)","Plants",3,0.0006,3,3.6,250,"terror","Giant moa up to about 3.6 m tall with neck stretched",[["Canterbury, New Zealand",-43.5,171.5],["Otago, New Zealand",-45.5,169.5],["Southern Madagascar (elephant birds)",-24.5,45.0]]],
+thylacoleo:["Marsupial (marsupial lion)","Meat",2,0.04,1.5,0.7,120,"cat","About 1.5 m long",[["Naracoorte Caves, South Australia",-37.03,140.8],["Nullarbor caves, Western Australia",-31.5,128.0],["Wellington Caves, New South Wales",-32.6,148.94]]],
+cavelion:["Mammal (lion)","Reindeer, horses, deer, bison",0.37,0.013,3,1.3,300,"cat","About 5–10% larger than modern lions",[["Chauvet Cave, France",44.39,4.42],["Yakutia, Russia",66.0,129.0],["Yukon, Canada",64.0,-139.4],["Germany",50.0,9.0]]],
+arsinoitherium:["Mammal (embrithopod, elephant relative)","Leaves",36,27,3,1.8,2500,"rhino","About 3 m long",[["Fayum, Egypt",29.5,30.6],["Chilga, Ethiopia",12.6,37.1],["Dhofar, Oman",17.0,54.0]]],
+ambulocetus:["Mammal (early whale)","Fish and animals at the water’s edge",49,48,3,0.7,200,"mosa","About 3 m long",[["Kuldana Formation, Pakistan",33.6,72.2]]],
+leedsichthys:["Fish (giant filter feeder)","Plankton",165,152,16.5,3,30000,"whale","Probably about 16.5 m long",[["Peterborough, England",52.57,-0.24],["Normandy, France",49.2,-0.4],["Atacama, Chile",-23.0,-70.0]]],
+megaloceros:["Mammal (giant deer)","Grasses and leaves",0.4,0.0077,3,2.1,700,"deer","About 2.1 m at the shoulder; antlers up to 3.6 m across",[["Ballybetagh Bog, Ireland",53.25,-6.2],["Isle of Man",54.23,-4.55],["Western Siberia, Russia",56.0,66.0]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
 window.PRESIL={
+deer:[[4,40,1],[10,36],[30,34],[56,34],[68,30],[74,22],[76,14],[70,4],[64,0,1],[74,6],[80,10],[86,4],[94,0,1],[90,10],[84,16],[80,22],[86,24],[96,28],[100,32,1],[96,36],[84,36],[76,42],[72,56],[74,100,1],[68,100,1],[64,62],[24,62],[22,100,1],[16,100,1],[14,58],[8,50]],
 wombat:[[0,60,1],[6,40],[20,26],[40,20],[62,22],[78,30],[88,40],[96,46],[100,58,1],[96,66],[88,70],[84,78],[86,100,1],[74,100,1],[70,82],[34,82],[30,100,1],[18,100,1],[16,80],[6,72]],
 paracer:[[0,30,1],[8,22],[30,16],[54,16],[66,18],[74,10],[82,2],[94,0],[100,6,1],[100,14],[92,16],[86,18],[80,26],[74,36],[70,52],[72,100,1],[62,100,1],[60,56],[36,56],[32,100,1],[22,100,1],[20,54],[10,46],[4,36]],
 terror:[[0,40,1],[10,36],[24,32],[40,30],[52,32],[60,28],[64,18],[66,8],[72,2],[84,1],[96,4],[100,10,1],[96,12],[98,18,1],[92,15],[84,14],[76,16],[72,24],[70,36],[66,48],[58,56],[52,58],[54,72],[56,94],[64,100,1],[50,100,1],[48,94],[46,74],[42,60],[38,60],[40,76],[42,96],[50,100,1],[36,100,1],[34,96],[32,76],[30,58],[18,54],[8,48]],

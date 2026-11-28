@@ -287,7 +287,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [3,25,1911,"The Triangle Shirtwaist Factory fire kills 146 workers in New York.","firesafety"],
 [2,23,1886,"Charles Martin Hall produces aluminum cheaply by electrolysis.","aluminum"],
 [4,3,2010,"Apple’s first iPad goes on sale.","laptops"],
-[5,12,2017,"The WannaCry ransomware attack spreads worldwide.","malware"],
+[5,12,2017,"The WannaCry ransomware attack spreads worldwide.","ransomware"],
 [11,15,1988,"The Soviet shuttle Buran makes its only flight, orbiting Earth twice without a crew.","buran"],
 [6,30,1971,"The Soyuz 11 crew die during their return from the Salyut 1 space station.","salyut"],
 [4,24,1970,"China launches its first satellite, Dong Fang Hong 1, on a Long March rocket.","longmarch"],
