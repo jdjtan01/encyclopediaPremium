@@ -43,6 +43,14 @@ linear-gradient(180deg,rgba(255,255,255,.22),rgba(255,255,255,0) 38%),
 linear-gradient(160deg,color-mix(in srgb,var(--l) 55%,transparent) -10%,color-mix(in srgb,var(--c) 68%,transparent) 48%,color-mix(in srgb,var(--c) 55%,#05030f) 100%);
 backdrop-filter:blur(1px)}
 #v .sx-c:not(.on){box-shadow:inset 0 1px 0 rgba(255,255,255,.45),inset 0 0 0 1px rgba(255,255,255,.22),0 10px 22px -12px var(--c)!important}
+/* Article "More" menu: float above the header instead of being clipped by it */
+#amn.amfix{position:fixed!important;top:0;left:0;margin:0!important;z-index:1200!important;max-height:calc(100vh - 24px);overflow:auto;transform-origin:top left;animation:amIn .22s cubic-bezier(.2,1.2,.4,1) both;
+background:color-mix(in srgb,var(--sf) 92%,transparent)!important;backdrop-filter:blur(16px) saturate(1.5);-webkit-backdrop-filter:blur(16px) saturate(1.5);border-radius:16px!important;box-shadow:0 24px 50px -18px rgba(0,0,0,.55),0 0 0 1px var(--bd)!important;border:0!important}
+#amn.amfix.up{transform-origin:bottom left}
+#amn.amfix .mi{border-radius:10px!important;transition:background .15s,translate .15s}
+#amn.amfix .mi:hover{translate:3px 0}
+@keyframes amIn{from{opacity:0;transform:translateY(-6px) scale(.96)}}
+@media (prefers-reduced-motion:reduce){#amn.amfix{animation:none}}
 /* Random button lives in the More menu now */
 header #rnd{display:none!important}
 /* 7. Consistent hover lift and press */
@@ -93,6 +101,16 @@ function glass(){if(typeof SUBJ=="undefined"&&!window.SUBJ)return;const S=window
 document.querySelectorAll("#v .sx-c:not([data-g])").forEach(c=>{c.dataset.g=1;const n=c.dataset.c,s=S[n];if(!s)return;const f=(s.feat||[]).map(get).find(Boolean);if(!f)return;
 c.insertAdjacentHTML("afterbegin",`<span class="sxg" aria-hidden="true">${ban(f)}</span>`);need.push(f)});if(need.length&&typeof want=="function")want(need)}
 function hookHome(){const prev=R.home;if(prev.__gl)return;R.home=function(){prev.apply(this,arguments);try{glass();setTimeout(glass,400)}catch(e){console.error("glass",e)}};R.home.__gl=1;try{glass()}catch(e){}}
+
+/* keep the article More menu outside the clipped header */
+let amHome=null;
+function placeMenu(){const b=document.getElementById("amb"),m=document.getElementById("amn");if(!b||!m)return;
+if(m.hidden){m.classList.remove("amfix","up");if(m.parentElement==document.body){const h=b.closest(".amore");h?h.appendChild(m):m.remove()}return}
+if(m.parentElement!=document.body){amHome=m.parentElement;document.body.appendChild(m)}
+m.classList.add("amfix");const r=b.getBoundingClientRect(),mw=m.offsetWidth,mh=m.offsetHeight,vw=innerWidth,vh=innerHeight;
+let x=Math.min(r.left,vw-mw-12);x=Math.max(12,x);const below=vh-r.bottom-18,above=r.top-18;const up=mh>below&&below<220&&above>below;m.style.maxHeight=Math.max(160,up?above:below)+"px";const h=Math.min(mh,up?above:below);let y=up?r.top-6-h:r.bottom+6;m.classList.toggle("up",up);m.style.left=x+"px";m.style.top=y+"px"}
+document.addEventListener("click",e=>{if(e.target.closest&&e.target.closest("#amb,#amn"))requestAnimationFrame(placeMenu);else setTimeout(placeMenu,300)},true);
+addEventListener("scroll",()=>{const m=document.getElementById("amn");if(m&&!m.hidden)placeMenu()},{passive:true});addEventListener("resize",placeMenu);addEventListener("hashchange",()=>{document.querySelectorAll("body>#amn").forEach(x=>x.remove())});
 function hook(){hookHome();const prev=R.art;if(prev.__pl)return;R.art=function(id){prev.apply(this,arguments);try{portrait(id)}catch(e){console.error("polish",e)}};R.art.__pl=1;try{if(window.curArt)portrait(window.curArt)}catch(e){}}
 const start=()=>setTimeout(hook,0);if(document.readyState=="complete")start();else addEventListener("load",start);
 })();
