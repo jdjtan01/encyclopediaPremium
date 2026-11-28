@@ -3,7 +3,7 @@
 if(typeof R=="undefined")return;
 const RM=matchMedia("(prefers-reduced-motion: reduce)"),PH=matchMedia("(max-width:640px)");
 const css=`
-.hjump{position:sticky;top:var(--hjt,0px);z-index:40;margin:0 -6px 18px;padding:8px 6px;background:color-mix(in srgb,var(--bg) 86%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid transparent;transition:border-color .2s,box-shadow .2s}
+.hjump{position:sticky;top:calc(var(--hjt,0px) + var(--nxs,0px));transition:top .35s cubic-bezier(.2,.8,.2,1);z-index:40;margin:0 -6px 18px;padding:8px 6px;background:color-mix(in srgb,var(--bg) 86%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid transparent;transition:border-color .2s,box-shadow .2s}
 .hjump.stuck{border-bottom-color:var(--bd);box-shadow:0 10px 24px -18px rgba(0,0,0,.45)}
 .hjump ul{display:flex;gap:6px;list-style:none;margin:0;padding:0;overflow-x:auto;scrollbar-width:none}
 .hjump ul::-webkit-scrollbar{display:none}
@@ -75,7 +75,7 @@ html.hsnap #v.home2 .hj-t{scroll-margin-top:0}
 #v.home2.hrw{max-width:1480px;position:relative;padding-right:384px}
 #v.home2.hrw>.hjump{display:none}
 #v.home2.hrw>.hrail{display:block;position:absolute;top:24px;bottom:60px;right:16px;width:344px}
-.hr-in{position:sticky;top:calc(var(--hjt,0px) + 18px);display:flex;flex-direction:column;gap:16px;max-height:calc(100vh - var(--hjt,0px) - 36px);overflow:auto;scrollbar-width:thin}
+.hr-in{position:sticky;top:calc(var(--hjt,0px) + var(--nxs,0px) + 18px);transition:top .35s cubic-bezier(.2,.8,.2,1);display:flex;flex-direction:column;gap:16px;max-height:calc(100vh - var(--hjt,0px) - 36px);overflow:auto;scrollbar-width:thin}
 @property --hra{syntax:"<angle>";inherits:false;initial-value:0deg}
 .hr-nav{--c:#6366f1;display:block;position:relative;border-radius:22px;padding:16px 14px 14px;border:1.5px solid transparent;background:linear-gradient(var(--sf),var(--sf)) padding-box,conic-gradient(from var(--hra),#6366f1,#a855f7,#f97316,#eab308,#0ea5e9,#6366f1) border-box;box-shadow:0 18px 40px -26px color-mix(in srgb,var(--c) 70%,transparent);animation:hrspin 10s linear infinite;transition:box-shadow .5s}
 @keyframes hrspin{to{--hra:360deg}}
