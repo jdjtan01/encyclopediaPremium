@@ -1226,7 +1226,7 @@ window.SUBJECTS=[
 
 ["Countries and Places","🗺️",["#0b5a7a","#7cc9ea"],"Nations, cities and islands of the world",
 "The world is home to about two hundred countries, each with its own land, history and way of life. This subject visits countries on every continent, great cities and landmarks, and the island worlds scattered across the oceans.",
-["ph","manila","palawan","banaue"],[
+["machupicchu","greatwall","venice","tajmahal"],[
 ["Asia","Countries of the largest and most populous continent.","ph japancountry chinacountry indiacountry indonesiacountry pakistancountry vietnamcountry southkoreacountry irancountry turkeycountry saudicountry thailandcountry malaysiacountry singaporecountry myanmarcountry cambodiacountry laoscountry bruneicountry timorlestecountry bangladeshcountry israelcountry uaecountry iraqcountry jordancountry"],
 ["Africa","Countries of the continent of a thousand languages.","nigeriacountry egyptcountry southafricacountry ethiopiacountry kenyacountry moroccocountry ghanacountry drccountry tanzaniacountry algeriacountry senegalcountry ugandacountry angolacountry zimbabwecountry rwandacountry mozambiquecountry camerooncountry cotedivoirecountry tunisiacountry"],
 ["Europe","Countries of a small but densely populated continent.","germanycountry francecountry russiacountry ukcountry italycountry spaincountry polandcountry netherlandscountry ukrainecountry greececountry swedencountry portugalcountry norwaycountry switzerlandcountry irelandcountry austriacountry finlandcountry"],

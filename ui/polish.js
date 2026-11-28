@@ -30,6 +30,19 @@ filter:drop-shadow(0 0 3px rgba(255,255,255,.8)) drop-shadow(0 0 8px var(--l));t
 @keyframes sxring{from{--sxp:0%}to{--sxp:100%}}
 #v .sx-c.on{box-shadow:0 18px 32px -14px var(--c),0 0 26px -8px var(--l)!important}
 @media (prefers-reduced-motion:reduce){#v .sx-c.on i.bar{animation:none;--sxp:100%}}
+/* Hero subject cards: frosted glass over a blurred photo from the subject */
+#v .sx-c{background:linear-gradient(150deg,var(--l) -20%,var(--c) 60%,color-mix(in srgb,var(--c) 60%,#000))}
+#v .sx-c .sxg{position:absolute;inset:0;z-index:-2;pointer-events:none;overflow:hidden;border-radius:inherit}
+#v .sx-c .sxg .ban{position:absolute!important;inset:-10px;height:auto!important;font-size:0!important;background:none!important;margin:0!important}
+#v .sx-c .sxg .ban:after{display:none!important}
+#v .sx-c .sxg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:blur(3px) saturate(1.2);transform:scale(1.06);opacity:0;transition:opacity .8s ease,transform 1.2s cubic-bezier(.22,1,.36,1),filter .6s ease}
+#v .sx-c .sxg img.ld{opacity:1}
+#v .sx-c:hover .sxg img,#v .sx-c.on .sxg img{transform:scale(1.14);filter:blur(1px) saturate(1.35)}
+#v .sx-c .sxg:after{content:"";position:absolute;inset:0;background:
+linear-gradient(180deg,rgba(255,255,255,.22),rgba(255,255,255,0) 38%),
+linear-gradient(160deg,color-mix(in srgb,var(--l) 55%,transparent) -10%,color-mix(in srgb,var(--c) 68%,transparent) 48%,color-mix(in srgb,var(--c) 55%,#05030f) 100%);
+backdrop-filter:blur(1px)}
+#v .sx-c:not(.on){box-shadow:inset 0 1px 0 rgba(255,255,255,.45),inset 0 0 0 1px rgba(255,255,255,.22),0 10px 22px -12px var(--c)!important}
 /* Random button lives in the More menu now */
 header #rnd{display:none!important}
 /* 7. Consistent hover lift and press */
@@ -75,6 +88,11 @@ let cap="";if(P){const b=yr(P.born),d=yr(P.died);cap=b&&d?`${b} – ${d}`:b?`Bor
 const mono=isP?initials(a.t):"";
 ban.classList.add("ban-fb");
 ban.insertAdjacentHTML("afterbegin",`<div class="pf"><div class="pf-pat"></div><div class="pf-glow"></div><div class="pf-in"><div class="pf-ring">${mono?`<span class="pf-mono">${esc(mono)}</span><span class="pf-emo">${a.i||""}</span>`:`<span class="pf-big">${a.i||""}</span>`}</div><div class="pf-cap"><b>${esc(a.t)}</b>${cap?`<span>${esc(cap)}</span>`:""}</div></div></div>`)}
-function hook(){const prev=R.art;if(prev.__pl)return;R.art=function(id){prev.apply(this,arguments);try{portrait(id)}catch(e){console.error("polish",e)}};R.art.__pl=1;try{if(window.curArt)portrait(window.curArt)}catch(e){}}
+
+function glass(){if(typeof SUBJ=="undefined"&&!window.SUBJ)return;const S=window.SUBJ||{};const need=[];
+document.querySelectorAll("#v .sx-c:not([data-g])").forEach(c=>{c.dataset.g=1;const n=c.dataset.c,s=S[n];if(!s)return;const f=(s.feat||[]).map(get).find(Boolean);if(!f)return;
+c.insertAdjacentHTML("afterbegin",`<span class="sxg" aria-hidden="true">${ban(f)}</span>`);need.push(f)});if(need.length&&typeof want=="function")want(need)}
+function hookHome(){const prev=R.home;if(prev.__gl)return;R.home=function(){prev.apply(this,arguments);try{glass();setTimeout(glass,400)}catch(e){console.error("glass",e)}};R.home.__gl=1;try{glass()}catch(e){}}
+function hook(){hookHome();const prev=R.art;if(prev.__pl)return;R.art=function(id){prev.apply(this,arguments);try{portrait(id)}catch(e){console.error("polish",e)}};R.art.__pl=1;try{if(window.curArt)portrait(window.curArt)}catch(e){}}
 const start=()=>setTimeout(hook,0);if(document.readyState=="complete")start();else addEventListener("load",start);
 })();
