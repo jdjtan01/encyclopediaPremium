@@ -60,7 +60,13 @@ oviraptor:["Dinosaur (oviraptorosaur)","Mixed diet, possibly eggs, plants and sm
 maiasaura:["Dinosaur (hadrosaur)","Plants",77,75,9,2.5,3500,"hadro","About 9 m long",[["Egg Mountain, Montana",47.83,-112.55]]],
 dimorphodon:["Pterosaur","Insects and small animals",195,190,1.4,0.4,2,"ptero","About 1.4 m wingspan",[["Lyme Regis, Dorset, England",50.72,-2.94]]],
 baryonyx:["Dinosaur (spinosaurid theropod)","Fish and other animals",130,125,9,2.5,1500,"spino","About 7.5–10 m long",[["Smokejacks Pit, Surrey, England",51.15,-0.36],["Isle of Wight, England",50.65,-1.3],["Iberian Peninsula",40.0,-3.7]]],
-deinosuchus:["Reptile (giant alligator relative)","Turtles, fish, dinosaurs",82,73,10,1,5000,"mosa","About 8–10 m long",[["Big Bend, Texas",29.25,-103.25],["Montana",47.5,-109.5],["Georgia",32.5,-84.9],["North Carolina",35.5,-77.5]]]
+deinosuchus:["Reptile (giant alligator relative)","Turtles, fish, dinosaurs",82,73,10,1,5000,"mosa","About 8–10 m long",[["Big Bend, Texas",29.25,-103.25],["Montana",47.5,-109.5],["Georgia",32.5,-84.9],["North Carolina",35.5,-77.5]]],
+protoceratops:["Dinosaur (early ceratopsian)","Plants",75,71,1.8,0.7,80,"cerat","About 1.8 m long",[["Flaming Cliffs (Bayanzag), Mongolia",44.14,103.73],["Tugrikin Shireh, Mongolia",44.0,103.6],["Inner Mongolia, China",41.8,106.0]]],
+giganotosaurus:["Dinosaur (carcharodontosaurid theropod)","Meat",99,97,12.5,3.7,7000,"theropod","About 12–13 m long",[["Villa El Chocón, Neuquén, Argentina",-39.27,-68.78]]],
+edmontosaurus:["Dinosaur (hadrosaur)","Plants",73,66,11,3,5000,"hadro","About 9–12 m long",[["Hell Creek, Montana",47.6,-106.9],["Lance Formation, Wyoming",43.3,-104.6],["Alberta, Canada",51.5,-112.7],["North Slope, Alaska",70.0,-151.5]]],
+sarcosuchus:["Reptile (giant crocodile relative)","Fish, turtles and other animals",112,110,9.5,1,3500,"mosa","About 9–9.5 m long",[["Gadoufaoua, Niger",16.5,9.5],["Recôncavo Basin, Brazil",-12.7,-38.6]]],
+megalania:["Reptile (giant monitor lizard)","Large animals",1.5,0.05,5.5,0.9,450,"mosa","About 3.5–7 m long (debated)",[["Darling Downs, Queensland, Australia",-27.5,151.5],["Naracoorte Caves, South Australia",-37.03,140.8]]],
+nothosaurus:["Reptile (nothosaur, sea reptile)","Fish",240,210,4,0.5,200,"plesio","Mostly 1–4 m long (largest about 7 m)",[["Muschelkalk, Germany",49.8,9.9],["Monte San Giorgio, Switzerland",45.9,8.95],["Guizhou, China",25.8,105.0],["Israel",31.0,35.0]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
