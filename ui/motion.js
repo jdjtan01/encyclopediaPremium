@@ -104,7 +104,7 @@ if(pageChanged){pageChanged=false;if(!home&&!document.documentElement.classList.
 countUp(V)}
 if(home)return;
 const per=new Map();V.querySelectorAll(SEL).forEach(el=>{if(seen.has(el)||el.closest(".bento,.hx,.mega"))return;seen.add(el);const p=el.parentNode,k=per.get(p)||0;per.set(p,k+1);
-const r=el.getBoundingClientRect();if(r.top>innerHeight*1.6&&k>40){}el.classList.add("mrv");el.style.setProperty("--md",((k%6)*.06).toFixed(2)+"s");io.observe(el)})};
+el.classList.add("mrv");el.style.setProperty("--md",((k%6)*.06).toFixed(2)+"s");io.observe(el)})};
 new MutationObserver(ms=>{if(ms.some(m=>m.target===V))pageChanged=true;if(!raf)raf=requestAnimationFrame(decorate)}).observe(V,{childList:true,subtree:true});
 pageChanged=true;raf=requestAnimationFrame(decorate);
 })();
