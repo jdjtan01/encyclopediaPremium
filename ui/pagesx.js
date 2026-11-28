@@ -81,6 +81,19 @@ const css=`
 .px-chipw a{padding:7px 12px;border-radius:99px;background:var(--sf);border:1px solid var(--bd);color:var(--tx);text-decoration:none;font:700 13.5px system-ui,sans-serif}
 @media (min-width:641px){.px-lib{padding-right:170px!important}}
 /* atlas */
+.aview{display:inline-flex;padding:3px;border-radius:13px;background:var(--sf2);gap:2px;flex:none}
+.aview button{border:0;cursor:pointer;padding:7px 12px;border-radius:10px;font:800 13px var(--disp);color:var(--tx);background:none;transition:background .2s,color .2s}
+.aview button.on{background:linear-gradient(135deg,#0f766e,#0284c7);color:#fff;box-shadow:0 6px 14px -8px #0284c7}
+.aglc{position:absolute;inset:0;width:100%;height:100%;display:none;touch-action:none;cursor:grab;z-index:2;outline:none}
+.aglc.drag{cursor:grabbing}
+.atl-wrap.isglobe .aglc{display:block}
+.atl-wrap.isglobe>svg,.atl-wrap.isglobe .atl-mini,.atl-wrap.isglobe .atl-paper{opacity:0!important;pointer-events:none!important}
+.atl-wrap.isglobe{background:radial-gradient(ellipse at 50% 45%,color-mix(in srgb,#0284c7 10%,var(--sf)),var(--sf) 70%)}
+:root[data-theme=dark] .atl-wrap.isglobe{background:radial-gradient(ellipse at 50% 45%,#0c1530,#05070f 75%)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .atl-wrap.isglobe{background:radial-gradient(ellipse at 50% 45%,#0c1530,#05070f 75%)}}
+.atl-wrap.isglobe .atl-tip,.atl-wrap.isglobe .atl-scale{z-index:3}
+@media (max-width:700px){.atl-tools{flex-wrap:wrap!important}.atl-tools #acq{flex:1 1 100%!important;min-width:0}.aview{order:2}.atl-z{order:3;margin-left:auto}}
+
 .px-atl{--a:#0f766e;--b:#0284c7;--c:#7c3aed;padding-right:250px;min-height:150px}
 .px-atl .glb{position:absolute!important;right:24px;top:50%;translate:0 -50%;margin:0!important;float:none!important;filter:drop-shadow(0 18px 30px rgba(0,0,0,.35))}
 .px-atl .glb small{color:#fff!important;opacity:.85}

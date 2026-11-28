@@ -41,6 +41,7 @@ if(cur)rings.push(cur);return rings};
 const K=182.78964407016807,CX=500,CY=260;
 const inv=(X,Y)=>{const x=(X-CX)/K,y=(CY-Y)/K;let phi=y,i=25,d;do{const p2=phi*phi,p4=p2*p2;d=(phi*(1.007226+p2*(0.015085+p4*(-0.044475+0.028874*p2-0.005916*p4)))-y)/(1.007226+p2*(0.015085*3+p4*(-0.044475*7+0.028874*9*p2-0.005916*11*p4)));phi-=d}while(Math.abs(d)>1e-6&&--i>0);
 const p2=phi*phi;const lam=x/(0.8707+p2*(-0.131979+p2*(-0.013791+p2*p2*p2*(0.003971-0.001529*p2))));return[lam,phi]};
+window.EPLL=d=>parse(d).map(ring=>{const out=new Float32Array(ring.length);for(let i=0;i<ring.length;i+=2){const ll=inv(ring[i],ring[i+1]);out[i]=ll[0];out[i+1]=ll[1]}return out});window.EPINV=inv;
 const build=()=>{if(GEO||!M)return GEO;const root=getComputedStyle(document.documentElement),col=c=>root.getPropertyValue("--k-"+({"Asia":"asia","Africa":"africa","Europe":"europe","North America":"nam","South America":"sam","Oceania":"oceania","Antarctica":"ant"}[c]||"ant")).trim()||"#8a8";
 GEO=M.C.map(r=>{const d=r[1]||r[2];const rings=parse(d).map(ring=>{const out=new Float32Array(ring.length);for(let i=0;i<ring.length;i+=2){const ll=inv(ring[i],ring[i+1]);out[i]=ll[0];out[i+1]=ll[1]}return out});
 const lp=r[4]?inv(r[4][0],r[4][1]):null;const D=(window.CTRY||{})[r[0]];return{n:r[0],rings,lp,col:col(D&&D.ct)}});return GEO};
