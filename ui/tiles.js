@@ -35,12 +35,14 @@ const css=`
 .stile .tart{position:absolute;z-index:3;top:12px;right:12px;width:62px;height:62px;filter:drop-shadow(0 8px 14px rgba(0,0,0,.4));transition:transform .7s cubic-bezier(.22,1,.36,1),opacity .45s ease}
 .stile.big .tart{width:96px;height:96px;top:16px;right:16px}
 .stile.tx:hover .tart{transform:scale(1.1) rotate(-5deg) translateY(-2px)}
-.stile.tx:before{content:"";position:absolute;inset:0;z-index:4;border-radius:inherit;padding:2.5px;pointer-events:none;
-background:conic-gradient(from var(--ang),transparent 0deg,var(--l) 60deg,#fff 90deg,var(--l) 120deg,transparent 180deg,transparent 360deg);
+.stile.tx:before{content:"";position:absolute;inset:0;z-index:4;border-radius:inherit;padding:1px;pointer-events:none;
+background:linear-gradient(155deg,rgba(255,255,255,.6),rgba(255,255,255,.12) 28%,rgba(255,255,255,0) 55%,color-mix(in srgb,var(--l) 45%,transparent) 100%);
 -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask:linear-gradient(#000 0 0) content-box exclude,linear-gradient(#000 0 0);
-opacity:.75;animation:tbd 6s linear infinite}
-.stile.tx:hover:before{opacity:1;animation-duration:1.8s}
-@keyframes tbd{to{--ang:360deg}}
+box-shadow:inset 0 1px 0 rgba(255,255,255,.18);transition:padding .35s ease,background .35s ease}
+.stile.tx:hover:before{padding:1.5px;background:linear-gradient(155deg,#fff,color-mix(in srgb,var(--l) 80%,#fff) 35%,color-mix(in srgb,var(--l) 30%,transparent) 70%,color-mix(in srgb,var(--l) 70%,transparent))}
+.stile.tx .tsl:after{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(115deg,transparent 35%,rgba(255,255,255,.22) 48%,transparent 60%);transform:translateX(-120%);transition:transform 0s}
+.stile.tx:hover .tsl:after{transform:translateX(120%);transition:transform 1.1s cubic-bezier(.22,1,.36,1)}
+
 .stile.tx:after{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;opacity:0;transition:opacity .6s ease;background:radial-gradient(320px circle at var(--mx) var(--my),rgba(255,255,255,.32),transparent 60%)}
 .stile.tx:hover:after{opacity:1}
 .stile.tx:hover{box-shadow:0 26px 46px -20px var(--c),0 0 0 1px color-mix(in srgb,var(--l) 50%,transparent)}
@@ -66,7 +68,7 @@ background:linear-gradient(180deg,color-mix(in srgb,var(--c) 88%,#000),color-mix
 .stile.tx .st-t{will-change:transform}
 .home2.rv-on .stiles .stile.rv{transform:translateY(60px) rotate(var(--rr,-3deg)) scale(.9)}
 .home2.rv-on .stiles .stile.rv.shown{transform:none}
-@media (prefers-reduced-motion:reduce){.stile .tsl .ban{animation:none!important;opacity:0}.stile .tsl .ban:first-child{opacity:1}.stile.tx:before{animation:none}.stile .tsl .ban img,.tpk,.stile.tx .st-t{transition:none}}`;
+@media (prefers-reduced-motion:reduce){.stile .tsl .ban{animation:none!important;opacity:0}.stile .tsl .ban:first-child{opacity:1}.stile.tx .tsl:after{display:none}.stile .tsl .ban img,.tpk,.stile.tx .st-t{transition:none}}`;
 document.head.insertAdjacentHTML("beforeend",`<style>${css}</style>`);
 const esc6=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const enhance=()=>{const grid=document.querySelector("#v.home2 .stiles");if(!grid||grid.dataset.tx)return;grid.dataset.tx=1;grid.classList.add("mos");

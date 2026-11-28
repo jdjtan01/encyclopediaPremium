@@ -19,6 +19,8 @@ html[data-vt=theme] body>header{view-transition-name:none!important}
 .hjump a{border-color:transparent!important;background:transparent!important;transition:background .25s,color .25s,translate .2s!important}
 .hjump a:hover{background:var(--sf2)!important}
 .hjump a[aria-current=true]{background:var(--hd)!important;color:var(--bg)!important;box-shadow:0 4px 12px -4px rgba(0,0,0,.4)}
+/* Random button lives in the More menu now */
+header #rnd{display:none!important}
 /* 7. Consistent hover lift and press */
 .stile,.card,.acard,.gcard,.arail .rl,.afin .fb,.lab-more a,.bento .panel,.pk-tr{transition:translate .25s cubic-bezier(.3,1.3,.5,1),box-shadow .25s,opacity .8s cubic-bezier(.2,.8,.2,1),transform .9s cubic-bezier(.2,.8,.2,1)}
 .stile:hover,.card:hover,.acard:hover,.gcard:hover,.afin .fb:hover,.pk-tr:hover{translate:0 -4px;box-shadow:0 18px 34px -20px rgba(0,0,0,.45)}
