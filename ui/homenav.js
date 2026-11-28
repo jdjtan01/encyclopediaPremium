@@ -76,14 +76,30 @@ html.hsnap #v.home2 .hj-t{scroll-margin-top:0}
 #v.home2.hrw>.hjump{display:none}
 #v.home2.hrw>.hrail{display:block;position:absolute;top:24px;bottom:60px;right:16px;width:344px}
 .hr-in{position:sticky;top:calc(var(--hjt,0px) + 18px);display:flex;flex-direction:column;gap:16px;max-height:calc(100vh - var(--hjt,0px) - 36px);overflow:auto;scrollbar-width:thin}
-.hr-nav{display:block;background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:16px 14px}
-.hr-nav h3{font:800 .8rem/1 system-ui,sans-serif;color:var(--mu);margin:0 0 10px 8px}
-.hr-nav ul{list-style:none;margin:0;padding:0;display:grid;gap:2px}
-.hr-nav a{display:flex;align-items:center;gap:10px;padding:9px 10px;border-radius:12px;color:var(--tx);text-decoration:none;font-weight:600;font-size:.94rem;transition:background .2s}
-.hr-nav a:before{content:"";width:8px;height:8px;border-radius:50%;background:var(--bd);transition:background .2s,transform .2s}
-.hr-nav a:hover{background:var(--sf2)}
-.hr-nav a[aria-current=true]{background:var(--sf2);color:var(--hd)}.hr-nav a[aria-current=true]:before{background:var(--a1,#7c3aed);transform:scale(1.3)}
-.hr-nav a:focus-visible{outline:3px solid var(--a1,#7c3aed);outline-offset:1px}
+@property --hra{syntax:"<angle>";inherits:false;initial-value:0deg}
+.hr-nav{--c:#6366f1;display:block;position:relative;border-radius:22px;padding:16px 14px 14px;border:1.5px solid transparent;background:linear-gradient(var(--sf),var(--sf)) padding-box,conic-gradient(from var(--hra),#6366f1,#a855f7,#f97316,#eab308,#0ea5e9,#6366f1) border-box;box-shadow:0 18px 40px -26px color-mix(in srgb,var(--c) 70%,transparent);animation:hrspin 10s linear infinite;transition:box-shadow .5s}
+@keyframes hrspin{to{--hra:360deg}}
+.hr-hd{display:flex;align-items:center;justify-content:space-between;margin:0 6px 8px}
+.hr-nav h3{font:800 .82rem/1 system-ui,sans-serif;color:var(--hd);margin:0;letter-spacing:.01em}
+.hr-pc{font:800 .74rem/1 system-ui,sans-serif;font-variant-numeric:tabular-nums;color:#fff;background:var(--c);padding:5px 8px;border-radius:99px;transition:background .5s;box-shadow:0 4px 12px -4px var(--c)}
+.hr-bar{height:4px;border-radius:9px;background:var(--sf2);margin:0 6px 12px;overflow:hidden}
+.hr-bar i{display:block;height:100%;width:var(--p,0%);border-radius:9px;background:linear-gradient(90deg,#6366f1,#a855f7,#f97316,#eab308);background-size:200% 100%;animation:hrflow 3s linear infinite;transition:width .25s}
+@keyframes hrflow{to{background-position:-200% 0}}
+.hr-list{position:relative}
+.hr-list:before{content:"";position:absolute;left:24px;top:22px;bottom:22px;width:2px;border-radius:2px;background:var(--bd)}
+.hr-tf{position:absolute;left:24px;top:22px;width:2px;height:var(--f,0px);border-radius:2px;background:linear-gradient(#6366f1,var(--c));box-shadow:0 0 10px var(--c);transition:height .45s cubic-bezier(.3,1.3,.5,1),background .5s}
+.hr-ind{position:absolute;left:0;right:0;top:0;height:44px;border-radius:14px;background:linear-gradient(100deg,color-mix(in srgb,var(--c) 20%,var(--sf)),color-mix(in srgb,var(--c) 6%,var(--sf)));border:1px solid color-mix(in srgb,var(--c) 35%,transparent);transform:translateY(var(--y,0px));transition:transform .45s cubic-bezier(.3,1.35,.5,1),height .3s,background .5s,border-color .5s;pointer-events:none}
+.hr-nav ul{position:relative;list-style:none;margin:0;padding:0;display:grid;gap:3px}
+.hr-nav a{display:flex;align-items:center;gap:12px;padding:6px 10px;min-height:44px;box-sizing:border-box;border-radius:14px;color:var(--tx);text-decoration:none;font-weight:600;font-size:.95rem;transition:transform .25s,color .3s}
+.hr-nav a .hb{position:relative;z-index:1;flex:none;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font-size:.9rem;background:var(--sf);border:2px solid color-mix(in srgb,var(--ic) 45%,var(--bd));transition:transform .3s cubic-bezier(.3,1.6,.5,1),box-shadow .3s,background .3s,border-color .3s}
+.hr-nav a:hover{transform:translateX(4px)}
+.hr-nav a:hover .hb{transform:rotate(-12deg) scale(1.12)}
+.hr-nav a[aria-current=true]{color:var(--hd);font-weight:800}
+.hr-nav a[aria-current=true] .hb{background:var(--ic);border-color:var(--ic);box-shadow:0 0 0 4px color-mix(in srgb,var(--ic) 22%,transparent),0 0 18px var(--ic);animation:hrpop .5s cubic-bezier(.3,1.6,.5,1)}
+@keyframes hrpop{0%{transform:scale(.6)}60%{transform:scale(1.25)}100%{transform:scale(1)}}
+.hr-nav a[aria-current=true] .hl{background:linear-gradient(90deg,var(--hd),var(--ic));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.hr-nav a:focus-visible{outline:3px solid var(--c);outline-offset:1px}
+@media (prefers-reduced-motion:reduce){.hr-nav,.hr-bar i{animation:none}.hr-ind,.hr-tf,.hr-nav a,.hr-nav a .hb{transition:none}.hr-nav a[aria-current=true] .hb{animation:none}}
 .hrail .tdl{margin:0!important;opacity:1!important;transform:none!important;width:auto!important;max-width:none!important}
 #v.home2.hrw>.row{grid-template-columns:1fr!important}
 }
@@ -123,11 +139,12 @@ function rail(){const v=V,hero=v.querySelector(".hx");if(!hero||v.querySelector(
 const list=SECS.filter(x=>x[0]!="Today in history").map(x=>[x[0],x[1](v)]).filter(x=>x[1]);if(list.length<3)return;
 list.forEach((x,i)=>{x[1].classList.add("hj-t");if(!x[1].id)x[1].id="hr-"+i});
 const a=document.createElement("aside");a.className="hrail";a.setAttribute("aria-label","On this page");
-a.innerHTML=`<div class="hr-in"><nav class="hr-nav" aria-label="Sections"><h3>On this page</h3><ul><li><a href="#/" data-t="top">Top</a></li>${list.map(x=>`<li><a href="#/" data-t="${x[1].id}">${x[0]}</a></li>`).join("")}</ul></nav></div>`;v.appendChild(a);
+const ICO={"Peek inside":["👀","#f97316"],"The Lab":["🧪","#a855f7"],"Fact of the day":["💡","#eab308"],"Subjects":["📚","#0ea5e9"],"Editor’s picks":["⭐","#ef4444"]};const item=(t,lab,ic)=>`<li><a href="#/" data-t="${t}" style="--ic:${ic[1]}"><span class="hb" aria-hidden="true">${ic[0]}</span><span class="hl">${lab}</span></a></li>`;
+a.innerHTML=`<div class="hr-in"><nav class="hr-nav" aria-label="Sections"><div class="hr-hd"><h3>On this page</h3><span class="hr-pc" aria-hidden="true">0%</span></div><div class="hr-bar"><i></i></div><div class="hr-list"><span class="hr-ind"></span><span class="hr-tf"></span><ul>${item("top","Top",["🏠","#6366f1"])}${list.map(x=>item(x[1].id,x[0],ICO[x[0]]||["•","#64748b"])).join("")}</ul></div></nav></div>`;v.appendChild(a);
 const inn=a.firstChild,links=[...a.querySelectorAll("a")],tdl=v.querySelector(".row .tdl"),mark=document.createComment("tdl");
 links.forEach(l=>l.addEventListener("click",e=>{e.preventDefault();if(l.dataset.t=="top"){scrollTo({top:0,behavior:RM.matches?"auto":"smooth"});return}const t=document.getElementById(l.dataset.t);t&&t.scrollIntoView({behavior:RM.matches?"auto":"smooth",block:"start"})}));
 const place=()=>{const w=WIDE.matches&&document.contains(a);v.classList.toggle("hrw",w);if(!tdl)return;if(w&&tdl.parentNode!==inn){tdl.before(mark);tdl.classList.remove("rv","rv-l","rv-r","rv-z");inn.appendChild(tdl)}else if(!w&&tdl.parentNode===inn&&mark.parentNode){mark.replaceWith(tdl)}};
-let raf=0;const spy=()=>{if(raf||!WIDE.matches)return;raf=requestAnimationFrame(()=>{raf=0;const top=(parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--hjt"))||0)+120;let k=0;list.forEach((x,i)=>{if(x[1].getBoundingClientRect().top<=top)k=i+1});links.forEach((l,i)=>l.setAttribute("aria-current",i==k))})};
+let raf=0;const spy=()=>{if(raf||!WIDE.matches)return;raf=requestAnimationFrame(()=>{raf=0;const top=(parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--hjt"))||0)+120;let k=0;list.forEach((x,i)=>{if(x[1].getBoundingClientRect().top<=top)k=i+1});links.forEach((l,i)=>l.setAttribute("aria-current",i==k));const al=links[k],nav=a.querySelector(".hr-nav");if(al){const c=getComputedStyle(al).getPropertyValue("--ic").trim();nav.style.setProperty("--c",c);const ind=a.querySelector(".hr-ind");ind.style.setProperty("--y",al.offsetTop+"px");ind.style.height=al.offsetHeight+"px";a.querySelector(".hr-tf").style.setProperty("--f",Math.max(0,al.offsetTop+al.offsetHeight/2-22)+"px")}const max=document.documentElement.scrollHeight-innerHeight,pc=max>0?Math.min(100,Math.round(scrollY/max*100)):0;a.querySelector(".hr-pc").textContent=pc+"%";a.querySelector(".hr-bar").style.setProperty("--p",pc+"%")})};
 place();spy();WIDE.addEventListener("change",place);addEventListener("scroll",spy,{passive:true});
 railOff=()=>{WIDE.removeEventListener("change",place);removeEventListener("scroll",spy);v.classList.remove("hrw")}}
 function snap(){const v=V,hero=v.querySelector(".hx");if(!hero)return;document.documentElement.classList.add("hsnap");
