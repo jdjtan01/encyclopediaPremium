@@ -12,8 +12,8 @@ const MORE=[
 ["About",[["cover","📕","Cover","The book’s front cover"],["howto","❓","How to use","Tips and shortcuts"],["book","🖨️","Print the book","A printable edition"],["about","ℹ️","About this edition","Sources and credits"]]]];
 const css=`
 .nx-wrap{position:relative}
-.nx-wrap.nx-sticky{position:sticky;top:var(--nxt,0px);z-index:45;transition:transform .35s cubic-bezier(.2,.8,.2,1)}
-.nx-wrap.nx-hide{transform:translateY(-110%)}
+.nx-wrap.nx-sticky{position:sticky;top:var(--nxt,0px);z-index:45;transition:transform .35s cubic-bezier(.2,.8,.2,1),opacity .25s}
+.nx-wrap.nx-hide{transform:translateY(-70%);opacity:0;pointer-events:none}
 .nx-wrap.nx-float{background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(16px) saturate(1.6);-webkit-backdrop-filter:blur(16px) saturate(1.6);box-shadow:0 10px 24px -20px rgba(0,0,0,.6)}
 #nv .nx-hov{position:absolute;top:50%;height:34px;left:0;width:0;margin-top:-17px;border-radius:10px;background:var(--sf2);opacity:0;pointer-events:none;transition:left .25s cubic-bezier(.3,1.2,.5,1),width .25s cubic-bezier(.3,1.2,.5,1),opacity .2s;z-index:0}
 #nv button{position:relative;z-index:1}
@@ -103,6 +103,31 @@ const css=`
 .nx-mg{grid-template-columns:1fr}
 }
 .nx-back{display:none;all:unset;cursor:pointer;align-items:center;gap:6px;font:700 13px system-ui;color:var(--mu);margin:0 0 10px}
+
+/* Floating glass capsule with an aurora inside (v163) */
+.nx-wrap{background:none!important;padding:8px 16px 6px}
+.nx-wrap.nx-float{background:none!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;box-shadow:none!important}
+#nv{--au:.30;width:fit-content;max-width:100%;margin:0 auto!important;padding:5px 6px!important;border-radius:999px;border:1px solid rgba(255,255,255,.6);
+background:radial-gradient(38% 170% at 6% 50%,rgba(249,115,22,var(--au)),transparent 70%),radial-gradient(34% 190% at 34% 50%,rgba(236,72,153,var(--au)),transparent 70%),radial-gradient(34% 190% at 64% 50%,rgba(124,58,237,var(--au)),transparent 70%),radial-gradient(38% 190% at 95% 50%,rgba(14,165,233,var(--au)),transparent 70%),color-mix(in srgb,var(--sf) 62%,transparent)!important;
+background-size:160% 100%,160% 100%,160% 100%,160% 100%,100% 100%!important;animation:nxAur 22s ease-in-out infinite alternate;
+backdrop-filter:blur(20px) saturate(1.8);-webkit-backdrop-filter:blur(20px) saturate(1.8);box-shadow:inset 0 1px 0 rgba(255,255,255,.75),0 14px 34px -18px rgba(0,0,0,.45),0 0 0 1px rgba(0,0,0,.04)}
+@keyframes nxAur{0%{background-position:0% 50%,30% 50%,70% 50%,100% 50%,0 0}100%{background-position:60% 50%,90% 50%,10% 50%,40% 50%,0 0}}
+#nv .nvi{display:none!important}
+#nv button{border-radius:99px!important}
+#nv button.on{background:rgba(255,255,255,.82)!important;color:#141821!important;box-shadow:inset 0 1px 0 #fff,0 4px 14px -6px rgba(0,0,0,.35)!important}
+#nv .nx-hov{border-radius:99px;background:rgba(255,255,255,.45);height:36px;margin-top:-18px}
+#nv .ddb[aria-expanded=true]{background:rgba(255,255,255,.55)!important}
+:root[data-theme=dark] #nv{--au:.42;border-color:rgba(255,255,255,.14);box-shadow:inset 0 1px 0 rgba(255,255,255,.08),0 14px 34px -18px rgba(0,0,0,.8)}
+:root[data-theme=dark] #nv button.on{background:rgba(255,255,255,.16)!important;color:#fff!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.24),0 0 18px rgba(196,181,253,.35)!important}
+:root[data-theme=dark] #nv .nx-hov{background:rgba(255,255,255,.09)}
+:root[data-theme=dark] #nv .ddb[aria-expanded=true]{background:rgba(255,255,255,.12)!important}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) #nv{--au:.42;border-color:rgba(255,255,255,.14);box-shadow:inset 0 1px 0 rgba(255,255,255,.08),0 14px 34px -18px rgba(0,0,0,.8)}
+:root:not([data-theme=light]) #nv button.on{background:rgba(255,255,255,.16)!important;color:#fff!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.24),0 0 18px rgba(196,181,253,.35)!important}
+:root:not([data-theme=light]) #nv .nx-hov{background:rgba(255,255,255,.09)}
+:root:not([data-theme=light]) #nv .ddb[aria-expanded=true]{background:rgba(255,255,255,.12)!important}}
+@media (max-width:640px){.nx-wrap{padding:6px 10px 4px}#nv{width:auto;margin:0!important}
+.nx-fade{top:6px;bottom:4px}.nx-fade.r{right:10px;border-radius:0 999px 999px 0;background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--sf) 92%,transparent) 65%)}.nx-fade.l{left:10px;border-radius:999px 0 0 999px;background:linear-gradient(270deg,transparent,color-mix(in srgb,var(--sf) 92%,transparent) 65%)}}
+@media (prefers-reduced-motion:reduce){#nv{animation:none}}
 @media (prefers-reduced-motion:reduce){.nx-pop,.nx-pop a,.nx-pop .nx-it,.nx-pane.sw,.nx-bd{animation:none!important}#nv .nx-hov,.nx-wrap.nx-sticky{transition:none}}
 `;
 let built=false,open=null,lastBtn=null,tmo=0,tmc=0,curSub=0;
