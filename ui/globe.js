@@ -49,7 +49,7 @@ const lp=r[4]?inv(r[4][0],r[4][1]):null;const D=(window.CTRY||{})[r[0]];return{n
 /* ---------- globe ---------- */
 let rot={l:-0.3,p:0.35},tgt=null,glb=null;
 function makeGlobe(host,sel){build();if(!GEO)return;const wrap=document.createElement("div");wrap.className="glb";wrap.setAttribute("role","img");wrap.setAttribute("aria-label","Spinning globe"+(sel?" turned to "+sel:""));
-const cv=document.createElement("canvas");wrap.appendChild(cv);const cap=document.createElement("small");cap.textContent="Drag to spin";wrap.appendChild(cap);host.prepend(wrap);
+const cv=document.createElement("canvas");wrap.appendChild(cv);host.prepend(wrap);
 const g=cv.getContext("2d");let W=0,R=0,dpr=Math.min(2,devicePixelRatio||1);const size=()=>{W=wrap.clientWidth;cv.width=W*dpr;cv.height=W*dpr;R=W/2-6};size();
 const selG=GEO.find(c=>c.n==sel);if(selG&&selG.lp)tgt={l:selG.lp[0],p:Math.max(-1,Math.min(1,selG.lp[1]))};
 let drag=null,spin=!still;
