@@ -1074,7 +1074,13 @@ microraptor:["Dinosaur (feathered dromaeosaur)","Small animals and fish",125,120
 terrorbirds:["Bird (phorusrhacid)","Meat",60,0.1,2.5,2.5,350,"terror","Up to about 2.5–3 m tall (Kelenken)",[["Patagonia, Argentina",-41.5,-69.0],["Florida",29.6,-82.4],["Texas",30.0,-97.5],["Seymour Island, Antarctica",-64.28,-56.75]]],
 eurypterids:["Arthropod (sea scorpion)","Fish and other animals",467,251.9,2.5,0.5,0,"trilo","Most under 20 cm; Jaekelopterus about 2.5 m (shown)",[["Prüm, Germany",50.2,6.42],["Herkimer County, New York",43.0,-75.0],["Saaremaa, Estonia",58.4,22.5],["Lesmahagow, Scotland",55.64,-3.89]]],
 coelacanth:["Lobe-finned fish","Fish and squid",410,0,2,0.6,90,"shark","Up to about 2 m long (living species)",[["Comoro Islands",-11.7,43.3],["Chalumna River mouth, South Africa",-33.3,27.6],["Manado, Sulawesi, Indonesia",1.5,124.8]]],
-titanoboa:["Reptile (giant snake)","Fish, crocodile relatives, turtles",60,58,13,1,1100,"mosa","About 13 m long",[["Cerrejón, La Guajira, Colombia",11.1,-72.6]]]
+titanoboa:["Reptile (giant snake)","Fish, crocodile relatives, turtles",60,58,13,1,1100,"mosa","About 13 m long",[["Cerrejón, La Guajira, Colombia",11.1,-72.6]]],
+dilophosaurus:["Dinosaur (early theropod)","Meat",186,183,7,2.2,400,"theropod","About 7 m long",[["Kayenta Formation, Arizona",36.1,-111.3]]],
+deinonychus:["Dinosaur (dromaeosaur)","Meat",115,108,3.4,0.9,70,"raptor","About 3.4 m long",[["Cloverly Formation, Montana",45.2,-108.6],["Antlers Formation, Oklahoma",34.2,-95.6]]],
+plateosaurus:["Dinosaur (early sauropodomorph)","Plants",214,204,8,2.5,700,"ornitho","About 5–10 m long",[["Trossingen, Germany",48.07,8.63],["Frick, Switzerland",47.51,8.01],["Halberstadt, Germany",51.9,11.05],["Jameson Land, Greenland",71.4,-23.5]]],
+helicoprion:["Fish (eugeneodont, ratfish relative)","Squid-like animals",290,270,6,1,0,"shark","About 5–8 m long (estimate)",[["Phosphoria Formation, Idaho",42.7,-111.4],["Krasnoufimsk, Russia",56.6,57.8],["Western Australia",-25.0,115.0]]],
+arthropleura:["Arthropod (giant millipede)","Plants",346,290,2.6,0.3,0,"trilo","Up to about 2.6 m long",[["Montceau-les-Mines, France",46.67,4.37],["Howick Bay, Northumberland, England",55.46,-1.59],["Joggins, Nova Scotia",45.7,-64.45]]],
+paraceratherium:["Mammal (hornless rhino)","Leaves and twigs",34,23,7.5,4.8,17000,"rhino","About 4.8 m tall at the shoulder",[["Dera Bugti, Pakistan",29.03,69.15],["Gansu, China",36.0,103.8],["Mongolia",44.5,103.0],["Kazakhstan",48.0,67.0]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
@@ -1160,9 +1166,9 @@ window.SUBJECTS=[
 "Earth is a living planet: its crust moves, its mountains rise and wear away, and water and weather carry heat around the globe. This subject explores the forces that shape the land, the oceans and rivers, and the great wild places of the world.",
 ["tect","everest","pacific","amazon"],[
 ["Restless Earth","Moving plates, volcanoes and earthquakes.","tect volc quake tsunami rift taal mayon pinatubo geysers rocks gems landslides sinkholes ringoffire kanlaon earthlayers"],
-["Mountains and Canyons","The highest peaks and deepest valleys.","everest himal alps andes canyon apo pulag kilimanjaro fuji rockies waterfalls glaciers plateaus mountainform victoriafalls niagara"],
-["Water and Weather","Oceans, seas, rivers, tides and climate.","pacific atlantic indocean med reef nile mekong wetlands tides oceancurrents wcycle climate climchange climatedenial phtyph lakes storms monsoon jetstream clouds trench amazonriver yangtze ganges mississippi danube atmosphere weatherforecast elnino thunderstorms rainbows rivers floods droughts snow"],
-["Lands and Regions","Deserts, ice, forests and islands.","continents desert soil amazon sahara antarc arctic sea iceage caves grasslands fossilfuels pollution deforestation plasticwaste maps timezones sahel patagonia centralasia recycling coasts deltas deadsea tundra serengeti yellowstone"]]],
+["Mountains and Canyons","The highest peaks and deepest valleys.","everest himal alps andes canyon apo pulag kilimanjaro fuji rockies waterfalls glaciers plateaus mountainform victoriafalls niagara fjords"],
+["Water and Weather","Oceans, seas, rivers, tides and climate.","pacific atlantic indocean med reef nile mekong wetlands tides oceancurrents wcycle climate climchange climatedenial phtyph lakes storms monsoon jetstream clouds trench amazonriver yangtze ganges mississippi danube atmosphere weatherforecast elnino thunderstorms rainbows rivers floods droughts snow atolls"],
+["Lands and Regions","Deserts, ice, forests and islands.","continents desert soil amazon sahara antarc arctic sea iceage caves grasslands fossilfuels pollution deforestation plasticwaste maps timezones sahel patagonia centralasia recycling coasts deltas deadsea tundra serengeti yellowstone permafrost sanddunes"]]],
 
 ["Animal Kingdom","🐘",["#4d7c0f","#c3e97a"],"Every creature, great and small",
 "From the blue whale to the smallest beetle, living things fill every corner of the planet. This subject meets the mammals, birds, sea creatures, reptiles and minibeasts, and how animals behave, grow and live alongside people.",
@@ -1176,19 +1182,19 @@ window.SUBJECTS=[
 ["Plants and Ecosystems","🌿",["#0d7d3f", "#9ef0a0"],"The green world and the webs of life",
 "Plants feed almost every living thing on Earth and fill the air with oxygen. This subject explores flowers, trees and forests, the fungi and microbes that recycle life, how living things depend on each other, and the cells and genes that make life work.",
 ["photo", "trees", "rafflesia", "eco"],[
-["Plants and Flowers", "Green plants, flowers and how they grow.", "photo flower leaves roots seeds fruits plantsenses ferns cactus carnivplant orchids rafflesia tulips roses sunflowers sampaguita herbs medicinalplants poisonousplants invasiveplants aquaticplants vines grasses bamboo abaca coconut bonsai lotus dandelions mimosa seeddispersal plantdefenses"],
-["Trees and Forests", "The tallest, oldest and most useful plants.", "trees giantrees redwoods conifers palms oaks maples eucalyptus baobab narra cherryblossoms rainforests figtrees treerings ginkgo willows"],
+["Plants and Flowers", "Green plants, flowers and how they grow.", "photo flower leaves roots seeds fruits plantsenses ferns cactus carnivplant orchids rafflesia tulips roses sunflowers sampaguita herbs medicinalplants poisonousplants invasiveplants aquaticplants vines grasses bamboo abaca coconut bonsai lotus dandelions mimosa seeddispersal plantdefenses autumncolors parasiticplants plantgrowth alpineplants"],
+["Trees and Forests", "The tallest, oldest and most useful plants.", "trees giantrees redwoods conifers palms oaks maples eucalyptus baobab narra cherryblossoms rainforests figtrees treerings ginkgo willows cloudforests"],
 ["Algae, Fungi and Microbes", "Living things that are neither plants nor animals.", "seaweeds kelp lichens fungi microbe plankton algae slimemolds yeast bacteria viruses mycorrhiza"],
-["Ecosystems and Conservation", "Webs of life and how people protect them.", "eco foodchains symbiosis phbio extinction conservation trophyhunting zoos carboncycle decomposers endangered keystone rewilding protectedareas peatlands"],
+["Ecosystems and Conservation", "Webs of life and how people protect them.", "eco foodchains symbiosis phbio extinction conservation trophyhunting zoos carboncycle decomposers endangered keystone rewilding protectedareas peatlands seedvaults"],
 ["How Life Works", "Cells, genes and the story of evolution.", "cell dna genome mendel evo classification adaptation lifecycles celldivision proteins naturalselection homeostasis"]]],
 
 ["Prehistoric Life","🦖",["#6b5b0e","#e8d36a"],"Dinosaurs, deep time and lost worlds",
 "Life on Earth is billions of years old, and most of the creatures that ever lived are gone. This subject travels through deep time, from the first animals of the Cambrian seas to the dinosaurs, the flying and swimming reptiles of their age, and the giant mammals of the Ice Age, with a timeline, a fossil map and a size comparer.",
 ["trex","triceratops","megalodon","mammoth"],[
-["Deep Time","Earth’s calendar and the first animals.","geotime cambrian trilobites dunkleosteus dimetrodon fossils paleontology ediacaran anomalocaris tiktaalik meganeura originoflife snowballearth pangaea eurypterids coelacanth"],
-["Dinosaurs","The giants of the Mesozoic and their feathered descendants.","dino trex triceratops stegosaurus velociraptor brachiosaurus diplodocus spinosaurus ankylosaurus parasaurolophus allosaurus iguanodon argentinosaurus dinobirds archaeopteryx brontosaurus pachycephalosaurus therizinosaurus dinoeggs carnotaurus microraptor"],
+["Deep Time","Earth’s calendar and the first animals.","geotime cambrian trilobites dunkleosteus dimetrodon fossils paleontology ediacaran anomalocaris tiktaalik meganeura originoflife snowballearth pangaea eurypterids coelacanth helicoprion arthropleura"],
+["Dinosaurs","The giants of the Mesozoic and their feathered descendants.","dino trex triceratops stegosaurus velociraptor brachiosaurus diplodocus spinosaurus ankylosaurus parasaurolophus allosaurus iguanodon argentinosaurus dinobirds archaeopteryx brontosaurus pachycephalosaurus therizinosaurus dinoeggs carnotaurus microraptor dilophosaurus deinonychus plateosaurus"],
 ["Rulers of Sea and Sky","Flying reptiles, sea monsters and the biggest shark.","pterosaurs pteranodon quetzalcoatlus marinereptiles mosasaurus megalodon ammonites elasmosaurus livyatan ichthyosaurs rhamphorhynchus basilosaurus"],
-["Extinctions and the Ice Age","Great dyings, the asteroid and the giants that came after.","massext kpgimpact iceagemammals mammoth smilodon humanorigins neanderthals woollyrhino groundsloths direwolf glyptodon dodo thylacine terrorbirds titanoboa"]]],
+["Extinctions and the Ice Age","Great dyings, the asteroid and the giants that came after.","massext kpgimpact iceagemammals mammoth smilodon humanorigins neanderthals woollyrhino groundsloths direwolf glyptodon dodo thylacine terrorbirds titanoboa paraceratherium"]]],
 ["Space","🪐",["#312e81","#a5b4fc"],"Our place among the stars",
 "Beyond the sky lie planets, moons, stars and galaxies stretching across billions of light-years. This subject tours the Solar System, explains how stars live and die, and looks out to the galaxies and the edge of the observable universe.",
 ["solar","mars","milky","jupiter"],[
@@ -1220,9 +1226,9 @@ window.SUBJECTS=[
 ["The Human Body","🫀",["#b3261e","#f7a8a2"],"The most amazing machine you will ever own",
 "Your body is made of trillions of cells working together, every second of every day. This subject explains how its systems work, how you sense the world, how to stay healthy and how medicine fights disease.",
 ["heart","brain","vacc","nutri"],[
-["Body Systems","Heart, lungs, bones, blood and more.","heart lungs blood digest microbiome kidney bones spine nervous hormone skin liver bloodtypes muscles joints lymphatic hair hiccups puberty"],
-["Brain and Senses","Thinking, remembering, sensing and sleeping.","brain memory mental eye ear smelltaste sleep pain emotions laughter autism psychology dreams habits illusions touch reflexes dyslexia voice balance eyeglasses defibrillators roboticsurgery dnasequencing"],
-["Staying Healthy","Food, water, exercise and good habits.","nutri water exercise hygiene teeth firstaid sanitation aging pregnancy disasterprep foodsafety stress sunsafety myopia vitamins blooddonation yoga soap hydration"],
+["Body Systems","Heart, lungs, bones, blood and more.","heart lungs blood digest microbiome kidney bones spine nervous hormone skin liver bloodtypes muscles joints lymphatic hair hiccups puberty circulation metabolism"],
+["Brain and Senses","Thinking, remembering, sensing and sleeping.","brain memory mental eye ear smelltaste sleep pain emotions laughter autism psychology dreams habits illusions touch reflexes dyslexia voice balance eyeglasses defibrillators roboticsurgery dnasequencing bodyclock"],
+["Staying Healthy","Food, water, exercise and good habits.","nutri water exercise hygiene teeth firstaid sanitation aging pregnancy disasterprep foodsafety stress sunsafety myopia vitamins blooddonation yoga soap hydration twins"],
 ["Disease and Medicine","Germs, defenses and the fight against illness.","immune vacc antivax flu commoncold malaria allergy cancer diabetes antibiotics pandemic heartdisease surgery transplant tb cholera dengue hiv medimaging rabies measles stroke alzheimers asthma hypertension leptospirosis anemia fever polio smallpox anesthesia placebo"]]],
 
 ["History","🏛️",["#8a5a1a","#e6bd78"],"Five thousand years of the human story",
@@ -1295,8 +1301,8 @@ window.SUBJECTS=[
 "The 21st century has brought rapid change: billions of people online, new ways of working, earning and paying, a pandemic, breakthroughs in medicine and urgent global challenges such as hunger, water, extreme heat, rising seas and the loss of nature. This subject explains the big trends shaping the world today, from smart cities and influencers to climate action and changing families, and sets out the debates around them.",
 ["sdgs","worldpop","covid19","esports"],[
 ["Global Challenges","Problems the whole world is working on together.","sdgs migration foodsecurity waterscarcity energytransition inequality biodivloss extremeheat airpollution sealevel foodwaste ewaste carbonfootprint microplastics redcross"],
-["Changing Societies","How populations, cities and lifestyles are changing.","worldpop megacities agingworld fastfashion housing loneliness urbanfarm verticalfarming labgrownmeat smartcities overtourism plantbased micromobility volunteering firefighters umbrellas weddings whistleblowers conspiracy newspapers g20brics"],
-["Work and Money Today","New ways of working, shopping and paying.","gigeconomy remotework ecommerce digitalpay costliving minimumwage startups automation financialliteracy fourdayweek ubi cryptocurrency postal banks retirement consumerrights imfworldbank"],
+["Changing Societies","How populations, cities and lifestyles are changing.","worldpop megacities agingworld fastfashion housing loneliness urbanfarm verticalfarming labgrownmeat smartcities overtourism plantbased micromobility volunteering firefighters umbrellas weddings whistleblowers conspiracy newspapers g20brics philanthropy climateactivism"],
+["Work and Money Today","New ways of working, shopping and paying.","gigeconomy remotework ecommerce digitalpay costliving minimumwage startups automation financialliteracy fourdayweek ubi cryptocurrency postal banks retirement consumerrights imfworldbank fairtrade sharingeconomy"],
 ["Health and Science Today","Recent breakthroughs and the pandemic that changed the world.","covid19 mrna crispr gmos cloning animaltesting mentalyouth obesity aimedicine amr wearables genetherapy vaping telemedicine hospitals prosthetics pacemakers hearingaids stemcells"],
 ["Pop Culture Today","Global trends in entertainment and play.","anime memes esports kdrama shortvideo superhero influencers podcasts cosplay fandom emoji realitytv themeparks fanfiction livestreaming tradingcards"]]]
 ];

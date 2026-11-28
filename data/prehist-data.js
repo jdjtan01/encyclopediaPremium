@@ -48,7 +48,13 @@ microraptor:["Dinosaur (feathered dromaeosaur)","Small animals and fish",125,120
 terrorbirds:["Bird (phorusrhacid)","Meat",60,0.1,2.5,2.5,350,"terror","Up to about 2.5–3 m tall (Kelenken)",[["Patagonia, Argentina",-41.5,-69.0],["Florida",29.6,-82.4],["Texas",30.0,-97.5],["Seymour Island, Antarctica",-64.28,-56.75]]],
 eurypterids:["Arthropod (sea scorpion)","Fish and other animals",467,251.9,2.5,0.5,0,"trilo","Most under 20 cm; Jaekelopterus about 2.5 m (shown)",[["Prüm, Germany",50.2,6.42],["Herkimer County, New York",43.0,-75.0],["Saaremaa, Estonia",58.4,22.5],["Lesmahagow, Scotland",55.64,-3.89]]],
 coelacanth:["Lobe-finned fish","Fish and squid",410,0,2,0.6,90,"shark","Up to about 2 m long (living species)",[["Comoro Islands",-11.7,43.3],["Chalumna River mouth, South Africa",-33.3,27.6],["Manado, Sulawesi, Indonesia",1.5,124.8]]],
-titanoboa:["Reptile (giant snake)","Fish, crocodile relatives, turtles",60,58,13,1,1100,"mosa","About 13 m long",[["Cerrejón, La Guajira, Colombia",11.1,-72.6]]]
+titanoboa:["Reptile (giant snake)","Fish, crocodile relatives, turtles",60,58,13,1,1100,"mosa","About 13 m long",[["Cerrejón, La Guajira, Colombia",11.1,-72.6]]],
+dilophosaurus:["Dinosaur (early theropod)","Meat",186,183,7,2.2,400,"theropod","About 7 m long",[["Kayenta Formation, Arizona",36.1,-111.3]]],
+deinonychus:["Dinosaur (dromaeosaur)","Meat",115,108,3.4,0.9,70,"raptor","About 3.4 m long",[["Cloverly Formation, Montana",45.2,-108.6],["Antlers Formation, Oklahoma",34.2,-95.6]]],
+plateosaurus:["Dinosaur (early sauropodomorph)","Plants",214,204,8,2.5,700,"ornitho","About 5–10 m long",[["Trossingen, Germany",48.07,8.63],["Frick, Switzerland",47.51,8.01],["Halberstadt, Germany",51.9,11.05],["Jameson Land, Greenland",71.4,-23.5]]],
+helicoprion:["Fish (eugeneodont, ratfish relative)","Squid-like animals",290,270,6,1,0,"shark","About 5–8 m long (estimate)",[["Phosphoria Formation, Idaho",42.7,-111.4],["Krasnoufimsk, Russia",56.6,57.8],["Western Australia",-25.0,115.0]]],
+arthropleura:["Arthropod (giant millipede)","Plants",346,290,2.6,0.3,0,"trilo","Up to about 2.6 m long",[["Montceau-les-Mines, France",46.67,4.37],["Howick Bay, Northumberland, England",55.46,-1.59],["Joggins, Nova Scotia",45.7,-64.45]]],
+paraceratherium:["Mammal (hornless rhino)","Leaves and twigs",34,23,7.5,4.8,17000,"rhino","About 4.8 m tall at the shoulder",[["Dera Bugti, Pakistan",29.03,69.15],["Gansu, China",36.0,103.8],["Mongolia",44.5,103.0],["Kazakhstan",48.0,67.0]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
