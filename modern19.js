@@ -9,8 +9,7 @@ s2:[["Surface, deep and dark","People often picture the internet as an iceberg. 
 sp:["The onion symbol","Tor’s logo is an onion because data is wrapped in layers of encryption. Each relay peels off one layer, like peeling an onion, to learn where to send the data next. Only the last relay sees the destination, and only the first sees who sent it."],
 g:[["Encryption","Scrambling data so only the intended reader can understand it"],["Anonymity","Being unknown or unidentified"],["Relay","A computer that passes data along a network"],["Whistleblower","A person who exposes wrongdoing inside an organization"]],
 f:["Tor was created with US government funding.","The deep web is much bigger than the surface web.","Dark web addresses are long strings of random-looking letters ending in .onion."],
-fun:"Some dark web markets copied the look of ordinary shopping sites, with star ratings and customer reviews for sellers.",
-tl:"Ang dark web ay bahagi ng internet na naaabot lamang gamit ang espesyal na software tulad ng Tor. Ginagamit ito ng mga mamamahayag at ng mga taong nasa ilalim ng sensura, ngunit mayroon din itong mga ilegal na pamilihan na sinisikap isara ng pulisya."});
+fun:"Some dark web markets copied the look of ordinary shopping sites, with star ratings and customer reviews for sellers."});
 
 ADDART({id:"conspiracy",t:"Conspiracy Theories",c:"Society",i:"🕵️",w:"Conspiracy theory",r:["misinformation","scimeth","antisemitism","ufos","secretsocieties","propaganda"],
 p:[["Secret plots","A conspiracy theory claims that powerful groups are secretly behind events."],["Why people believe","They offer simple explanations and a sense of hidden knowledge."],["Real and imagined","Some real conspiracies have happened, but most theories lack evidence."]],
@@ -22,8 +21,7 @@ s2:[["Debunking the Moon hoax","Astronauts left mirrors on the Moon that scienti
 sp:["The flat Earth","Ancient Greek scholars knew the Earth was round by about 500 BC, and Eratosthenes measured its size around 240 BC. The idea that medieval people all believed in a flat Earth is itself a myth. Modern flat-Earth groups grew online in the 2010s despite photographs from space and countless experiments."],
 g:[["Conspiracy","A secret plan by a group to do something harmful or illegal"],["Evidence","Facts or information showing whether something is true"],["Cover-up","An attempt to hide wrongdoing"],["Critical thinking","Carefully judging claims and evidence"]],
 f:["Watergate was a real conspiracy exposed by newspaper reporters.","Mirrors left on the Moon by Apollo astronauts are still used for experiments.","People knew the Earth was round more than 2,000 years ago."],
-fun:"A joke conspiracy theory, ‘Birds Aren’t Real’, which claims birds are government drones, was created in 2017 to make fun of misinformation.",
-tl:"Ang conspiracy theory ay paliwanag na nagsasabing lihim na pakana ng makapangyarihang grupo ang isang pangyayari, kahit may mas matibay na ebidensya para sa ibang paliwanag. May mga totoong sabwatan tulad ng Watergate, ngunit karamihan sa mga teorya ay walang batayan at maaaring magdulot ng pinsala."});
+fun:"A joke conspiracy theory, ‘Birds Aren’t Real’, which claims birds are government drones, was created in 2017 to make fun of misinformation."});
 
 ADDART({id:"secretsocieties",t:"Secret Societies",c:"History",i:"🔺",w:"Secret society",r:["conspiracy","bonifacio","phrev","relig","enlightenment"],
 p:[["Members only","Secret societies are groups that keep their rituals or membership hidden."],["Freemasons and more","Famous examples include the Freemasons, Rosicrucians and the Bavarian Illuminati."],["Revolutionary groups","Some, like the Katipunan, plotted revolutions in secret."]],
@@ -35,8 +33,7 @@ s2:[["The eye in the pyramid","The ‘eye of providence’ above an unfinished p
 sp:["The Rosicrucians","In 1614–1616, pamphlets appeared in Germany describing a secret brotherhood founded by a mysterious Christian Rosenkreuz, who held hidden wisdom about nature and the spirit. No such brotherhood seems to have existed at the time, but the story inspired later groups that took the Rosicrucian name."],
 g:[["Lodge","A local branch or meeting place of Freemasons"],["Ritual","A ceremony performed in a set way"],["Fraternal","Like brothers; based on friendship and mutual help"],["Oath","A solemn promise"]],
 f:["The Bavarian Illuminati lasted only about nine years.","José Rizal and Emilio Aguinaldo were Freemasons.","The ‘all-seeing eye’ on the dollar bill is not an Illuminati symbol."],
-fun:"Katipunan members used secret passwords, and new recruits had to answer questions in a blindfolded initiation.",
-tl:"Ang lihim na samahan ay organisasyong itinatago ang ilang gawain, ritwal o kasapian nito. Kabilang sa mga kilala ang mga Freemason, ang Illuminati na ipinagbawal noong 1785, at ang Katipunan, na lihim na nagplano ng Rebolusyong Pilipino."});
+fun:"Katipunan members used secret passwords, and new recruits had to answer questions in a blindfolded initiation."});
 
 ADDART({id:"ufos",t:"UFOs and Unexplained Sightings",c:"Science",i:"🛸",w:"Unidentified flying object",r:["exoplanet","scimeth","conspiracy","radioastronomy","illusions"],
 p:[["Unidentified objects","A UFO is anything seen in the sky that cannot be identified at first."],["Mostly explained","Most turn out to be planes, balloons, satellites, planets or tricks of light."],["Serious study","Governments now investigate unexplained sightings for safety and security."]],
@@ -48,8 +45,7 @@ s2:[["Why people see UFOs","Our brains are not good at judging the size, distanc
 sp:["The Drake equation","In 1961, the astronomer Frank Drake wrote an equation that multiplies factors such as the number of stars, the share with planets and the chance that life develops, to estimate how many civilizations in our galaxy might be able to communicate. Many of the numbers are still unknown, so estimates range from none to millions."],
 g:[["UFO","An unidentified flying object"],["UAP","Unidentified anomalous phenomena, the newer official term"],["SETI","The Search for Extraterrestrial Intelligence"],["Extraterrestrial","From beyond the Earth"]],
 f:["The planet Venus is one of the most common causes of UFO reports.","‘Flying saucer’ came from a newspaper headline, not the pilot’s exact words.","Most UFO reports are solved once enough information is gathered."],
-fun:"Roswell, New Mexico, celebrates its UFO fame with streetlights shaped like alien heads.",
-tl:"Ang UFO ay anumang bagay sa langit na hindi agad makilala. Karamihan ay napapatunayang eroplano, lobo, satelayt o planeta, at wala pang kumpirmadong ebidensya na alinman dito ay sasakyang pangkalawakan ng mga alien."});
+fun:"Roswell, New Mexico, celebrates its UFO fame with streetlights shaped like alien heads."});
 
 ADDART({id:"propaganda",t:"Propaganda",c:"Society",i:"📢",w:"Propaganda",r:["misinformation","journalism","censorship","hitler","ww2","coldwar"],
 p:[["Persuasion on a mass scale","Propaganda is information spread to influence what people think and do."],["War and politics","It was used heavily in the world wars and the Cold War."],["Spotting it","Learning its tricks helps people judge what they see and hear."]],
@@ -61,8 +57,7 @@ s2:[["Seven classic techniques","In 1937 the American Institute for Propaganda A
 sp:["‘I Want You’","James Montgomery Flagg’s 1917 poster of Uncle Sam pointing at the viewer was based on a 1914 British poster of Lord Kitchener. More than four million copies were printed during World War I, and it was used again in World War II. Flagg used his own face as the model for Uncle Sam."],
 g:[["Propaganda","Information used to promote a cause, often misleading"],["Scapegoat","A person or group unfairly blamed for problems"],["Media literacy","The ability to judge and understand media messages"],["Bot","An automated account that posts messages"]],
 f:["The word propaganda first had a religious meaning.","The famous Uncle Sam poster was copied from a British design.","Nazi Germany made cheap radios so that more people would hear its broadcasts."],
-fun:"The artist of the ‘I Want You’ poster used his own face for Uncle Sam to save the cost of a model.",
-tl:"Ang propaganda ay impormasyong ipinakakalat upang impluwensiyahan ang iniisip at ginagawa ng tao, kadalasang umaapela sa damdamin. Malawakan itong ginamit sa mga digmaang pandaigdig at Cold War, at kumakalat na ito ngayon sa social media."});
+fun:"The artist of the ‘I Want You’ poster used his own face for Uncle Sam to save the cost of a model."});
 
 ADDART({id:"censorship",t:"Censorship",c:"Society",i:"🚫",w:"Censorship",r:["journalism","hrights","propaganda","print","libraries","tiananmen"],
 p:[["Controlling information","Censorship is the suppression of speech, writing or images considered unacceptable."],["Burning books","Governments and religious authorities have banned and burned books for centuries."],["Free speech debates","Societies still argue about what, if anything, should be restricted."]],
@@ -74,8 +69,7 @@ s2:[["Fahrenheit 451","Ray Bradbury’s 1953 novel imagines a future where firef
 sp:["Banned Books Week","Since 1982, libraries and bookshops in the United States have held Banned Books Week each year to celebrate the freedom to read. Displays show books that have been challenged, from classics such as To Kill a Mockingbird to the Harry Potter series."],
 g:[["Censor","A person or authority that examines and suppresses material"],["Freedom of expression","The right to share ideas and opinions"],["Samizdat","Secretly copied banned writing in the Soviet Union"],["Content moderation","Reviewing and removing posts on online platforms"]],
 f:["The Catholic Index of Forbidden Books lasted more than 400 years.","Fahrenheit 451 is about censorship and has itself been challenged.","Article 19 of the Universal Declaration of Human Rights protects free expression."],
-fun:"Soviet citizens joked that samizdat meant ‘I write it myself, edit it myself, censor it myself, publish it myself, distribute it myself and go to jail for it myself.’",
-tl:"Ang sensura ay pagpigil o pagkontrol sa pananalita, pagsulat o larawan ng mga may kapangyarihan. Ipinagbawal at sinunog ang mga aklat sa loob ng maraming siglo, at hanggang ngayon ay pinagtatalunan kung ano ang dapat limitahan."});
+fun:"Soviet citizens joked that samizdat meant ‘I write it myself, edit it myself, censor it myself, publish it myself, distribute it myself and go to jail for it myself.’"});
 
 ADDART({id:"surveillance",t:"Mass Surveillance",c:"The Modern World",i:"📹",w:"Mass surveillance",r:["dataprivacy","cybersecurity","digitalid","police","censorship","darkweb"],
 p:[["Watching everyone","Mass surveillance is the monitoring of whole populations, not just suspects."],["Cameras and data","It uses cameras, phone records, internet data and facial recognition."],["Security versus privacy","Societies debate how much watching is needed for safety."]],
@@ -87,8 +81,7 @@ s2:[["Surveillance capitalism","The writer Shoshana Zuboff used the term surveil
 sp:["Big Brother","In Nineteen Eighty-Four, telescreens in every room watch citizens of the state of Oceania, ruled by the Party and its leader Big Brother. The word ‘Orwellian’ is now used for government policies that seem to control people through surveillance and propaganda."],
 g:[["Surveillance","Close watching of people or places"],["Informer","A person who secretly gives information to authorities"],["Facial recognition","Software that identifies people from their faces"],["Encryption","Scrambling data so others cannot read it"]],
 f:["The Stasi’s files would stretch over 100 kilometers if laid end to end.","Orwell’s Big Brother gave its name to a reality TV show.","Bentham’s Panopticon was never fully built as he designed it."],
-fun:"Jeremy Bentham’s preserved skeleton, dressed in his clothes, sits in a glass case at University College London, as he requested.",
-tl:"Ang mass surveillance ay malawakang pagbabantay sa buong populasyon gamit ang mga kamera, rekord ng telepono at internet, at facial recognition. Sinasabi ng mga pamahalaan na nakatutulong ito sa seguridad, ngunit nagbababala ang mga kritiko na banta ito sa privacy at kalayaan."});
+fun:"Jeremy Bentham’s preserved skeleton, dressed in his clothes, sits in a glass case at University College London, as he requested."});
 
 ADDART({id:"deathpenalty",t:"The Death Penalty",c:"Society",i:"⚖️",w:"Capital punishment",r:["law","hrights","police","un","democ"],
 p:[["Execution by the state","The death penalty is the killing of a person by the state as punishment for a crime."],["Abolished by many","More than two-thirds of countries have abolished it in law or practice."],["A deep debate","People disagree about whether it deters crime and whether it is ever just."]],
@@ -100,8 +93,7 @@ s2:[["Wrongful convictions","DNA evidence, first used in court in the late 1980s
 sp:["Abolition timeline","In 1977 only 16 countries had abolished the death penalty for all crimes. By the end of 2025 the number had grown to 113. Amnesty International counts a country as abolitionist in practice if it has the penalty in law but has not carried out an execution for at least ten years."],
 g:[["Capital punishment","Execution as a legal punishment"],["Abolition","Officially ending something"],["Moratorium","A temporary halt"],["Exonerate","To clear someone of blame or guilt"]],
 f:["More than two-thirds of the world’s countries have abolished the death penalty in law or practice.","Belarus is the only country in Europe that still carries out executions.","China’s execution figures are a state secret."],
-fun:"The word ‘capital’ in capital punishment comes from the Latin caput, meaning head.",
-tl:"Ang parusang kamatayan ay pagpatay ng estado sa isang tao bilang parusa sa krimen. Inalis na ito ng mahigit dalawang-katlo ng mga bansa sa batas o sa praktika, ngunit pinagtatalunan pa rin kung nakapipigil ito sa krimen at kung makatarungan ba ito."});
+fun:"The word ‘capital’ in capital punishment comes from the Latin caput, meaning head."});
 
 ADDART({id:"abortion",t:"The Abortion Debate",c:"Society",i:"⚖️",w:"Abortion debate",r:["hrights","law","relig","feminism","democ"],
 p:[["Ending a pregnancy","Abortion is the deliberate ending of a pregnancy."],["Deeply divided views","People disagree strongly about when and whether it should be allowed."],["Laws vary","Laws range from full bans to allowing it on request."]],
@@ -113,8 +105,7 @@ s2:[["Middle-ground views","Surveys in many countries find that large numbers of
 sp:["Words in the debate","Both sides choose words carefully because words frame the issue. Neutral reference works and many news organizations try to use terms such as ‘abortion opponents’ and ‘abortion rights supporters’ to describe the two sides fairly."],
 g:[["Pregnancy","The time when a baby develops inside the mother’s womb"],["Fetus","An unborn offspring in the later stages of development"],["Referendum","A vote by the public on a single question"],["Constitution","A country’s basic law"]],
 f:["Laws on abortion vary from complete bans to allowing it on request.","France was the first country to name abortion freedom in its constitution.","In the United States, abortion law is now decided mainly by each state."],
-fun:"Both sides of the debate use the language of rights: the right to life and the right to choose.",
-tl:"Ang aborsyon ay sinadyang pagwawakas ng pagbubuntis. Mahigpit itong pinagtatalunan: naniniwala ang mga ‘pro-life’ na dapat protektahan ang buhay ng hindi pa isinisilang, habang naniniwala ang mga ‘pro-choice’ na dapat ang babae ang magpasya. Iba-iba ang batas sa bawat bansa."});
+fun:"Both sides of the debate use the language of rights: the right to life and the right to choose."});
 
 ADDART({id:"cults",t:"Cults and High-Control Groups",c:"Society",i:"🔒",w:"Cult",r:["relig","conspiracy","secretsocieties","propaganda","terrorism"],
 p:[["Total control","A cult is a group that uses manipulation to control its members’ lives."],["Charismatic leaders","Most center on a leader who claims special authority."],["Tragic endings","Some, such as Jonestown, ended in mass death."]],
@@ -126,8 +117,7 @@ s2:[["Why smart people join","Research shows that people who join high-control g
 sp:["‘Drinking the Kool-Aid’","The English phrase ‘drinking the Kool-Aid’, meaning blindly following a group, comes from Jonestown, although the drink used was mostly a similar product called Flavor Aid. Many survivors and relatives find the phrase hurtful because it makes light of a tragedy in which many were forced or deceived."],
 g:[["Charismatic","Having a powerful personal charm that attracts followers"],["Manipulation","Influencing someone unfairly or dishonestly"],["Isolation","Being cut off from others"],["New religious movement","A recently founded religious group"]],
 f:["The Jonestown tragedy was the largest loss of American civilian life in a single deliberate act until 11 September 2001.","Scholars often avoid the word ‘cult’ because it can be used as an insult.","Many recruits are drawn in by friendship, not beliefs."],
-fun:"The word cult originally simply meant worship, from the Latin cultus, and is still used that way in phrases like ‘the cult of saints’.",
-tl:"Ang kulto ay grupong nakasentro sa isang karismatikong lider at gumagamit ng manipulasyon upang kontrolin ang buhay ng mga kasapi. Humantong ang ilan sa trahedya, gaya ng Jonestown noong 1978, kung saan mahigit 900 ang namatay."});
+fun:"The word cult originally simply meant worship, from the Latin cultus, and is still used that way in phrases like ‘the cult of saints’."});
 
 ADDART({id:"organizedcrime",t:"Organized Crime",c:"Society",i:"🕴️",w:"Organized crime",r:["police","law","drugtrade","trafficking","italycountry"],
 p:[["Crime as a business","Organized crime groups run illegal businesses for profit."],["Mafia, cartels and yakuza","Famous examples include the Sicilian Mafia, Mexican cartels and Japanese yakuza."],["Fighting back","Police, courts and brave citizens have taken on powerful gangs."]],
@@ -139,8 +129,7 @@ s2:[["Money laundering","Criminals need to make illegal money look legal, which 
 sp:["Addiopizzo","In 2004, young people in Palermo covered the city with stickers saying ‘An entire people who pay the pizzo is a people without dignity’. The pizzo is protection money demanded by the Mafia. Their Addiopizzo movement now lists hundreds of businesses that refuse to pay."],
 g:[["Extortion","Getting money by threats"],["Money laundering","Making illegal money appear legal"],["Omertà","The Mafia’s code of silence"],["Cartel","A group, often of drug traffickers, that controls a trade"]],
 f:["Al Capone was jailed for not paying taxes.","The Maxi Trial courtroom in Palermo was built to withstand rocket attacks.","Palermo’s airport is named after Falcone and Borsellino."],
-fun:"Yakuza members traditionally covered their bodies in large tattoos, so many Japanese hot springs still ban tattooed visitors.",
-tl:"Ang organisadong krimen ay mga grupong kriminal na tumatakbo na parang negosyo, tulad ng Mafia, mga kartel ng droga at yakuza. Kumikita sila sa droga, pangingikil at korapsyon, kaya nagtutulungan ang mga bansa upang labanan sila."});
+fun:"Yakuza members traditionally covered their bodies in large tattoos, so many Japanese hot springs still ban tattooed visitors."});
 
 ADDART({id:"drugtrade",t:"The Illegal Drug Trade",c:"Society",i:"💊",w:"Illegal drug trade",r:["organizedcrime","phdrugwar","mental","law","police"],
 p:[["A global business","The illegal drug trade grows, smuggles and sells banned substances."],["The war on drugs","Many governments have fought drugs with police and prisons."],["Different approaches","Some countries now treat drug use mainly as a health issue."]],
@@ -152,8 +141,7 @@ s2:[["Why drugs are addictive","Many drugs flood the brain’s reward system wit
 sp:["Pablo Escobar","Pablo Escobar led Colombia’s Medellín cartel, which supplied most of the cocaine reaching the United States in the 1980s and made him one of the richest people in the world. His war against the state killed thousands, including judges, police and a presidential candidate. He was shot dead by police in Medellín on 2 December 1993."],
 g:[["Trafficking","Illegally trading goods such as drugs"],["Addiction","A condition in which a person cannot stop using a substance"],["Decriminalize","To stop treating something as a crime"],["Harm reduction","Policies that reduce the damage caused by drug use"]],
 f:["The first international drug treaty was signed in 1912.","Fentanyl is far stronger than heroin, so tiny amounts can be deadly.","Uruguay was the first country to fully legalize cannabis."],
-fun:"Hippos brought to Colombia for Pablo Escobar’s private zoo escaped after his death, and their descendants now number over 150, becoming a serious environmental problem.",
-tl:"Ang ilegal na kalakalan ng droga ay pandaigdigang negosyo ng paggawa, pagpupuslit at pagbebenta ng mga bawal na gamot, na kontrolado ng organisadong krimen. Ginamit ng maraming bansa ang ‘war on drugs’, habang tinitingnan na ng iba ang paggamit ng droga bilang usaping pangkalusugan."});
+fun:"Hippos brought to Colombia for Pablo Escobar’s private zoo escaped after his death, and their descendants now number over 150, becoming a serious environmental problem."});
 
 ADDART({id:"trafficking",t:"Human Trafficking",c:"Society",i:"⛓️",w:"Human trafficking",r:["slavetrade","hrights","organizedcrime","migration","onlinescams"],
 p:[["Modern slavery","Human trafficking is the trade in people for forced labor or exploitation."],["Millions affected","An estimated 50 million people live in modern slavery."],["Fighting it","Laws, aid groups and awareness help rescue victims and punish traffickers."]],
@@ -165,8 +153,7 @@ s2:[["Products and supply chains","Goods such as seafood, cocoa, cotton, electro
 sp:["The blue heart","The Blue Heart Campaign of the United Nations uses a blue heart as a symbol of sorrow for victims of trafficking and the coldness of those who buy and sell people. People wear blue hearts to show support and raise awareness."],
 g:[["Exploitation","Unfairly using someone for profit"],["Coercion","Forcing someone through threats or pressure"],["Debt bondage","Being forced to work to pay off a debt that keeps growing"],["Supply chain","All the steps in making and delivering a product"]],
 f:["The Palermo Protocol was adopted on 15 November 2000.","Forced labor is the most common form of human trafficking.","Trafficking can happen within a country, not just across borders."],
-fun:"Some fishing companies now use satellite tracking to check how long boats stay at sea, because very long voyages can be a warning sign of forced labor.",
-tl:"Ang human trafficking ay pagkuha, paglilipat o pagkulong sa mga tao sa pamamagitan ng dahas o panlilinlang upang pagsamantalahan sila, gaya ng sapilitang paggawa. Tinatayang 50 milyong tao ang nasa makabagong pang-aalipin."});
+fun:"Some fishing companies now use satellite tracking to check how long boats stay at sea, because very long voyages can be a warning sign of forced labor."});
 
 ADDART({id:"hacking",t:"Hackers and Cybercrime",c:"Technology",i:"💻",w:"Security hacker",r:["cybersecurity","internet","comp","darkweb","onlinescams","coding"],
 p:[["Breaking into systems","Hackers find ways into computers and networks, for good or bad purposes."],["Cybercrime","Criminals steal data, spread viruses and demand ransoms."],["White hats","Ethical hackers help organizations fix weaknesses before criminals find them."]],
@@ -178,8 +165,7 @@ s2:[["Bug bounties","Many companies, from Google to banks, pay ethical hackers w
 sp:["ILOVEYOU","The ILOVEYOU worm arrived as an email with the subject ‘ILOVEYOU’ and an attachment that looked like a love letter. When opened, it overwrote files and sent itself to everyone in the victim’s address book. Damage was estimated at billions of dollars, and it led the Philippines to pass a law covering computer crimes."],
 g:[["Malware","Malicious software, such as viruses and ransomware"],["Ransomware","Malware that locks files until a payment is made"],["Phishing","Tricking people into revealing information"],["Two-factor authentication","Using a second check, such as a code, to log in"]],
 f:["The word hacker first meant a clever programr, not a criminal.","The ILOVEYOU virus came from Manila in 2000.","Most hacking attacks begin by tricking a person."],
-fun:"Phone phreaks discovered that a free plastic whistle from Cap’n Crunch cereal boxes produced the exact tone needed to control long-distance phone lines.",
-tl:"Ang hacker ay taong mahusay pumasok o lumampas sa mga limitasyon ng sistema ng kompyuter. Tumutulong ang mga ‘white hat’ na ayusin ang kahinaan, habang nagnanakaw o nanggugulo ang mga ‘black hat’. Kabilang sa cybercrime ang pagnanakaw ng datos, virus at ransomware."});
+fun:"Phone phreaks discovered that a free plastic whistle from Cap’n Crunch cereal boxes produced the exact tone needed to control long-distance phone lines."});
 
 ADDART({id:"gambling",t:"Gambling",c:"How We Live",i:"🎲",w:"Gambling",r:["prob","boardgames","organizedcrime","horseracing","financialliteracy"],
 p:[["Betting on chance","Gambling means risking money on an uncertain outcome to win more."],["The house always wins","Casinos and lotteries are designed so that, over time, they make money."],["A risky habit","For some people, gambling becomes an addiction."]],
@@ -191,5 +177,4 @@ s2:[["The gambler’s fallacy","Many gamblers believe that after a run of one re
 sp:["The Monte Carlo fallacy","The record streak of 26 blacks at Monte Carlo in 1913 gave the gambler’s fallacy its other name, the Monte Carlo fallacy. The chance of such a streak is about 1 in 66 million, but no spin depends on the one before."],
 g:[["Odds","The chances of something happening, or the payout ratio of a bet"],["House edge","The casino’s built-in advantage"],["Probability","How likely something is to happen"],["Loot box","A paid, random reward in a video game"]],
 f:["The mathematics of probability began with a gambling problem.","Every casino game is designed to favor the casino in the long run.","Gambling disorder is recognized as an addiction, like drug addiction."],
-fun:"The numbers on a roulette wheel from 0 to 36 add up to 666, which is why roulette is sometimes nicknamed ‘the devil’s wheel’.",
-tl:"Ang pagsusugal ay pagtaya ng pera sa isang pangyayaring hindi tiyak ang resulta upang manalo nang higit pa. Dinisenyo ang mga casino at loterya upang kumita sila sa katagalan, at para sa ilan, nagiging adiksyon ang pagsusugal."});
+fun:"The numbers on a roulette wheel from 0 to 36 add up to 666, which is why roulette is sometimes nicknamed ‘the devil’s wheel’."});

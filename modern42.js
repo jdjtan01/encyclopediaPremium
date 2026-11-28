@@ -9,8 +9,7 @@ s2:[["The Great Observatories","NASA’s four Great Observatories each studied a
 sp:["Phoebe ring","The enormous ring Spitzer found around Saturn is so wide that about a billion Earths could fit inside it, but its material is so thin that it is almost impossible to see in visible light."],
 g:[["Infrared","Light with longer wavelengths than red light"],["Cryogenic","Kept extremely cold"],["Great Observatories","NASA’s four large space telescopes"],["Exoplanet","A planet orbiting another star"]],
 f:["Spitzer was launched in 2003.","It saw the universe in infrared light.","It helped reveal TRAPPIST-1’s seven planets."],
-fun:"Spitzer’s Saturn ring is so large that it would appear about twice as wide as the full Moon in our sky, if we could see it.",
-tl:"Pinag-aralan ng Spitzer Space Telescope ang uniberso sa infrared na liwanag mula 2003 hanggang 2020. Sinundan nito ang Earth sa sarili nitong orbit sa Araw at tumulong ito na matuklasan ang pitong planeta ng TRAPPIST-1."});
+fun:"Spitzer’s Saturn ring is so large that it would appear about twice as wide as the full Moon in our sky, if we could see it."});
 
 ADDART({id:"tess",t:"TESS: The Planet Hunter",c:"Space Exploration",i:"🪐",w:"Transiting Exoplanet Survey Satellite",r:["exoplanet","keplertelescope","habitablezone","reddwarfs","jwst"],
 p:[["Searching nearby stars","TESS looks for planets around bright, nearby stars."],["Watching for dips","It spots tiny dips in starlight when planets pass in front."],["Thousands of candidates","It has found thousands of possible planets."]],
@@ -22,8 +21,7 @@ s2:[["TOI-700","The red dwarf TOI-700, about 100 light-years away, has at least 
 sp:["Moon-locked orbit","TESS’s orbit is in resonance with the Moon: it goes around Earth exactly twice for every lunar orbit. The Moon’s gravity keeps nudging it in a balanced way, so the orbit can stay stable for decades without much fuel."],
 g:[["Transit","A planet passing in front of its star"],["Candidate","A possible planet not yet confirmed"],["Habitable zone","The region where liquid water could exist"],["Resonance","A regular repeating relationship between orbits"]],
 f:["TESS launched in 2018.","It watches for dips in starlight.","It has found more than 7,000 planet candidates."],
-fun:"A 17-year-old intern at NASA discovered a TESS planet orbiting two stars just three days into his internship.",
-tl:"Naghahanap ang TESS ng mga planeta sa paligid ng maliliwanag at malalapit na bituin. Napapansin nito ang maliliit na pagdilim ng liwanag kapag dumaraan ang planeta sa harap ng bituin, at libu-libong posibleng planeta na ang natagpuan nito."});
+fun:"A 17-year-old intern at NASA discovered a TESS planet orbiting two stars just three days into his internship."});
 
 ADDART({id:"planck",t:"Planck and WMAP",c:"Space Exploration",i:"🌌",w:"Planck (spacecraft)",r:["cmb","bigbang","darkmatter","fateuniverse","lagrange"],
 p:[["Baby pictures of the universe","WMAP and Planck mapped the oldest light in the universe."],["Age of the universe","They measured the universe’s age at about 13.8 billion years."],["Mostly dark","They showed only about 5 percent of the universe is ordinary matter."]],
@@ -35,8 +33,7 @@ s2:[["David Wilkinson","WMAP was renamed in 2003 in honor of Princeton physicist
 sp:["TV static","Part of the ‘snow’ seen on old analog televisions between channels came from the cosmic microwave background, a tiny fraction of the static that the TV antenna picked up."],
 g:[["Cosmic microwave background","The afterglow of the Big Bang"],["Dark energy","The mysterious cause of the universe’s accelerating expansion"],["Anisotropy","Small differences in different directions"],["Megaparsec","About 3.26 million light-years"]],
 f:["WMAP launched in 2001 and Planck in 2009.","The universe is about 13.8 billion years old.","Only about 5% of the universe is ordinary matter."],
-fun:"The light Planck detected had been traveling for about 13.8 billion years, making its maps pictures of the universe when it was a tiny fraction of its current age.",
-tl:"Iminapa ng WMAP at Planck ang pinakamatandang liwanag sa uniberso. Sinukat nila ang edad ng uniberso na mga 13.8 bilyong taon at ipinakita na mga 5 porsiyento lamang nito ang karaniwang materya."});
+fun:"The light Planck detected had been traveling for about 13.8 billion years, making its maps pictures of the universe when it was a tiny fraction of its current age."});
 
 ADDART({id:"solarobservatories",t:"SOHO and Solar Orbiter",c:"Space Exploration",i:"☀️",w:"Solar and Heliospheric Observatory",r:["sun","spaceweather","sunspots","parkerprobe","lagrange"],
 p:[["Watching the Sun","Spacecraft such as SOHO and Solar Orbiter watch the Sun constantly."],["A comet hunter","SOHO has found more than 5,000 comets."],["Seeing the poles","Solar Orbiter took the first pictures of the Sun’s poles."]],
@@ -48,8 +45,7 @@ s2:[["Sungrazing comets","Most of SOHO’s comets are tiny ‘sungrazers’ that
 sp:["Amateur discoveries","Anyone can look at SOHO images online. Many of its comets have been discovered by amateur astronomers and students around the world, some of whom have found hundreds."],
 g:[["Coronagraph","An instrument that blocks the Sun’s disk to see its outer atmosphere"],["Coronal mass ejection","A huge cloud of charged gas thrown out by the Sun"],["L1 point","A balance point between Earth and the Sun"],["Sungrazer","A comet that passes very close to the Sun"]],
 f:["SOHO was launched in 1995.","SOHO has found more than 5,000 comets.","Solar Orbiter photographed the Sun’s south pole in 2025."],
-fun:"SOHO was designed to last two years but has kept working for more than 30 years.",
-tl:"Patuloy na binabantayan ng mga spacecraft gaya ng SOHO at Solar Orbiter ang Araw. Nakatuklas ang SOHO ng mahigit 5,000 kometa, at kinunan ng Solar Orbiter ang mga unang larawan ng mga polo ng Araw."});
+fun:"SOHO was designed to last two years but has kept working for more than 30 years."});
 
 ADDART({id:"galileoprobe",t:"The Galileo Mission to Jupiter",c:"Space Exploration",i:"🛰️",w:"Galileo (spacecraft)",r:["jupiter","europa","io","ganymede","junoprobe"],
 p:[["First Jupiter orbiter","Galileo was the first spacecraft to orbit Jupiter."],["A probe into the clouds","It dropped a probe into Jupiter’s atmosphere in 1995."],["Hidden oceans","It found evidence of an ocean beneath Europa’s ice."]],
@@ -61,8 +57,7 @@ s2:[["Planetary protection","NASA ended Galileo by sending it into Jupiter becau
 sp:["Plutonium power","Galileo was too far from the Sun for solar panels, so it was powered by radioisotope thermoelectric generators, which convert heat from decaying plutonium into electricity."],
 g:[["Orbiter","A spacecraft that circles a planet"],["Atmospheric probe","A device that falls into a planet’s atmosphere"],["High-gain antenna","A large dish antenna for fast communication"],["Planetary protection","Preventing contamination of other worlds"]],
 f:["Galileo was the first spacecraft to orbit Jupiter.","Its probe fell into Jupiter’s clouds in 1995.","It found evidence of an ocean beneath Europa’s ice."],
-fun:"Galileo found the first known moon of an asteroid, a tiny 1.4-kilometer moonlet named Dactyl.",
-tl:"Ang Galileo ang unang spacecraft na umikot sa Jupiter. Naghulog ito ng probe sa atmospera ng Jupiter noong 1995 at nakakita ng ebidensiya ng karagatan sa ilalim ng yelo ng Europa."});
+fun:"Galileo found the first known moon of an asteroid, a tiny 1.4-kilometer moonlet named Dactyl."});
 
 ADDART({id:"cometmissions",t:"Missions to Comets",c:"Space Exploration",i:"☄️",w:"Stardust (spacecraft)",r:["comet","halley","rosetta","hayabusa","osirisrex"],
 p:[["Visiting comets","Spacecraft have flown past, crashed into and landed on comets."],["Comet dust on Earth","Stardust brought comet dust back to Earth in 2006."],["A Fourth of July impact","Deep Impact smashed into a comet on 4 July 2005."]],
@@ -74,8 +69,7 @@ s2:[["Glycine","In 2009, NASA scientists reported glycine, the simplest amino ac
 sp:["Comet Interceptor","ESA’s Comet Interceptor, planned for launch around 2029, will wait in space until a suitable fresh comet is discovered and then fly to meet it, possibly even a visitor from another star system."],
 g:[["Nucleus","The solid icy core of a comet"],["Aerogel","An extremely light, porous material"],["Impactor","An object designed to hit a target"],["Amino acid","A building block of proteins"]],
 f:["Giotto flew past Halley’s Comet in 1986.","Stardust returned comet dust to Earth in 2006.","Deep Impact hit a comet on 4 July 2005."],
-fun:"Deep Impact’s crash into a comet was timed for the Fourth of July, giving the United States a cosmic fireworks show.",
-tl:"Lumipad ang mga spacecraft malapit sa mga kometa, bumangga sa mga ito at lumapag pa sa isa. Nagdala ang Stardust ng alikabok ng kometa pabalik sa Earth noong 2006, at binangga ng Deep Impact ang isang kometa noong 4 Hulyo 2005."});
+fun:"Deep Impact’s crash into a comet was timed for the Fourth of July, giving the United States a cosmic fireworks show."});
 
 ADDART({id:"messenger",t:"MESSENGER at Mercury",c:"Space Exploration",i:"🌑",w:"MESSENGER",r:["mercury","bepicolombo","orbits","sun","marinerprogram"],
 p:[["First Mercury orbiter","MESSENGER was the first spacecraft to orbit Mercury."],["Ice near the Sun","It found water ice in Mercury’s shadowed craters."],["A long road","It took more than six years and six planetary flybys to get there."]],
@@ -83,12 +77,11 @@ l:"MESSENGER (MErcury Surface, Space ENvironment, GEochemistry and Ranging) was 
 s:[["Getting to Mercury","Reaching Mercury requires more energy in some ways than escaping the solar system. MESSENGER used gravity assists from planets to slow down, traveling about 7.9 billion kilometers over six and a half years to reach a planet that is, at its closest, about 77 million kilometers from Earth."],["Ice on a hot planet","Mercury’s daytime temperature reaches about 430°C, yet the floors of some polar craters never see sunlight and stay below −170°C. MESSENGER’s instruments confirmed that these craters hold water ice, perhaps delivered by comets and asteroids."],["Shrinking planet","MESSENGER found long cliffs called scarps, formed as Mercury’s interior cooled and the planet shrank by up to about 7 kilometers in radius over billions of years. Small, young scarps suggest Mercury may still be shrinking."],["Mercury’s large core","Mercury has a huge iron core, making up about 85 percent of its radius. MESSENGER measured its gravity field to learn about the core’s structure, which helps explain its magnetic field."]],
 k:[["Launched","3 August 2004"],["Entered Mercury orbit","18 March 2011 (UTC)"],["Flybys","Earth once, Venus twice, Mercury three times"],["Key discovery","Water ice in polar craters"],["Mission end","30 April 2015"]],
 d:[["1974","Mariner 10 makes the first Mercury flyby"],["2004","MESSENGER launched"],["2008","First MESSENGER flyby of Mercury"],["2011","MESSENGER enters orbit around Mercury"],["2012","Water ice confirmed at Mercury’s poles"],["2015","MESSENGER crashes into Mercury"]],
-s2:[["After MESSENGER","The European–Japanese BepiColombo mission is now arriving at Mercury with two orbiters to study the planet in even more detail, building on MESSENGER’s maps and puzzles."],["The final impact","MESSENGER hit Mercury at about 14,000 kilometers per hour, on the side facing away from Earth, probably making a crater about 16 meters wide. Scientists hope future missions can photograph it."]],
+s2:[["After MESSENGER","The European–Japanese BepiColombo mission entered orbit around Mercury in November 2026 with two orbiters to study the planet in even more detail, building on MESSENGER’s maps and puzzles."],["The final impact","MESSENGER hit Mercury at about 14,000 kilometers per hour, on the side facing away from Earth, probably making a crater about 16 meters wide. Scientists hope future missions can photograph it."]],
 sp:["Naming craters","Craters on Mercury are named after famous artists, musicians and writers. MESSENGER’s images led to many new names, such as craters honoring Ernest Hemingway, Dr. Seuss and Pablo Picasso."],
 g:[["Gravity assist","Using a planet’s gravity to change a spacecraft’s speed"],["Scarp","A long cliff"],["Permanently shadowed crater","A crater floor that never receives sunlight"],["Volatile","A substance that evaporates easily"]],
 f:["MESSENGER was the first spacecraft to orbit Mercury.","It found water ice on Mercury.","It crashed into Mercury in 2015."],
-fun:"Mercury, the closest planet to the Sun, has ice in its polar craters that MESSENGER detected.",
-tl:"Ang MESSENGER ang unang spacecraft na umikot sa Mercury. Nakatagpo ito ng yelo sa mga madilim na bunganga ng Mercury, at mahigit anim na taon at anim na flyby ang inabot bago ito nakarating doon."});
+fun:"Mercury, the closest planet to the Sun, has ice in its polar craters that MESSENGER detected."});
 
 ADDART({id:"marinerprogram",t:"The Mariner Program",c:"Space Exploration",i:"🛰️",w:"Mariner program",r:["venusmissions","mars","mercury","space","vikinglanders"],
 p:[["First to the planets","NASA’s Mariner probes were the first to visit other planets."],["Venus, Mars and Mercury","Mariners explored three planets between 1962 and 1975."],["First planetary orbiter","Mariner 9 became the first spacecraft to orbit another planet."]],
@@ -100,8 +93,7 @@ s2:[["The ‘most expensive hyphen’","Writer Arthur C. Clarke called the error
 sp:["The pastel picture","The hand-colored first image of Mars from Mariner 4, made with pastels from an art store, is now displayed at NASA’s Jet Propulsion Laboratory."],
 g:[["Flyby","A mission that passes a planet without stopping"],["Orbiter","A spacecraft that circles a planet"],["Radiometer","An instrument that measures radiation"],["Solar wind","A stream of charged particles from the Sun"]],
 f:["Mariner 2 was the first successful planetary flyby.","Mariner 4 sent the first close-up photos of Mars.","Mariner 9 was the first planetary orbiter."],
-fun:"Valles Marineris, a Martian canyon as long as the United States is wide, is named after the Mariner 9 spacecraft that discovered it.",
-tl:"Ang mga Mariner probe ng NASA ang unang bumisita sa ibang planeta. Ginalugad nila ang Venus, Mars at Mercury mula 1962 hanggang 1975, at ang Mariner 9 ang unang spacecraft na umikot sa ibang planeta."});
+fun:"Valles Marineris, a Martian canyon as long as the United States is wide, is named after the Mariner 9 spacecraft that discovered it."});
 
 ADDART({id:"lro",t:"The Lunar Reconnaissance Orbiter",c:"Space Exploration",i:"🌕",w:"Lunar Reconnaissance Orbiter",r:["moon","apollo","artemis","moonbases","chandrayaan"],
 p:[["Mapping the Moon","LRO has mapped the Moon in detail since 2009."],["Apollo footprints","It photographed Apollo landing sites, rovers and tracks."],["Hunting water","Its partner LCROSS found water ice at the Moon’s south pole."]],
@@ -113,8 +105,7 @@ s2:[["Coldest places","Some craters near the Moon’s poles have not seen sunlig
 sp:["Lunokhod reflector","After LRO found the Soviet Lunokhod 1 rover, scientists aimed lasers at its retroreflector and received a bright return signal, using it to measure the distance to the Moon precisely."],
 g:[["Reconnaissance","Exploration to gather information"],["Permanently shadowed region","An area that never receives sunlight"],["Plume","A cloud of material thrown up by an impact"],["Retroreflector","A device that reflects light back to its source"]],
 f:["LRO has orbited the Moon since 2009.","It photographed Apollo landing sites.","LCROSS found water ice near the lunar south pole."],
-fun:"LRO measured temperatures in the Moon’s shadowed craters that are colder than the surface of Pluto.",
-tl:"Detalyadong iminamapa ng LRO ang Buwan mula pa noong 2009. Kinunan nito ng larawan ang mga lugar na nilapagan ng Apollo, at natuklasan ng kasama nitong LCROSS ang yelong tubig sa south pole ng Buwan."});
+fun:"LRO measured temperatures in the Moon’s shadowed craters that are colder than the surface of Pluto."});
 
 ADDART({id:"insight",t:"InSight: Listening to Mars",c:"Space Exploration",i:"📡",w:"InSight",r:["mars","marsrovers","quake","vikinglanders","phobosdeimos"],
 p:[["A Martian seismometer","InSight listened for marsquakes from 2018 to 2022."],["Inside Mars","It measured Mars’s crust, mantle and liquid core."],["More than 1,300 quakes","It detected more than 1,300 marsquakes."]],
@@ -126,8 +117,7 @@ s2:[["Listening to Mars","Scientists converted InSight’s seismic recordings in
 sp:["Selfie with dust","InSight took ‘selfies’ with its arm camera throughout its mission. Comparing them shows its once-shiny solar panels slowly turning reddish brown with Martian dust."],
 g:[["Seismometer","An instrument that detects ground vibrations"],["Marsquake","An earthquake on Mars"],["Mantle","The rocky layer between a planet’s crust and core"],["CubeSat","A small, standardized satellite"]],
 f:["InSight landed on Mars in 2018.","It detected more than 1,300 marsquakes.","It showed Mars has a liquid core."],
-fun:"InSight’s final message, posted shortly before the mission ended, was a photo captioned that it might be its last.",
-tl:"Nakinig ang InSight sa mga lindol sa Mars mula 2018 hanggang 2022. Sinukat nito ang crust, mantle at likidong core ng Mars, at nakatuklas ito ng mahigit 1,300 lindol doon."});
+fun:"InSight’s final message, posted shortly before the mission ended, was a photo captioned that it might be its last."});
 
 ADDART({id:"hopeprobe",t:"The Hope Mars Mission",c:"Space Exploration",i:"🔴",w:"Emirates Mars Mission",r:["mars","uaecountry","spaceagencies","tianwen","phobosdeimos"],
 p:[["The Arab world’s first Mars mission","Hope is the United Arab Emirates’ Mars orbiter."],["Weather on Mars","It studies Mars’s atmosphere and weather around the clock."],["Arrived in 2021","It reached Mars orbit in February 2021."]],
@@ -139,8 +129,7 @@ s2:[["The UAE in space","The UAE also sent its first astronaut, Hazzaa Al Mansou
 sp:["Deimos up close","In 2023, Hope flew within about 100 kilometers of Deimos, the smaller of Mars’s two moons, and found evidence that Deimos may have formed from material blasted off Mars rather than being a captured asteroid."],
 g:[["Interplanetary","Traveling between planets"],["Orbit insertion","Slowing down to be captured into orbit"],["Atmospheric escape","Gas leaking from a planet into space"],["Launch window","The best period to launch toward a target"]],
 f:["Hope is the Arab world’s first interplanetary mission.","It reached Mars orbit in 2021.","It studies Martian weather through the day."],
-fun:"Hope’s arrival at Mars was timed for 2021, the 50th anniversary year of the founding of the United Arab Emirates.",
-tl:"Ang Hope ang Mars orbiter ng United Arab Emirates at unang interplanetary mission ng isang bansang Arabo. Pinag-aaralan nito ang atmospera at panahon sa Mars, at nakarating ito sa orbit ng Mars noong Pebrero 2021."});
+fun:"Hope’s arrival at Mars was timed for 2021, the 50th anniversary year of the founding of the United Arab Emirates."});
 
 ADDART({id:"isromissions",t:"India’s Space Missions",c:"Space Exploration",i:"🇮🇳",w:"Indian Space Research Organisation",r:["chandrayaan","indiacountry","spaceagencies","mars","sun"],
 p:[["Mars on the first try","India reached Mars orbit on its first attempt in 2014."],["Watching the Sun","Aditya-L1 studies the Sun from a point 1.5 million kilometers away."],["Astronauts next","India is preparing to launch its own astronauts with Gaganyaan."]],
@@ -152,25 +141,23 @@ s2:[["A bicycle and a bullock cart","In ISRO’s early days, rocket parts were c
 sp:["Mars on a banknote","Mangalyaan was so celebrated in India that it appeared on the country’s 2,000-rupee banknote, introduced in 2016."],
 g:[["ISRO","Indian Space Research Organisation"],["Mangalyaan","India’s Mars Orbiter Mission (mangal means Mars)"],["Halo orbit","A looping orbit around a Lagrange point"],["Astronaut-designate","A person selected and training for spaceflight"]],
 f:["India reached Mars orbit on its first try in 2014.","Aditya-L1 watches the Sun.","Chandrayaan-3 landed near the Moon’s south pole in 2023."],
-fun:"India’s Mars mission cost less than the Hollywood space film Gravity.",
-tl:"Nakarating ang India sa orbit ng Mars sa una nitong pagtatangka noong 2014. Pinag-aaralan ng Aditya-L1 ang Araw mula sa layong 1.5 milyong kilometro, at naghahanda ang India na magpalipad ng sarili nitong mga astronaut sa Gaganyaan."});
+fun:"India’s Mars mission cost less than the Hollywood space film Gravity."});
 
 ADDART({id:"spacex",t:"SpaceX",c:"Space Exploration",i:"🚀",w:"SpaceX",r:["reusablerockets","starship","commspace","megaconstellations","iss"],
 p:[["A rocket company","SpaceX is an American company that builds rockets and spacecraft."],["Landing boosters","It made reusable rocket boosters routine."],["Most launches in the world","Its Falcon 9 rocket launches more often than any other."]],
-l:"SpaceX (Space Exploration Technologies Corp.) is an American aerospace company founded in 2002 by entrepreneur Elon Musk with the goal of lowering the cost of spaceflight and eventually sending people to Mars. After three failures, its small Falcon 1 rocket became the first privately developed liquid-fueled rocket to reach orbit on 28 September 2008. Its Dragon capsule became the first commercial spacecraft to deliver cargo to the International Space Station in May 2012. On 21 December 2015, SpaceX landed the first stage of a Falcon 9 rocket back on land after an orbital launch, and it went on to make booster landings and reuse routine, with some boosters flying more than 30 times. The Falcon Heavy, first launched on 6 February 2018, sent a Tesla car toward Mars orbit as a test payload. On 30 May 2020, Crew Dragon carried NASA astronauts to the space station, the first crewed orbital launch by a private company. SpaceX’s Starlink network of more than 10,000 satellites provides internet service worldwide, and it is developing Starship, the largest rocket ever flown. SpaceX now launches far more often than any country, and in 2026 it filed plans to sell shares to the public for the first time.",
+l:"SpaceX (Space Exploration Technologies Corp.) is an American aerospace company founded in 2002 by entrepreneur Elon Musk with the goal of lowering the cost of spaceflight and eventually sending people to Mars. After three failures, its small Falcon 1 rocket became the first privately developed liquid-fueled rocket to reach orbit on 28 September 2008. Its Dragon capsule became the first commercial spacecraft to deliver cargo to the International Space Station in May 2012. On 21 December 2015, SpaceX landed the first stage of a Falcon 9 rocket back on land after an orbital launch, and it went on to make booster landings and reuse routine, with some boosters flying more than 30 times. The Falcon Heavy, first launched on 6 February 2018, sent a Tesla car toward Mars orbit as a test payload. On 30 May 2020, Crew Dragon carried NASA astronauts to the space station, the first crewed orbital launch by a private company. SpaceX’s Starlink network of more than 10,000 satellites provides internet service worldwide, and it is developing Starship, the largest rocket ever flown. SpaceX now launches far more often than any country, and on 12 June 2026 its shares began trading on the Nasdaq stock exchange after the largest public share sale in history, which raised about 75 billion dollars.",
 s:[["Early struggles","SpaceX’s first three Falcon 1 launches, from Kwajalein Atoll in the Pacific, failed between 2006 and 2008. Musk later said the company had money for only one more try. The fourth launch succeeded, and months later NASA awarded SpaceX a contract to resupply the space station."],["Reusable rockets","Falcon 9 boosters fly back and land on landing pads or drone ships at sea using their engines and grid fins. Reusing boosters has greatly cut the cost of launches. SpaceX also recovers and reuses the nose cones, called fairings."],["Starlink","SpaceX began launching Starlink satellites in 2019 and has put thousands in orbit, the largest satellite network ever. Starlink serves millions of customers, including ships, aircraft and remote areas, but astronomers worry about satellite streaks spoiling observations."],["Criticism and concerns","SpaceX’s rapid testing has caused spectacular explosions, and some environmental groups and residents near its Texas base have raised concerns. Its dominance has also prompted debate about how much governments should depend on one company."]],
 k:[["Founded","2002, by Elon Musk"],["First private liquid-fueled rocket to orbit","Falcon 1, 28 September 2008"],["First orbital booster landing","21 December 2015"],["First crewed launch","30 May 2020"],["Headquarters","Starbase, Texas"]],
-d:[["2002","SpaceX founded"],["2008","Falcon 1 reaches orbit"],["2010","First Falcon 9 launch"],["2012","Dragon delivers cargo to the ISS"],["2015","First Falcon 9 booster landing"],["2018","Falcon Heavy debut"],["2020","Crew Dragon carries astronauts to the ISS"]],
+d:[["2002","SpaceX founded"],["2008","Falcon 1 reaches orbit"],["2010","First Falcon 9 launch"],["2012","Dragon delivers cargo to the ISS"],["2015","First Falcon 9 booster landing"],["2018","Falcon Heavy debut"],["2020","Crew Dragon carries astronauts to the ISS"],["2026","Shares begin trading on the Nasdaq stock exchange"]],
 s2:[["Falcon Heavy’s Starman","The first Falcon Heavy carried Elon Musk’s red Tesla Roadster, with a mannequin in a spacesuit named Starman at the wheel, into an orbit around the Sun that crosses the orbit of Mars."],["Launch rate","In the 2020s, SpaceX began launching more than 100 times a year, sometimes several times in a single day, carrying most of the world’s payloads into orbit."]],
 sp:["Drone ship names","SpaceX’s landing ships are named after spaceships from science fiction novels by Iain M. Banks, such as ‘Of Course I Still Love You’ and ‘A Shortfall of Gravitas’."],
 g:[["Booster","The first stage of a rocket"],["Drone ship","An uncrewed ship used as a landing platform"],["Payload","The cargo a rocket carries"],["Fairing","The nose cone that protects a payload"]],
 f:["SpaceX was founded in 2002.","It made reusable rocket boosters routine.","Crew Dragon first carried astronauts in 2020."],
-fun:"Some SpaceX Falcon 9 boosters have flown to space and landed back on Earth more than 30 times.",
-tl:"Ang SpaceX ay kompanyang Amerikano na gumagawa ng rocket at spacecraft. Ginawa nitong karaniwan ang muling paggamit ng mga rocket booster, at ang Falcon 9 nito ang pinakamadalas ilunsad sa buong mundo."});
+fun:"Some SpaceX Falcon 9 boosters have flown to space and landed back on Earth more than 30 times."});
 
 ADDART({id:"blueorigin",t:"Blue Origin",c:"Space Exploration",i:"🪶",w:"Blue Origin",r:["reusablerockets","spacetourism","commspace","artemis","rocketengines"],
 p:[["Jeff Bezos’s rocket company","Blue Origin was founded by Amazon founder Jeff Bezos in 2000."],["Space tourism","Its New Shepard rocket carries tourists on short trips to space."],["New Glenn","Its large New Glenn rocket first reached orbit in 2025."]],
-l:"Blue Origin is an American aerospace company founded in 2000 by Jeff Bezos, the founder of Amazon, with the long-term goal of millions of people living and working in space. Its motto is Gradatim Ferociter, Latin for ‘step by step, ferociously’. Its first rocket, New Shepard, named after astronaut Alan Shepard, is a reusable suborbital rocket that carries a capsule with up to six people past the Kármán line, about 100 kilometers up, for a few minutes of weightlessness before the capsule parachutes back to Earth. On 23 November 2015, New Shepard became the first rocket to fly to space and land vertically. Bezos himself flew on its first crewed flight on 20 July 2021, and later passengers included actor William Shatner, who at 90 became the oldest person in space at the time. Blue Origin also builds BE-4 rocket engines, which power its own New Glenn rocket and United Launch Alliance’s Vulcan. New Glenn, about 98 meters tall, reached orbit on its first flight on 16 January 2025, and on its second flight in November 2025 its booster landed on a ship at sea. After problems in 2026, including a launch on which the upper stage underperformed and a rocket explosion during a ground test, the company has been working to return New Glenn to flight. Blue Origin is also building the Blue Moon lander for NASA’s Artemis program.",
+l:"Blue Origin is an American aerospace company founded in 2000 by Jeff Bezos, the founder of Amazon, with the long-term goal of millions of people living and working in space. Its motto is Gradatim Ferociter, Latin for ‘step by step, ferociously’. Its first rocket, New Shepard, named after astronaut Alan Shepard, is a reusable suborbital rocket that carries a capsule with up to six people past the Kármán line, about 100 kilometers up, for a few minutes of weightlessness before the capsule parachutes back to Earth. On 23 November 2015, New Shepard became the first rocket to fly to space and land vertically. Bezos himself flew on its first crewed flight on 20 July 2021, and later passengers included actor William Shatner, who at 90 became the oldest person in space at the time. Blue Origin also builds BE-4 rocket engines, which power its own New Glenn rocket and United Launch Alliance’s Vulcan. New Glenn, about 98 meters tall, reached orbit on its first flight on 16 January 2025, and on its second flight in November 2025 its booster landed on a ship at sea. After problems in 2026, including a launch on which the upper stage underperformed and a rocket explosion during a ground test, the company has been rebuilding its launch pad and plans to return New Glenn to flight in early 2027. Blue Origin is also building the Blue Moon lander for NASA’s Artemis program.",
 s:[["New Shepard","New Shepard flights last about 10 to 11 minutes. The capsule has some of the largest windows ever flown in space. The booster lands upright on a pad in the West Texas desert, and capsules and boosters are reused. In early 2026, Blue Origin paused New Shepard flights to focus on New Glenn and its Moon lander."],["New Glenn","Named after John Glenn, the first American to orbit Earth, New Glenn’s first stage is designed to be reused at least 25 times. Its second flight launched NASA’s twin ESCAPADE probes toward Mars. In 2026, the rocket was grounded after an underperforming launch in April and an explosion during an engine test in May that damaged its launch pad."],["Blue Moon","In 2023, NASA selected Blue Origin to build a lander for the Artemis V mission. A smaller uncrewed lander, Blue Moon Mark 1, is designed to deliver cargo to the Moon."],["Rivalry","Blue Origin and SpaceX have competed for contracts and attention, and their founders have exchanged public jabs. Blue Origin has moved more slowly than SpaceX but has steadily added capabilities."]],
 k:[["Founded","2000, by Jeff Bezos"],["Motto","Gradatim Ferociter (step by step, ferociously)"],["Suborbital rocket","New Shepard"],["Orbital rocket","New Glenn (first launch 16 January 2025)"],["Engine","BE-4"]],
 d:[["2000","Blue Origin founded"],["2015","New Shepard lands after reaching space"],["2021","Jeff Bezos flies on New Shepard"],["2021","William Shatner flies to space at 90"],["2025","New Glenn reaches orbit on its first flight"],["2025","New Glenn booster lands at sea"]],
@@ -178,8 +165,7 @@ s2:[["The feather","Blue Origin’s logo features a feather, symbolizing flight,
 sp:["The tortoise","Blue Origin’s coat of arms shows two tortoises, a reference to the fable of the tortoise and the hare, reflecting its slow-and-steady philosophy."],
 g:[["Suborbital","Reaching space without going into orbit"],["Kármán line","A boundary of space, about 100 kilometers up"],["Lander","A spacecraft that touches down on a surface"],["Grounded","Not allowed to fly until problems are fixed"]],
 f:["Blue Origin was founded in 2000.","New Shepard carries tourists to space.","New Glenn first reached orbit in 2025."],
-fun:"William Shatner, who played Captain Kirk in Star Trek, flew to space on Blue Origin’s New Shepard at the age of 90.",
-tl:"Itinatag ni Jeff Bezos ang Blue Origin noong 2000. Nagdadala ang New Shepard nito ng mga turista sa maiikling biyahe sa kalawakan, at unang nakarating sa orbit ang malaking New Glenn noong 2025."});
+fun:"William Shatner, who played Captain Kirk in Star Trek, flew to space on Blue Origin’s New Shepard at the age of 90."});
 
 ADDART({id:"commercialcrew",t:"Crew Dragon and Starliner",c:"Space Exploration",i:"👩‍🚀",w:"Commercial Crew Program",r:["spacex","iss","commspace","spaceshuttle","spacetourism"],
 p:[["Private taxis to space","NASA pays companies to carry astronauts to the space station."],["Crew Dragon","SpaceX’s Crew Dragon has flown astronauts since 2020."],["Starliner’s troubles","Boeing’s Starliner has faced repeated problems."]],
@@ -191,8 +177,7 @@ s2:[["Stuck in space?","News reports often said Wilmore and Williams were ‘str
 sp:["The flag","When the Space Shuttle left the ISS for the last time in 2011, astronauts left a small US flag there, promising it would be collected by the next astronauts to launch from America. Hurley and Behnken retrieved it in 2020."],
 g:[["Crewed","Carrying people"],["Docking","Joining two spacecraft in orbit"],["Thruster","A small rocket engine used for steering"],["Splashdown","Landing a spacecraft in water"]],
 f:["Crew Dragon first carried astronauts in 2020.","Starliner’s 2024 crew returned on Crew Dragon.","Polaris Dawn made the first commercial spacewalk."],
-fun:"Two astronauts expecting an eight-day test flight on Starliner in 2024 ended up spending about nine months in space.",
-tl:"Binabayaran ng NASA ang mga pribadong kompanya upang maghatid ng mga astronaut sa space station. Nagpapalipad ng mga astronaut ang Crew Dragon ng SpaceX mula 2020, habang paulit-ulit na nagkaproblema ang Starliner ng Boeing."});
+fun:"Two astronauts expecting an eight-day test flight on Starliner in 2024 ended up spending about nine months in space."});
 
 ADDART({id:"sls",t:"The Space Launch System and Orion",c:"Space Exploration",i:"🌙",w:"Space Launch System",r:["artemis","moon","apollo","rocket","starship"],
 p:[["NASA’s Moon rocket","SLS is NASA’s giant rocket for the Artemis Moon missions."],["Orion capsule","Orion carries astronauts to the Moon and back."],["Around the Moon in 2026","Artemis II carried four astronauts around the Moon in April 2026."]],
@@ -204,8 +189,7 @@ s2:[["Shuttle heritage","SLS reuses designs and even actual hardware from the Sp
 sp:["Snoopy in space","A plush Snoopy toy flew on Artemis I as the zero-gravity indicator. When it began to float freely in the cabin, cameras showed that the spacecraft had reached weightlessness."],
 g:[["Heavy-lift rocket","A rocket that carries very large payloads"],["Core stage","The main central body of a rocket"],["Service module","The part of a spacecraft that provides power and propulsion"],["Heat shield","A protective layer for reentry"]],
 f:["SLS first launched in 2022.","Orion carries up to four astronauts.","Artemis II flew around the Moon in April 2026."],
-fun:"Some of the RS-25 engines on SLS rockets previously flew to space on Space Shuttle missions.",
-tl:"Ang SLS ang higanteng rocket ng NASA para sa mga misyong Artemis sa Buwan, at ang Orion ang nagdadala ng mga astronaut doon at pabalik. Dinala ng Artemis II ang apat na astronaut paikot sa Buwan noong Abril 2026."});
+fun:"Some of the RS-25 engines on SLS rockets previously flew to space on Space Shuttle missions."});
 
 ADDART({id:"ariane",t:"Ariane Rockets",c:"Space Exploration",i:"🇪🇺",w:"Ariane (rocket family)",r:["spaceagencies","rocket","jwst","spaceports","rosetta"],
 p:[["Europe’s rockets","Ariane rockets give Europe its own access to space."],["Launched from the jungle","They lift off from French Guiana in South America."],["Webb’s ride","An Ariane 5 launched the James Webb Space Telescope."]],
@@ -217,8 +201,7 @@ s2:[["The name","Ariane is the French form of Ariadne, the princess in Greek myt
 sp:["Webb’s Christmas launch","The James Webb Space Telescope, the most expensive science mission ever, lifted off on an Ariane 5 on Christmas Day 2021, a launch watched by millions around the world."],
 g:[["Launch vehicle","A rocket that carries payloads to space"],["Strap-on booster","An extra rocket attached to the side"],["Upper stage","The top part of a rocket that reaches orbit"],["Commercial satellite","A satellite owned by a company"]],
 f:["Ariane 1 first flew in 1979.","Ariane rockets launch from French Guiana.","An Ariane 5 launched the Webb telescope."],
-fun:"A single software bug destroyed the first Ariane 5 rocket only 37 seconds after launch in 1996.",
-tl:"Binibigyan ng mga rocket na Ariane ang Europa ng sariling daan patungong kalawakan. Inilulunsad ang mga ito mula sa French Guiana sa Timog Amerika, at isang Ariane 5 ang naglunsad ng James Webb Space Telescope."});
+fun:"A single software bug destroyed the first Ariane 5 rocket only 37 seconds after launch in 1996."});
 
 ADDART({id:"asteroidmining",t:"Asteroid Mining",c:"Space Exploration",i:"⛏️",w:"Asteroid mining",r:["asteroidbelt","psyche","osirisrex","hayabusa","spacelaw"],
 p:[["Mines in space","Asteroid mining means extracting materials from asteroids."],["Water and metals","Asteroids contain water, iron, nickel and precious metals."],["Not yet","No one has mined an asteroid yet, but missions have collected samples."]],
@@ -230,8 +213,7 @@ s2:[["Trillion-dollar asteroids","Headlines sometimes claim that asteroids like 
 sp:["Mining in science fiction","Asteroid mining has long been a theme of science fiction, from early 20th-century stories to the TV series The Expanse, where miners in the asteroid belt form their own society."],
 g:[["Space resources","Materials found in space that could be used"],["Platinum-group metals","Rare metals including platinum and palladium"],["Sample return","Bringing material from space to Earth"],["Outer Space Treaty","The 1967 treaty forming the basis of space law"]],
 f:["No asteroid has been commercially mined yet.","OSIRIS-REx brought back about 121.6 grams of Bennu.","Water may be the first space resource mined."],
-fun:"Water mined from asteroids could someday be turned into rocket fuel, creating gas stations in space.",
-tl:"Ang asteroid mining ay ang pagkuha ng mga materyal mula sa mga asteroid, gaya ng tubig, bakal, nickel at mamahaling metal. Wala pang nakapagmimina ng asteroid, ngunit may mga misyong nakakuha na ng sample."});
+fun:"Water mined from asteroids could someday be turned into rocket fuel, creating gas stations in space."});
 
 ADDART({id:"spacesolar",t:"Space-Based Solar Power",c:"Space Exploration",i:"🔆",w:"Space-based solar power",r:["solarpower","sat","renew","moonbases","orbits"],
 p:[["Sunshine from orbit","Space-based solar power would collect sunlight in space and beam it to Earth."],["No night, no clouds","In orbit, solar panels can catch sunlight almost all the time."],["Early tests","Small experiments have beamed power in space."]],
@@ -243,8 +225,7 @@ s2:[["Japan’s plans","Japan has researched space solar power for decades and h
 sp:["Peter Glaser","Peter Glaser was a Czech-born American engineer. His 1968 article in the journal Science started serious study of space-based solar power."],
 g:[["Rectenna","A receiving antenna that converts microwaves into electricity"],["Geostationary orbit","An orbit that keeps a satellite over one spot"],["Microwave","A type of radio wave"],["Wireless power","Sending energy without wires"]],
 f:["Space solar panels can collect sunlight almost all the time.","The idea appeared in a 1941 story.","Caltech beamed power in space in 2023."],
-fun:"The idea of beaming solar power from space first appeared in a science fiction story by Isaac Asimov in 1941.",
-tl:"Ang space-based solar power ay pangongolekta ng sikat ng araw sa kalawakan at pagpapadala nito sa Earth. Sa orbit, halos palaging nakasisilip ng araw ang mga solar panel, at may maliliit nang eksperimento ng pagpapadala ng kuryente sa kalawakan."});
+fun:"The idea of beaming solar power from space first appeared in a science fiction story by Isaac Asimov in 1941."});
 
 ADDART({id:"shoemakerlevy9",t:"Comet Shoemaker–Levy 9",c:"Space and Astronomy",i:"💥",w:"Comet Shoemaker–Levy 9",r:["jupiter","comet","planetdefense","galileoprobe","hubblest"],
 p:[["A comet hits Jupiter","In July 1994, pieces of a comet crashed into Jupiter."],["Torn apart","Jupiter’s gravity had broken the comet into more than 20 pieces."],["Scars larger than Earth","The impacts left dark marks bigger than our planet."]],
@@ -256,5 +237,4 @@ s2:[["Eugene Shoemaker","Geologist Eugene Shoemaker proved that Meteor Crater in
 sp:["Not so rare","Since 1994, amateur astronomers have recorded several smaller objects hitting Jupiter, appearing as brief flashes, showing that the giant planet is struck far more often than once thought."],
 g:[["Comet","An icy body that grows a tail near the Sun"],["Tidal forces","Stretching forces caused by gravity"],["Fragment","A broken piece"],["Megaton","Energy equal to a million tons of TNT"]],
 f:["Shoemaker–Levy 9 hit Jupiter in July 1994.","Jupiter’s gravity broke it into about 21 pieces.","Some impact scars were larger than Earth."],
-fun:"Eugene Shoemaker, co-discoverer of the comet, is the only person whose ashes rest on the Moon.",
-tl:"Noong Hulyo 1994, bumagsak sa Jupiter ang mga piraso ng isang kometa. Dinurog ito ng grabidad ng Jupiter sa mahigit 20 piraso, at nag-iwan ang mga pagbagsak ng madidilim na marka na mas malaki pa sa Earth."});
+fun:"Eugene Shoemaker, co-discoverer of the comet, is the only person whose ashes rest on the Moon."});

@@ -9,8 +9,7 @@ s2:[["Why the masks?","Hoods hid members’ identities, making it hard to prosec
 sp:["The film that revived the Klan","The Birth of a Nation (1915) was a technically groundbreaking silent film but presented the Klan as heroes. The NAACP protested against it, and historians see its popularity as a key reason the Klan returned."],
 g:[["White supremacy","The racist belief that white people are superior"],["Reconstruction","The period after the US Civil War (1865–1877)"],["Lynching","Murder by a mob without trial"],["Hate group","An organization that attacks people because of their identity"]],
 f:["The Klan was founded by six Confederate veterans.","The burning cross was introduced by the second Klan in 1915.","Lawsuits have bankrupted several Klan groups."],
-fun:"In the 1940s, the radio show The Adventures of Superman used secret Klan code words revealed by an investigator, helping to make the group look ridiculous.",
-tl:"Ang Ku Klux Klan ay isang Amerikanong grupo ng poot na naniniwala sa supremasya ng mga puti, itinatag noong 1865. Gumamit ito ng pananakot at karahasan laban sa mga Black American at iba pa, at maliit na lamang ito ngayon."});
+fun:"In the 1940s, the radio show The Adventures of Superman used secret Klan code words revealed by an investigator, helping to make the group look ridiculous."});
 
 ADDART({id:"segregation",t:"Racial Segregation and Civil Rights",c:"History",i:"✊",w:"Racial segregation in the United States",r:["mlk","kkk","apartheid","racism","hrights"],
 p:[["Separate and unequal","Segregation was the forced separation of people by race."],["Jim Crow","Laws in the American South kept Black and white people apart for decades."],["The civil rights movement","Protests and court cases ended legal segregation in the 1950s and 1960s."]],
@@ -22,8 +21,7 @@ s2:[["Ruby Bridges","In 1960, six-year-old Ruby Bridges became the first Black c
 sp:["The Green Book","From 1936 to 1966, Black travelers in the United States used The Negro Motorist Green Book, a guide to hotels, restaurants and gas stations that would serve them. It helped people avoid humiliation and danger on the road."],
 g:[["Segregation","Separating people by race or another group"],["Jim Crow laws","Southern US laws enforcing segregation"],["Boycott","Refusing to use a service as a protest"],["Sit-in","A protest where people sit and refuse to leave"]],
 f:["The Montgomery bus boycott lasted 381 days.","Brown v. Board of Education was a unanimous decision.","Interracial marriage was banned in some US states until 1967."],
-fun:"Rosa Parks’s bus is now on display at the Henry Ford Museum in Michigan, where visitors can sit in her seat.",
-tl:"Ang segregasyon ay sapilitang paghihiwalay ng mga tao ayon sa lahi. Sa Estados Unidos, pinaghiwalay ng mga batas na Jim Crow ang mga Black at puti, hanggang wakasan ito ng kilusan para sa karapatang sibil at ng mga batas noong dekada 1950 at 1960."});
+fun:"Rosa Parks’s bus is now on display at the Henry Ford Museum in Michigan, where visitors can sit in her seat."});
 
 ADDART({id:"nanjing",t:"The Nanjing Massacre",c:"History",i:"🕯️",w:"Nanjing Massacre",r:["ww2","pacificwar","comfortwomen","china","genocide"],
 p:[["A wartime atrocity","In December 1937, Japanese troops killed huge numbers of civilians and prisoners in Nanjing, China."],["Weeks of terror","Mass killings, rape and looting went on for about six weeks."],["Still disputed","The death toll and memory of the massacre remain sensitive between China and Japan."]],
@@ -35,8 +33,7 @@ s2:[["Iris Chang’s book","In 1997, the Chinese-American writer Iris Chang publ
 sp:["John Rabe, ‘the good Nazi’","John Rabe used his Nazi Party membership to try to stop Japanese soldiers, sometimes showing his swastika armband to drive them off. He sheltered about 600 refugees in his own garden. After the war he lived in poverty in Germany, and grateful Nanjing residents sent him food parcels."],
 g:[["Massacre","The killing of many defenseless people"],["War crime","A serious violation of the laws of war"],["Safety zone","An area set aside to protect civilians"],["Tribunal","A special court"]],
 f:["The Nanking Safety Zone sheltered around 250,000 people.","A German Nazi Party member helped save many Chinese lives.","China has held a national day of remembrance for the massacre since 2014."],
-fun:"The American missionary John Magee secretly filmed scenes of the massacre with a 16 mm camera; his footage is some of the only film evidence.",
-tl:"Noong Disyembre 1937, pinatay ng mga sundalong Hapon ang napakaraming sibilyan at bilanggo sa Nanjing, China, at gumawa ng malawakang pang-aabuso sa loob ng mga anim na linggo. Pinagtatalunan pa rin ang bilang ng namatay at sensitibo ito sa ugnayan ng China at Japan."});
+fun:"The American missionary John Magee secretly filmed scenes of the massacre with a 16 mm camera; his footage is some of the only film evidence."});
 
 ADDART({id:"greatleap",t:"The Great Leap Forward",c:"History",i:"🌾",w:"Great Leap Forward",r:["mao","culturalrev","foodsecurity","china","socialism"],
 p:[["A rush to industrialize","The Great Leap Forward (1958–1962) was Mao Zedong’s plan to transform China quickly."],["Communes and furnaces","Peasants were organized into huge communes and made to produce steel in backyard furnaces."],["The great famine","The result was one of the deadliest famines in history, killing tens of millions."]],
@@ -48,8 +45,7 @@ s2:[["The war on sparrows","In 1958 the Four Pests campaign ordered people to ki
 sp:["Why famines happen","The economist Amartya Sen argued that famines are usually caused not simply by a lack of food but by a lack of access to it, and that no major famine has happened in a functioning democracy with a free press. China’s famine, where bad news could not be reported, is often cited as an example."],
 g:[["Commune","A large collective farm community"],["Famine","An extreme shortage of food causing mass hunger"],["Quota","A fixed amount that must be produced"],["Purge","Removing people from power"]],
 f:["The Great Chinese Famine is considered the deadliest famine in history.","Killing sparrows led to plagues of insects.","Much of the backyard steel was too poor to use."],
-fun:"Some villages tried to meet impossible harvest targets by moving crops from many fields into one field for officials to photograph.",
-tl:"Ang Great Leap Forward (1958–1962) ay plano ni Mao Zedong upang mabilis na gawing industriyal ang China. Inorganiza ang mga magsasaka sa malalaking komyun at pinagawa ng bakal, at nagresulta ito sa isa sa pinakamalalang taggutom sa kasaysayan na pumatay ng sampu-sampung milyon."});
+fun:"Some villages tried to meet impossible harvest targets by moving crops from many fields into one field for officials to photograph."});
 
 ADDART({id:"saddam",t:"Saddam Hussein",c:"People",i:"📕",w:"Saddam Hussein",r:["iraqcountry","sept11","isis","irancountry","terrorism"],
 p:[["Dictator of Iraq","Saddam Hussein ruled Iraq from 1979 to 2003."],["Wars and repression","He fought Iran, invaded Kuwait and used chemical weapons against Kurds."],["Overthrown","A US-led invasion removed him in 2003; he was executed in 2006."]],
@@ -61,8 +57,7 @@ s2:[["Weapons of mass destruction","In the 1980s Iraq did make and use chemical 
 sp:["The toppled statue","On 9 April 2003, a large statue of Saddam in Firdos Square, Baghdad, was pulled down with the help of a US armored vehicle as Iraqis cheered. The televised scene became a symbol of the end of his rule."],
 g:[["Ba’athism","An Arab nationalist and socialist ideology"],["Chemical weapons","Poisonous substances used as weapons"],["Coalition","A group of countries acting together"],["Sanctions","Penalties, such as trade bans, placed on a country"]],
 f:["Saddam ruled Iraq for 24 years.","No weapons of mass destruction stockpiles were found after the 2003 invasion.","Halabja is remembered as the largest chemical attack on civilians in history."],
-fun:"Saddam wrote several novels, including one called Zabiba and the King, published anonymously.",
-tl:"Si Saddam Hussein ang diktador ng Iraq mula 1979 hanggang 2003. Nakipagdigma siya sa Iran, sinakop ang Kuwait at gumamit ng kemikal na armas laban sa mga Kurd. Pinatalsik siya ng pagsalakay ng Estados Unidos noong 2003 at binitay noong 2006."});
+fun:"Saddam wrote several novels, including one called Zabiba and the King, published anonymously."});
 
 ADDART({id:"sept11",t:"The September 11 Attacks",c:"History",i:"🕯️",w:"September 11 attacks",r:["terrorism","isis","saddam","conspiracy","skyscrapers"],
 p:[["Attacks on America","On 11 September 2001, terrorists hijacked four airliners in the United States."],["Nearly 3,000 killed","Two planes destroyed the World Trade Center towers in New York."],["A changed world","The attacks led to wars in Afghanistan and Iraq and tighter security worldwide."]],
@@ -74,8 +69,7 @@ s2:[["The memorial","The National September 11 Memorial in New York has two huge
 sp:["The Survivor Tree","A badly burned Callery pear tree was found in the rubble at Ground Zero in October 2001. It was nursed back to health and replanted at the memorial in 2010, where it blooms each spring as a symbol of resilience."],
 g:[["Hijack","To take control of a vehicle by force"],["Terrorism","Violence against civilians to cause fear for political aims"],["Ground Zero","The site of the destroyed World Trade Center"],["War on terror","The US-led campaign against terrorist groups after 9/11"]],
 f:["People from more than 90 countries died in the attacks.","The passengers of Flight 93 voted to fight back.","The twin towers were 110 stories tall."],
-fun:"One World Trade Center, built near the site, is exactly 1,776 feet tall, a reference to the year of American independence.",
-tl:"Noong 11 Setyembre 2001, inagaw ng 19 na terorista ng al-Qaeda ang apat na eroplano sa Estados Unidos. Winasak ng dalawa ang kambal na tore ng World Trade Center sa New York, at halos 3,000 ang namatay, na humantong sa mga digmaan sa Afghanistan at Iraq."});
+fun:"One World Trade Center, built near the site, is exactly 1,776 feet tall, a reference to the year of American independence."});
 
 ADDART({id:"mccarthyism",t:"McCarthyism and the Red Scare",c:"History",i:"🟥",w:"McCarthyism",r:["coldwar","censorship","witchhunts","democ","propaganda"],
 p:[["Fear of communism","The Red Scare was a period of intense fear of communists in the United States."],["Accusations without evidence","Senator Joseph McCarthy accused many people of disloyalty with little proof."],["Lasting lessons","‘McCarthyism’ now means making reckless accusations to silence opponents."]],
@@ -87,8 +81,7 @@ s2:[["Real spies, false accusations","Decoded Soviet messages, known as the Veno
 sp:["‘Have you no sense of decency?’","On 9 June 1954, McCarthy attacked a young lawyer who worked with Joseph Welch. Welch’s reply, broadcast to millions, turned public opinion against McCarthy, and the audience in the hearing room applauded."],
 g:[["Red Scare","A period of intense fear of communism"],["Blacklist","A list of people to be refused jobs"],["Censure","An official condemnation"],["Civil liberties","Basic freedoms such as speech and belief"]],
 f:["Thousands of Americans lost their jobs during the Red Scare.","McCarthy’s list of communists kept changing in number.","The Crucible uses the Salem witch trials to criticize McCarthyism."],
-fun:"Blacklisted writer Dalton Trumbo won two Academy Awards for scripts written under false names.",
-tl:"Ang McCarthyism ay paggawa ng mga paratang ng kataksilan nang walang sapat na ebidensya, ipinangalan kay Senador Joseph McCarthy ng Estados Unidos. Noong panahon ng Red Scare, libo-libo ang nawalan ng trabaho dahil sa takot sa komunismo."});
+fun:"Blacklisted writer Dalton Trumbo won two Academy Awards for scripts written under false names."});
 
 ADDART({id:"watergate",t:"The Watergate Scandal",c:"History",i:"🗂️",w:"Watergate scandal",r:["journalism","conspiracy","democ","whistleblowers","coldwar"],
 p:[["A break-in and a cover-up","Watergate began with a burglary at the Democratic Party’s offices in 1972."],["Presidential tapes","Secret recordings proved President Nixon helped cover it up."],["The only presidential resignation","Nixon resigned in 1974 rather than face removal."]],
@@ -100,8 +93,7 @@ s2:[["‘-gate’","Watergate gave English the suffix ‘-gate’, now attached 
 sp:["All the President’s Men","Woodward and Bernstein’s 1974 book All the President’s Men, and the 1976 film starring Robert Redford and Dustin Hoffman, made investigative journalism famous. The film’s line ‘Follow the money’ became a catchphrase for investigators."],
 g:[["Cover-up","An attempt to hide wrongdoing"],["Impeachment","Formally charging an official with misconduct"],["Obstruction of justice","Interfering with an investigation"],["Pardon","Officially forgiving a crime"]],
 f:["Nixon is the only US president to have resigned.","The break-in was discovered because of tape on a door lock.","Deep Throat’s identity was kept secret for over 30 years."],
-fun:"An 18½-minute gap on one of Nixon’s tapes, which his secretary said she may have caused accidentally, has never been explained.",
-tl:"Ang iskandalong Watergate ay nagsimula sa pagnanakaw sa tanggapan ng Partidong Demokratiko noong 1972. Pinatunayan ng mga lihim na rekording na tumulong si Pangulong Nixon sa pagtatakip, kaya nagbitiw siya noong 1974, ang tanging pangulo ng Estados Unidos na gumawa nito."});
+fun:"An 18½-minute gap on one of Nixon’s tapes, which his secretary said she may have caused accidentally, has never been explained."});
 
 ADDART({id:"witchhunts",t:"Witch Hunts",c:"History",i:"🧹",w:"Witch trials in the early modern period",r:["inquisition","mccarthyism","reform","conspiracy","hrights"],
 p:[["Fear of witchcraft","From about 1450 to 1750, Europe and its colonies tried and executed tens of thousands of people as witches."],["Mostly women","About four out of five of those executed were women."],["Salem","The Salem witch trials of 1692 are the most famous case in America."]],
@@ -113,8 +105,7 @@ s2:[["Witch hunt as a metaphor","Since the McCarthy era, ‘witch hunt’ has be
 sp:["Swimming a witch","In the ‘swimming test’, a suspect was tied and thrown into water. Because water was thought to reject the wicked, floating meant guilt, while sinking meant innocence, though the person might drown. The test was banned in many places but used informally for a long time."],
 g:[["Witchcraft","The supposed use of magic, especially to harm"],["Secular","Not religious"],["Exonerate","To officially clear of blame"],["Hysteria","Uncontrolled fear or excitement in a group"]],
 f:["Most victims of the witch hunts were women.","Nobody was burned at Salem; those executed were hanged.","Some European countries executed far more accused witches than others."],
-fun:"The Salem Witch Museum is one of the most visited attractions in Massachusetts, and the town celebrates Halloween for the whole month of October.",
-tl:"Ang witch hunt ay kampanyang hanapin at parusahan ang mga taong pinaratangang mangkukulam. Mula mga 1450 hanggang 1750, libo-libo ang binitay sa Europa, karamihan ay mga babae, at ang mga paglilitis sa Salem noong 1692 ang pinakatanyag sa Amerika."});
+fun:"The Salem Witch Museum is one of the most visited attractions in Massachusetts, and the town celebrates Halloween for the whole month of October."});
 
 ADDART({id:"inquisition",t:"The Inquisition",c:"History",i:"⚖️",w:"Inquisition",r:["crusades","reform","galileo","witchhunts","spaincountry"],
 p:[["Church courts","The Inquisition was a system of Catholic Church courts that tried people accused of heresy."],["The Spanish Inquisition","Spain’s Inquisition, from 1478 to 1834, targeted converted Jews and Muslims."],["Galileo’s trial","The Roman Inquisition put Galileo on trial in 1633."]],
@@ -126,8 +117,7 @@ s2:[["The Inquisition in Asia and the Americas","The Inquisition operated in Spa
 sp:["‘Nobody expects the Spanish Inquisition!’","A famous 1970 sketch by the British comedy group Monty Python showed bumbling inquisitors bursting in with the line ‘Nobody expects the Spanish Inquisition!’ It made the Inquisition a familiar joke for millions who knew little of its history."],
 g:[["Heresy","A belief contrary to official religious teaching"],["Inquisitor","An official who investigated heresy"],["Auto-da-fé","A public ceremony where Inquisition sentences were read"],["Denunciation","Accusing someone to the authorities"]],
 f:["The Spanish Inquisition lasted 356 years.","Galileo was officially rehabilitated by the Church in 1992.","Inquisition tribunals operated in Mexico, Peru and India."],
-fun:"The Inquisition’s archives in Spain are so detailed that historians use them to study everyday life, from cooking to clothing, in the 1500s.",
-tl:"Ang Inkisisyon ay sistema ng mga hukuman ng Simbahang Katoliko na lumilitis sa mga pinaratangang erehe. Pinakatanyag ang Inkisisyong Espanyol (1478–1834), at nilitis ng Inkisisyong Romano si Galileo noong 1633."});
+fun:"The Inquisition’s archives in Spain are so detailed that historians use them to study everyday life, from cooking to clothing, in the 1500s."});
 
 ADDART({id:"childsoldiers",t:"Child Soldiers",c:"Society",i:"🧒",w:"Children in the military",r:["hrights","un","genocide","trafficking","terrorism"],
 p:[["Children at war","Child soldiers are children used by armed forces or groups."],["Forced to fight","Many are kidnapped, forced to fight or used as porters, spies or cooks."],["Banned by law","International law forbids using children under 18 in combat."]],
@@ -139,5 +129,4 @@ s2:[["Why children?","Children can be easier to frighten, manipulate and control
 sp:["The red hand","The symbol of Red Hand Day is a red handprint, meaning ‘stop’. People around the world make red handprints on paper, which have been presented to the UN and to governments to demand an end to the use of child soldiers."],
 g:[["Armed group","A fighting force that is not a country’s army"],["Abduct","To kidnap"],["Trauma","Lasting emotional harm from a terrible experience"],["War crime","A serious violation of the laws of war"]],
 f:["The ICC’s first verdict was about child soldiers.","Girls make up a significant share of children used by armed groups.","Red Hand Day is marked on 12 February."],
-fun:"Ishmael Beah, a former child soldier, became a UNICEF Advocate for Children Affected by War and has written a novel as well as his memoir.",
-tl:"Ang mga batang sundalo ay mga batang wala pang 18 taon na ginagamit ng mga hukbo o armadong grupo. Marami ang dinukot at pinilit lumaban, at ipinagbabawal ng pandaigdigang batas ang paggamit sa kanila sa labanan."});
+fun:"Ishmael Beah, a former child soldier, became a UNICEF Advocate for Children Affected by War and has written a novel as well as his memoir."});

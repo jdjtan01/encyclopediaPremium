@@ -9,8 +9,7 @@ s2:[["The moose test","Sweden tests how cars handle sudden swerves to avoid a mo
 sp:["The word moose","The English word ‘moose’ comes from an Algonquian language word, often translated as ‘twig eater’ or ‘he strips off bark’, referring to how moose feed in winter."],
 g:[["Boreal forest","The cold northern forest of conifers"],["Antler","A bony growth shed and regrown each year"],["Velvet","Soft skin covering growing antlers"],["Bell","A flap of skin under a moose’s throat"]],
 f:["The moose is the largest deer.","Moose can dive underwater to feed.","In Britain the moose is called an elk."],
-fun:"A moose’s antlers are among the fastest-growing tissues of any animal, adding up to about 2.5 centimeters a day.",
-tl:"Ang moose ang pinakamalaking uri ng usa at nakatira sa malalamig na gubat ng Hilagang Amerika, Europa at Asya. Tinatawag itong elk sa Britanya at Europa."});
+fun:"A moose’s antlers are among the fastest-growing tissues of any animal, adding up to about 2.5 centimeters a day."});
 
 ADDART({id:"jaguars",t:"Jaguars",c:"Animals and Nature",i:"🐆",w:"Jaguar",r:["leopards","tiger","amazon","maya","conservation"],
 p:[["Big cat of the Americas","The jaguar is the largest cat in the Americas."],["Powerful bite","Jaguars kill prey by biting through skulls and turtle shells."],["Loves water","Unlike most cats, jaguars swim well and hunt in rivers."]],
@@ -22,8 +21,7 @@ s2:[["The fur trade","In the 1960s and early 1970s, tens of thousands of jaguar 
 sp:["The Pantanal","The Pantanal, the world’s largest tropical wetland, has one of the highest densities of jaguars. Jaguar-watching tourism there has become worth more to local communities than cattle ranching in some areas."],
 g:[["Rosette","A rose-shaped spot pattern"],["Ambush predator","An animal that hides and attacks suddenly"],["Wildlife corridor","Habitat that connects separated populations"],["CITES","An international treaty controlling wildlife trade"]],
 f:["The jaguar is the largest cat in the Americas.","Jaguars can bite through turtle shells.","Jaguars are strong swimmers."],
-fun:"A jaguar’s bite is strong enough that it often kills prey with a single bite to the back of the skull, something few other big cats do.",
-tl:"Ang jaguar ang pinakamalaking pusa sa Amerika at may napakalakas na kagat. Hindi tulad ng karamihan ng pusa, mahusay itong lumangoy at nanghuhuli sa mga ilog."});
+fun:"A jaguar’s bite is strong enough that it often kills prey with a single bite to the back of the skull, something few other big cats do."});
 
 ADDART({id:"squirrels",t:"Squirrels",c:"Animals and Nature",i:"🐿️",w:"Squirrel",r:["rodents","trees","oaks","invasiveplants","animalbehavior"],
 p:[["Busy rodents","Squirrels are a family of rodents that includes tree squirrels, chipmunks and marmots."],["Planting forests","Forgotten nuts buried by squirrels grow into new trees."],["Gliders","Flying squirrels glide between trees using skin flaps."]],
@@ -35,8 +33,7 @@ s2:[["Squirrel-proof feeders","Squirrels are famous for raiding bird feeders, so
 sp:["Indian giant squirrel","The Indian giant squirrel, or Malabar giant squirrel, has a brilliantly colored coat of maroon, orange, cream and black and can leap about 6 meters between trees in the forests of India."],
 g:[["Rodent","A mammal with constantly growing front teeth"],["Cache","A hidden store of food"],["Patagium","The skin membrane used by gliding animals"],["Hibernate","To spend winter in a deep, sleep-like state"]],
 f:["Forgotten squirrel nuts can grow into trees.","Flying squirrels glide, not fly.","Squirrels can climb down trees headfirst."],
-fun:"A squirrel’s front teeth never stop growing, about 15 centimeters a year, so it must keep gnawing to wear them down.",
-tl:"Ang squirrel ay pamilya ng mga daga na kabilang ang mga squirrel sa puno, chipmunk at marmot. Tumutubo bilang bagong puno ang mga nakalimutang nuwes na ibinaon nila, at may mga squirrel na lumilipad-lipad sa pagitan ng mga puno."});
+fun:"A squirrel’s front teeth never stop growing, about 15 centimeters a year, so it must keep gnawing to wear them down."});
 
 ADDART({id:"tapirs",t:"Tapirs",c:"Animals and Nature",i:"🐗",w:"Tapir",r:["rhino","horses","amazon","conservation","malaysiacountry"],
 p:[["Living fossils","Tapirs have changed little in tens of millions of years."],["A short trunk","Their flexible snout works like a small trunk."],["Gardeners of the forest","Tapirs spread seeds across forests."]],
@@ -48,8 +45,7 @@ s2:[["Mountain tapir","The mountain tapir of the Andes has thick, woolly fur to 
 sp:["Watermelon babies","Tapir calves are born with reddish-brown coats covered in white stripes and spots, which camouflage them in dappled forest light. The pattern fades by about six months of age."],
 g:[["Proboscis","A long, flexible snout"],["Seed dispersal","Spreading seeds to new places"],["Living fossil","A species little changed over millions of years"],["Páramo","High, cold grasslands of the Andes"]],
 f:["Tapirs are related to horses and rhinos.","Baby tapirs look like watermelons.","Tapirs use their snouts as snorkels."],
-fun:"The Malayan tapir’s black-and-white pattern makes it look like a black animal wearing a white blanket.",
-tl:"Ang tapir ay malaking hayop na kumakain ng halaman at may nababaluktot na nguso na parang maikling trompa. Kamag-anak ito ng kabayo at rhino, at tinutulungan nitong ikalat ang mga buto sa gubat."});
+fun:"The Malayan tapir’s black-and-white pattern makes it look like a black animal wearing a white blanket."});
 
 ADDART({id:"iguanas",t:"Iguanas",c:"Animals and Nature",i:"🦎",w:"Iguana",r:["lizard","galapagos","invasiveplants","darwin","pets"],
 p:[["Big plant-eating lizards","Iguanas are large lizards of the Americas and Caribbean."],["Sea-going iguanas","Galápagos marine iguanas are the only lizards that feed in the sea."],["A third eye","Iguanas have a light-sensing ‘third eye’ on top of the head."]],
@@ -61,8 +57,7 @@ s2:[["Iguanas as food","In parts of Central America, iguana meat and eggs are tr
 sp:["The third eye","The parietal eye has a simple lens and retina but cannot form images. It detects changes in light and may help iguanas sense predators from above and regulate daily and seasonal rhythms."],
 g:[["Dewlap","A flap of skin under the throat"],["Parietal eye","A light-sensing organ on top of the head"],["Cold-blooded","Relying on outside heat for body temperature"],["Bask","To lie in the sun to warm up"]],
 f:["Marine iguanas are the only sea-feeding lizards.","Iguanas have a light-sensing third eye.","Cold iguanas can fall from trees."],
-fun:"Marine iguanas can shrink their skeletons by up to about 20 percent when food is scarce, then grow back when times improve.",
-tl:"Ang iguana ay malaking butiki mula sa Amerika at Caribbean. Ang marine iguana ng Galápagos lamang ang butiking kumakain sa dagat, at may ‘ikatlong mata’ ang iguana sa ibabaw ng ulo na nakadarama ng liwanag."});
+fun:"Marine iguanas can shrink their skeletons by up to about 20 percent when food is scarce, then grow back when times improve."});
 
 ADDART({id:"pelicans",t:"Pelicans",c:"Animals and Nature",i:"🦤",w:"Pelican",r:["birds","puffins","fish","pollution","albatross"],
 p:[["Built-in fishing nets","Pelicans scoop fish with huge stretchy throat pouches."],["Diving and herding","Brown pelicans plunge-dive, while white pelicans fish in teams."],["A comeback","Brown pelicans recovered after the pesticide DDT was banned."]],
@@ -74,8 +69,7 @@ s2:[["Pelican Island","In 1903, US President Theodore Roosevelt made Pelican Isl
 sp:["Prehistoric pelicans","A 30-million-year-old fossil from France shows that pelicans with almost the same bill and pouch existed long ago, suggesting the design has changed little since then."],
 g:[["Throat pouch","A stretchy skin bag under the bill"],["Plunge-dive","Diving into water from flight"],["DDT","A pesticide that thinned bird eggshells"],["Colony","A group of birds nesting together"]],
 f:["A pelican’s pouch holds about 11 liters of water.","Brown pelicans recovered after DDT was banned.","Some pelicans fish in cooperative teams."],
-fun:"Pelicans sometimes try to swallow surprising things, and one in a London park was filmed swallowing a pigeon whole, though it later let it go.",
-tl:"Gumagamit ang pelikano ng malaki at nababanat na supot sa lalamunan upang manghuli ng isda. Bumalik ang brown pelican matapos ipagbawal ang pestisidyong DDT."});
+fun:"Pelicans sometimes try to swallow surprising things, and one in a London park was filmed swallowing a pigeon whole, though it later let it go."});
 
 ADDART({id:"toucans",t:"Toucans",c:"Animals and Nature",i:"🐦",w:"Toucan",r:["birds","amazon","parrot","hornbill","seeds"],
 p:[["Giant colorful bills","Toucans are tropical birds with huge, bright bills."],["Light but large","The bill is light because it is mostly hollow inside."],["Natural radiators","Toucans use their bills to release heat."]],
@@ -87,8 +81,7 @@ s2:[["Grecia’s new beak","In 2015, a chestnut-mandibled toucan in Costa Rica n
 sp:["Name","The word toucan comes from the Tupi language of Brazil, possibly imitating the bird’s call."],
 g:[["Keratin","The tough protein in hair, nails and bills"],["Regurgitate","To bring swallowed food back up"],["Convergent evolution","Unrelated species evolving similar features"],["Aracari","A smaller kind of toucan"]],
 f:["A toucan’s bill is mostly hollow.","Toucans use their bills to cool down.","Toucans and hornbills are not close relatives."],
-fun:"When sleeping, a toucan turns its head and lays its bill along its back, then folds its tail forward to cover it, becoming a feathery ball.",
-tl:"Ang toucan ay ibong tropikal na may malaki at makulay na tuka. Magaan ang tuka nito dahil halos guwang sa loob, at ginagamit ito upang maglabas ng init ng katawan."});
+fun:"When sleeping, a toucan turns its head and lays its bill along its back, then folds its tail forward to cover it, becoming a feathery ball."});
 
 ADDART({id:"tardigrades",t:"Tardigrades",c:"Animals and Nature",i:"🐻",w:"Tardigrade",r:["microscopes","extremeheat","astrobio","ferns","animalbehavior"],
 p:[["Water bears","Tardigrades are tiny eight-legged animals nicknamed water bears."],["Almost indestructible","They survive drying out, freezing, radiation and even the vacuum of space."],["Found everywhere","Tardigrades live from mountaintops to the deep sea."]],
@@ -100,8 +93,7 @@ s2:[["Not quite indestructible","Tardigrades are tough only when dried out. Acti
 sp:["Eight legs","Tardigrades have four pairs of legs, each ending in claws or sticky discs. They walk with a gait similar to insects, despite their very different body plan and tiny brains."],
 g:[["Microscopic","Too small to see without a microscope"],["Cryptobiosis","A state in which life processes almost stop"],["Tun","The curled, dried state of a tardigrade"],["Metabolism","The chemical processes of life"]],
 f:["Tardigrades have survived the vacuum of space.","Tardigrades have eight legs.","Dried tardigrades can revive when wet."],
-fun:"Tardigrades crash-landed on the Moon in 2019, making them some of the first animals to reach its surface, though they almost certainly did not survive.",
-tl:"Ang tardigrade ay napakaliit na hayop na may walong paa at tinatawag na water bear. Nakaliligtas ito sa pagkatuyo, pagyeyelo, radyasyon at maging sa kalawakan, at matatagpuan ito mula sa tuktok ng bundok hanggang sa malalim na dagat."});
+fun:"Tardigrades crash-landed on the Moon in 2019, making them some of the first animals to reach its surface, though they almost certainly did not survive."});
 
 ADDART({id:"chickens",t:"Chickens",c:"Animals and Nature",i:"🐔",w:"Chicken",r:["birds","domestication","agri","dino","pets"],
 p:[["The most common bird","There are more chickens than any other bird on Earth."],["From the jungle","Chickens descend from the red junglefowl of Southeast Asia."],["Eggs and meat","Chickens are the world’s main source of eggs and a leading meat."]],
@@ -113,8 +105,7 @@ s2:[["Chickens in culture","The rooster is a symbol of France and one of the 12 
 sp:["Bird flu","Highly pathogenic avian influenza H5N1 spread worldwide after 2020, killing wild birds and poultry. In 2024, it was found in dairy cattle in the United States, raising concern about spread to mammals and people."],
 g:[["Domesticated","Bred and kept by people"],["Broiler","A chicken raised for meat"],["Pecking order","A social ranking among animals"],["Avian influenza","A virus that infects birds"]],
 f:["Chickens are the world’s most numerous bird.","Chickens descend from the red junglefowl.","Eggshell color does not affect taste."],
-fun:"There are about three chickens for every person on Earth.",
-tl:"Ang manok ang pinakamaraming ibon sa mundo at nagmula sa pulang labuyo ng Timog-silangang Asya. Ito ang pangunahing pinagkukunan ng itlog at isa sa pinakamahalagang karne."});
+fun:"There are about three chickens for every person on Earth."});
 
 ADDART({id:"cattle",t:"Cattle",c:"Animals and Nature",i:"🐄",w:"Cattle",r:["domestication","agri","bison","climchange","indiacountry"],
 p:[["Ancient partners","People domesticated cattle from wild aurochs about 10,500 years ago."],["Milk, meat and muscle","Cattle provide milk, beef, leather and pulling power."],["Climate impact","Cattle produce methane, a powerful greenhouse gas."]],
@@ -126,8 +117,7 @@ s2:[["Cattle drives","After the American Civil War, cowboys drove millions of Te
 sp:["Cows have best friends","Studies suggest that cows form close bonds with particular herd members, and their heart rates and stress levels fall when they are with a preferred companion."],
 g:[["Ruminant","An animal that chews cud and has a multi-chambered stomach"],["Aurochs","The extinct wild ancestor of cattle"],["Zebu","Humped cattle from South Asia"],["Methane","A powerful greenhouse gas"]],
 f:["Cattle descend from the extinct aurochs.","A cow’s stomach has four chambers.","Most cow methane comes from burping."],
-fun:"Cows can recognize more than 50 individual members of their herd.",
-tl:"Inalagaan ng tao ang baka mula sa ligaw na aurochs mga 10,500 taon na ang nakalipas. Nagbibigay ito ng gatas, karne, katad at lakas sa paghila, ngunit naglalabas ito ng methane, isang malakas na greenhouse gas."});
+fun:"Cows can recognize more than 50 individual members of their herd."});
 
 ADDART({id:"mangoes",t:"Mangoes",c:"Food and Agriculture",i:"🥭",w:"Mango",r:["fruits","indiacountry","trade","coconut","culturalrev"],
 p:[["King of fruits","Mangoes are sweet tropical fruits loved across Asia and beyond."],["From South Asia","Mangoes were domesticated in India thousands of years ago."],["Cashew cousins","Mangoes belong to the same family as cashews and poison ivy."]],
@@ -139,8 +129,7 @@ s2:[["Mango diplomacy","Pakistan and India have long sent boxes of mangoes to fo
 sp:["The Philippine mango","The Carabao mango, known for its sweetness, was once listed by Guinness World Records as the sweetest mango. Dried Philippine mangoes are a popular export."],
 g:[["Drupe","A fruit with a single hard stone, like a peach"],["Urushiol","An oily irritant found in mango skin and poison ivy"],["Chutney","A spicy sauce made with fruit"],["Variety","A distinct type of a plant"]],
 f:["India grows about 40 percent of the world’s mangoes.","Mangoes are related to cashews.","Mango skin can cause rashes."],
-fun:"The paisley pattern, popular in clothing, is thought to be based on the shape of a mango or a teardrop.",
-tl:"Ang mangga ay matamis na prutas na tropikal na nagmula sa Timog Asya at inalagaan sa India libu-libong taon na ang nakalipas. Kabilang ito sa parehong pamilya ng kasoy, at ito ang pambansang prutas ng India, Pakistan at Pilipinas."});
+fun:"The paisley pattern, popular in clothing, is thought to be based on the shape of a mango or a teardrop."});
 
 ADDART({id:"strawberries",t:"Strawberries",c:"Food and Agriculture",i:"🍓",w:"Strawberry",r:["fruits","roses","apples","francecountry","chilecountry"],
 p:[["Not a true berry","Botanically, a strawberry is not a berry."],["Seeds on the outside","Each ‘seed’ on a strawberry is actually a tiny fruit."],["A French-made hybrid","The garden strawberry was created by accident in 18th-century France."]],
@@ -152,8 +141,7 @@ s2:[["The name","The origin of the word ‘strawberry’ is uncertain. It may co
 sp:["Plougastel","The town of Plougastel in Brittany, France, near where the first garden strawberries were grown, became famous for strawberry farming and has a strawberry museum."],
 g:[["Accessory fruit","A fruit whose flesh comes from parts other than the ovary"],["Achene","A small dry fruit containing one seed"],["Runner","A horizontal stem that roots to form a new plant"],["Hybrid","The offspring of two different species"]],
 f:["Strawberries are not true berries.","A strawberry has about 200 seeds on the outside.","The garden strawberry is a French-made hybrid of two American species."],
-fun:"Strawberries are the only fruit that wears its seeds on the outside.",
-tl:"Ang strawberry ay hindi tunay na berry, at ang bawat ‘buto’ sa labas nito ay isang maliit na prutas. Nabuo ang strawberry sa hardin bilang aksidenteng hybrid sa France noong ika-18 siglo."});
+fun:"Strawberries are the only fruit that wears its seeds on the outside."});
 
 ADDART({id:"avocados",t:"Avocados",c:"Food and Agriculture",i:"🥑",w:"Avocado",r:["fruits","mexicocountry","drugtrade","waterscarcity","droughts"],
 p:[["A fatty fruit","Avocados are fruits rich in healthy fats."],["From Mexico","Avocados were domesticated in Mexico and Central America."],["Green gold","Rising demand has brought wealth but also water and crime problems."]],
@@ -165,8 +153,7 @@ s2:[["The name","The word avocado comes from the Nahuatl word āhuacatl. Spanish
 sp:["Guacamole","Guacamole, mashed avocado with lime, onion, chili and cilantro, was made by the Aztecs, whose name for it, ahuacamolli, meant ‘avocado sauce’."],
 g:[["Monounsaturated fat","A kind of fat considered healthy"],["Ethylene","A gas that makes fruits ripen"],["Megafauna","Very large animals"],["Extortion","Getting money by threats"]],
 f:["Avocados ripen only after picking.","All Hass avocados come from one tree.","Avocados are rich in fats rather than sugar."],
-fun:"Botanically, an avocado is a large berry with a single seed.",
-tl:"Ang abokado ay prutas na mayaman sa malusog na taba at nagmula sa Mexico at Gitnang Amerika. Ang tumataas na demand ay nagdala ng yaman ngunit pati na rin ng problema sa tubig at krimen."});
+fun:"Botanically, an avocado is a large berry with a single seed."});
 
 ADDART({id:"pumpkins",t:"Pumpkins and Squash",c:"Food and Agriculture",i:"🎃",w:"Cucurbita",r:["fruits","mexicocountry","festivals","agri","tomatoes"],
 p:[["Ancient American crops","Squash was among the first plants domesticated in the Americas."],["The Three Sisters","Squash was grown with corn and beans by Indigenous farmers."],["Giant pumpkins","The record pumpkin, grown in 2026, weighed about 1,432 kilograms."]],
@@ -178,8 +165,7 @@ s2:[["Pumpkin pie","Pumpkin pie became a traditional dessert at Thanksgiving in 
 sp:["Pumpkin regattas","In several towns in North America and Europe, people hollow out giant pumpkins weighing hundreds of kilograms, climb in and paddle them across lakes in pumpkin regattas."],
 g:[["Gourd family","A plant family including pumpkins, cucumbers and melons"],["Three Sisters","Corn, beans and squash grown together"],["Pepo","A berry with a hard rind, like a pumpkin"],["Jack-o’-lantern","A carved lantern, usually a pumpkin"]],
 f:["Squash was domesticated before corn.","Jack-o’-lanterns were first carved from turnips.","The record pumpkin weighed about 1,432 kg."],
-fun:"Giant pumpkins grow so quickly near their peak that they can gain more than 20 kilograms in a single day.",
-tl:"Ang kalabasa at squash ay kabilang sa mga unang halamang inalagaan sa Amerika at itinanim kasama ng mais at bitsuwelas sa sistemang Three Sisters. Ang pinakamabigat na kalabasa, na pinalaki noong 2026, ay mga 1,432 kilo."});
+fun:"Giant pumpkins grow so quickly near their peak that they can gain more than 20 kilograms in a single day."});
 
 ADDART({id:"brassicas",t:"Cabbage, Broccoli and Kale",c:"Food and Agriculture",i:"🥦",w:"Brassica oleracea",r:["plantbased","vitamins","domestication","evolution","agri"],
 p:[["One plant, many vegetables","Cabbage, broccoli, cauliflower, kale and Brussels sprouts are all one species."],["Bred by farmers","Farmers created them by selecting different parts of a wild cabbage."],["Bitter taste","Some people taste these vegetables as more bitter because of their genes."]],
@@ -191,8 +177,7 @@ s2:[["Sprouts are getting sweeter","Many people today find Brussels sprouts less
 sp:["Wild cabbage","Wild cabbage still grows on chalk and limestone cliffs in Britain, France and other parts of Europe. It is a tough plant with thick, waxy leaves that store water and resist salt spray."],
 g:[["Artificial selection","Breeding by choosing plants with desired traits"],["Glucosinolate","A sulfur compound in mustard-family plants"],["Fermentation","Changing food using microbes"],["Fractal","A pattern that repeats at smaller scales"]],
 f:["Broccoli and cabbage are the same species.","Brussels sprouts have become less bitter through breeding.","Kimchi is made mainly from napa cabbage."],
-fun:"Broccoli, cauliflower and kohlrabi were all bred from the same wild cabbage plant, which you can still find growing on European sea cliffs.",
-tl:"Ang repolyo, broccoli, cauliflower, kale at Brussels sprouts ay iisang species lamang. Binuo ang mga ito ng mga magsasaka sa pagpili ng iba’t ibang bahagi ng ligaw na repolyo."});
+fun:"Broccoli, cauliflower and kohlrabi were all bred from the same wild cabbage plant, which you can still find growing on European sea cliffs."});
 
 ADDART({id:"oaks",t:"Oak Trees",c:"Plants",i:"🌳",w:"Oak",r:["trees","squirrels","deforestation","ships","grapes"],
 p:[["Mighty trees","Oaks are long-lived trees and shrubs that produce acorns."],["Homes for wildlife","A single oak can support thousands of other species."],["Wood for ships and wine","Oak wood built navies and ages wine and whisky."]],
@@ -204,8 +189,7 @@ s2:[["Famous oaks","The Major Oak in Sherwood Forest, England, linked in legend 
 sp:["Mast years","Scientists think oaks synchronize mast years using weather cues, such as warm, dry springs. In mast years, mice and deer populations boom the following year, which can increase ticks and Lyme disease."],
 g:[["Acorn","The nut of an oak tree"],["Mast year","A year with a huge seed crop"],["Tannin","A bitter substance in oak bark and acorns"],["Cooper","A person who makes barrels"]],
 f:["There are about 500 species of oak.","British oaks support more than 2,300 species.","HMS Victory used about 6,000 trees."],
-fun:"An oak may not produce acorns until it is about 20 to 50 years old, and its biggest crops come when it is about 80 to 120 years old.",
-tl:"Ang oak ay matagal mabuhay na punong gumagawa ng acorn. Libu-libong uri ng ibang buhay ang umaasa sa iisang oak, at ginamit ang kahoy nito sa paggawa ng barko at bariles ng alak."});
+fun:"An oak may not produce acorns until it is about 20 to 50 years old, and its biggest crops come when it is about 80 to 120 years old."});
 
 ADDART({id:"legumes",t:"Beans and Legumes",c:"Food and Agriculture",i:"🫘",w:"Legume",r:["plantbased","agri","mendel","nutri","soil"],
 p:[["Seeds in pods","Legumes include beans, peas, lentils, chickpeas and peanuts."],["Natural fertilizer","Legumes work with bacteria to add nitrogen to the soil."],["Protein-rich","They are an important source of protein around the world."]],
@@ -217,5 +201,4 @@ s2:[["Beans and wind","Beans contain sugars called oligosaccharides that humans 
 sp:["Favism","Some people, especially in Mediterranean, African and Asian populations, have an inherited condition called G6PD deficiency. Eating fava beans can cause a dangerous breakdown of their red blood cells, a reaction called favism."],
 g:[["Pulse","A dried edible legume seed"],["Rhizobia","Bacteria that fix nitrogen in legume roots"],["Nitrogen fixation","Turning nitrogen gas into usable compounds"],["Crop rotation","Growing different crops in turn on the same land"]],
 f:["Legumes add nitrogen to the soil.","Peanuts are legumes, not nuts.","Mendel discovered heredity using peas."],
-fun:"Peanut pods ripen underground after the flower stalk bends down and plants them in the soil.",
-tl:"Kabilang sa legumes ang bitsuwelas, gisantes, lentil, garbanzos at mani. Nakikipagtulungan ang mga ito sa bakterya upang magdagdag ng nitrogen sa lupa, at mahalagang pinagkukunan ang mga ito ng protina sa buong mundo."});
+fun:"Peanut pods ripen underground after the flower stalk bends down and plants them in the soil."});

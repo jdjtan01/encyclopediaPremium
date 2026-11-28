@@ -9,8 +9,7 @@ s2:[["‘Vague but exciting’","Berners-Lee’s boss at CERN, Mike Sendall, wro
 sp:["Internet vs Web","The internet is the network of cables, routers and computers, created in the 1960s–1980s. The Web is one service that runs on it, like email or video calls. The Web made the internet easy to use for ordinary people."],
 g:[["Hyperlink","A clickable link to another page"],["Browser","Software for viewing web pages"],["HTML","The language used to write web pages"],["URL","A web address"]],
 f:["Tim Berners-Lee invented the Web in 1989.","The Web and the internet are not the same.","CERN made the Web free in 1993."],
-fun:"Tim Berners-Lee later said that if he could change one thing, he would remove the two slashes after ‘http:’, which he said were unnecessary.",
-tl:"Ang World Wide Web ay sistema ng magkakaugnay na pahina na tinitingnan sa browser. Iminungkahi ito ni Tim Berners-Lee sa CERN noong 1989, at tumatakbo ito sa ibabaw ng internet, na pinasikat nito."});
+fun:"Tim Berners-Lee later said that if he could change one thing, he would remove the two slashes after ‘http:’, which he said were unnecessary."});
 
 ADDART({id:"soundrecording",t:"Sound Recording",c:"Technology",i:"💿",w:"Sound recording and reproduction",r:["headphones","microphones","rockpop","streaming","radio"],
 p:[["Capturing sound","Sound recording stores sound so it can be played back."],["From cylinders to streams","Formats moved from wax cylinders and vinyl to tapes, CDs and digital files."],["Changing music","Recording turned music into something people could own and share."]],
@@ -22,8 +21,7 @@ s2:[["The oldest recording","In 2008, researchers used computers to play a phona
 sp:["Napster","Napster, launched in 1999 by student Shawn Fanning, let millions share MP3 files for free. Record companies sued, and it shut down in 2001, but it changed the music industry and led to paid downloads and streaming."],
 g:[["Analog","Stored as a continuous physical pattern"],["Digital","Stored as numbers"],["Multitrack","Recording separate parts to combine later"],["Compression","Making digital files smaller"]],
 f:["Edison’s first recording was ‘Mary Had a Little Lamb’.","CDs measure sound 44,100 times a second.","Vinyl outsold CDs in the US in 2020."],
-fun:"The oldest playable recording of a human voice, from 1860, was never meant to be heard; it was a tracing on paper that computers turned into sound in 2008.",
-tl:"Iniimbak ng sound recording ang tunog upang mapatugtog muli. Mula wax cylinder at vinyl hanggang tape, CD at digital file ang naging anyo nito, at ginawa nitong maaaring ariin at ibahagi ang musika."});
+fun:"The oldest playable recording of a human voice, from 1860, was never meant to be heard; it was a tracing on paper that computers turned into sound in 2008."});
 
 ADDART({id:"cgi",t:"CGI and Visual Effects",c:"Technology",i:"🎬",w:"Computer-generated imagery",r:["anim","cinema","videogames","dino","vrar"],
 p:[["Images from computers","CGI creates images and scenes using computer graphics."],["Movie magic","Visual effects bring dinosaurs, aliens and impossible worlds to the screen."],["From Tron to today","CGI went from simple shapes to photorealistic worlds."]],
@@ -35,8 +33,7 @@ s2:[["Jurassic Park’s dinosaurs","Jurassic Park originally planned to use stop
 sp:["Render farms","Pixar’s Toy Story took about 800,000 machine hours to render. Modern films can require hundreds of millions of hours spread across thousands of computers."],
 g:[["Render","To calculate the final image from a 3D scene"],["Motion capture","Recording movement to animate digital characters"],["Visual effects","Imagery added to or changed in footage"],["Uncanny valley","Unease at almost-human figures"]],
 f:["Toy Story was the first fully CGI feature film.","Jurassic Park switched from stop-motion to CGI.","Actors use motion capture to play digital characters."],
-fun:"The water droplet in the computer-generated ‘pseudopod’ in The Abyss (1989) was one of the first convincing CGI effects, paving the way for Terminator 2’s liquid-metal villain.",
-tl:"Lumilikha ang CGI ng mga larawan at eksena gamit ang computer graphics. Dinadala ng visual effects sa screen ang mga dinosaur, alien at imposibleng mundo, mula sa Tron hanggang sa makatotohanang mundo ngayon."});
+fun:"The water droplet in the computer-generated ‘pseudopod’ in The Abyss (1989) was one of the first convincing CGI effects, paving the way for Terminator 2’s liquid-metal villain."});
 
 ADDART({id:"holograms",t:"Holograms",c:"Technology",i:"✨",w:"Holography",r:["laser","light","money","vrar","particles"],
 p:[["3D images from light","A hologram records light to create a three-dimensional image."],["Invented in 1947","Dennis Gabor invented holography and won a Nobel Prize."],["On your bank card","Holograms help prevent counterfeiting of money and cards."]],
@@ -48,8 +45,7 @@ s2:[["The first laser holograms","In 1962, Emmett Leith and Juris Upatnieks in t
 sp:["Pepper’s ghost","Pepper’s ghost, popularized by John Henry Pepper in London in 1862, uses angled glass to reflect a hidden, brightly lit figure, making it appear as a transparent ghost on stage. It is still used in theme park rides and teleprompters."],
 g:[["Hologram","A recording that recreates a 3D image with light"],["Interference","Combining waves to form patterns"],["Coherent light","Light waves in step, like a laser"],["Counterfeiting","Making fake copies"]],
 f:["Dennis Gabor invented holography in 1947.","Holograms need lasers to make.","Many concert ‘holograms’ are optical illusions."],
-fun:"If you cut a true hologram in half, each half still shows the entire image, just from a narrower range of angles.",
-tl:"Ang hologram ay rekord ng liwanag na lumilikha ng tatlong-dimensyonal na larawan. Inimbento ito ni Dennis Gabor noong 1947, at tumutulong ito na pigilan ang pamemeke ng pera at card."});
+fun:"If you cut a true hologram in half, each half still shows the entire image, just from a narrower range of angles."});
 
 ADDART({id:"machinetranslation",t:"Machine Translation",c:"Technology",i:"🈂️",w:"Machine translation",r:["llm","langevo","ai","neural","mlearn"],
 p:[["Computers that translate","Machine translation uses software to translate between languages."],["From rules to neural networks","Methods moved from grammar rules to statistics and neural networks."],["Useful but imperfect","It helps billions of people but can make serious mistakes."]],
@@ -61,8 +57,7 @@ s2:[["The ALPAC report","In 1966, a US government committee concluded that machi
 sp:["Speech translation","Real-time speech translation combines speech recognition, machine translation and speech synthesis. Some earbuds and phones can now translate conversations almost instantly, though accuracy varies with accents and background noise."],
 g:[["Parallel text","A text and its translation side by side"],["Neural network","A computer system modeled loosely on the brain"],["Post-editing","Correcting machine translation"],["Idiom","A phrase whose meaning is not literal"]],
 f:["The first public machine translation was in 1954.","Google Translate switched to neural networks in 2016.","Many languages still lack good machine translation."],
-fun:"Early researchers in 1954 predicted that machine translation would be solved in three to five years; it took more than 60 years to become fluent.",
-tl:"Gumagamit ang machine translation ng software upang magsalin sa pagitan ng mga wika. Lumipat ang mga paraan mula sa mga tuntunin ng gramatika patungo sa estadistika at neural network, at kapaki-pakinabang ito ngunit maaaring magkamali nang malubha."});
+fun:"Early researchers in 1954 predicted that machine translation would be solved in three to five years; it took more than 60 years to become fluent."});
 
 ADDART({id:"facialrecognition",t:"Facial Recognition",c:"Technology",i:"🙂",w:"Facial recognition system",r:["surveillance","ai","dataprivacy","compvision","smartphone"],
 p:[["Identifying faces","Facial recognition software identifies or checks people from images of their faces."],["Everyday uses","It unlocks phones, speeds airport checks and tags photos."],["Controversial","Critics warn about surveillance, bias and privacy."]],
@@ -74,8 +69,7 @@ s2:[["Clearview AI","The company Clearview AI built a database of billions of fa
 sp:["Fooling the cameras","Artists and activists have designed makeup patterns, glasses and clothing to confuse facial recognition systems, though newer systems are harder to fool."],
 g:[["Faceprint","A numerical description of a face"],["Verification","Confirming identity"],["Identification","Finding who someone is"],["Deep learning","AI using many-layered neural networks"]],
 f:["Face ID uses about 30,000 infrared dots.","Some systems were less accurate for darker-skinned women.","San Francisco banned police facial recognition in 2019."],
-fun:"Some airports now let passengers board planes simply by looking at a camera, without showing a boarding pass or passport.",
-tl:"Kinikilala o sinusuri ng facial recognition software ang mga tao mula sa larawan ng kanilang mukha. Ginagamit ito sa pag-unlock ng telepono at sa paliparan, ngunit nagbababala ang mga kritiko tungkol sa pagmamatyag, pagkiling at privacy."});
+fun:"Some airports now let passengers board planes simply by looking at a camera, without showing a boarding pass or passport."});
 
 ADDART({id:"datastorage",t:"Data Storage",c:"Technology",i:"💾",w:"Computer data storage",r:["comp","chip","cloud","datacenters","soundrecording"],
 p:[["Keeping information","Data storage devices keep digital information for later use."],["From punch cards to flash","Storage moved from punched cards and tape to disks and chips."],["Shrinking and growing","Devices got smaller while storage capacity grew enormously."]],
@@ -87,8 +81,7 @@ s2:[["The save icon","The ‘save’ icon in many programs still shows a 3.5-inc
 sp:["DNA storage","In 2012, scientists encoded a whole book in DNA. Theoretically, a gram of DNA could store about 215 petabytes. DNA storage is still slow and expensive, but it could preserve data for thousands of years."],
 g:[["Byte","A unit of 8 bits of data"],["Hard drive","A device storing data on spinning magnetic disks"],["Flash memory","Chip-based storage without moving parts"],["SSD","Solid-state drive"]],
 f:["The first hard drive held about 5 megabytes.","Flash memory has no moving parts.","DNA can store huge amounts of data."],
-fun:"A modern microSD card the size of a fingernail can hold more than 200,000 times the data of the first 1-ton hard drive.",
-tl:"Iniimbak ng mga data storage device ang digital na impormasyon. Mula punched card at tape hanggang disk at chip ang naging anyo nito, at lumiit ang mga aparato habang lumaki nang husto ang kapasidad."});
+fun:"A modern microSD card the size of a fingernail can hold more than 200,000 times the data of the first 1-ton hard drive."});
 
 ADDART({id:"operatingsystems",t:"Operating Systems",c:"Technology",i:"🪟",w:"Operating system",r:["comp","smartphone","opensource","cybersecurity","coding"],
 p:[["The computer’s manager","An operating system manages a computer’s hardware and runs programs."],["Windows, macOS, Linux","These are the main desktop operating systems."],["Phones too","Android and iOS run almost all smartphones."]],
@@ -100,8 +93,7 @@ s2:[["The penguin","Linux’s mascot is a penguin named Tux, chosen by Linus Tor
 sp:["Grace Hopper","Computer pioneer Grace Hopper developed early compilers, programs that translate human-readable code into machine code, in the 1950s, laying foundations for programming languages and operating systems."],
 g:[["Kernel","The core of an operating system"],["Driver","Software that lets the OS control a device"],["Open source","Software whose code anyone can use and change"],["Graphical interface","A screen with windows, icons and pointers"]],
 f:["Linux runs all of the top 500 supercomputers.","Android is based on Linux.","Unix was created in 1969."],
-fun:"Linus Torvalds announced Linux in 1991 as ‘just a hobby, won’t be big and professional’.",
-tl:"Pinamamahalaan ng operating system ang hardware ng computer at pinatatakbo ang mga programa. Windows, macOS at Linux ang pangunahing OS sa desktop, habang Android at iOS ang nagpapatakbo sa halos lahat ng smartphone."});
+fun:"Linus Torvalds announced Linux in 1991 as ‘just a hobby, won’t be big and professional’."});
 
 ADDART({id:"officesoftware",t:"Spreadsheets and Word Processors",c:"Technology",i:"📊",w:"Spreadsheet",r:["comp","typewriter","operatingsystems","cloud","percent"],
 p:[["Office tools","Word processors write documents and spreadsheets calculate with tables."],["Killer apps","VisiCalc, the first spreadsheet, made people buy personal computers."],["Used everywhere","Billions of people use office software for work and school."]],
@@ -113,8 +105,7 @@ s2:[["Excel competitions","Since 2021, the Microsoft Excel World Championship ha
 sp:["Not patented","VisiCalc was never patented, because software patents were rare at the time. Bricklin has said that if it had been, the spreadsheet industry might have developed very differently."],
 g:[["Spreadsheet","A program for tables of data and calculations"],["Cell","One box in a spreadsheet grid"],["Formula","An instruction to calculate a value"],["Killer app","A program so useful it drives people to buy hardware"]],
 f:["VisiCalc was the first spreadsheet program.","Scientists renamed genes because of Excel.","Microsoft Word was first released in 1983."],
-fun:"Excel spreadsheets have been used to create art: Japanese retiree Tatsuo Horiuchi became famous for painting detailed landscapes using Excel’s drawing tools.",
-tl:"Gumagawa ng dokumento ang word processor at nagkakalkula gamit ang mga talahanayan ang spreadsheet. Pinabili ng VisiCalc, ang unang spreadsheet, ang mga tao ng personal computer, at bilyun-bilyon ang gumagamit ng office software ngayon."});
+fun:"Excel spreadsheets have been used to create art: Japanese retiree Tatsuo Horiuchi became famous for painting detailed landscapes using Excel’s drawing tools."});
 
 ADDART({id:"nanotech",t:"Nanotechnology",c:"Technology",i:"🔬",w:"Nanotechnology",r:["atom","chip","mrna","microscopes","superconduct"],
 p:[["The science of the very small","Nanotechnology works with materials at the scale of atoms and molecules."],["A nanometer is tiny","One nanometer is a billionth of a meter."],["Already everywhere","Nanotech is in computer chips, sunscreens, medicines and materials."]],
@@ -126,8 +117,7 @@ s2:[["Gray goo","In 1986, engineer K. Eric Drexler described tiny self-replicati
 sp:["Nobel for molecular machines","The 2016 Nobel Prize in Chemistry was awarded to Jean-Pierre Sauvage, Fraser Stoddart and Ben Feringa for designing molecular machines, including a ‘nanocar’ with four molecular wheels."],
 g:[["Nanometer","One billionth of a meter"],["Nanoparticle","A particle between 1 and 100 nanometers"],["Graphene","A one-atom-thick sheet of carbon"],["Scanning tunneling microscope","A microscope that images single atoms"]],
 f:["A nanometer is a billionth of a meter.","Graphene was first isolated using sticky tape.","mRNA vaccines use lipid nanoparticles."],
-fun:"IBM researchers once wrote their company name using just 35 individual xenon atoms.",
-tl:"Gumagana ang nanotechnology sa mga materyal sa antas ng mga atom at molekula, kung saan ang isang nanometro ay isang bilyong bahagi ng metro. Nasa computer chip, sunscreen, gamot at materyal na ito."});
+fun:"IBM researchers once wrote their company name using just 35 individual xenon atoms."});
 
 ADDART({id:"airships",t:"Airships",c:"Technology",i:"🎈",w:"Airship",r:["flight","drones","hydrogen","wwi","fluids"],
 p:[["Lighter than air","Airships float using gases lighter than air, such as helium."],["The age of Zeppelins","Giant German Zeppelins carried passengers across oceans in the 1930s."],["The Hindenburg disaster","The 1937 Hindenburg fire ended the airship era."]],
@@ -139,8 +129,7 @@ s2:[["‘Oh, the humanity!’","Radio reporter Herbert Morrison’s emotional de
 sp:["The R101","Britain’s airship R101 crashed in France on its first overseas voyage in October 1930, killing 48 people, ending Britain’s airship program."],
 g:[["Dirigible","A steerable airship"],["Blimp","An airship without a rigid frame"],["Helium","A light, non-flammable gas"],["Mooring mast","A tower to which airships are tied"]],
 f:["The Hindenburg disaster ended passenger airship travel.","The Graf Zeppelin flew around the world in 1929.","Blimps keep their shape by gas pressure."],
-fun:"The Hindenburg had a smoking room on board, sealed and pressurized to keep out hydrogen, despite being filled with explosive gas.",
-tl:"Lumulutang ang airship gamit ang mga gas na mas magaan sa hangin, gaya ng helium. Nagdala ng mga pasahero ang malalaking Zeppelin ng Germany noong 1930s, ngunit tinapos ng sunog ng Hindenburg noong 1937 ang panahon ng airship."});
+fun:"The Hindenburg had a smoking room on board, sealed and pressurized to keep out hydrogen, despite being filled with explosive gas."});
 
 ADDART({id:"hovercraft",t:"Hovercraft",c:"Technology",i:"🛥️",w:"Hovercraft",r:["ships","flight","tunnels","ww2","vacuumcleaner"],
 p:[["Riding on air","Hovercraft travel on a cushion of air over land, water, mud and ice."],["A British invention","Christopher Cockerell patented the hovercraft in 1955."],["Across the Channel","Large hovercraft carried cars across the English Channel for decades."]],
@@ -152,8 +141,7 @@ s2:[["‘My hovercraft is full of eels’","A famous Monty Python sketch feature
 sp:["World Hovercraft Championships","Hovercraft racing is a sport with national and world championships. Racers drive small hovercraft over grass, water and obstacle courses at speeds above 100 kilometers per hour."],
 g:[["Air cushion","A layer of pressurized air underneath a craft"],["Skirt","The flexible barrier holding the air cushion"],["Friction","Resistance between surfaces"],["Amphibious","Able to operate on land and water"]],
 f:["Hovercraft can cross land, water and ice.","Cockerell tested the idea with a vacuum cleaner and cans.","Hovercraft crossed the English Channel from 1968 to 2000."],
-fun:"Christopher Cockerell first tested his hovercraft idea using a vacuum cleaner, a cat food tin, a coffee tin and kitchen scales.",
-tl:"Naglalakbay ang hovercraft sa unan ng hangin sa ibabaw ng lupa, tubig, putik at yelo. Ipinatente ito ni Christopher Cockerell noong 1955, at matagal na nagdala ang malalaking hovercraft ng mga kotse sa English Channel."});
+fun:"Christopher Cockerell first tested his hovercraft idea using a vacuum cleaner, a cat food tin, a coffee tin and kitchen scales."});
 
 ADDART({id:"farmmachinery",t:"Tractors and Farm Machines",c:"Technology",i:"🚜",w:"Agricultural machinery",r:["agri","urbanfarm","indrev","drones","robot"],
 p:[["Machines in the fields","Tractors and harvesters do the work once done by people and animals."],["A food revolution","Farm machines let fewer farmers feed many more people."],["Smart farming","Modern machines use GPS, sensors and autonomy."]],
@@ -165,8 +153,7 @@ s2:[["Horses and tractors","In 1920, the United States had about 25 million hors
 sp:["Walking tractors","Two-wheeled ‘walking tractors’, or power tillers, steered by a person walking behind, are widely used on small rice farms in Asia, including in Thailand, Vietnam and Bangladesh."],
 g:[["Mechanization","Replacing human and animal labor with machines"],["Combine harvester","A machine that harvests and threshes grain"],["Power take-off","A shaft that transfers power to other machines"],["Precision agriculture","Farming using data to target inputs"]],
 f:["About 1% of Americans now work on farms.","The combine harvester does several jobs at once.","Modern tractors use GPS to steer."],
-fun:"Lamborghini started as a tractor company before making supercars.",
-tl:"Ginagawa ng traktora at harvester ang trabahong dating ginagawa ng tao at hayop. Pinayagan ng mga makinang pansaka ang mas kaunting magsasaka na magpakain ng mas maraming tao, at gumagamit ang mga makabagong makina ng GPS at sensor."});
+fun:"Lamborghini started as a tractor company before making supercars."});
 
 ADDART({id:"constructionmachines",t:"Cranes and Construction Machines",c:"Technology",i:"🏗️",w:"Heavy equipment",r:["skyscrapers","bridges","tunnels","concrete","machines"],
 p:[["Building big","Cranes, excavators and bulldozers do heavy lifting and digging."],["Ancient roots","The Romans used human-powered cranes called treadwheels."],["Giant machines","The largest cranes can lift thousands of metric tons."]],
@@ -178,8 +165,7 @@ s2:[["The steam shovel and the Panama Canal","About 100 steam shovels dug out th
 sp:["Big Carl","Big Carl, a ring crane used to build the Hinkley Point C nuclear power station in England, is one of the world’s largest land-based cranes, able to lift about 5,000 metric tons and reaching 250 meters high."],
 g:[["Hydraulics","Using pressurized liquid to transmit force"],["Excavator","A digging machine with a boom and bucket"],["Bulldozer","A tracked tractor with a pushing blade"],["Tower crane","A tall crane fixed to the ground"]],
 f:["The Romans used human-powered treadwheel cranes.","Steam shovels dug the Panama Canal.","Some floating cranes lift over 10,000 metric tons."],
-fun:"Tower cranes ‘climb’ by lifting new sections of their own tower into place, growing taller as a skyscraper rises.",
-tl:"Ginagawa ng crane, excavator at bulldozer ang mabibigat na pagbubuhat at paghuhukay. Gumamit ang mga Romano ng crane na pinatatakbo ng tao, at kayang magbuhat ng pinakamalalaking crane ng libu-libong tonelada."});
+fun:"Tower cranes ‘climb’ by lifting new sections of their own tower into place, growing taller as a skyscraper rises."});
 
 ADDART({id:"wristwatches",t:"Wristwatches",c:"Technology",i:"⌚",w:"Watch",r:["clocks","timephys","wearables","switzerlandcountry","wwi"],
 p:[["Time on your wrist","Wristwatches let people carry the time with them."],["Popular after World War I","Soldiers found wristwatches more practical than pocket watches."],["From gears to quartz","Quartz and digital watches transformed the industry in the 1970s."]],
@@ -191,5 +177,4 @@ s2:[["The ‘Moonwatch’","Omega watches were tested by NASA in 1964–65 with 
 sp:["10:10","Watches in advertisements are almost always set to about 10:10, because the hands frame the brand logo and form a shape resembling a smile."],
 g:[["Mainspring","A coiled spring that powers a mechanical watch"],["Balance wheel","A wheel that swings to regulate time"],["Quartz","A crystal that vibrates at a precise frequency"],["Escapement","The mechanism that releases energy in steps"]],
 f:["Wristwatches became popular with men after World War I.","Quartz crystals vibrate 32,768 times a second.","An Omega watch went to the Moon."],
-fun:"Watches in advertisements are usually set to 10:10 because the hands look like a smile and frame the logo.",
-tl:"Pinapayagan ng relo sa pulso ang mga tao na dalhin ang oras kahit saan. Sumikat ito matapos ang World War I, at binago ng quartz at digital na relo ang industriya noong 1970s."});
+fun:"Watches in advertisements are usually set to 10:10 because the hands look like a smile and frame the logo."});

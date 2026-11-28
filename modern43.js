@@ -9,8 +9,7 @@ s2:[["Solar stills","Simple solar stills, in which sunlight evaporates water und
 sp:["Nature’s desalination","Seabirds such as albatrosses and penguins drink seawater and remove the salt with special glands above their eyes, sneezing or dripping out concentrated salty fluid."],
 g:[["Desalination","Removing salt from water"],["Reverse osmosis","Forcing water through a membrane to remove salt"],["Brine","Very salty wastewater"],["Membrane","A thin sheet that lets some substances through"]],
 f:["Most new plants use reverse osmosis.","Saudi Arabia produces the most desalinated water.","Desalination produces salty brine."],
-fun:"Seabirds such as albatrosses have built-in desalination glands that let them drink seawater.",
-tl:"Inaalis ng desalination ang asin sa tubig-dagat upang maging inuming tubig. Itinutulak ng karamihan sa mga bagong planta ang tubig sa napakapinong membrane, at mahalaga ito sa mga tuyong lugar gaya ng Middle East."});
+fun:"Seabirds such as albatrosses have built-in desalination glands that let them drink seawater."});
 
 ADDART({id:"webbrowsers",t:"Web Browsers",c:"Technology",i:"🌐",w:"Web browser",r:["worldwideweb","internet","searchengines","cybersecurity","opensource"],
 p:[["Windows on the web","Web browsers are programs for viewing websites."],["The browser wars","Netscape and Internet Explorer battled in the 1990s."],["Chrome leads","Google Chrome is now the most used browser."]],
@@ -22,8 +21,7 @@ s2:[["Tabs","Tabbed browsing, which lets users open several pages in one window,
 sp:["The dinosaur game","When Chrome cannot connect to the internet, it shows a small dinosaur. Pressing the space bar starts a hidden running game in which the dinosaur jumps over cacti."],
 g:[["Browser","A program for viewing websites"],["HTML","The code used to structure web pages"],["Cookie","A small file a website stores in a browser"],["Rendering engine","Software that draws web pages"]],
 f:["The first web browser was written in 1990.","Mosaic made the web popular in 1993.","Chrome is the most used browser."],
-fun:"When Google Chrome loses its internet connection, it offers a hidden game starring a pixel dinosaur.",
-tl:"Ang web browser ay programang ginagamit sa pagtingin ng mga website. Naglaban ang Netscape at Internet Explorer noong dekada 1990, at Google Chrome na ngayon ang pinakaginagamit na browser."});
+fun:"When Google Chrome loses its internet connection, it offers a hidden game starring a pixel dinosaur."});
 
 ADDART({id:"ipaddresses",t:"Internet Addresses and Domain Names",c:"Technology",i:"🔢",w:"Domain Name System",r:["internet","worldwideweb","webbrowsers","datacenters","cybersecurity"],
 p:[["Every device has an address","IP addresses identify devices on the internet."],["Names for numbers","The Domain Name System turns names into IP addresses."],["Running out","The world ran out of old IPv4 addresses and is moving to IPv6."]],
@@ -35,8 +33,7 @@ s2:[["Jon Postel","Computer scientist Jon Postel managed the assignment of inter
 sp:["Your address","Most home devices share one public IP address, given by the internet provider, while the router assigns private addresses inside the home. That is why many devices can use the internet through one connection."],
 g:[["IP address","A number identifying a device on a network"],["DNS","The system that turns names into IP addresses"],["Top-level domain","The last part of a domain name, such as .com"],["IPv6","The newer version of internet addresses"]],
 f:["DNS turns names into numbers.","The first .com domain was registered in 1985.","IPv6 has about 340 undecillion addresses."],
-fun:"IPv6 has enough addresses to give trillions of addresses to every person on Earth.",
-tl:"May IP address ang bawat device sa internet. Isinasalin ng Domain Name System ang mga pangalan sa IP address, at lumilipat na ang mundo sa IPv6 matapos maubos ang lumang IPv4."});
+fun:"IPv6 has enough addresses to give trillions of addresses to every person on Earth."});
 
 ADDART({id:"mobilenetworks",t:"Mobile Phone Networks: 1G to 5G",c:"Technology",i:"📶",w:"Cellular network",r:["phone","smartphone","radio","textmessaging","wifi"],
 p:[["Calls through cells","Mobile networks divide land into cells, each with an antenna."],["A new generation each decade","From 1G to 5G, networks became faster and digital."],["Billions on 5G","More than 3 billion people use 5G."]],
@@ -48,8 +45,7 @@ s2:[["Mobile money","In Kenya, the mobile money service M-Pesa, launched in 2007
 sp:["The first GSM call","On 1 July 1991, Finnish Prime Minister Harri Holkeri made the first call on a GSM network, speaking to the deputy mayor of Tampere."],
 g:[["Cell","An area served by one base station"],["Base station","Antennas and equipment serving a cell"],["Handoff","Passing a call from one cell to another"],["Spectrum","The range of radio frequencies"]],
 f:["The first 1G network opened in Tokyo in 1979.","GSM began in Finland in 1991.","More than 3 billion subscriptions use 5G."],
-fun:"Phones constantly ‘talk’ to nearby base stations even when not in use, so the network always knows which cell they are in.",
-tl:"Hinahati ng mobile network ang lupa sa mga cell na may kani-kaniyang antenna. Mula 1G hanggang 5G, bumilis at naging digital ang mga network, at mahigit 3 bilyong subscription na ang gumagamit ng 5G."});
+fun:"Phones constantly ‘talk’ to nearby base stations even when not in use, so the network always knows which cell they are in."});
 
 ADDART({id:"combustionengines",t:"Internal Combustion Engines",c:"Technology",i:"🔥",w:"Internal combustion engine",r:["cars","thermo","fossilfuels","ev","motorcycles"],
 p:[["Power from burning fuel","Internal combustion engines burn fuel inside cylinders."],["Four strokes","Intake, compression, power and exhaust turn the crankshaft."],["Cars, ships and planes","They powered the 20th century’s transport revolution."]],
@@ -61,8 +57,7 @@ s2:[["Rudolf Diesel","Rudolf Diesel disappeared from a ship crossing the English
 sp:["Horsepower","Engine power is often measured in horsepower, a unit invented by James Watt in the 18th century to compare steam engines with the work of horses."],
 g:[["Piston","A part that moves up and down in a cylinder"],["Crankshaft","A shaft that turns up-and-down motion into rotation"],["Spark plug","A device that ignites fuel with a spark"],["Catalytic converter","A device that cleans exhaust gases"]],
 f:["Otto built the four-stroke engine in 1876.","Diesel engines ignite fuel by compression.","Most car engines waste much of their energy as heat."],
-fun:"Rudolf Diesel showed an engine running on peanut oil at the 1900 Paris World’s Fair.",
-tl:"Gumagawa ng lakas ang internal combustion engine sa pagsunog ng gasolina sa loob ng mga silindro. Iniikot ng apat na stroke ang crankshaft, at pinatakbo ng mga makinang ito ang rebolusyon sa transportasyon noong ika-20 siglo."});
+fun:"Rudolf Diesel showed an engine running on peanut oil at the 1900 Paris World’s Fair."});
 
 ADDART({id:"gears",t:"Gears",c:"Technology",i:"⚙️",w:"Gear",r:["machines","clocks","bicycle","machinetools","robot"],
 p:[["Wheels with teeth","Gears are toothed wheels that pass motion between shafts."],["Speed or strength","Gears can increase speed or increase turning force."],["An ancient computer","The Antikythera mechanism used gears over 2,000 years ago."]],
@@ -74,8 +69,7 @@ s2:[["The Antikythera mechanism","Sponge divers found the mechanism in a Roman-e
 sp:["Gear-driven toys","Wind-up toys use a spring and a series of gears. The gears slow the spring’s energy so the toy moves for longer."],
 g:[["Gear","A toothed wheel"],["Torque","Turning force"],["Gear ratio","The relationship between the turning speeds of gears"],["Transmission","A gear system that changes speed in a vehicle"]],
 f:["Gears trade speed for strength.","The Antikythera mechanism used gears 2,000 years ago.","Planthopper insects have natural gears."],
-fun:"Tiny insects called planthoppers have gears on their legs that keep their legs moving together when they jump.",
-tl:"Ang gear ay gulong na may ngipin na naglilipat ng galaw sa pagitan ng mga baras. Kayang pabilisin o palakasin ng gear ang pag-ikot, at gumamit ng mga gear ang Antikythera mechanism mahigit 2,000 taon na ang nakalipas."});
+fun:"Tiny insects called planthoppers have gears on their legs that keep their legs moving together when they jump."});
 
 ADDART({id:"hydraulics",t:"Hydraulics and Pneumatics",c:"Technology",i:"🛠️",w:"Hydraulics",r:["fluids","constructionmachines","machines","flight","cars"],
 p:[["Power from fluids","Hydraulics uses liquids under pressure to move heavy loads."],["Pascal’s principle","Pressure in a liquid spreads equally in all directions."],["Air power","Pneumatics uses compressed air instead of liquid."]],
@@ -87,8 +81,7 @@ s2:[["Pneumatic tube mail","From the 1850s, cities such as London, Paris, Berlin
 sp:["Water-powered London","At its peak, London’s hydraulic power network had about 290 kilometers of pipes carrying high-pressure water to power lifts, cranes and even theater stages."],
 g:[["Hydraulics","Using pressurized liquid to transmit power"],["Pneumatics","Using compressed air to transmit power"],["Piston","A sliding part pushed by fluid pressure"],["Compressor","A machine that squeezes air into a tank"]],
 f:["Hydraulics multiplies force using liquids.","Air brakes were invented in 1869.","Spiders use hydraulics to extend their legs."],
-fun:"Spiders stretch their legs using fluid pressure, which is why their legs curl up when they die.",
-tl:"Ginagamit ng hydraulics ang likidong may presyon upang buhatin ang mabibigat na bagay. Kumakalat nang pantay ang presyon sa likido, at naka-compress na hangin naman ang ginagamit ng pneumatics."});
+fun:"Spiders stretch their legs using fluid pressure, which is why their legs curl up when they die."});
 
 ADDART({id:"vacuumtubes",t:"Vacuum Tubes",c:"Technology",i:"💡",w:"Vacuum tube",r:["radio","tv","comp","chip","electron"],
 p:[["The first electronics","Vacuum tubes controlled electric currents before transistors."],["Radio and television","They made radio, TV and early computers possible."],["Still glowing","Guitar amplifiers and microwave ovens still use tubes."]],
@@ -100,8 +93,7 @@ s2:[["Radio’s golden age","Vacuum tube radios brought news, music and entertai
 sp:["Valves","In British English, vacuum tubes are called ‘valves’ because, like a water valve, they control a flow, in this case of electrons."],
 g:[["Vacuum tube","A sealed tube controlling electron flow"],["Diode","A device allowing current in one direction"],["Triode","A tube with three electrodes that can amplify"],["Amplify","To make a signal stronger"]],
 f:["The triode was invented in 1906.","ENIAC used about 17,500 vacuum tubes.","Microwave ovens still use a type of tube."],
-fun:"The magnetron that heats food in every microwave oven is a type of vacuum tube.",
-tl:"Kinokontrol ng vacuum tube ang kuryente bago pa nagkaroon ng transistor. Pinasimulan nito ang radyo, TV at mga unang computer, at ginagamit pa rin ito sa mga guitar amplifier at microwave oven."});
+fun:"The magnetron that heats food in every microwave oven is a type of vacuum tube."});
 
 ADDART({id:"punchcards",t:"Punched Cards",c:"Technology",i:"🗂️",w:"Punched card",r:["comp","weaving","stats","coding","indrev"],
 p:[["Data in holes","Punched cards stored information as patterns of holes."],["From looms to computers","They controlled weaving looms before computers."],["The 1890 census","Punched cards sped up counting the US census."]],
@@ -113,8 +105,7 @@ s2:[["Do not fold","Punched cards often carried the warning ‘Do not fold, spin
 sp:["80 columns","Early computer terminals displayed 80 characters per line to match punched cards, and many programmers still keep lines of code under 80 characters."],
 g:[["Punched card","A card storing data as holes"],["Tabulator","A machine that counts data"],["Keypunch","A machine for punching cards"],["Census","An official count of a population"]],
 f:["Jacquard’s loom used punched cards in 1804.","Punched cards counted the 1890 US census.","Programmers once wrote code on stacks of cards."],
-fun:"The 80-character line width of old punched cards still influences how wide many programmers make their lines of code.",
-tl:"Nag-iimbak ng impormasyon ang punched card sa anyo ng mga butas. Kinontrol nito ang mga habihan bago pa ang computer, at pinabilis nito ang pagbilang sa census ng US noong 1890."});
+fun:"The 80-character line width of old punched cards still influences how wide many programmers make their lines of code."});
 
 ADDART({id:"personalcomputers",t:"The Personal Computer",c:"Technology",i:"🖥️",w:"Personal computer",r:["comp","chip","operatingsystems","laptops","videogames"],
 p:[["A computer for everyone","Personal computers brought computing into homes and offices."],["The 1970s revolution","The Altair, Apple II and others started the PC era."],["The IBM PC","IBM’s 1981 PC set a standard still followed today."]],
@@ -126,8 +117,7 @@ s2:[["The 1984 advertisement","Apple introduced the Macintosh with a famous tele
 sp:["The first mouse","Douglas Engelbart and Bill English built the first computer mouse in the 1960s from a wooden block with two wheels. It was shown publicly in 1968."],
 g:[["PC","Personal computer"],["Microprocessor","A computer processor on a single chip"],["Graphical user interface","Controlling a computer with windows and icons"],["Compatible","Able to run the same software"]],
 f:["The Altair 8800 appeared in 1975.","The IBM PC was released in 1981.","The Macintosh popularized the mouse."],
-fun:"Time magazine named the personal computer ‘Machine of the Year’ for 1982.",
-tl:"Dinala ng personal computer ang computing sa mga tahanan at opisina. Sinimulan ng Altair, Apple II at iba pa ang panahon ng PC noong dekada 1970, at nagtakda ng pamantayan ang IBM PC noong 1981."});
+fun:"Time magazine named the personal computer ‘Machine of the Year’ for 1982."});
 
 ADDART({id:"typography",t:"Fonts and Typography",c:"Technology",i:"🔤",w:"Typography",r:["print","writing","calligraphy","personalcomputers","unicode"],
 p:[["The art of letters","Typography is the design and arrangement of type."],["Serif or sans serif","Fonts with small strokes are serif; plain ones are sans serif."],["Fonts for everyone","Computers gave everyone a choice of fonts."]],
@@ -139,8 +129,7 @@ s2:[["Comic Sans","Comic Sans, designed by Vincent Connare for Microsoft in 1994
 sp:["Mind your p’s and q’s","One theory for the phrase ‘mind your p’s and q’s’ is that printers setting metal type, which is mirror-reversed, had to be careful not to confuse lowercase p and q."],
 g:[["Typeface","A design for a set of letters"],["Serif","A small stroke at the end of a letter"],["Kerning","Adjusting space between letters"],["Point","A unit for measuring type size"]],
 f:["Movable type was invented in China.","Helvetica was designed in 1957.","‘Uppercase’ comes from printers’ type cases."],
-fun:"The words ‘uppercase’ and ‘lowercase’ come from the wooden cases in which printers stored capital and small letters.",
-tl:"Ang typography ay ang disenyo at pag-aayos ng mga titik. Serif ang mga font na may maliliit na guhit sa dulo at sans serif ang mga payak, at binigyan ng computer ang lahat ng pagpipilian ng font."});
+fun:"The words ‘uppercase’ and ‘lowercase’ come from the wooden cases in which printers stored capital and small letters."});
 
 ADDART({id:"screens",t:"Display Screens",c:"Technology",i:"📺",w:"Display device",r:["tv","touchscreens","leds","light","smartphone"],
 p:[["Pictures made of pixels","Screens build images from millions of tiny dots called pixels."],["From tubes to flat panels","Bulky cathode-ray tubes gave way to flat LCD and OLED screens."],["Everywhere","Screens are in phones, cars, watches and billboards."]],
@@ -152,8 +141,7 @@ s2:[["Plasma screens","Plasma screens, in which tiny cells of gas glowed like mi
 sp:["Burn-in","Old CRT and plasma screens could suffer ‘burn-in’, where a fixed image left a ghostly mark. Screen savers were invented partly to prevent this."],
 g:[["Pixel","A tiny dot of a digital image"],["LCD","Liquid-crystal display"],["OLED","Organic light-emitting diode display"],["Resolution","The number of pixels on a screen"]],
 f:["Screens make colors from red, green and blue.","The first LCD was shown in 1968.","OLED pixels make their own light."],
-fun:"Screen savers were originally invented to stop images from burning permanently into old monitors.",
-tl:"Bumubuo ng larawan ang mga screen mula sa milyun-milyong maliliit na tuldok na tinatawag na pixel. Napalitan ng mga patag na LCD at OLED ang malalaking cathode-ray tube, at nasa telepono, kotse at relo na ang mga screen."});
+fun:"Screen savers were originally invented to stop images from burning permanently into old monitors."});
 
 ADDART({id:"phishing",t:"Spam and Phishing",c:"Technology",i:"🎣",w:"Phishing",r:["email","malware","cybersecurity","passwords","textmessaging"],
 p:[["Unwanted messages","Spam is junk email and messages sent in bulk."],["Fishing for secrets","Phishing tricks people into revealing passwords or money."],["Stay alert","Checking links and senders helps avoid scams."]],
@@ -165,10 +153,9 @@ s2:[["The Green Card spam","In April 1994, two lawyers posted an advertisement f
 sp:["Spam the food","Spam, a canned meat introduced by Hormel Foods in 1937, is especially popular in Hawaii, Guam, South Korea and the Philippines. The company does not object to the email meaning but asks that it be written in lowercase."],
 g:[["Spam","Unwanted bulk messages"],["Phishing","Tricking people into revealing information"],["Smishing","Phishing by text message"],["Spear phishing","Phishing aimed at a specific person"]],
 f:["The first spam email was sent in 1978.","‘Spam’ comes from a Monty Python sketch.","Banks never ask for your password by email."],
-fun:"Junk email is called ‘spam’ because of a comedy sketch in which Vikings keep singing the word ‘Spam’.",
-tl:"Ang spam ay mga hindi hinihinging mensaheng ipinadadala nang maramihan. Nililinlang ng phishing ang mga tao upang ibigay ang password o pera, at nakatutulong ang pagsuri sa mga link at nagpadala upang maiwasan ang scam."});
+fun:"Junk email is called ‘spam’ because of a comedy sketch in which Vikings keep singing the word ‘Spam’."});
 
-ADDART({id:"generators",t:"Electric Generators and Transformers",c:"Technology",i:"⚡",w:"Electric generator",r:["powergrid","magnet","circuits","hydropower","nuclear"],
+ADDART({id:"generators",t:"Electric Generators and Transformers",c:"Technology",i:"⚡",w:"Electric generator",r:["powergrid","magnet","circuits","hydropower","nuclear","faraday","tesla"],
 p:[["Making electricity","Generators turn motion into electricity using magnets."],["Faraday’s discovery","Michael Faraday discovered how in 1831."],["Changing voltage","Transformers raise and lower voltage to send power far."]],
 l:"An electric generator converts mechanical energy, such as the motion of a turbine, into electricity. It works by electromagnetic induction, discovered by English scientist Michael Faraday in 1831: when a wire moves through a magnetic field, or a magnetic field changes around a wire, an electric current flows. Faraday built a simple generator, a copper disk spinning between magnet poles, and French instrument maker Hippolyte Pixii built an early hand-cranked generator in 1832. Powerful dynamos, developed by Werner von Siemens and others in the 1860s, made electric lighting and industry practical. Thomas Edison’s Pearl Street Station in New York began supplying direct current electricity in 1882. Transformers, which use induction to raise or lower voltage, were developed in the 1880s and made alternating current (AC) better for long-distance transmission, a key reason AC, championed by Nikola Tesla and George Westinghouse, won the ‘war of the currents’. Today, most of the world’s electricity comes from generators spun by steam from coal, gas or nuclear power plants, by falling water, by wind or by engines; solar panels are a major exception, producing electricity directly from light.",
 s:[["How a generator works","In a power plant generator, a spinning magnet (the rotor) turns inside coils of wire (the stator). The changing magnetic field induces alternating current in the coils. Large generators can produce more than a thousand megawatts, enough for a city."],["Transformers","A transformer has two coils of wire wrapped around an iron core. Alternating current in one coil creates a changing magnetic field that induces current in the other. A coil with more turns gives a higher voltage. High voltages reduce energy lost as heat in long power lines."],["The war of the currents","In the late 1880s, Edison promoted direct current, while Westinghouse and Tesla promoted alternating current. AC’s ability to change voltage with transformers allowed power to travel far, and it powered the 1893 Chicago World’s Fair and the Niagara Falls power plant in 1895–1896."],["Backup generators","Portable and backup generators run on gasoline or diesel engines to provide power during outages, at construction sites and in remote areas. They must be used outdoors because their exhaust contains deadly carbon monoxide."]],
@@ -178,8 +165,7 @@ s2:[["Bicycle dynamos","Small generators called dynamos, turned by a bicycle whe
 sp:["Faraday’s answer","According to a popular story, when a politician asked Michael Faraday what use electricity was, he replied that one day the government would be able to tax it."],
 g:[["Generator","A machine that turns motion into electricity"],["Induction","Creating current with a changing magnetic field"],["Transformer","A device that changes voltage"],["Alternating current","Current that reverses direction many times a second"]],
 f:["Faraday discovered induction in 1831.","Transformers change voltage.","Most electricity comes from spinning generators."],
-fun:"Electric car motors become generators when braking, turning motion back into electricity.",
-tl:"Ginagawang kuryente ng generator ang galaw gamit ang magnet. Natuklasan ito ni Michael Faraday noong 1831, at itinataas at ibinababa ng transformer ang boltahe upang maipadala ang kuryente sa malayo."});
+fun:"Electric car motors become generators when braking, turning motion back into electricity."});
 
 ADDART({id:"powertools",t:"Power Tools",c:"Technology",i:"🔧",w:"Power tool",r:["motors","battery","constructionmachines","lithium","machinetools"],
 p:[["Tools with motors","Power tools use motors instead of muscle power."],["The electric drill","The electric drill was invented in 1889."],["Cordless freedom","Lithium-ion batteries made cordless tools powerful."]],
@@ -191,8 +177,7 @@ s2:[["DIY","Affordable power tools helped spread the do-it-yourself movement in 
 sp:["Moon drill","On Apollo 15 in 1971, astronaut David Scott struggled to use a battery-powered drill to extract deep core samples from the hard lunar soil, a task that proved much harder than expected."],
 g:[["Power tool","A tool driven by a motor or engine"],["Cordless","Running on batteries"],["Kickback","A sudden backward jerk of a tool"],["Impact driver","A tool that drives screws with strong blows"]],
 f:["The electric drill was patented in 1889.","Cordless tools appeared in 1961.","An early chainsaw was invented for surgery."],
-fun:"An early form of the chainsaw was invented by doctors in the 18th century to help with childbirth and surgery.",
-tl:"Gumagamit ng motor ang mga power tool sa halip na lakas ng kalamnan. Inimbento ang electric drill noong 1889, at pinalakas ng mga lithium-ion battery ang mga cordless tool."});
+fun:"An early form of the chainsaw was invented by doctors in the 18th century to help with childbirth and surgery."});
 
 ADDART({id:"tires",t:"Tires",c:"Technology",i:"🛞",w:"Tire",r:["rubber","cars","bicycle","friction","microplastics"],
 p:[["Rubber on the road","Tires cushion vehicles and grip the road."],["Full of air","John Boyd Dunlop made the pneumatic tire practical in 1888."],["Tread and safety","Tread patterns channel water away to prevent skidding."]],
@@ -204,8 +189,7 @@ s2:[["Why tires are black","Natural rubber is pale, but tires are black because 
 sp:["Airless tires","Companies are developing airless tires with flexible spokes that cannot go flat. NASA’s Moon rovers used wire-mesh wheels, and future lunar vehicles will need tires that work without air."],
 g:[["Pneumatic","Filled with air"],["Vulcanization","Hardening rubber with sulfur and heat"],["Tread","The patterned surface that touches the road"],["Aquaplaning","Losing grip on a layer of water"]],
 f:["Dunlop made the pneumatic tire practical in 1888.","Carbon black makes tires black and tough.","Michelin introduced the radial tire in 1946."],
-fun:"The famous Michelin restaurant guide was created by a tire company to get people driving, and wearing out tires.",
-tl:"Pinalalambot ng gulong ang biyahe at kumakapit ito sa daan. Ginawang praktikal ni John Boyd Dunlop ang gulong na may hangin noong 1888, at inaalis ng tread ang tubig upang hindi madulas."});
+fun:"The famous Michelin restaurant guide was created by a tire company to get people driving, and wearing out tires."});
 
 ADDART({id:"unicode",t:"Unicode and Character Encoding",c:"Technology",i:"🔣",w:"Unicode",r:["binary","emoji","comp","typography","langevo"],
 p:[["Letters as numbers","Computers store every letter and symbol as a number."],["One code for all languages","Unicode gives a number to characters from almost every writing system."],["Emoji included","Emoji are part of Unicode too."]],
@@ -217,8 +201,7 @@ s2:[["Han unification","Chinese, Japanese and Korean share many characters deriv
 sp:["Adopt a character","The Unicode Consortium lets people ‘adopt’ a character, such as a letter or emoji, with a donation that supports its work."],
 g:[["Character encoding","A system for storing text as numbers"],["Code point","The number assigned to a character"],["ASCII","An early 128-character code"],["UTF-8","The most common way to store Unicode text"]],
 f:["ASCII had 128 characters.","Unicode 18.0 has 172,808 characters.","UTF-8 is used by about 98% of websites."],
-fun:"The design for UTF-8, now used on almost every website, was reportedly sketched on a placemat in a diner.",
-tl:"Iniimbak ng computer ang bawat titik at simbolo bilang numero. Binibigyan ng Unicode ng numero ang mga karakter mula sa halos lahat ng sistema ng pagsulat, at kasama rin dito ang mga emoji."});
+fun:"The design for UTF-8, now used on almost every website, was reportedly sketched on a placemat in a diner."});
 
 ADDART({id:"gpus",t:"Graphics Processing Units",c:"Technology",i:"🎮",w:"Graphics processing unit",r:["chip","videogames","ai","supercomputers","cgi"],
 p:[["Chips for graphics","GPUs were designed to draw 3D graphics for games."],["Thousands of cores","They do many simple calculations at once."],["Powering AI","GPUs now train most artificial intelligence systems."]],
@@ -230,8 +213,7 @@ s2:[["Graphics cards","In desktop computers, GPUs usually come on separate graph
 sp:["From games to science","GPUs designed for video games have been used to fold proteins, simulate weather, analyze telescope images and model the universe."],
 g:[["GPU","Graphics processing unit"],["CPU","Central processing unit"],["Parallel processing","Doing many calculations at once"],["Core","A processing unit within a chip"]],
 f:["GPUs were designed for 3D graphics.","AlexNet was trained on GPUs in 2012.","GPUs train most large AI models."],
-fun:"The AI revolution was sparked partly by a neural network trained on two graphics cards designed for video games.",
-tl:"Idinisenyo ang GPU upang gumuhit ng 3D graphics para sa mga laro. Libu-libong simpleng kalkulasyon ang sabay nitong ginagawa, at ito na ngayon ang nagsasanay sa karamihan ng artificial intelligence."});
+fun:"The AI revolution was sparked partly by a neural network trained on two graphics cards designed for video games."});
 
 ADDART({id:"microcontrollers",t:"Microcontrollers and Mini Computers",c:"Technology",i:"🔌",w:"Microcontroller",r:["chip","robot","smarthome","coding","comp"],
 p:[["Tiny computers inside things","Microcontrollers are small computers built into devices."],["Everywhere","Cars, toys, washing machines and remote controls contain them."],["Arduino and Raspberry Pi","Cheap boards let students build their own gadgets."]],
@@ -243,8 +225,7 @@ s2:[["Named after a bar","Arduino is named after a bar in Ivrea where the founde
 sp:["Computers in cars","A modern car may contain more than a hundred microcontrollers controlling engines, brakes, airbags, windows, mirrors and entertainment systems, linked by internal networks."],
 g:[["Microcontroller","A tiny computer on a chip that controls a device"],["Embedded system","A device with a built-in dedicated computer"],["Firmware","Software stored inside a device"],["Sensor","A device that detects changes such as light or heat"]],
 f:["Microcontrollers are inside most electronic devices.","Arduino was created in 2005.","The Raspberry Pi launched in 2012."],
-fun:"Students’ programs have run on Raspberry Pi computers aboard the International Space Station.",
-tl:"Ang microcontroller ay maliit na computer na nakapaloob sa mga device. Nasa kotse, laruan, washing machine at remote control ang mga ito, at pinapayagan ng murang Arduino at Raspberry Pi ang mga mag-aaral na gumawa ng sariling gadget."});
+fun:"Students’ programs have run on Raspberry Pi computers aboard the International Space Station."});
 
 ADDART({id:"airtrafficcontrol",t:"Air Traffic Control",c:"Technology",i:"🗼",w:"Air traffic control",r:["flight","airports","radar","gps","radio"],
 p:[["Guiding planes","Air traffic controllers keep aircraft safely apart."],["Towers and radar","Controllers use radio, radar and computers."],["English in the sky","English is the international language of aviation."]],
@@ -256,5 +237,4 @@ s2:[["The busiest skies","On a busy day, controllers worldwide handle well over 
 sp:["Flag signals","Archie League stood in a wheelbarrow-like booth at the end of the runway with a checkered flag meaning ‘go’ and a red flag meaning ‘hold’, guiding pilots without radios."],
 g:[["Air traffic controller","A person who directs aircraft"],["Transponder","A device that reports an aircraft’s identity and altitude"],["Separation","The minimum safe distance between aircraft"],["Mayday","An international distress call"]],
 f:["The first control tower opened in 1920.","English is the language of aviation.","‘Mayday’ comes from French for ‘help me’."],
-fun:"The emergency call ‘Mayday’ comes from the French phrase m’aider, meaning ‘help me’.",
-tl:"Pinananatiling magkakalayo nang ligtas ng mga air traffic controller ang mga eroplano. Gumagamit sila ng radyo, radar at computer, at Ingles ang pandaigdigang wika ng abyasyon."});
+fun:"The emergency call ‘Mayday’ comes from the French phrase m’aider, meaning ‘help me’."});

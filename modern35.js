@@ -9,8 +9,7 @@ s2:[["A family of their own","Skunks were once classified with weasels, but gene
 sp:["Owls and skunks","Great horned owls hunt skunks because birds of prey have a poor sense of smell. Their nests sometimes reek of skunk spray."],
 g:[["Warning coloration","Bold colors that warn predators"],["Thiol","A sulfur compound with a strong smell"],["Omnivore","An animal that eats plants and animals"],["Kit","A young skunk"]],
 f:["Skunk spray can be smelled over a kilometer away.","Tomato juice does not remove skunk smell.","Great horned owls hunt skunks."],
-fun:"Skunks give plenty of warning before spraying, stamping their feet and hissing, because their spray takes days to refill.",
-tl:"Ang skunk ay mamalyang nag-iispray ng mabahong likido upang itaboy ang mga kaaway. Nagbababala ang itim at puting balahibo nito sa ibang hayop, at karamihan ng skunk ay nakatira sa Amerika."});
+fun:"Skunks give plenty of warning before spraying, stamping their feet and hissing, because their spray takes days to refill."});
 
 ADDART({id:"porcupines",t:"Porcupines",c:"Animals and Nature",i:"🦔",w:"Porcupine",r:["rodents","hedgehogs","trees","animalbehavior","kenyacountry"],
 p:[["Spiky rodents","Porcupines are rodents covered in sharp quills."],["They cannot shoot quills","Quills detach easily but are not thrown."],["Two families","Old World and New World porcupines evolved quills separately."]],
@@ -22,8 +21,7 @@ s2:[["Porcupine love","Female North American porcupines are ready to mate for on
 sp:["Fishers","The fisher, a forest weasel of North America, is one of the few predators that regularly kills porcupines, circling them to attack the face repeatedly until the porcupine is exhausted."],
 g:[["Quill","A sharp spine made from modified hair"],["Barb","A backward-pointing hook"],["Prehensile","Able to grasp"],["Porcupette","A baby porcupine"]],
 f:["Porcupines cannot shoot their quills.","A North American porcupine has about 30,000 quills.","Porcupine quills have tiny barbs."],
-fun:"The word porcupine comes from Latin words meaning ‘spiny pig’, though porcupines are rodents, not pigs.",
-tl:"Ang porcupine ay daga na natatakpan ng matutulis na tinik. Hindi nito kayang ibato ang mga tinik ngunit madaling natatanggal ang mga ito, at magkahiwalay na nagkaroon ng tinik ang mga porcupine ng Lumang Mundo at Bagong Mundo."});
+fun:"The word porcupine comes from Latin words meaning ‘spiny pig’, though porcupines are rodents, not pigs."});
 
 ADDART({id:"opossums",t:"Opossums",c:"Animals and Nature",i:"🐀",w:"Opossum",r:["kangaroo","koalas","snake","rabies","animalbehavior"],
 p:[["America’s marsupials","Opossums are the only marsupials north of Mexico."],["Playing dead","When frightened, opossums may faint and appear dead."],["Venom resistant","Many opossums are resistant to snake venom."]],
@@ -35,8 +33,7 @@ s2:[["Possum or opossum?","In North America, ‘possum’ is a common short form
 sp:["Short lives","Despite their survival skills, Virginia opossums live only about two to four years in the wild, a very short life for a mammal of their size."],
 g:[["Marsupial","A mammal that carries its young in a pouch"],["Thanatosis","Playing dead"],["Carrion","Dead animals eaten as food"],["Antivenom","A treatment for venomous bites"]],
 f:["Opossums are North America’s only marsupials.","Opossums have 50 teeth.","Many opossums resist snake venom."],
-fun:"A newborn opossum is so small that an entire litter could fit in a teaspoon.",
-tl:"Ang opossum ang tanging marsupial sa hilaga ng Mexico. Kapag natatakot, maaari itong mahimatay at magmukhang patay, at marami sa mga ito ang may resistensya sa kamandag ng ahas."});
+fun:"A newborn opossum is so small that an entire litter could fit in a teaspoon."});
 
 ADDART({id:"badgers",t:"Badgers",c:"Animals and Nature",i:"🦡",w:"Badger",r:["otters","foxes","ukcountry","cattle","animalbehavior"],
 p:[["Champion diggers","Badgers are stocky, powerful diggers of the weasel family."],["Underground homes","European badgers live in tunnel systems called setts."],["The fearless honey badger","The honey badger is famous for its toughness."]],
@@ -48,8 +45,7 @@ s2:[["Badgers in stories","Badgers appear in many children’s stories, includin
 sp:["Coyote partners","In North America, coyotes and American badgers sometimes hunt together. The badger digs after ground squirrels while the coyote catches those that run out; studies show both catch more prey when working together."],
 g:[["Sett","A European badger’s burrow system"],["Mustelid","A member of the weasel family"],["Bovine tuberculosis","A bacterial disease of cattle"],["Cull","Killing animals to reduce their numbers"]],
 f:["Badgers can eat hundreds of earthworms in a night.","Some badger setts are centuries old.","Coyotes and badgers sometimes hunt together."],
-fun:"A shaving brush made from badger hair was once considered the finest kind, though synthetic brushes are now common.",
-tl:"Ang badger ay matipunong mamalya ng pamilya ng weasel na mahusay humukay. Nakatira ang European badger sa mga lungga na tinatawag na sett, at kilala ang honey badger sa katapangan nito."});
+fun:"A shaving brush made from badger hair was once considered the finest kind, though synthetic brushes are now common."});
 
 ADDART({id:"waterfowl",t:"Ducks, Geese and Swans",c:"Animals and Nature",i:"🦢",w:"Anatidae",r:["birds","birdmigr","wetlands","domestication","chickens"],
 p:[["Waterbirds","Ducks, geese and swans are waterbirds with webbed feet and flat bills."],["Great migrations","Many fly thousands of kilometers between breeding and wintering grounds."],["Domesticated long ago","Ducks and geese were domesticated for meat, eggs and feathers."]],
@@ -61,8 +57,7 @@ s2:[["Mute swans and the Crown","In England, unmarked mute swans on open water h
 sp:["Bar-headed geese","Bar-headed geese migrate between Central Asia and India, crossing the Himalayas at altitudes of up to about 7,000 meters, where oxygen is scarce. Their blood and lungs are specially adapted to thin air."],
 g:[["Waterfowl","Ducks, geese and swans"],["Imprinting","Rapid learning to follow a parent soon after hatching"],["Cygnet","A young swan"],["Gosling","A young goose"]],
 f:["Geese save energy by flying in a V.","Most domestic ducks come from mallards.","Bar-headed geese fly over the Himalayas."],
-fun:"A duck’s quack does echo, despite a popular myth that it does not.",
-tl:"Ang pato, gansa at sisne ay mga ibong pantubig na may webbed na paa at patag na tuka. Marami sa mga ito ang lumilipad nang libu-libong kilometro, at inalagaan ng tao ang pato at gansa noon pang unang panahon."});
+fun:"A duck’s quack does echo, despite a popular myth that it does not."});
 
 ADDART({id:"storks",t:"Storks",c:"Animals and Nature",i:"🪿",w:"Stork",r:["birds","birdmigr","wetlands","pelicans","waterfowl"],
 p:[["Long-legged wading birds","Storks are large birds with long legs, necks and bills."],["Great travelers","White storks migrate between Europe and Africa every year."],["Bringers of babies","European folklore says storks deliver babies."]],
@@ -74,8 +69,7 @@ s2:[["Storks and babies","The legend that storks deliver babies spread through G
 sp:["Storks and statistics","Statisticians use storks to explain that correlation does not equal causation: in some regions, the number of storks and the number of human births have risen and fallen together, but storks do not bring babies."],
 g:[["Wading bird","A bird that feeds by walking in shallow water"],["Thermal","A rising column of warm air"],["Migration","Seasonal travel between regions"],["Correlation","A link between two changing things"]],
 f:["Most storks have no voice and clatter their bills.","A stork shot with an African spear proved migration.","Storks returned to breed in England in 2020."],
-fun:"White storks can travel more than 10,000 kilometers each way between Europe and southern Africa.",
-tl:"Ang stork ay malaking ibong may mahahabang binti, leeg at tuka. Lumilipad ang white stork sa pagitan ng Europa at Africa taun-taon, at sinasabi ng alamat sa Europa na naghahatid ito ng mga sanggol."});
+fun:"White storks can travel more than 10,000 kilometers each way between Europe and southern Africa."});
 
 ADDART({id:"cuttlefish",t:"Cuttlefish",c:"Animals and Nature",i:"🦑",w:"Cuttlefish",r:["octopus","squid","mollusc","eye","animalbehavior"],
 p:[["Masters of disguise","Cuttlefish change color and texture in an instant."],["Not fish","Cuttlefish are mollusks related to squid and octopuses."],["Clever animals","They can pass self-control tests similar to children’s."]],
@@ -87,8 +81,7 @@ s2:[["The flamboyant cuttlefish","The small flamboyant cuttlefish of the Indo-Pa
 sp:["W-shaped pupils","A cuttlefish’s W-shaped pupil may help control light coming from above and below, letting it see contrasts in the uneven lighting of shallow seas."],
 g:[["Cephalopod","A mollusk with arms, like an octopus"],["Chromatophore","A color-changing skin cell"],["Cuttlebone","The internal shell of a cuttlefish"],["Sepia","Brown ink made from cuttlefish"]],
 f:["Cuttlefish have three hearts.","Cuttlefish are not fish.","Cuttlefish passed a version of the marshmallow test."],
-fun:"Cuttlefish can display a different pattern on each side of their body, courting a female on one side while warning a male on the other.",
-tl:"Ang cuttlefish ay mollusk na kayang magpalit ng kulay at hitsura ng balat sa isang iglap. Hindi ito isda kundi kamag-anak ng pusit at pugita, at matalino ito."});
+fun:"Cuttlefish can display a different pattern on each side of their body, courting a female on one side while warning a male on the other."});
 
 ADDART({id:"snowleopards",t:"Snow Leopards",c:"Animals and Nature",i:"🐆",w:"Snow leopard",r:["leopards","himal","tiger","conservation","climchange"],
 p:[["Ghost of the mountains","Snow leopards live high in the mountains of Central and South Asia."],["Built for cold","Thick fur, wide paws and a long tail help them survive."],["Rarely seen","Only about 4,000 to 6,500 remain in the wild."]],
@@ -100,8 +93,7 @@ s2:[["The Snow Leopard","In 1973, biologist George Schaller and writer Peter Mat
 sp:["Ghosts on camera","Wildlife filmmakers spent years trying to film snow leopards. Footage of a snow leopard hunting a markhor on a cliff, filmed for the BBC series Planet Earth in 2006, was among the first close-up views of the cats hunting in the wild."],
 g:[["Camera trap","A camera triggered by passing animals"],["Rosette","A rose-shaped spot pattern"],["Retaliatory killing","Killing an animal in revenge for livestock losses"],["Vulnerable","At high risk of becoming endangered"]],
 f:["Snow leopards cannot roar.","A snow leopard’s tail can be almost as long as its body.","About 4,000 to 6,500 snow leopards remain in the wild."],
-fun:"Snow leopards sometimes wrap their long, furry tails around their faces like scarves while sleeping.",
-tl:"Ang snow leopard ay malaking pusa sa matataas na bundok ng Gitna at Timog Asya. May makapal na balahibo, malapad na paa at mahabang buntot ito para sa lamig, at mga 4,000 hanggang 6,500 na lamang ang natitira sa ligaw."});
+fun:"Snow leopards sometimes wrap their long, furry tails around their faces like scarves while sleeping."});
 
 ADDART({id:"redpandas",t:"Red Pandas",c:"Animals and Nature",i:"🐼",w:"Red panda",r:["panda","himal","bamboo","conservation","chinacountry"],
 p:[["The first panda","The red panda was named a ‘panda’ before the giant panda."],["Bamboo eater","Like the giant panda, it eats mostly bamboo."],["Endangered","Fewer than 10,000 remain in the wild."]],
@@ -113,8 +105,7 @@ s2:[["The name panda","The word panda may come from a Nepali word, sometimes sai
 sp:["Rusty the escape artist","In 2013, a red panda named Rusty escaped from the National Zoo in Washington, D.C., and was found a day later in a nearby neighborhood, becoming a social media sensation."],
 g:[["False thumb","An enlarged wrist bone used for gripping"],["Metabolism","The body’s energy use"],["Carnivoran","A member of the order Carnivora"],["Endangered","At high risk of extinction"]],
 f:["The red panda was called a panda first.","Red pandas are not related closely to giant pandas.","Red pandas eat mostly bamboo."],
-fun:"When threatened, red pandas stand up on their hind legs and raise their front paws, trying to look bigger.",
-tl:"Ang red panda ang unang tinawag na ‘panda’ bago pa ang giant panda. Kumakain din ito ng halos kawayan lamang, at wala nang 10,000 ang natitira sa ligaw."});
+fun:"When threatened, red pandas stand up on their hind legs and raise their front paws, trying to look bigger."});
 
 ADDART({id:"cassowaries",t:"Cassowaries",c:"Animals and Nature",i:"🦤",w:"Cassowary",r:["ostrich","australiacountry","kiwis","dino","amazon"],
 p:[["Giant forest birds","Cassowaries are huge flightless birds of New Guinea and northern Australia."],["Dangerous claws","Each foot has a dagger-like claw up to 12 centimeters long."],["Rainforest gardeners","They spread the seeds of many rainforest trees."]],
@@ -126,8 +117,7 @@ s2:[["Living dinosaurs","Cassowaries are often said to look like dinosaurs. All 
 sp:["Seed spreaders","Some rainforest seeds germinate much better after passing through a cassowary’s gut. Fruits such as the cassowary plum depend largely on the birds to spread them."],
 g:[["Casque","A helmet-like crest"],["Flightless","Unable to fly"],["Incubate","To keep eggs warm until hatching"],["Germinate","To begin growing from a seed"]],
 f:["Cassowaries are the second-heaviest birds.","Male cassowaries raise the chicks alone.","Cassowaries make some of the deepest bird calls."],
-fun:"A cassowary’s eggs are bright green, among the most colorful eggs of any bird.",
-tl:"Ang cassowary ay malaking ibong hindi lumilipad mula sa New Guinea at hilagang Australia. May matulis na kuko ito na hanggang 12 sentimetro ang haba, at ikinakalat nito ang mga buto ng maraming puno sa rainforest."});
+fun:"A cassowary’s eggs are bright green, among the most colorful eggs of any bird."});
 
 ADDART({id:"pineapples",t:"Pineapples",c:"Food and Agriculture",i:"🍍",w:"Pineapple",r:["fruits","bananas","hawaii","explor","colonialism"],
 p:[["From South America","Pineapples were domesticated in South America."],["Many fruits in one","A pineapple forms from dozens of flowers fused together."],["A luxury symbol","In 18th-century Europe, pineapples were a sign of wealth."]],
@@ -139,8 +129,7 @@ s2:[["Why ‘pineapple’?","European explorers named the fruit ‘pineapple’ 
 sp:["Piña cloth","In the Philippines, fibers from pineapple leaves are woven into a delicate, translucent fabric called piña, used for traditional formal shirts such as the barong Tagalog."],
 g:[["Multiple fruit","A fruit formed from many flowers fused together"],["Bromeliad","A family of tropical plants"],["Bromelain","An enzyme that breaks down proteins"],["Crown","The leafy top of a pineapple"]],
 f:["A pineapple forms from up to 200 fused flowers.","Pineapples take up to two years to grow.","Hawaiian pizza was invented in Canada."],
-fun:"In 18th-century Britain, pineapples were so rare that people rented them to show off at dinner parties, then returned them uneaten.",
-tl:"Ang pinya ay nagmula sa Timog Amerika at nabubuo mula sa dose-dosenang bulaklak na nagsanib. Noong ika-18 siglo sa Europa, simbolo ito ng kayamanan."});
+fun:"In 18th-century Britain, pineapples were so rare that people rented them to show off at dinner parties, then returned them uneaten."});
 
 ADDART({id:"maples",t:"Maple Trees",c:"Plants",i:"🍁",w:"Maple",r:["trees","canadacountry","japan","sugar","oaks"],
 p:[["Autumn colors","Maples are famous for their brilliant red, orange and yellow autumn leaves."],["Maple syrup","Sugar maple sap is boiled down to make maple syrup."],["Helicopter seeds","Their winged seeds spin as they fall."]],
@@ -152,8 +141,7 @@ s2:[["Canada’s flag","Canada adopted its red-and-white maple leaf flag on 15 F
 sp:["Helicopter seeds","Maple seeds create a small whirlwind above their wing as they spin, which slows their fall and lets the wind carry them farther. Engineers have studied them to design small drones and wind turbines."],
 g:[["Samara","A winged seed"],["Sap","The fluid that moves through a plant"],["Anthocyanin","A red or purple plant pigment"],["Chlorophyll","The green pigment that captures light"]],
 f:["About 40 liters of sap make 1 liter of maple syrup.","Canada makes about three-quarters of the world’s maple syrup.","Maple seeds spin like helicopters."],
-fun:"Thieves stole about 18 million Canadian dollars’ worth of maple syrup from a Quebec warehouse in 2011–2012.",
-tl:"Kilala ang maple sa matingkad na pula, kahel at dilaw na dahon tuwing taglagas. Pinakukuluan ang katas ng sugar maple upang gawing maple syrup, at umiikot na parang elisi ang mga may-pakpak nitong buto."});
+fun:"Thieves stole about 18 million Canadian dollars’ worth of maple syrup from a Quebec warehouse in 2011–2012."});
 
 ADDART({id:"vanilla",t:"Vanilla",c:"Food and Agriculture",i:"🍦",w:"Vanilla",r:["spice","choco","mexicocountry","madag","icecream"],
 p:[["An orchid spice","Vanilla comes from the pods of a climbing orchid."],["Pollinated by hand","Outside Mexico, vanilla flowers must be pollinated by hand."],["Second most expensive spice","Only saffron costs more."]],
@@ -165,8 +153,7 @@ s2:[["Edmond Albius","Edmond Albius’s method made vanilla farming possible in 
 sp:["Vanilla and the Totonac","According to a Totonac legend, the vanilla vine grew from the blood of a princess and her lover, who were killed for falling in love. The town of Papantla in Veracruz is known as the city that perfumed the world."],
 g:[["Orchid","A large family of flowering plants"],["Curing","Treating a crop to develop flavor"],["Vanillin","The main flavor compound in vanilla"],["Pollination","Moving pollen to fertilize a flower"]],
 f:["Vanilla comes from an orchid.","A boy on Réunion invented vanilla hand pollination.","Most vanilla flavoring is artificial."],
-fun:"Vanilla pods take about nine months to grow after pollination and several more months to cure, so producing one vanilla bean can take more than a year.",
-tl:"Ang vanilla ay nagmumula sa mga buto ng isang gumagapang na orchid. Sa labas ng Mexico, kailangang i-pollinate ito sa kamay, at ito ang ikalawang pinakamahal na pampalasa pagkatapos ng saffron."});
+fun:"Vanilla pods take about nine months to grow after pollination and several more months to cure, so producing one vanilla bean can take more than a year."});
 
 ADDART({id:"cherryblossoms",t:"Cherry Blossoms",c:"Plants",i:"🌸",w:"Cherry blossom",r:["japan","japancountry","flower","festivals","climchange"],
 p:[["Spring flowers","Cherry blossoms are the flowers of ornamental cherry trees."],["Hanami","In Japan, people gather to view the blossoms in spring."],["A climate record","Kyoto’s blossom dates have been recorded for over 1,200 years."]],
@@ -178,8 +165,7 @@ s2:[["Mono no aware","Cherry blossoms are linked to mono no aware, a Japanese id
 sp:["Washington’s cherry trees","The first gift of trees to Washington in 1910 had to be burned because they carried insects and disease. A healthy shipment of about 3,000 trees arrived in 1912, and First Lady Helen Taft and the wife of Japan’s ambassador planted the first two by the Tidal Basin."],
 g:[["Sakura","Japanese word for cherry blossom"],["Hanami","Flower viewing, especially of cherry blossoms"],["Clone","A genetically identical copy"],["Peak bloom","When most flowers are open"]],
 f:["Kyoto’s blossom records go back about 1,200 years.","Somei Yoshino cherry trees are all clones.","Tokyo gave Washington about 3,000 cherry trees in 1912."],
-fun:"Cherry blossom petals and leaves are pickled in salt and used to flavor sweets and tea in Japan.",
-tl:"Ang cherry blossom, o sakura, ay bulaklak ng mga punong cherry na pang-adorno. Nagtitipon ang mga Hapon upang tingnan ito tuwing tagsibol, at mahigit 1,200 taon nang naitatala ang petsa ng pamumulaklak nito sa Kyoto."});
+fun:"Cherry blossom petals and leaves are pickled in salt and used to flavor sweets and tea in Japan."});
 
 ADDART({id:"cassava",t:"Cassava",c:"Food and Agriculture",i:"🥔",w:"Cassava",r:["potato","nigeriacountry","brazilcountry","agri","poisonousplants"],
 p:[["A staple root","Cassava is a starchy root eaten by about 800 million people."],["From the Amazon","It was domesticated in South America about 10,000 years ago."],["Must be prepared","Raw cassava contains compounds that can release cyanide."]],
@@ -191,8 +177,7 @@ s2:[["Bubble tea pearls","The chewy black ‘boba’ pearls in bubble tea, inven
 sp:["Konzo","Konzo is a sudden, permanent paralysis of the legs caused by eating insufficiently processed bitter cassava combined with a low-protein diet, mostly in poor rural areas of Africa during droughts or conflict."],
 g:[["Tuberous root","A swollen root that stores food"],["Cyanide","A fast-acting poison"],["Tapioca","Starch made from cassava"],["Biofortification","Breeding crops to be more nutritious"]],
 f:["Cassava feeds about 800 million people.","Raw cassava can release cyanide.","Bubble tea pearls are made from cassava."],
-fun:"Cassava roots can be left in the ground for up to two years and harvested only when needed.",
-tl:"Ang kamoteng kahoy ay ugat na mayaman sa almirol na kinakain ng mga 800 milyong tao. Inalagaan ito sa Amazon mga 10,000 taon na ang nakalipas, ngunit kailangan itong ihanda nang maayos dahil maaaring maglabas ng cyanide ang hilaw nito."});
+fun:"Cassava roots can be left in the ground for up to two years and harvested only when needed."});
 
 ADDART({id:"eucalyptus",t:"Eucalyptus",c:"Plants",i:"🌿",w:"Eucalyptus",r:["trees","koalas","australiacountry","firefighters","invasiveplants"],
 p:[["Australia’s trees","Eucalyptus trees dominate most Australian forests."],["Fragrant oil","Their leaves contain aromatic oils."],["Fire-adapted","Many eucalypts survive and even need bushfires."]],
@@ -204,8 +189,7 @@ s2:[["Centurion","A mountain ash in Tasmania named Centurion, about 100 meters t
 sp:["Koalas and eucalyptus","Koalas eat only a few eucalyptus species and can sniff out which leaves are least toxic and most nutritious. Gut bacteria help them break down the leaves’ oils and tannins."],
 g:[["Lignotuber","A woody swelling at the base of a plant that stores buds"],["Epicormic bud","A dormant bud under bark"],["Cineole","The main compound in eucalyptus oil"],["Mallee","A shrubby eucalypt with several stems"]],
 f:["Eucalypts dominate three-quarters of Australian forests.","Mountain ash are the tallest flowering plants.","Eucalyptus leaves can contain tiny traces of gold."],
-fun:"Eucalyptus trees can grow very fast, with some plantation trees growing more than 10 meters in their first three years.",
-tl:"Ang eucalyptus ang nangingibabaw sa karamihan ng gubat sa Australia. May mabangong langis ang mga dahon nito, at maraming uri ang nakaliligtas at nangangailangan pa ng sunog sa gubat."});
+fun:"Eucalyptus trees can grow very fast, with some plantation trees growing more than 10 meters in their first three years."});
 
 ADDART({id:"ginger",t:"Ginger and Turmeric",c:"Food and Agriculture",i:"🫚",w:"Ginger",r:["spice","indiacountry","medicinalplants","china","trade"],
 p:[["Spicy roots","Ginger and turmeric are spices made from underground stems called rhizomes."],["Ancient trade","Ginger was one of the first spices traded from Asia to Europe."],["Traditional medicine","Both have long been used in Asian medicine."]],
@@ -217,5 +201,4 @@ s2:[["Gingerbread","Gingerbread became popular in medieval Europe, and Queen Eli
 sp:["Spice adulteration","Because turmeric is valuable, some suppliers have illegally added lead chromate, a toxic yellow pigment, to brighten its color. Studies in Bangladesh found it was a major source of lead poisoning, prompting crackdowns from 2019."],
 g:[["Rhizome","An underground stem that grows sideways"],["Gingerol","The compound that gives ginger its bite"],["Curcumin","The yellow pigment in turmeric"],["Adulteration","Adding cheaper or harmful substances to food"]],
 f:["Ginger and turmeric are rhizomes, not roots.","India produces most of the world’s ginger and turmeric.","Ginger can help reduce nausea."],
-fun:"Cardamom, another popular spice, also belongs to the ginger family.",
-tl:"Ang luya at luyang dilaw ay mga pampalasang mula sa mga tangkay sa ilalim ng lupa na tinatawag na rhizome. Isa ang luya sa mga unang pampalasang ikinalakal mula Asya patungong Europa, at matagal nang ginagamit ang dalawa sa medisinang Asyano."});
+fun:"Cardamom, another popular spice, also belongs to the ginger family."});

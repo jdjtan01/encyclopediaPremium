@@ -9,8 +9,7 @@ s2:[["Churchill, the polar bear capital","Each autumn, hundreds of polar bears g
 sp:["Polar bear versus brown bear","Polar bears evolved from brown bears and can still breed with them; a few hybrids, nicknamed ‘pizzly’ or ‘grolar’ bears, have been found in the wild. Polar bears have longer necks, smaller heads and larger paws, and unlike brown bears they eat almost nothing but meat."],
 g:[["Carnivore","An animal that eats mainly meat"],["Sea ice","Frozen seawater floating on the ocean"],["Den","A sheltered place where an animal rests or gives birth"],["Vulnerable","At risk of becoming endangered"]],
 f:["Polar bear skin is black.","A polar bear’s fat layer can be 10 centimeters thick.","Newborn cubs weigh only about 600 grams."],
-fun:"Polar bears are so well insulated that they are almost invisible to infrared cameras.",
-tl:"Ang polar bear ang pinakamalaking mandaragit sa lupa, naninirahan sa yelo ng dagat sa Arctic. Pinapanatili silang mainit ng makapal na balahibo, itim na balat at taba, ngunit lumiliit ang yelong pinangangasuhan nila dahil sa pagbabago ng klima."});
+fun:"Polar bears are so well insulated that they are almost invisible to infrared cameras."});
 
 ADDART({id:"honeybees",t:"Honeybees",c:"Animals and Nature",i:"🐝",w:"Honey bee",r:["insect","flower","agri","wasps","ants"],
 p:[["Makers of honey","Honeybees collect nectar from flowers and turn it into honey."],["Life in the hive","A colony has one queen, thousands of female workers and some male drones."],["Pollinators","Bees pollinate many of the crops people eat."]],
@@ -22,8 +21,7 @@ s2:[["A royal diet","All female larvae start the same, but those fed only royal 
 sp:["Why a bee dies when it stings","A honeybee worker’s sting is barbed. When she stings a person or animal with thick skin, the sting stays behind, tearing away part of her body, so she dies. Queens have smooth stings and can sting repeatedly. Drones have no sting at all."],
 g:[["Nectar","A sweet liquid made by flowers"],["Pollen","Powder from flowers that fertilizes other flowers"],["Colony","A group of animals living together"],["Drone","A male bee"]],
 f:["A bee colony may visit millions of flowers to make a kilogram of honey.","A queen can lay over 1,500 eggs a day.","Honey found in Egyptian tombs was still edible after thousands of years."],
-fun:"Honeybees can recognize human faces in experiments.",
-tl:"Ang mga pukyutan ay kumukuha ng nektar sa bulaklak at ginagawa itong pulot. May isang reyna, libu-libong babaeng manggagawa at ilang lalaking drone sa isang kolonya, at nagpapalaganap sila ng pollen sa maraming pananim."});
+fun:"Honeybees can recognize human faces in experiments."});
 
 ADDART({id:"newspapers",t:"Newspapers",c:"The Modern World",i:"📰",w:"Newspaper",r:["journalism","print","misinformation","socialmedia","libraries"],
 p:[["Daily news in print","Newspapers are printed publications of news, opinion and advertising."],["Four centuries old","The first regular printed newspapers appeared in Europe in the early 1600s."],["Going digital","Many newspapers now reach more readers online than in print."]],
@@ -35,8 +33,7 @@ s2:[["The Watergate investigation","In 1972–74, two reporters at The Washingto
 sp:["Broadsheets and tabloids","Newspapers come in two main sizes. Broadsheets are large and traditionally more serious; tabloids are half the size and often use bold headlines and pictures. The word tabloid has also come to mean sensational journalism, though many tabloid-sized papers are serious."],
 g:[["Circulation","The number of copies a newspaper sells"],["Editorial","An article giving the newspaper’s opinion"],["Headline","The title of a news story"],["Byline","The line naming the writer of an article"]],
 f:["The first printed newspaper appeared around 1605.","The telegraph let newspapers report distant events within hours.","World Press Freedom Day is 3 May."],
-fun:"The crossword puzzle first appeared in a newspaper, the New York World, in 1913.",
-tl:"Ang pahayagan ay nakalimbag na lathalain ng balita, opinyon at anunsiyo. Lumitaw ang mga unang regular na pahayagan sa Europa noong unang bahagi ng 1600, at marami na ngayon ang mas maraming mambabasa online kaysa sa papel."});
+fun:"The crossword puzzle first appeared in a newspaper, the New York World, in 1913."});
 
 ADDART({id:"postal",t:"The Postal Service",c:"The Modern World",i:"✉️",w:"Mail",r:["writing","persia","journalism","ecommerce","ships"],
 p:[["Carrying messages","Postal services carry letters and parcels from sender to receiver."],["Ancient relays","Persian and Roman empires had relay riders carrying official messages."],["The postage stamp","The first stamp, the Penny Black, appeared in Britain in 1840."]],
@@ -48,8 +45,7 @@ s2:[["The Pony Express","For 18 months in 1860–61, riders of the Pony Express 
 sp:["Stamp collecting","Collecting stamps, called philately, became a popular hobby soon after stamps appeared. Rare stamps with printing errors can be worth millions; the British Guiana 1c magenta, the only one of its kind, sold for over 8 million US dollars in 2021."],
 g:[["Postage","The fee for sending mail"],["Courier","A person who carries messages or packages"],["Sorting office","A place where mail is sorted for delivery"],["Philately","Stamp collecting"]],
 f:["The Penny Black was the world’s first adhesive postage stamp.","The Universal Postal Union was founded in 1874.","The rarest stamp sold for over 8 million US dollars."],
-fun:"Before stamps, the person receiving a letter usually had to pay for it.",
-tl:"Ang serbisyong koreo ay nagdadala ng sulat at pakete mula sa nagpadala hanggang sa tatanggap. May mga mensaherong relay na ang mga sinaunang imperyo, at lumitaw ang unang selyo, ang Penny Black, sa Britanya noong 1840."});
+fun:"Before stamps, the person receiving a letter usually had to pay for it."});
 
 ADDART({id:"dyes",t:"Dyes and Color",c:"Technology",i:"🎨",w:"Dye",r:["cotton","clothing","phoenicians","reactions","light"],
 p:[["Coloring the world","Dyes are substances that give lasting color to cloth, leather, paper and food."],["Precious purples","Some ancient dyes were worth more than gold."],["The synthetic revolution","In 1856, a teenager accidentally made the first synthetic dye."]],
@@ -61,8 +57,7 @@ s2:[["Why jeans fade","Indigo does not soak into cotton fibers but sits on their
 sp:["Dyes and pigments","Dyes dissolve and bond chemically to the material they color, while pigments are tiny insoluble particles held on a surface by a binder, as in paint and ink. The same substance can sometimes be used as either."],
 g:[["Mordant","A substance that fixes a dye to a fiber"],["Indigo","A plant and the blue dye made from it"],["Synthetic","Made by people using chemistry"],["Pigment","A colored powder used in paints and inks"]],
 f:["Tyrian purple needed thousands of snails per gram.","The first synthetic dye was discovered by an 18-year-old.","Indigo gives jeans their blue color."],
-fun:"The red dye cochineal, made from insects, is still used to color some foods and cosmetics.",
-tl:"Ang tina ay sangkap na nagbibigay ng pangmatagalang kulay sa tela, balat, papel at pagkain. Mas mahal pa sa ginto ang ilang sinaunang tina, at noong 1856 ay aksidenteng nagawa ng isang tinedyer ang unang sintetikong tina."});
+fun:"The red dye cochineal, made from insects, is still used to color some foods and cosmetics."});
 
 ADDART({id:"umbrellas",t:"Umbrellas",c:"How We Live",i:"☂️",w:"Umbrella",r:["monsoon","clothing","chinacountry","storms","phtyph"],
 p:[["Shelter you can carry","An umbrella is a folding canopy on a handle that protects against rain or sun."],["Ancient sunshades","The first umbrellas, over 3,000 years ago, were for shade and status."],["Everyday object","Billions are made each year, most of them in one Chinese city."]],
@@ -74,8 +69,7 @@ s2:[["Wagasa","Traditional Japanese umbrellas, called wagasa, are made from bamb
 sp:["Why umbrellas turn inside out","In a strong gust, wind catches under the canopy and pushes it upward. If the force is greater than the ribs can resist, they bend backwards and the canopy flips inside out. Vented umbrellas have a second layer that lets gusts escape, and some modern designs are tested in wind tunnels."],
 g:[["Canopy","The cover of an umbrella"],["Rib","One of the thin rods supporting the canopy"],["Parasol","An umbrella used for shade from the sun"],["Telescopic","Able to slide into itself to become shorter"]],
 f:["The word umbrella comes from the Latin word for shade.","The Chinese made waterproof umbrellas over 1,000 years ago.","Most of the world’s umbrellas come from one city in China."],
-fun:"The parasol is one of the eight lucky symbols of Buddhism.",
-tl:"Ang payong ay natitiklop na takip na may hawakan na nagsasanggalang sa ulan o araw. Mahigit 3,000 taon na ang nakararaan ay ginagamit ito bilang lilim at tanda ng kapangyarihan, at bilyon-bilyon ang ginagawa bawat taon."});
+fun:"The parasol is one of the eight lucky symbols of Buddhism."});
 
 ADDART({id:"pizza",t:"Pizza",c:"How We Live",i:"🍕",w:"Pizza",r:["italycountry","wheat","cheese","potato","migration"],
 p:[["A dish from Naples","Pizza is a flatbread topped with tomato, cheese and other ingredients, baked in a hot oven."],["Protected tradition","Neapolitan pizza-making is on UNESCO’s list of intangible heritage."],["Eaten everywhere","Billions of pizzas are eaten each year around the world."]],
@@ -87,8 +81,7 @@ s2:[["Rules for Neapolitan pizza","The Associazione Verace Pizza Napoletana sets
 sp:["The pizza box","The square cardboard box with a lid, used for delivering round pizzas, was developed in the 1960s. Vents let steam escape so the crust does not go soggy, and the small plastic table in the middle stops the lid from sticking to the cheese."],
 g:[["Pizzaiuolo","A pizza maker, especially in Naples"],["Mozzarella","A soft Italian cheese"],["Wood-fired oven","An oven heated by burning wood"],["Deep-dish","A thick pizza baked in a deep pan"]],
 f:["Neapolitan pizza bakes in about 90 seconds.","The Margherita is said to show the colors of the Italian flag.","Pizza has been eaten on the International Space Station."],
-fun:"Americans eat about 3 billion pizzas a year.",
-tl:"Ang pizza ay patag na tinapay na may kamatis, keso at iba pang sahog, inihuhurno sa mainit na pugon. Nagmula ito sa Naples, Italya, at kabilang na ang paggawa nito sa listahan ng UNESCO ng pamanang kultural."});
+fun:"Americans eat about 3 billion pizzas a year."});
 
 ADDART({id:"curry",t:"Curry",c:"How We Live",i:"🍛",w:"Curry",r:["spice","indiacountry","japancountry","migration","rice"],
 p:[["Spiced dishes","Curry is a general name for spiced dishes of meat, fish or vegetables in a sauce."],["A traveling word","The word spread from India through the British Empire to the world."],["Many national versions","Thai, Japanese, Caribbean and British curries are all different."]],
@@ -100,8 +93,7 @@ s2:[["Turmeric","Turmeric, a root related to ginger, gives many curries their go
 sp:["Curry houses","Britain has thousands of ‘Indian’ restaurants, many run by families from Bangladesh. Dishes such as balti, from Birmingham, and chicken tikka masala were created in Britain for British tastes. The curry industry employs around 100,000 people there."],
 g:[["Masala","A blend of spices"],["Turmeric","A yellow spice made from a root"],["Coconut milk","A liquid made from grated coconut"],["Indentured worker","A person bound to work for a set time, often far from home"]],
 f:["Chilies were unknown in India until the 1500s.","Japanese curry came from the British navy.","Turmeric gives curry its yellow color."],
-fun:"Japanese schools often serve curry rice for lunch, and the navy traditionally eats it every Friday.",
-tl:"Ang curry ay pangkalahatang tawag sa mga pagkaing may pampalasa at sarsa. Kumalat ang salita mula India sa buong mundo, at magkakaiba ang mga bersiyon nito sa Thailand, Japan, Caribbean at Britanya."});
+fun:"Japanese schools often serve curry rice for lunch, and the navy traditionally eats it every Friday."});
 
 ADDART({id:"icecream",t:"Ice Cream",c:"How We Live",i:"🍦",w:"Ice cream",r:["refrigeration","cheese","sugar","choco","molecules"],
 p:[["A frozen treat","Ice cream is a sweet frozen food made from milk or cream, sugar and flavorings."],["Royal luxury","Before refrigerators, only the rich could enjoy frozen desserts."],["A global favorite","People eat billions of liters of ice cream every year."]],
@@ -113,8 +105,7 @@ s2:[["Brain freeze","Eating ice cream too fast can cause a sudden sharp headache
 sp:["Why salt freezes ice cream","Mixing salt with ice lowers the temperature at which the ice melts, to well below 0°C. The melting ice draws heat from the cream mixture beside it, freezing the cream. This trick, known in Italy by the 1500s, is still used in hand-cranked ice cream makers."],
 g:[["Churn","To stir a mixture continuously"],["Overrun","The amount of air whipped into ice cream"],["Gelato","Italian-style ice cream with less air"],["Pasteurize","To heat food to kill germs"]],
 f:["Persians were eating flavored ices about 2,500 years ago.","Gelato has less air than regular ice cream.","Turkish dondurma is stretchy because it contains orchid-root flour."],
-fun:"Vanilla is the most popular ice cream flavor in most countries.",
-tl:"Ang sorbetes ay matamis na nagyeyelong pagkain mula sa gatas o cream, asukal at pampalasa. Noong wala pang refrigerator, mayayaman lamang ang nakatitikim nito, at bilyun-bilyong litro na ang kinakain bawat taon."});
+fun:"Vanilla is the most popular ice cream flavor in most countries."});
 
 ADDART({id:"mirrors",t:"Mirrors",c:"Science",i:"🪞",w:"Mirror",r:["light","glass","scope","illusions","camera"],
 p:[["Reflecting light","A mirror is a smooth surface that reflects light to form an image."],["From polished metal to silvered glass","Early mirrors were polished stone or bronze; glass mirrors came later."],["Science and telescopes","Curved mirrors gather light in the world’s largest telescopes."]],
@@ -126,8 +117,7 @@ s2:[["The Hall of Mirrors","The Hall of Mirrors at the Palace of Versailles, com
 sp:["One-way mirrors","A so-called one-way mirror is a sheet of glass with a very thin reflective coating. It works only when one side is brightly lit and the other dark: people in the bright room see their reflection, while people in the dark room see through. If the lights are switched, the effect reverses."],
 g:[["Reflection","Light bouncing off a surface"],["Concave","Curved inward, like the inside of a spoon"],["Convex","Curved outward, like the back of a spoon"],["Silvering","Coating glass with a thin layer of metal"]],
 f:["The earliest mirrors were made of volcanic glass.","Venetian mirrors once cost more than famous paintings.","The James Webb Space Telescope’s mirror is coated with gold."],
-fun:"Ambulances often have their name written backwards on the front so drivers can read it in their rear-view mirrors.",
-tl:"Ang salamin ay makinis na ibabaw na sumasalamin ng liwanag upang bumuo ng larawan. Ang mga unang salamin ay pinakintab na bato o tanso, at ginagamit ang mga kurbadong salamin sa pinakamalalaking teleskopyo sa mundo."});
+fun:"Ambulances often have their name written backwards on the front so drivers can read it in their rear-view mirrors."});
 
 ADDART({id:"zoos",t:"Zoos",c:"Animals and Nature",i:"🦁",w:"Zoo",r:["conservation","extinction","museums","lion","panda"],
 p:[["Animals on display","Zoos keep wild animals for people to see, study and protect."],["From menageries to conservation","Modern zoos focus on breeding endangered species and education."],["A continuing debate","People disagree about whether keeping animals in zoos is right."]],
@@ -139,8 +129,7 @@ s2:[["Giant pandas abroad","China lends giant pandas to zoos around the world, a
 sp:["Enrichment","Modern zoos give animals enrichment: puzzles that hide food, new scents and objects, climbing structures and pools, to keep them active and prevent boredom. Keepers also train animals with rewards so that medical checks can be done without stress."],
 g:[["Menagerie","A collection of wild animals kept for show"],["Enclosure","The area in which a zoo animal lives"],["Breeding program","A plan to breed animals to save a species"],["Captivity","Being kept and unable to live in the wild"]],
 f:["The word zoo comes from London’s Zoological Gardens.","Vienna’s zoo has operated since 1752.","California condors were saved by zoo breeding."],
-fun:"Baby pandas born in zoos abroad are sent back to China when they are a few years old.",
-tl:"Ang zoo ay lugar kung saan iniingatan ang mga ligaw na hayop para makita, pag-aralan at protektahan. Nakatuon ang mga makabagong zoo sa pagpaparami ng mga nanganganib na hayop, ngunit pinagtatalunan kung tama ang pagkulong sa kanila."});
+fun:"Baby pandas born in zoos abroad are sent back to China when they are a few years old."});
 
 ADDART({id:"hospitals",t:"Hospitals",c:"Health and the Body",i:"🏥",w:"Hospital",r:["nightingale","antibiotics","telemedicine","who","hygiene"],
 p:[["Places of healing","Hospitals are institutions where sick and injured people receive medical care."],["Ancient roots","Early hospitals were run by temples, monasteries and Islamic rulers."],["Modern medicine","Today’s hospitals combine doctors, nurses, laboratories and advanced machines."]],
@@ -152,8 +141,7 @@ s2:[["The emergency department","Emergency departments treat patients with sudde
 sp:["Why hospitals are white","Hospitals adopted white walls, uniforms and sheets in the late 1800s because white shows dirt easily and can be boiled clean, part of the new emphasis on hygiene. Today, many hospitals use colors and artwork to make wards calmer, especially for children."],
 g:[["Ward","A room or area in a hospital for patients"],["Triage","Sorting patients by how urgent their condition is"],["Antiseptic","A substance that kills germs on skin or surfaces"],["Intensive care","Treatment for the most seriously ill patients"]],
 f:["Hospitals in the medieval Islamic world treated patients for free.","X-rays were first used in hospitals in 1896.","Triage comes from a French word meaning ‘sorting’."],
-fun:"The word hospital comes from the Latin hospes, meaning guest, the same root as hotel and hospitality.",
-tl:"Ang ospital ay institusyon kung saan ginagamot ang mga maysakit at nasugatan. Pinatakbo ang mga unang ospital ng mga templo, monasteryo at pinunong Islamiko, at ngayon ay pinagsasama nito ang mga doktor, nars, laboratoryo at makabagong makina."});
+fun:"The word hospital comes from the Latin hospes, meaning guest, the same root as hotel and hospitality."});
 
 ADDART({id:"firefighters",t:"Firefighters",c:"How We Live",i:"🚒",w:"Firefighter",r:["disasterprep","volunteering","police","hospitals","thermo"],
 p:[["Fighting fires, saving lives","Firefighters put out fires and rescue people from burning buildings, crashes and floods."],["Roman beginnings","Ancient Rome had a corps of 7,000 firefighters called the Vigiles."],["Prevention too","Modern fire services also inspect buildings and teach fire safety."]],
@@ -165,8 +153,7 @@ s2:[["The fire pole","In 1878, a Chicago firefighter installed a wooden pole so 
 sp:["Firefighters’ gear","A firefighter’s protective clothing, called turnout gear, is made of heat-resistant layers and weighs around 20 kilograms with helmet, boots and the air tank that lets them breathe in smoke. A thermal imaging camera shows heat through smoke, helping them find people and hidden flames."],
 g:[["Fire engine","A vehicle carrying pumps, hoses and equipment"],["Hydrant","A pipe in the street that supplies water for fighting fires"],["Firebreak","A gap in vegetation that stops a wildfire spreading"],["Breathing apparatus","Equipment that supplies clean air in smoke"]],
 f:["Ancient Rome had about 7,000 firefighters.","A firefighter’s gear weighs around 20 kilograms.","The fire pole was invented in Chicago in 1878."],
-fun:"Dalmatian dogs became fire-station mascots because they once ran alongside horse-drawn fire engines, calming the horses.",
-tl:"Ang mga bumbero ay nag-aapula ng sunog at nagliligtas ng tao mula sa nasusunog na gusali, banggaan at baha. May 7,000 bumbero na ang sinaunang Roma, at nagtuturo rin ng kaligtasan sa sunog ang mga makabagong serbisyo."});
+fun:"Dalmatian dogs became fire-station mascots because they once ran alongside horse-drawn fire engines, calming the horses."});
 
 ADDART({id:"police",t:"The Police",c:"Society",i:"👮",w:"Police",r:["law","democ","hrights","firefighters","journalism"],
 p:[["Keeping order","Police forces enforce the law, prevent crime and protect people."],["Modern policing","The first modern police force was founded in London in 1829."],["Trust and debate","How police should act and be held accountable is debated in many countries."]],
@@ -178,8 +165,7 @@ s2:[["Fingerprints","In 1901, London’s Scotland Yard began identifying suspect
 sp:["Interpol","Interpol, based in Lyon, France, helps police forces in 196 countries share information and track suspects across borders. It issues ‘red notices’ asking countries to arrest wanted people, but it has no officers of its own and cannot make arrests."],
 g:[["Detective","A police officer who investigates crimes"],["Beat","The area an officer regularly patrols"],["Forensic science","Using science to investigate crimes"],["Accountability","Being answerable for one’s actions"]],
 f:["British police are called bobbies after Robert Peel.","Scotland Yard began using fingerprints in 1901.","Interpol has member countries but no officers of its own."],
-fun:"Early London police were told to be polite and were forbidden from carrying guns, a rule that mostly continues today.",
-tl:"Ipinatutupad ng pulisya ang batas, pinipigilan ang krimen at pinoprotektahan ang mga tao. Itinatag ang unang makabagong pulisya sa London noong 1829, at pinagtatalunan sa maraming bansa kung paano dapat kumilos at managot ang pulisya."});
+fun:"Early London police were told to be polite and were forbidden from carrying guns, a rule that mostly continues today."});
 
 ADDART({id:"universities",t:"Universities",c:"Society",i:"🎓",w:"University",r:["libraries","education","onlinelearning","goldage","medieurope"],
 p:[["Higher learning","Universities teach advanced subjects and carry out research."],["Nearly a thousand years old","The oldest universities date from the Middle Ages, in Africa, the Middle East and Europe."],["Degrees and research","Students earn degrees, and researchers make discoveries that change the world."]],
@@ -191,8 +177,7 @@ s2:[["Fatima al-Fihri","Al-Qarawiyyin in Fez was founded in 859 by Fatima al-Fih
 sp:["The oldest university in the Philippines","The University of Santo Tomas in Manila, founded in 1611, is the oldest existing university in Asia, older than Harvard, the oldest in the United States, which was founded in 1636."],
 g:[["Degree","A qualification awarded by a university"],["Lecture","A talk given to teach a subject"],["Doctorate","The highest university degree, based on research"],["Tuition","The fee paid for teaching"]],
 f:["Al-Qarawiyyin was founded by a woman, Fatima al-Fihri, in 859.","The University of Bologna dates from 1088.","Over 200 million students study at universities worldwide."],
-fun:"The word university originally meant a guild, like those of merchants and craftsmen.",
-tl:"Ang unibersidad ay nagtuturo ng mataas na antas ng mga asignatura at nagsasagawa ng pananaliksik. Mula pa Gitnang Panahon ang pinakamatatandang unibersidad, at mahigit 200 milyong estudyante na ang nag-aaral sa mga ito."});
+fun:"The word university originally meant a guild, like those of merchants and craftsmen."});
 
 ADDART({id:"weddings",t:"Weddings",c:"How We Live",i:"💍",w:"Wedding",r:["festivals","hindu","christ","islam","clothing"],
 p:[["Celebrating marriage","A wedding is the ceremony in which two people are married."],["Many traditions","Rings, vows, feasts and special clothes vary from culture to culture."],["Old customs, new forms","Weddings today blend ancient customs with personal choices."]],
@@ -204,8 +189,7 @@ s2:[["The ring finger","Wedding rings are often worn on the fourth finger of the
 sp:["Henna night","Before weddings in South Asia, the Middle East and North Africa, women gather for a henna or mehndi party, where the bride’s hands and feet are decorated with intricate patterns in henna paste that stain the skin reddish-brown for weeks. The evening is filled with music, dancing and food."],
 g:[["Vow","A solemn promise"],["Ceremony","A formal event with set actions"],["Civil wedding","A marriage performed by a government official"],["Henna","A plant dye used to decorate skin"]],
 f:["White wedding dresses became popular after 1840.","Red is the traditional wedding color in China and India.","Wedding rings go back to ancient Egypt and Rome."],
-fun:"At Jewish weddings, the groom breaks a glass underfoot, and guests shout ‘Mazel tov!’, meaning good luck.",
-tl:"Ang kasal ay seremonya kung saan ikinakasal ang dalawang tao. Nag-iiba-iba sa bawat kultura ang singsing, panata, piging at kasuotan, at pinagsasama ng mga kasal ngayon ang lumang kaugalian at sariling pagpili."});
+fun:"At Jewish weddings, the groom breaks a glass underfoot, and guests shout ‘Mazel tov!’, meaning good luck."});
 
 ADDART({id:"pets",t:"Pets",c:"Animals and Nature",i:"🐾",w:"Pet",r:["dogs","cats","horses","fish","rabbits"],
 p:[["Animal companions","Pets are animals kept for company and enjoyment rather than work or food."],["An ancient bond","Dogs were the first animals to live with humans, over 15,000 years ago."],["Good for us","Pets can improve people’s mood, health and sense of responsibility."]],
@@ -217,8 +201,7 @@ s2:[["Hachikō","Hachikō was a dog in Tokyo who met his owner, a professor, at 
 sp:["Choosing a pet","Different animals suit different homes. Dogs need daily walks and company; cats are more independent; fish and small animals need less space but still need daily care. Some pets live a long time: parrots and tortoises can outlive their owners."],
 g:[["Domesticated","Tamed and bred to live with people"],["Veterinarian","A doctor for animals"],["Microchip","A tiny implant that identifies a pet"],["Neuter","To operate on an animal so it cannot breed"]],
 f:["Dogs were domesticated over 15,000 years ago.","A cat was buried with a person in Cyprus about 9,500 years ago.","Some parrots can live for over 60 years."],
-fun:"Cats cannot taste sweetness.",
-tl:"Ang alagang hayop ay inaalagaan para sa pagsasama at kasiyahan, hindi para sa trabaho o pagkain. Ang aso ang unang hayop na namuhay kasama ng tao mahigit 15,000 taon na ang nakararaan, at nakabubuti ang alaga sa kalooban at kalusugan."});
+fun:"Cats cannot taste sweetness."});
 
 ADDART({id:"rabbits",t:"Rabbits and Hares",c:"Animals and Nature",i:"🐇",w:"Rabbit",r:["pets","domestication","grasslands","invasiveplants","australiacountry"],
 p:[["Long ears, strong legs","Rabbits and hares are small mammals known for long ears, big back legs and fast breeding."],["Burrows and forms","Rabbits dig burrows and live in groups; hares live alone above ground."],["Pets and pests","Rabbits are popular pets but became a plague in Australia."]],
@@ -230,8 +213,7 @@ s2:[["The rabbit-proof fence","Between 1901 and 1907, Western Australia built th
 sp:["Not rodents","Rabbits and hares look a little like large rodents and were once classified with them, but they belong to a separate order, the lagomorphs, together with the pikas of mountains. Unlike rodents, they have a second pair of small teeth behind their upper front teeth."],
 g:[["Warren","A network of rabbit burrows"],["Kit","A young rabbit"],["Leveret","A young hare"],["Invasive species","An introduced species that harms its new environment"]],
 f:["Hares can run at about 70 kilometers per hour.","Rabbits digest their food twice.","Australia’s rabbit-proof fence was over 1,800 kilometers long."],
-fun:"A rabbit’s teeth never stop growing, so it must gnaw constantly to wear them down.",
-tl:"Ang mga kuneho at liebre ay maliliit na mamalya na may mahabang tainga, malalaking hulihang binti at mabilis na pagpaparami. Sikat na alaga ang kuneho ngunit naging salot ito sa Australia."});
+fun:"A rabbit’s teeth never stop growing, so it must gnaw constantly to wear them down."});
 
 ADDART({id:"fencing",t:"Fencing",c:"How We Live",i:"🤺",w:"Fencing",r:["olymp","martial","samurai","castles","gymnastics"],
 p:[["Sword fighting as sport","Fencing is a sport in which two competitors fight with blunted swords."],["Three weapons","Fencers use the foil, the épée or the sabre, each with its own rules."],["Electric scoring","Hits are recorded electronically through wires in the fencers’ clothing."]],
@@ -243,8 +225,7 @@ s2:[["Why fencers say ‘touché’","Touché, French for ‘touched’, is what
 sp:["Footwork","Fencers move up and down the piste with quick steps, advances, retreats and lunges, in which the front leg shoots forward to reach the opponent. A fleche, French for arrow, is a running attack. Good footwork is as important as blade work."],
 g:[["Piste","The strip on which fencers compete"],["Parry","Blocking an attack with the blade"],["Riposte","A counter-attack after a parry"],["Lunge","A long step forward to reach the opponent"]],
 f:["Fencing has been in every modern Olympic Games.","The protective mask was invented around 1780.","Fencing’s language is mostly French."],
-fun:"Hungary won the Olympic men’s sabre title at every Games from 1908 to 1964.",
-tl:"Ang fencing ay isport kung saan naglalaban ang dalawang kalahok gamit ang mapurol na espada. Tatlong sandata ang ginagamit, ang foil, épée at sabre, at elektronikong naitatala ang mga tama."});
+fun:"Hungary won the Olympic men’s sabre title at every Games from 1908 to 1964."});
 
 ADDART({id:"rowing",t:"Rowing",c:"How We Live",i:"🚣",w:"Rowing (sport)",r:["ships","olymp","rivers","universities","viking"],
 p:[["Boats moved by oars","Rowing is moving a boat through water with oars."],["From transport to racing","Rowing races began among watermen and university students in the 1700s and 1800s."],["A test of teamwork","Crews of up to eight must pull in perfect time."]],
@@ -256,8 +237,7 @@ s2:[["The Boat Race","The Boat Race between Oxford and Cambridge universities, f
 sp:["Dragon boats","Dragon boat racing, from southern China, uses long boats paddled by crews of around 20, with a drummer setting the pace and a dragon’s head on the bow. Races are held at the Dragon Boat Festival in early summer and are now popular worldwide. Paddlers face forward, unlike rowers."],
 g:[["Oar","A long pole with a blade used to move a boat"],["Coxswain","The person who steers a rowing boat and directs the crew"],["Sculling","Rowing with two oars, one in each hand"],["Stroke","One complete cycle of the oar, or the rower who sets the rhythm"]],
 f:["Rowers face backwards.","Olympic rowing races are 2,000 meters long.","The Boat Race has been held since 1829."],
-fun:"In an eight, the coxswain is the only person who can see where the boat is going.",
-tl:"Ang rowing ay paggalaw ng bangka sa tubig gamit ang mga sagwan. Nagsimula ang karera ng rowing sa mga bangkero at estudyante noong 1700 at 1800, at kailangang magkasabay na humila ang mga tripulante."});
+fun:"In an eight, the coxswain is the only person who can see where the boat is going."});
 
 ADDART({id:"sailing",t:"Sailing",c:"How We Live",i:"⛵",w:"Sailing",r:["ships","wind","explor","polynesia","olymp"],
 p:[["Powered by the wind","Sailing uses the wind on sails to move a boat across the water."],["Thousands of years of voyages","Sailing boats carried traders and explorers across the oceans."],["Sport and recreation","Today sailing is a popular pastime and an Olympic sport."]],
@@ -269,8 +249,7 @@ s2:[["The America’s Cup","In 1851, the yacht America beat British boats in a r
 sp:["Parts of a sailing boat","The hull is the body of the boat; the mast holds up the sails; the mainsail is the largest sail and the jib a smaller one in front; the boom is the pole along the bottom of the mainsail; the rudder steers; and the keel or centerboard under the hull keeps the boat from sliding sideways and tipping over."],
 g:[["Tacking","Turning the bow through the wind to sail a zigzag course upwind"],["Keel","A fin under a boat that keeps it stable"],["Dinghy","A small open sailing boat"],["Yacht","A boat used for racing or pleasure"]],
 f:["Sailing boats cannot sail straight into the wind.","The America’s Cup is the oldest international sporting trophy.","Clipper ships were the fastest sailing cargo ships."],
-fun:"Modern America’s Cup yachts rise out of the water on foils and can sail faster than the wind.",
-tl:"Ang paglalayag ay paggamit ng hangin sa layag upang maigalaw ang bangka sa tubig. Libu-libong taon nang nagdadala ng mga mangangalakal at manlalakbay ang mga bangkang may layag, at isport na ito ngayon sa Olympics."});
+fun:"Modern America’s Cup yachts rise out of the water on foils and can sail faster than the wind."});
 
 ADDART({id:"horseracing",t:"Horse Racing",c:"How We Live",i:"🏇",w:"Horse racing",r:["horses","olymp","prob","ukcountry","mongol"],
 p:[["The sport of kings","Horse racing is the racing of horses ridden by jockeys over a set course."],["An ancient sport","Chariot and horse races were held in ancient Greece and Rome."],["Famous races","The Kentucky Derby, the Grand National and the Melbourne Cup draw huge crowds."]],
@@ -282,8 +261,7 @@ s2:[["Secretariat","In 1973, the American horse Secretariat won the Triple Crown
 sp:["Jockeys","Jockeys are small and light, usually weighing around 50 to 55 kilograms, and ride with very short stirrups in a crouch over the horse’s neck. They must judge pace, position and timing in a race that lasts only a minute or two. Many jockeys suffer serious injuries during their careers."],
 g:[["Jockey","A person who rides racehorses"],["Thoroughbred","A breed of horse developed for racing"],["Steeplechase","A race over fences and ditches"],["Furlong","An old distance unit of about 201 meters, still used in racing"]],
 f:["All Thoroughbreds descend from three stallions.","Racehorses can run at over 65 kilometers per hour.","The Palio of Siena lasts about 90 seconds."],
-fun:"The Derby’s name was decided by a coin toss between Lord Derby and Sir Charles Bunbury in 1779.",
-tl:"Ang karera ng kabayo ay paligsahan ng mga kabayong sinasakyan ng mga hinete sa isang takdang daanan. Isa ito sa pinakamatatandang isport, at umaakit ng malalaking tao ang mga karera gaya ng Kentucky Derby at Melbourne Cup."});
+fun:"The Derby’s name was decided by a coin toss between Lord Derby and Sir Charles Bunbury in 1779."});
 
 ADDART({id:"tabletennis",t:"Table Tennis",c:"How We Live",i:"🏓",w:"Table tennis",r:["tennis","badminton","chinacountry","olymp","coldwar"],
 p:[["Tennis in miniature","Table tennis is played with small bats and a light ball on a table divided by a net."],["From parlor game to Olympics","It began as an after-dinner game in Victorian England."],["China’s sport","Chinese players have dominated the sport for decades."]],
@@ -295,5 +273,4 @@ s2:[["Ping-pong diplomacy","In April 1971, the American table tennis team, compe
 sp:["The table","A table tennis table is 2.74 meters long, 1.525 meters wide and 76 centimeters high, with a net 15.25 centimeters tall. The surface is usually dark green or blue with white lines. Players stand well back from the table in fast rallies."],
 g:[["Rally","A series of shots back and forth"],["Topspin","Spin that makes the ball dip and bounce forward"],["Serve","The shot that starts a point"],["Bat","The small racket used in table tennis, also called a paddle"]],
 f:["Table tennis began on dining tables in Victorian England.","The ball can travel at over 100 kilometers per hour.","China has won most Olympic table tennis titles."],
-fun:"The name ping-pong comes from the sound of the ball hitting the bat and the table.",
-tl:"Ang table tennis ay nilalaro gamit ang maliliit na raketa at magaang bola sa mesang may lambat. Nagsimula ito bilang laro pagkatapos ng hapunan sa Inglatera noong panahon ni Reyna Victoria, at nangingibabaw ang Tsina sa isport na ito."});
+fun:"The name ping-pong comes from the sound of the ball hitting the bat and the table."});

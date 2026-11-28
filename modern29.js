@@ -9,8 +9,7 @@ s2:[["Why so sleepy?","Eucalyptus leaves provide very little energy, and digesti
 sp:["Koala hospitals","The Port Macquarie Koala Hospital in New South Wales, founded in 1973, treats injured and sick koalas. During the 2019–20 bushfires, people around the world donated to help it rescue burned koalas and set up drinking stations in the forests."],
 g:[["Marsupial","A mammal that raises its young in a pouch"],["Joey","A baby marsupial"],["Eucalyptus","A group of Australian trees, also called gum trees"],["Chlamydia","A bacterial disease that affects koalas"]],
 f:["Koalas are marsupials, not bears.","Koala fingerprints look very like human fingerprints.","A newborn koala is about the size of a jellybean."],
-fun:"The word ‘koala’ is often said to come from an Aboriginal Australian word meaning ‘no water’, because koalas get most of their water from leaves, though linguists are not certain.",
-tl:"Ang koala ay marsupial mula sa silangang Australia, hindi oso. Halos dahon lamang ng eucalyptus ang kinakain nito at natutulog ng hanggang 20 oras, at bumaba ang bilang nito dahil sa pagkawala ng tirahan, sakit at sunog."});
+fun:"The word ‘koala’ is often said to come from an Aboriginal Australian word meaning ‘no water’, because koalas get most of their water from leaves, though linguists are not certain."});
 
 ADDART({id:"meerkats",t:"Meerkats",c:"Animals and Nature",i:"🦦",w:"Meerkat",r:["animalbehavior","desert","sahara","foodchains","snake"],
 p:[["Desert teamwork","Meerkats are small mongooses that live in cooperative groups in southern Africa."],["Sentinels","One meerkat stands guard while others search for food."],["Studied for decades","Researchers have followed wild meerkats in the Kalahari since 1993."]],
@@ -22,10 +21,9 @@ s2:[["Alarm calls","Meerkats have different calls for predators coming from the 
 sp:["Meerkat Manor","The documentary series Meerkat Manor, filmed in the Kalahari from 2005, followed real meerkat families such as the Whiskers mob and their leader Flower. It became a hit worldwide and drew attention to long-term animal research."],
 g:[["Mongoose","A family of small, active carnivorous mammals"],["Sentinel","An animal that keeps watch for danger"],["Mob","A group of meerkats"],["Forage","To search for food"]],
 f:["Meerkats belong to the mongoose family.","Meerkats teach their young how to handle scorpions.","Dark eye patches act like sunglasses."],
-fun:"Timon from The Lion King made meerkats famous, though real meerkats would be more likely to eat a warthog’s insects than befriend one.",
-tl:"Ang meerkat ay maliit na mongoose na nakatira sa mga grupong nagtutulungan sa timog Africa. Nagbabantay ang isa habang naghahanap ng pagkain ang iba, at tinuturuan nila ang mga anak na humawak ng alakdan."});
+fun:"Timon from The Lion King made meerkats famous, though real meerkats would be more likely to eat a warthog’s insects than befriend one."});
 
-ADDART({id:"armadillos",t:"Armadillos",c:"Animals and Nature",i:"🛡️",w:"Armadillo",r:["hedgehogs","pangolins","sloths","amazon","grasslands"],
+ADDART({id:"armadillos",t:"Armadillos",c:"Animals and Nature",i:"🛡️",w:"Armadillo",r:["hedgehogs","pangolins","sloths","amazon","grasslands","glyptodon"],
 p:[["Armored mammals","Armadillos are mammals protected by bony plates covered in tough skin."],["From the Americas","About 20 species live in South, Central and North America."],["Ancient giants","Their extinct relatives, glyptodonts, were as big as small cars."]],
 l:"Armadillos are mammals of the Americas covered by a shell of bony plates called osteoderms, overlaid with tough, scaly skin. The name is Spanish for ‘little armored one’. There are about 20 living species, ranging from the pink fairy armadillo, about 10 centimeters long, to the giant armadillo, up to 1.5 meters including its tail. Armadillos live in grasslands, forests and semi-deserts from Argentina to the southern United States. They have poor eyesight but a keen sense of smell and use strong claws to dig for insects, especially ants and termites, as well as grubs and worms, and to make burrows. Only the three-banded armadillos can roll into a complete ball for protection; others run, dig or press themselves flat. The nine-banded armadillo, which has spread across the southern United States, almost always gives birth to identical quadruplets from a single egg. Armadillos are related to anteaters and sloths.",
 s:[["The shell","The armor covers the head, back, legs and tail. Flexible bands of skin between the plates in the middle of the back let the animal bend; species are often named by the number of bands. Despite the armor, armadillos are agile and can run and swim, some crossing streams by walking along the bottom while holding their breath."],["Diet and senses","Armadillos sniff out food underground and dig it up quickly, using long sticky tongues to lap up ants and termites. The giant armadillo can break open termite mounds and digs burrows used by many other animals, making it an important ‘ecosystem engineer’."],["Nine-banded armadillo","The nine-banded armadillo expanded from Mexico into Texas in the 19th century and has since spread north and east. Its identical quadruplets make it useful in medical research. It is one of the few animals besides humans that can carry the bacteria that cause leprosy, so people are advised not to handle or eat wild armadillos."],["Ancient relatives","Glyptodonts, giant relatives of armadillos, lived in the Americas until about 10,000 years ago. Some had domed shells nearly 1.5 meters tall and weighed as much as a small car. Early humans may have used their shells as shelters."]],
@@ -35,8 +33,7 @@ s2:[["Rolling into a ball","The Brazilian three-banded armadillo can curl into a
 sp:["The pink fairy armadillo","The pink fairy armadillo of Argentina is the smallest armadillo, with a pale pink shell and silky white fur. It spends most of its life underground, ‘swimming’ through sand, and is so rarely seen that little is known about it."],
 g:[["Osteoderm","A bony plate in the skin"],["Burrow","A hole dug in the ground for shelter"],["Ecosystem engineer","An animal that changes its habitat in ways that help others"],["Quadruplets","Four babies born together"]],
 f:["Armadillo means ‘little armored one’ in Spanish.","Nine-banded armadillos usually have identical quadruplets.","Only three-banded armadillos can roll into a full ball."],
-fun:"Armadillos can hold their breath for about six minutes, letting them walk across the bottom of small streams.",
-tl:"Ang armadillo ay mamalyang protektado ng matitigas na baluting buto, at mga 20 uri nito ang nakatira sa Amerika. Ang mga sinaunang kamag-anak nito, ang glyptodont, ay kasinlaki ng maliit na kotse."});
+fun:"Armadillos can hold their breath for about six minutes, letting them walk across the bottom of small streams."});
 
 ADDART({id:"capybaras",t:"Capybaras",c:"Animals and Nature",i:"🦫",w:"Capybara",r:["rodents","amazon","wetlands","animalbehavior","symbiosis"],
 p:[["The largest rodent","The capybara is the world’s biggest rodent."],["Water lovers","Capybaras live near rivers and swamps in South America and are excellent swimmers."],["Famously calm","Their relaxed nature has made them internet stars."]],
@@ -48,8 +45,7 @@ s2:[["Friends with everyone?","Photos often show birds, monkeys, turtles and eve
 sp:["Guinea pig cousins","Capybaras are closely related to guinea pigs and cavies. Their name comes from a Tupi word often translated as ‘grass eater’ or ‘master of the grasses’."],
 g:[["Rodent","A mammal with constantly growing front teeth, like rats and squirrels"],["Semi-aquatic","Living partly in water and partly on land"],["Wetland","Land covered by shallow water, like a swamp"],["Lent","The Christian period of fasting before Easter"]],
 f:["The capybara is the largest rodent in the world.","Capybaras can stay underwater for up to five minutes.","Their closest relatives include guinea pigs."],
-fun:"Zoos in Japan hold capybara ‘bath-time’ events in winter, where the animals soak in hot tubs with floating yuzu fruit.",
-tl:"Ang capybara ang pinakamalaking daga sa mundo at nakatira malapit sa mga ilog at latian sa Timog Amerika. Mahusay itong lumangoy at kilala sa kalmadong ugali, kaya naging sikat ito sa internet."});
+fun:"Zoos in Japan hold capybara ‘bath-time’ events in winter, where the animals soak in hot tubs with floating yuzu fruit."});
 
 ADDART({id:"raccoons",t:"Raccoons",c:"Animals and Nature",i:"🦝",w:"Raccoon",r:["megacities","invasiveplants","animalbehavior","foxes","rabies"],
 p:[["Masked bandits","Raccoons are clever, adaptable mammals with black ‘mask’ markings."],["City dwellers","They thrive in cities, raiding garbage bins."],["Spreading worldwide","Introduced raccoons now live wild in Europe and Japan."]],
@@ -61,8 +57,7 @@ s2:[["Trash pandas","Raccoons’ habit of raiding garbage earned them the nickna
 sp:["Raccoons and rabies","In parts of the eastern United States, raccoons are a major carrier of rabies. Authorities drop millions of vaccine-laced baits from aircraft and vehicles each year to immunize wild raccoons and stop the disease spreading."],
 g:[["Omnivore","An animal that eats both plants and animals"],["Invasive species","A non-native species that causes harm"],["Dexterous","Skillful with the hands"],["Rabies","A deadly viral disease spread by animal bites"]],
 f:["Raccoons’ front paws are extremely sensitive.","Raccoons can remember puzzle solutions for years.","Raccoons do not actually wash their food."],
-fun:"The word raccoon comes from a Powhatan word, recorded by English colonists, meaning ‘one who rubs, scrubs and scratches with its hands’.",
-tl:"Ang raccoon ay matalino at madaling umangkop na mamalyang may itim na ‘maskara’ sa mata. Umuunlad ito sa mga lungsod at kumukuha sa basurahan, at naging invasive na ito sa Europa at Japan."});
+fun:"The word raccoon comes from a Powhatan word, recorded by English colonists, meaning ‘one who rubs, scrubs and scratches with its hands’."});
 
 ADDART({id:"beavers",t:"Beavers",c:"Animals and Nature",i:"🦫",w:"Beaver",r:["rodents","wetlands","rivers","conservation","trees"],
 p:[["Nature’s engineers","Beavers build dams and lodges that change rivers and create wetlands."],["Two species","The North American and Eurasian beavers are the only two living species."],["Back from the brink","Hunted almost to extinction for fur, beavers are returning."]],
@@ -74,8 +69,7 @@ s2:[["The longest dam","In 2007, a researcher using satellite images found a bea
 sp:["Orange teeth","A beaver’s front teeth are orange because the enamel contains iron, which makes them stronger and more resistant to wear. The softer back of each tooth wears away faster, keeping the front edge sharp like a chisel."],
 g:[["Ecosystem engineer","An animal that changes its habitat for many other species"],["Lodge","A beaver’s home of sticks and mud"],["Dam","A barrier that holds back water"],["Reintroduction","Returning a species to an area where it had died out"]],
 f:["Beaver teeth are orange because they contain iron.","A beaver dam in Canada is about 850 meters long.","Beavers slap their tails on water to warn of danger."],
-fun:"The beaver is the national animal of Canada and appears on the Canadian five-cent coin.",
-tl:"Ang beaver ay malaking daga na gumagawa ng mga dam at bahay mula sa sanga at putik, na lumilikha ng mga latian para sa maraming hayop. Muntik na itong maubos dahil sa kalakalan ng balahibo, ngunit bumabalik na ito sa maraming lugar."});
+fun:"The beaver is the national animal of Canada and appears on the Canadian five-cent coin."});
 
 ADDART({id:"axolotls",t:"Axolotls",c:"Animals and Nature",i:"🦎",w:"Axolotl",r:["salamander","frog","metamorph","extinction","mexicocountry"],
 p:[["Forever young","Axolotls are salamanders that keep their juvenile features all their lives."],["Regeneration champions","They can regrow lost limbs and even parts of their heart and brain."],["Critically endangered","In the wild, they survive only in canals near Mexico City."]],
@@ -87,8 +81,7 @@ s2:[["A giant genome","The axolotl genome, sequenced in 2018, is about ten times
 sp:["Chinampas","Chinampas are artificial islands built on lake beds by the Aztecs for farming. Some still exist in Xochimilco, and projects encourage farmers to keep canals around them clean, providing safe homes for axolotls."],
 g:[["Neoteny","Keeping juvenile features as an adult"],["Regeneration","Regrowing lost body parts"],["Gills","Organs for breathing underwater"],["Larva","The young form of an animal that changes as it grows"]],
 f:["Axolotls keep their gills all their lives.","They can regrow limbs without scars.","Their genome is about ten times bigger than ours."],
-fun:"Because of their wide-mouthed ‘smiling’ faces, axolotls are sometimes called Mexican walking fish, even though they are amphibians, not fish.",
-tl:"Ang axolotl ay salamandra mula sa Xochimilco malapit sa Mexico City na nananatiling parang bata habambuhay. Kaya nitong patubuin muli ang nawalang paa at bahagi ng puso at utak, ngunit kritikal na nanganganib ito sa ligaw."});
+fun:"Because of their wide-mouthed ‘smiling’ faces, axolotls are sometimes called Mexican walking fish, even though they are amphibians, not fish."});
 
 ADDART({id:"woodpeckers",t:"Woodpeckers",c:"Animals and Nature",i:"🐦",w:"Woodpecker",r:["birds","trees","insect","animalbehavior","owl"],
 p:[["Drumming birds","Woodpeckers hammer on trees with their beaks to find food, make nests and communicate."],["Built for pecking","Strong neck muscles, a tough skull and a long tongue help them."],["Forest helpers","Their old holes become homes for many other animals."]],
@@ -100,8 +93,7 @@ s2:[["Helping other animals","An abandoned woodpecker hole may become a nest for
 sp:["The acorn granary","Acorn woodpeckers in western North America live in family groups that drill thousands of holes into a single tree or telephone pole and fill each with an acorn. One granary tree was found holding about 50,000 acorns."],
 g:[["Drumming","Rapid pecking used to communicate"],["Excavate","To dig out"],["Granary","A storehouse for food"],["Larvae","Young insects, like grubs"]],
 f:["There are no woodpeckers in Australia.","A woodpecker’s tongue can wrap around its skull.","Woodpeckers can peck about 20 times a second."],
-fun:"Woodpeckers sometimes peck holes in the foam insulation of houses, possibly because the hollow sound resembles a tree with insects inside.",
-tl:"Ang woodpecker ay ibong pumupukpok sa puno gamit ang tuka upang maghanap ng pagkain, gumawa ng pugad at makipag-usap. Mayroon itong matibay na bungo at mahabang dila, at nagiging tahanan ng ibang hayop ang mga butas na ginagawa nito."});
+fun:"Woodpeckers sometimes peck holes in the foam insulation of houses, possibly because the hollow sound resembles a tree with insects inside."});
 
 ADDART({id:"peafowl",t:"Peafowl",c:"Animals and Nature",i:"🦚",w:"Peafowl",r:["birds","evolution","indiacountry","animalbehavior","parrot"],
 p:[["The peacock’s tail","Male peafowl, called peacocks, display spectacular tails of eyespot feathers."],["Three species","There are Indian, green and Congo peafowl."],["A puzzle for Darwin","The peacock’s tail helped Darwin develop his theory of sexual selection."]],
@@ -113,8 +105,7 @@ s2:[["The green peafowl","The green peafowl of Southeast Asia is taller and slim
 sp:["The Congo peafowl","The Congo peafowl was identified only in 1936, after an American scientist recognized unusual feathers in a hat and later found matching specimens in a museum. It lives in remote forests and is rarely seen."],
 g:[["Train","The peacock’s long display feathers"],["Courtship","Behavior to attract a mate"],["Sexual selection","Evolution driven by choice of mates"],["Structural color","Color produced by tiny structures rather than pigment"]],
 f:["Only male peafowl are peacocks.","Peacock feather colors come from structures, not pigments.","The Congo peafowl was discovered thanks to a feather in a hat."],
-fun:"Peacocks can fly despite their long trains, usually flapping up into trees to roost safely at night.",
-tl:"Ang peafowl ay malaking ibon kung saan ang lalaki, ang peacock, ay may napakagandang buntot na may mga ‘mata’. Tinulungan ng buntot nito si Darwin na buuin ang teorya ng sexual selection."});
+fun:"Peacocks can fly despite their long trains, usually flapping up into trees to roost safely at night."});
 
 ADDART({id:"deepsea",t:"Deep-Sea Creatures",c:"Animals and Nature",i:"🐙",w:"Deep-sea creature",r:["trench","fishes","squid","jelly","pacific"],
 p:[["Life in the dark","The deep sea is cold, dark and under crushing pressure, yet full of life."],["Glowing animals","Many deep-sea animals make their own light."],["Barely explored","Much of the deep ocean has never been seen by humans."]],
@@ -126,8 +117,7 @@ s2:[["Deep-sea mining","Some companies want to mine metal-rich nodules from the 
 sp:["The anglerfish","Female deep-sea anglerfish have a fin ray on their head tipped with a glowing lure containing light-producing bacteria. In some species, tiny males bite onto females and fuse with them permanently, sharing their blood supply."],
 g:[["Bioluminescence","Light produced by living things"],["Pressure","The force of water pressing down"],["Chemosynthesis","Making food using chemical energy instead of sunlight"],["Submersible","A small vehicle that dives deep underwater"]],
 f:["Most of Earth’s living space is in the deep sea.","Most deep-sea animals can make light.","Life thrives around hot vents without sunlight."],
-fun:"After Piccard and Walsh reached the bottom of the Challenger Deep in 1960, nobody went back for 52 years, until James Cameron’s solo dive in 2012.",
-tl:"Ang malalim na dagat ay madilim, malamig at may napakalakas na presyon, ngunit puno ng buhay. Maraming hayop doon ang gumagawa ng sariling liwanag, at karamihan sa malalim na karagatan ay hindi pa nakikita ng tao."});
+fun:"After Piccard and Walsh reached the bottom of the Challenger Deep in 1960, nobody went back for 52 years, until James Cameron’s solo dive in 2012."});
 
 ADDART({id:"ladybugs",t:"Ladybugs",c:"Animals and Nature",i:"🐞",w:"Coccinellidae",r:["beetle","insect","urbanfarm","invasiveplants","foodchains"],
 p:[["Spotted beetles","Ladybugs, or ladybirds, are small, colorful beetles."],["Gardeners’ friends","Many eat aphids and other plant pests."],["Bright warning","Their bright colors warn predators that they taste bad."]],
@@ -139,5 +129,4 @@ s2:[["Why ‘lady’?","The name ladybird or ladybug is thought to come from med
 sp:["Spot the difference","The seven-spot ladybird, common in Europe, has seven black spots on red wing covers. The two-spot ladybird has two, and the 22-spot ladybird is yellow with 22 small black spots. Counting spots helps identify species, not age."],
 g:[["Aphid","A small sap-sucking insect that harms plants"],["Reflex bleeding","Releasing fluid from joints to deter predators"],["Biological pest control","Using living things to control pests"],["Metamorphosis","Change from larva to adult"]],
 f:["There are about 6,000 species of ladybugs.","A ladybug’s spots do not show its age.","Ladybug larvae look like tiny spiky alligators."],
-fun:"Ladybugs beat their wings about 85 times a second when they fly.",
-tl:"Ang ladybug ay maliit at makulay na salagubang na kumakain ng mga aphid at iba pang peste ng halaman. Ipinapakita ng matitingkad nitong kulay sa mga kaaway na mapait ito, at hindi edad ang ipinapakita ng bilang ng mga batik."});
+fun:"Ladybugs beat their wings about 85 times a second when they fly."});

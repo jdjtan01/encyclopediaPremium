@@ -9,8 +9,7 @@ s2:[["Effects around the world","The war caused energy prices to soar in Europe 
 sp:["Drone warfare","The war in Ukraine has been called the first large-scale drone war. Both sides use thousands of small, cheap drones every day for spotting targets and attacking, and Ukraine built a huge drone industry. Military experts around the world study the conflict to understand how war is changing."],
 g:[["Annexation","Taking over territory and declaring it part of one’s country"],["Sanctions","Penalties such as trade bans placed on a country"],["Attrition","Wearing down an enemy through continuous losses"],["Ceasefire","An agreement to stop fighting"]],
 f:["It is the largest war in Europe since 1945.","About 6 million Ukrainians were living as refugees abroad.","The ICC issued an arrest warrant for Putin in 2023."],
-fun:"Ukrainian farmers became famous early in the war for towing away abandoned Russian tanks with their tractors.",
-tl:"Ang digmaang Russia–Ukraine ay nagsimula noong 2014 nang sakupin ng Russia ang Crimea, at lumaki nang lusubin ng Russia ang buong Ukraine noong 24 Pebrero 2022. Ito ang pinakamalaking digmaan sa Europa mula 1945, at hanggang Nobyembre 2026 ay patuloy ang labanan habang may usapang pangkapayapaan."});
+fun:"Ukrainian farmers became famous early in the war for towing away abandoned Russian tanks with their tractors."});
 
 ADDART({id:"israelpalestine",t:"The Israeli–Palestinian Conflict",c:"The Modern World",i:"🕊️",w:"Israeli–Palestinian conflict",r:["israelcountry","jerusalem","un","terrorism","migration","antisemitism"],
 p:[["Two peoples, one land","The conflict is between Israelis and Palestinians over land, borders, security and self-rule."],["Decades of war and talks","It has continued since before Israel’s founding in 1948."],["The Gaza war","An attack by Hamas on 7 October 2023 led to a devastating war in Gaza."]],
@@ -22,8 +21,7 @@ s2:[["Courts and recognition","South Africa brought a case at the International 
 sp:["Jerusalem","Jerusalem contains sites holy to Jews, Christians and Muslims, including the Western Wall, the Church of the Holy Sepulchre and the al-Aqsa Mosque on the site Jews call the Temple Mount. Israel considers the whole city its capital; Palestinians want East Jerusalem as the capital of their future state. Most countries keep their embassies in Tel Aviv."],
 g:[["Occupation","Military control of territory by a foreign power"],["Settlement","An Israeli community built in occupied territory"],["Intifada","Arabic for ‘shaking off’; a Palestinian uprising"],["Two-state solution","A plan for an independent Palestine alongside Israel"]],
 f:["Jerusalem is holy to three major religions.","The Oslo Accords were sealed with a famous handshake at the White House in 1993.","Gaza is about 41 kilometers long and 6 to 12 kilometers wide."],
-fun:"The West-Eastern Divan Orchestra, founded in 1999 by Daniel Barenboim and Edward Said, brings together young Israeli and Arab musicians to play side by side.",
-tl:"Ang tunggaliang Israeli–Palestino ay matagal nang alitan tungkol sa lupa, hangganan, seguridad at sariling pamamahala. Matapos ang pag-atake ng Hamas noong 7 Oktubre 2023, nagkaroon ng mapaminsalang digmaan sa Gaza hanggang sa tigil-putukan noong Oktubre 2025."});
+fun:"The West-Eastern Divan Orchestra, founded in 1999 by Daniel Barenboim and Edward Said, brings together young Israeli and Arab musicians to play side by side."});
 
 ADDART({id:"isis",t:"The Islamic State Group",c:"The Modern World",i:"⚠️",w:"Islamic State",r:["terrorism","iraqcountry","saddam","sept11","genocide"],
 p:[["A terrorist group","The Islamic State, also called ISIS or ISIL, is an extremist militant group."],["A self-declared ‘caliphate’","In 2014 it seized large parts of Iraq and Syria."],["Defeated but not gone","It lost its territory by 2019 but still carries out attacks."]],
@@ -35,8 +33,7 @@ s2:[["Why people joined","Researchers found that recruits joined for many reason
 sp:["Saving heritage","Before and after ISIS destroyed monuments, archaeologists used photographs and 3D scanning to record sites. Mosul’s al-Nuri Mosque and its leaning minaret, blown up by ISIS in 2017, were rebuilt with UNESCO’s help and reopened in 2025."],
 g:[["Jihadist","A militant who uses violence claiming to fight a holy war"],["Caliphate","An Islamic state led by a caliph"],["Radicalization","The process of adopting extreme views"],["Affiliate","A group that joins or allies with a larger organization"]],
 f:["At its height, ISIS controlled an area about the size of Britain.","The Yazidi genocide was recognized by UN investigators.","Most of the group’s victims were Muslims."],
-fun:"The group dislikes the name Daesh partly because it sounds like Arabic words meaning ‘to trample’ or ‘one who sows discord’.",
-tl:"Ang Islamic State, o ISIS, ay isang ekstremistang grupong militante na sumakop sa malaking bahagi ng Iraq at Syria noong 2014. Natalo ito sa teritoryo noong 2019, ngunit patuloy pa ring umaatake ang mga sangay nito sa iba’t ibang bansa."});
+fun:"The group dislikes the name Daesh partly because it sounds like Arabic words meaning ‘to trample’ or ‘one who sows discord’."});
 
 ADDART({id:"taiwanstrait",t:"The Taiwan Question",c:"The Modern World",i:"🌏",w:"Political status of Taiwan",r:["modernchina","china","coldwar","chip","southchinasea"],
 p:[["A disputed island","Taiwan governs itself, but China claims it as part of its territory."],["Since 1949","The dispute dates from the end of China’s civil war."],["A global flashpoint","Tensions over Taiwan could involve the world’s largest powers."]],
@@ -48,8 +45,7 @@ s2:[["The ‘One China’ question","Beijing’s One China principle says there 
 sp:["The silicon shield","Taiwan’s TSMC makes the large majority of the world’s most advanced semiconductors, used in phones, computers and artificial intelligence. Some people argue this ‘silicon shield’ makes war less likely because the whole world depends on Taiwan; others warn it makes Taiwan even more strategically important."],
 g:[["Status quo","The existing state of affairs"],["Sovereignty","Full authority of a state over its territory"],["Unification","Joining together under one government"],["Strategic ambiguity","Deliberately not saying what one would do"]],
 f:["Taiwan uses the name Republic of China officially.","Taiwan competes in the Olympics as ‘Chinese Taipei’.","Taiwan was the first place in Asia to legalize same-sex marriage, in 2019."],
-fun:"Taiwan’s Taipei 101 was the world’s tallest building from 2004 to 2010 and has a giant steel ball inside that sways to steady the tower in typhoons and earthquakes.",
-tl:"Ang usapin ng Taiwan ay alitan tungkol sa katayuan ng isla. May sariling pamahalaan at halalan ang Taiwan, ngunit inaangkin ito ng China bilang bahagi ng teritoryo nito. Itinuturing ang Taiwan Strait na isa sa pinakamapanganib na lugar ng tensyon sa mundo."});
+fun:"Taiwan’s Taipei 101 was the world’s tallest building from 2004 to 2010 and has a giant steel ball inside that sways to steady the tower in typhoons and earthquakes."});
 
 ADDART({id:"southchinasea",t:"The South China Sea Dispute",c:"The Modern World",i:"🌊",w:"Territorial disputes in the South China Sea",r:["taiwanstrait","ph","pacific","fish","un"],
 p:[["Competing claims","Several countries claim islands, reefs and waters in the South China Sea."],["The nine-dash line","China claims most of the sea; a tribunal ruled in 2016 that this has no legal basis."],["Clashes at sea","Coast guard confrontations, especially between China and the Philippines, have grown."]],
@@ -61,8 +57,7 @@ s2:[["Fishermen caught in the middle","Fishermen from the Philippines, Vietnam a
 sp:["What makes an island?","Under the Law of the Sea, a true island that can sustain human habitation gets a 200-nautical-mile EEZ, a rock above water at high tide gets only 12 nautical miles of territorial sea, and a feature underwater at high tide gets none. Building on a reef does not change its legal status, the 2016 tribunal ruled."],
 g:[["EEZ","Exclusive economic zone, 200 nautical miles from a coast"],["Arbitration","Settling a dispute through an independent tribunal"],["Reef","A ridge of rock or coral near the sea surface"],["Freedom of navigation","The right of ships to sail through international waters"]],
 f:["About a third of global shipping passes through the South China Sea.","The 2016 ruling is legally binding but China does not accept it.","The Philippines named its western waters the West Philippine Sea in 2012."],
-fun:"The BRP Sierra Madre, a rusting World War II-era ship, is still officially a commissioned vessel of the Philippine Navy so that it can serve as an outpost.",
-tl:"Ang alitan sa South China Sea ay tungkol sa magkakasalungat na pag-angkin ng China, Taiwan, Vietnam, Pilipinas, Malaysia at Brunei sa mga isla at karagatan. Pinasyahan ng isang tribunal noong 2016 na walang batayang legal ang ‘nine-dash line’ ng China, ngunit tinanggihan ito ng China."});
+fun:"The BRP Sierra Madre, a rusting World War II-era ship, is still officially a commissioned vessel of the Philippine Navy so that it can serve as an outpost."});
 
 ADDART({id:"racism",t:"Racism",c:"Society",i:"🤝",w:"Racism",r:["segregation","apartheid","slavetrade","antisemitism","hrights","colonialism"],
 p:[["Prejudice by race","Racism is treating people unfairly because of their race or ethnicity."],["Not just individuals","It can be built into laws and institutions as well as personal attitudes."],["No biological basis","Science shows humans are one species with no separate biological races."]],
@@ -74,8 +69,7 @@ s2:[["Race and genetics","The Human Genome Project, completed in 2003, confirmed
 sp:["The contact hypothesis","In 1954 the psychologist Gordon Allport proposed that prejudice between groups can be reduced when people meet as equals, work toward shared goals and have support from authorities. Hundreds of studies since then have found that such contact usually reduces prejudice."],
 g:[["Prejudice","An unfair opinion formed without good reason"],["Discrimination","Treating people unfairly because of a group they belong to"],["Ethnicity","Shared culture, language or ancestry"],["Systemic","Built into a whole system or institution"]],
 f:["All humans share about 99.9 percent of their DNA.","There is more genetic variation within so-called racial groups than between them.","21 March is the UN day against racial discrimination."],
-fun:"Every person alive today is descended from ancestors who lived in Africa, so in a deep sense all humans are African.",
-tl:"Ang rasismo ay hindi makatarungang pagtrato sa tao dahil sa kaniyang lahi o etnisidad. Maaari itong nasa ugali ng indibidwal o nakabaon sa mga batas at institusyon, at ipinakikita ng agham na iisang uri lamang ang lahat ng tao."});
+fun:"Every person alive today is descended from ancestors who lived in Africa, so in a deep sense all humans are African."});
 
 ADDART({id:"lgbtrights",t:"LGBTQ Rights",c:"Society",i:"🏳️‍🌈",w:"LGBTQ rights by country or territory",r:["hrights","feminism","relig","democ","taiwanstrait"],
 p:[["Equal rights?","LGBTQ rights concern lesbian, gay, bisexual, transgender and queer people."],["Huge differences","Some countries allow same-sex marriage; others punish same-sex relations."],["Ongoing debates","Issues such as marriage and transgender rights remain controversial."]],
@@ -87,8 +81,7 @@ s2:[["Public opinion","Surveys show acceptance of gay and lesbian people rising 
 sp:["Words and identity","LGBTQ stands for lesbian, gay, bisexual, transgender and queer or questioning; some versions add more letters. Many cultures also have their own traditional terms for gender-diverse people, such as the bakla in the Philippines, the hijra in South Asia and Two-Spirit people among some Indigenous North Americans."],
 g:[["Decriminalize","To stop treating something as a crime"],["Civil union","Legal recognition of a couple without marriage"],["Transgender","Having a gender identity different from one’s sex at birth"],["Homophobia","Fear or hatred of gay people"]],
 f:["The Netherlands was the first country to allow same-sex marriage.","Taiwan was the first place in Asia to legalize same-sex marriage.","Pride marches are held each June in memory of Stonewall."],
-fun:"The first Pride march, in New York in 1970, was called the Christopher Street Liberation Day March, after the street where the Stonewall Inn stands.",
-tl:"Ang mga karapatang LGBTQ ay tumutukoy sa mga karapatang legal at panlipunan ng mga lesbiyana, gay, bisexual, transgender at queer. Pinapayagan ng halos 40 bansa ang same-sex marriage, habang pinarurusahan pa ito sa ilang bansa, at patuloy ang mga debate."});
+fun:"The first Pride march, in New York in 1970, was called the Christopher Street Liberation Day March, after the street where the Stonewall Inn stands."});
 
 ADDART({id:"guncontrol",t:"Gun Control",c:"Society",i:"🔫",w:"Gun control",r:["law","police","usacountry","terrorism","democ"],
 p:[["Regulating firearms","Gun control means laws that limit who can own guns and what kinds."],["Very different laws","Countries range from strict bans to wide access."],["A fierce debate","In the United States especially, people disagree strongly about gun laws."]],
@@ -100,8 +93,7 @@ s2:[["Japan","Japan has some of the strictest gun laws in the world. Owners must
 sp:["Switzerland","Switzerland has many guns because of its militia army, in which many men keep service weapons at home, yet gun murders are rare. Supporters of gun rights cite it as an example; others note that Switzerland has strict licensing, registration and training rules."],
 g:[["Firearm","A gun"],["Background check","Checking a buyer’s criminal and mental health records"],["Semi-automatic","A gun that fires one shot each time the trigger is pulled and reloads itself"],["Buyback","A program in which the government pays people to hand in guns"]],
 f:["The United States has more civilian guns than people.","Australia bought back about 650,000 guns after 1996.","Japan’s strict laws make gun deaths extremely rare."],
-fun:"Switzerland holds the world’s largest rifle shooting festival, the Feldschiessen, in which over 100,000 people take part each year.",
-tl:"Ang gun control ay mga batas na naglilimita kung sino ang maaaring magmay-ari ng baril at anong uri. Iba-iba ito sa bawat bansa, at sa Estados Unidos lalo na, matindi ang pagtatalo tungkol sa mga batas sa baril."});
+fun:"Switzerland holds the world’s largest rifle shooting festival, the Feldschiessen, in which over 100,000 people take part each year."});
 
 ADDART({id:"antivax",t:"Vaccine Hesitancy",c:"Society",i:"💉",w:"Vaccine hesitancy",r:["vacc","mrna","smallpox","misinformation","conspiracy"],
 p:[["Delaying or refusing vaccines","Vaccine hesitancy is reluctance to get vaccinated despite vaccines being available."],["A global health threat","The WHO named it one of the top ten threats to global health in 2019."],["Measles returns","Falling vaccination has led to outbreaks of diseases that had nearly disappeared."]],
@@ -113,8 +105,7 @@ s2:[["Herd immunity","When enough people are immune to a disease, it cannot spre
 sp:["Measles","Measles is so contagious that one infected person can infect 9 out of 10 unvaccinated people nearby. It can cause pneumonia, brain swelling and death, and can weaken the immune system for years. Two doses of the vaccine are about 97 percent effective."],
 g:[["Vaccine","A substance that trains the immune system to fight a disease"],["Hesitancy","Reluctance or delay"],["Herd immunity","Protection of a community when most people are immune"],["Retraction","Withdrawing a published study because it is wrong"]],
 f:["Vaccines helped eradicate smallpox, which killed hundreds of millions of people.","The study linking MMR to autism was found to be fraudulent.","About 95 percent vaccination is needed to stop measles spreading."],
-fun:"The word vaccine comes from the Latin vacca, meaning cow, because Jenner’s first vaccine used cowpox.",
-tl:"Ang vaccine hesitancy ay pag-aatubili o pagtanggi sa bakuna kahit mayroon nito. Itinuring ito ng WHO na isa sa sampung pinakamalaking banta sa kalusugan noong 2019, at bumalik ang mga outbreak ng tigdas dahil sa pagbaba ng bakunahan."});
+fun:"The word vaccine comes from the Latin vacca, meaning cow, because Jenner’s first vaccine used cowpox."});
 
 ADDART({id:"gmos",t:"The GMO Debate",c:"Science",i:"🌽",w:"Genetically modified food controversies",r:["crispr","agri","rice","mendel","foodsecurity"],
 p:[["Changing crops’ genes","Genetically modified organizms (GMOs) have had their DNA altered in a laboratory."],["Widely grown","GM crops are planted on about 190 million hectares worldwide."],["Safe but controversial","Scientific bodies say approved GM foods are safe, but debates continue."]],
@@ -126,8 +117,7 @@ s2:[["Gene editing","Some countries now treat gene-edited crops, in which a plan
 sp:["The papaya that was saved","In the 1990s the papaya ringspot virus nearly destroyed Hawaii’s papaya farms. Scientists at universities developed a GM papaya resistant to the virus, released in 1998, and it is credited with rescuing the industry."],
 g:[["Genetic engineering","Directly changing an organizm’s genes"],["Herbicide","A chemical that kills weeds"],["Bt crops","Crops with a bacterial gene that kills certain insects"],["Gene editing","Making precise changes to an organizm’s DNA"]],
 f:["The first GM food sold was a tomato.","Most GM crops are used for animal feed, cooking oil and cotton.","The Philippines was the first country to approve Golden Rice."],
-fun:"Almost all the cheese made in many countries uses an enzyme called chymosin produced by genetically modified microbes, replacing enzymes once taken from calves’ stomachs.",
-tl:"Ang GMO ay organizmong binago ang DNA sa laboratoryo. Itinatanim ang mga GM crop sa mga 190 milyong ektarya, at sinasabi ng mga siyentipikong samahan na ligtas ang mga aprubadong GM na pagkain, ngunit patuloy ang debate tungkol sa kapaligiran at kontrol ng malalaking kompanya."});
+fun:"Almost all the cheese made in many countries uses an enzyme called chymosin produced by genetically modified microbes, replacing enzymes once taken from calves’ stomachs."});
 
 ADDART({id:"animaltesting",t:"Animal Testing",c:"Science",i:"🐁",w:"Animal testing",r:["germtheory","vacc","scimeth","zoos","crispr"],
 p:[["Animals in research","Animal testing uses animals in experiments for medicine, science and safety."],["Medical advances","Many medicines and vaccines were developed with animal research."],["Ethical concerns","Critics argue it causes suffering and can be replaced by other methods."]],
@@ -139,8 +129,7 @@ s2:[["The ethical debate","Some philosophers, such as Peter Singer, argue that a
 sp:["Laika","Laika, a stray dog from Moscow, became the first animal to orbit the Earth aboard Sputnik 2 on 3 November 1957. She died within hours from overheating, as there was no plan to bring her back. A monument to her stands in Moscow."],
 g:[["Vivisection","Experimenting on live animals"],["Sentient","Able to feel pain and pleasure"],["3Rs","Replace, reduce and refine animal use"],["Organ-on-a-chip","A small device with human cells that mimics an organ"]],
 f:["Mice and rats are the most commonly used research animals.","The EU banned cosmetics testing on animals.","Britain passed the first law regulating animal experiments in 1876."],
-fun:"Fruit flies are used in so much research that six Nobel Prizes have been awarded for discoveries made with them.",
-tl:"Ang animal testing ay paggamit ng mga hayop sa mga eksperimento para sa medisina, agham at kaligtasan. Nakatulong ito sa pagbuo ng maraming gamot at bakuna, ngunit pinupuna ito dahil sa pagdurusa ng mga hayop, at may lumalaking mga alternatibo."});
+fun:"Fruit flies are used in so much research that six Nobel Prizes have been awarded for discoveries made with them."});
 
 ADDART({id:"euthanasia",t:"Euthanasia and Assisted Dying",c:"Society",i:"⚖️",w:"Euthanasia",r:["germtheory","hrights","law","relig","deathpenalty"],
 p:[["End-of-life choices","Euthanasia and assisted dying involve helping a seriously ill person end their life at their request."],["Legal in some places","A growing number of countries allow it under strict rules."],["A moral debate","People disagree deeply about whether it should be allowed."]],
@@ -152,8 +141,7 @@ s2:[["Palliative care","Palliative care focuses on relieving pain and other symp
 sp:["The Hippocratic tradition","The ancient Hippocratic Oath included a promise not to give a deadly drug to anyone who asked for it. Opponents cite this tradition; supporters argue that medical ethics have changed in many ways since ancient Greece and should respect patients’ choices."],
 g:[["Terminal illness","An illness that cannot be cured and will lead to death"],["Palliative care","Care that relieves suffering in serious illness"],["Safeguard","A rule meant to prevent harm or abuse"],["Hospice","A place or service caring for people near the end of life"]],
 f:["The word euthanasia means ‘good death’ in Greek.","The Netherlands and Belgium were the first countries to legalize euthanasia.","Stopping treatment at a patient’s request is legal in most countries."],
-fun:"The first modern hospice, St Christopher’s in London, was founded by Cicely Saunders, who trained as a nurse, social worker and doctor.",
-tl:"Ang euthanasia at assisted dying ay pagtulong sa isang taong may malubhang sakit na wakasan ang buhay sa kaniyang kahilingan. Legal ito sa ilang bansa sa ilalim ng mahigpit na patakaran, ngunit malalim ang pagtatalo kung dapat ba itong payagan."});
+fun:"The first modern hospice, St Christopher’s in London, was founded by Cicely Saunders, who trained as a nurse, social worker and doctor."});
 
 ADDART({id:"whistleblowers",t:"Whistleblowers",c:"Society",i:"📣",w:"Whistleblower",r:["watergate","surveillance","journalism","darkweb","porkbarrel"],
 p:[["Exposing wrongdoing","A whistleblower reveals illegal or unethical activity inside an organization."],["Famous cases","Whistleblowers exposed the Pentagon Papers, mass surveillance and corporate fraud."],["Heroes or traitors?","They are often praised by some and punished or condemned by others."]],
@@ -165,8 +153,7 @@ s2:[["Retaliation","Studies find many whistleblowers lose their jobs, suffer str
 sp:["The Insider","The 1999 film The Insider, starring Russell Crowe, tells the story of Jeffrey Wigand and the TV journalists who struggled to broadcast his interview despite legal threats from the tobacco industry."],
 g:[["Whistleblower","A person who exposes wrongdoing in an organization"],["Retaliation","Revenge or punishment for an action"],["Classified","Officially secret"],["Leak","Unauthorized release of secret information"]],
 f:["The term ‘whistleblower’ refers to blowing a whistle to stop a foul or crime.","Daniel Ellsberg’s leak reached the US Supreme Court.","The EU adopted rules protecting whistleblowers in 2019."],
-fun:"Time magazine named three whistleblowers, Cynthia Cooper, Coleen Rowley and Sherron Watkins, its Persons of the Year in 2002.",
-tl:"Ang whistleblower ay taong naglalantad ng ilegal o hindi etikal na gawain sa loob ng isang organizasyon. Kabilang sa mga tanyag sina Daniel Ellsberg at Edward Snowden, at madalas silang purihin ng ilan at parusahan ng iba."});
+fun:"Time magazine named three whistleblowers, Cynthia Cooper, Coleen Rowley and Sherron Watkins, its Persons of the Year in 2002."});
 
 ADDART({id:"doping",t:"Doping in Sport",c:"Sports",i:"💊",w:"Doping in sport",r:["olymp","athletics","bicycle","drugtrade"],
 p:[["Cheating with drugs","Doping is using banned substances or methods to improve sports performance."],["Scandals","Famous cases include Ben Johnson, Lance Armstrong and Russia’s state-run program."],["Testing","The World Anti-Doping Agency sets rules and tests athletes worldwide."]],
@@ -178,8 +165,7 @@ s2:[["Why athletes dope","Pressure to win, money, national pride and the belief 
 sp:["Icarus","The documentary Icarus (2017) began as a filmmaker’s experiment with doping and turned into an exposé when the head of Russia’s anti-doping laboratory, Grigory Rodchenkov, revealed the state program. It won an Academy Award."],
 g:[["Doping","Using banned substances to improve performance"],["Steroids","Drugs that build muscle"],["Whereabouts","Where an athlete will be, reported for surprise tests"],["Stripped","Having a title or medal taken away"]],
 f:["Drug testing at the Olympics began in 1968.","Lance Armstrong lost all seven of his Tour de France titles.","Russian officials swapped urine samples through a hole in a wall at Sochi 2014."],
-fun:"Samples from athletes can be stored for 10 years and retested with new methods, so some athletes have lost medals a decade after winning them.",
-tl:"Ang doping ay paggamit ng ipinagbabawal na gamot o paraan upang mapahusay ang paglalaro sa isports. Kabilang sa mga tanyag na iskandalo sina Ben Johnson, Lance Armstrong at ang programa ng Russia, at nagsusuri ang WADA ng mga atleta sa buong mundo."});
+fun:"Samples from athletes can be stored for 10 years and retested with new methods, so some athletes have lost medals a decade after winning them."});
 
 ADDART({id:"populism",t:"Populism",c:"Society",i:"📢",w:"Populism",r:["democ","elections","propaganda","fascism","phdynasties"],
 p:[["The people versus the elite","Populism divides society into ‘the pure people’ and ‘the corrupt elite’."],["Left and right","Populists can be left-wing or right-wing."],["Hotly debated","Some see populism as a voice for ignored citizens; others as a threat to democracy."]],
@@ -191,8 +177,7 @@ s2:[["Spotting populist language","Political scientists look for claims that one
 sp:["The origin of the word","Populism comes from the Latin populus, ‘the people’. In ancient Rome, politicians called populares sought support from ordinary citizens against the senatorial aristocracy, an early version of the people-versus-elite idea."],
 g:[["Elite","A small group with great power or wealth"],["Ideology","A set of political beliefs"],["Checks and balances","Ways that branches of government limit each other’s power"],["Globalization","The growing connection of economies and cultures worldwide"]],
 f:["Populists can be on the left or the right.","The US People’s Party of the 1890s was one of the first populist movements.","‘Populus’ is Latin for ‘the people’."],
-fun:"The People’s Party’s supporters were sometimes called ‘Populists’ by newspapers, and the name stuck as a label for the whole style of politics.",
-tl:"Ang populismo ay estilo ng pulitika na nagsasabing kinakatawan nito ang ‘taumbayan’ laban sa isang tiwaling ‘elite’. Maaaring makakaliwa o makakanan ang mga populista, at pinagtatalunan kung nakatutulong o nakapipinsala ito sa demokrasya."});
+fun:"The People’s Party’s supporters were sometimes called ‘Populists’ by newspapers, and the name stuck as a label for the whole style of politics."});
 
 ADDART({id:"tobacco",t:"Tobacco and Smoking",c:"Society",i:"🚭",w:"Tobacco smoking",r:["who","cancer","whistleblowers","drugtrade","propaganda"],
 p:[["A deadly habit","Smoking tobacco is the world’s leading cause of preventable death."],["Hidden harm","Tobacco companies hid evidence of its dangers for decades."],["Fighting back","Taxes, ad bans and smoke-free laws have cut smoking in many countries."]],
@@ -204,5 +189,4 @@ s2:[["Generational bans","Some governments have proposed banning tobacco sales t
 sp:["Doctors in ads","In the 1930s and 1940s, cigarette ads in the United States sometimes showed doctors recommending brands, with slogans claiming that more doctors smoked one brand than any other. Such ads are now seen as a classic example of misleading marketing."],
 g:[["Nicotine","The addictive drug in tobacco"],["Second-hand smoke","Smoke breathed in by people near a smoker"],["Vaping","Inhaling vapor from an e-cigarette"],["Plain packaging","Cigarette packs without brand logos or colors"]],
 f:["Nicotine is named after Jean Nicot.","Tobacco kills more than 8 million people a year.","Australia was the first country to require plain cigarette packaging, in 2012."],
-fun:"King James I wrote in 1604 that smoking was ‘loathsome to the eye, hateful to the nose, harmful to the brain, dangerous to the lungs’.",
-tl:"Ang paninigarilyo ang nangungunang sanhi ng maiiwasang kamatayan sa mundo, at pumapatay ito ng mahigit 8 milyong tao bawat taon. Itinago ng mga kompanya ng tabako ang ebidensya ng panganib nito sa loob ng maraming dekada, ngunit nabawasan ang paninigarilyo dahil sa buwis, pagbabawal sa patalastas at mga batas."});
+fun:"King James I wrote in 1604 that smoking was ‘loathsome to the eye, hateful to the nose, harmful to the brain, dangerous to the lungs’."});

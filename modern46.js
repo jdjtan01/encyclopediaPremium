@@ -9,8 +9,7 @@ s2:[["Eclipse from the Moon","On 14 March 2025, Blue Ghost filmed Earth blocking
 sp:["‘Odie’ the lander","Odysseus, nicknamed ‘Odie’, carried a camera system built by university students that was meant to photograph the lander as it descended, but it was not released during the descent as planned."],
 g:[["Lander","A spacecraft that touches down on a surface"],["CLPS","NASA’s Commercial Lunar Payload Services program"],["Payload","Cargo carried by a spacecraft"],["Rangefinder","A device that measures distance"]],
 f:["Odysseus was the first commercial Moon lander, in 2024.","Blue Ghost made the first fully successful commercial landing.","Several private landers have crashed."],
-fun:"In 2025, a commercial lander filmed a solar eclipse from the Moon as Earth passed in front of the Sun.",
-tl:"Gumagawa na ang mga pribadong kompanya ng spacecraft na lalapag sa Buwan. Nabigo o natumba ang ilang unang pagtatangka, ngunit ginawa ng Blue Ghost ng Firefly ang unang ganap na matagumpay na komersiyal na paglapag noong 2025."});
+fun:"In 2025, a commercial lander filmed a solar eclipse from the Moon as Earth passed in front of the Sun."});
 
 ADDART({id:"shuttledisasters",t:"The Challenger and Columbia Disasters",c:"Space Exploration",i:"🕯️",w:"Space Shuttle Columbia disaster",r:["spaceshuttle","spaceagencies","astronauts","womeninspace","iss"],
 p:[["Two tragedies","Two Space Shuttles were lost with their crews, in 1986 and 2003."],["Challenger","Challenger broke apart 73 seconds after launch."],["Columbia","Columbia broke apart while returning to Earth."]],
@@ -22,8 +21,7 @@ s2:[["Memorials","The Space Mirror Memorial at Kennedy Space Center honors astro
 sp:["Worms survived","Tiny worms called C. elegans, part of an experiment aboard Columbia, were found alive in their containers among the debris, an extraordinary survival story."],
 g:[["O-ring","A rubber ring that seals a joint"],["Heat shield","Protection against the heat of reentry"],["Reentry","Returning into Earth’s atmosphere"],["Safety culture","An organization’s attitudes toward safety"]],
 f:["Challenger was lost in 1986.","Columbia was lost in 2003.","Both disasters killed seven astronauts."],
-fun:"Tiny worms from a science experiment aboard Columbia survived the disaster and were found alive in the debris.",
-tl:"Dalawang Space Shuttle ang nawasak kasama ang kanilang crew noong 1986 at 2003. Nawasak ang Challenger 73 segundo matapos ilunsad, at nawasak ang Columbia habang pabalik sa Earth."});
+fun:"Tiny worms from a science experiment aboard Columbia survived the disaster and were found alive in the debris."});
 
 ADDART({id:"apollo8",t:"Apollo 8",c:"Space Exploration",i:"🌍",w:"Apollo 8",r:["apollo","moon","saturnv","space","earthplanet"],
 p:[["First humans around the Moon","Apollo 8 carried the first people to orbit the Moon in December 1968."],["Earthrise","The crew took the famous photograph of Earth rising over the Moon."],["Christmas Eve","They read from the Book of Genesis on live television."]],
@@ -35,8 +33,7 @@ s2:[["Jim Lovell","Lovell later commanded Apollo 13, which suffered an explosion
 sp:["Santa Claus","When Apollo 8 emerged from behind the Moon after its engine burn to head home on Christmas Day, Jim Lovell radioed, ‘Please be informed, there is a Santa Claus.’"],
 g:[["Lunar orbit","Circling the Moon"],["Far side","The side of the Moon that always faces away from Earth"],["Splashdown","Landing a spacecraft in the ocean"],["Earthrise","Earth appearing over the Moon’s horizon"]],
 f:["Apollo 8 was the first crewed flight to the Moon.","Its crew took the Earthrise photo.","It orbited the Moon ten times."],
-fun:"On Christmas Day 1968, Jim Lovell told Mission Control from lunar orbit, ‘Please be informed, there is a Santa Claus.’",
-tl:"Dinala ng Apollo 8 ang mga unang tao na umikot sa Buwan noong Disyembre 1968. Kinunan ng crew ang sikat na larawang Earthrise, at nagbasa sila mula sa Aklat ng Genesis sa telebisyon noong bisperas ng Pasko."});
+fun:"On Christmas Day 1968, Jim Lovell told Mission Control from lunar orbit, ‘Please be informed, there is a Santa Claus.’"});
 
 ADDART({id:"rangersurveyor",t:"Ranger, Surveyor and Lunar Orbiter",c:"Space Exploration",i:"🌕",w:"Surveyor program",r:["moon","apollo","lunaprogram","lro","space"],
 p:[["Scouting the Moon","Robot spacecraft prepared the way for Apollo astronauts."],["Crash and photograph","Ranger probes sent close-up pictures before crashing."],["Soft landings","Surveyor landers showed the Moon’s surface could support a spacecraft."]],
@@ -48,8 +45,7 @@ s2:[["The germ controversy","Scientists reported finding bacteria inside Surveyo
 sp:["Live from the Moon","Ranger 9’s final pictures as it plunged into the crater Alphonsus in 1965 were shown live on US television with the caption ‘Live from the Moon’."],
 g:[["Soft landing","Touching down gently"],["Impactor","A spacecraft designed to crash into a target"],["Regolith","The loose dust and rock on the Moon’s surface"],["Landing site","A chosen place to touch down"]],
 f:["Ranger 7 sent the first close-up Moon images in 1964.","Surveyor 1 soft-landed in 1966.","Apollo 12 astronauts visited Surveyor 3."],
-fun:"Apollo 12 astronauts landed next to the robotic Surveyor 3 and took parts of it home.",
-tl:"Inihanda ng mga robot na spacecraft ang daan para sa mga astronaut ng Apollo. Nagpadala ng malapitang larawan ang mga Ranger bago bumagsak, at ipinakita ng mga Surveyor na kaya ng ibabaw ng Buwan ang isang spacecraft."});
+fun:"Apollo 12 astronauts landed next to the robotic Surveyor 3 and took parts of it home."});
 
 ADDART({id:"lunokhod",t:"The Lunokhod Moon Rovers",c:"Space Exploration",i:"🛞",w:"Lunokhod programme",r:["lunaprogram","moon","marsrovers","lro","space"],
 p:[["First rovers on another world","Soviet Lunokhod rovers explored the Moon in the 1970s."],["Driven from Earth","Teams on Earth steered them by remote control."],["Still useful","Their reflectors are still used to measure the distance to the Moon."]],
@@ -61,8 +57,7 @@ s2:[["Chinese and Indian rovers","After Lunokhod, no rover drove on the Moon unt
 sp:["A rover’s chair","Lunokhod operators worked in teams, with a commander, driver, navigator, engineer and antenna operator, like the crew of a ship."],
 g:[["Rover","A vehicle that travels over a surface"],["Remote control","Operating a machine from a distance"],["Laser reflector","A device that bounces laser light back"],["Lunar night","The two-week dark period on the Moon"]],
 f:["Lunokhod 1 was the first rover on another world.","Lunokhod 2 traveled about 39 kilometers.","Their laser reflectors are still used."],
-fun:"An American video game developer bought Lunokhod 2 at auction in 1993, so he owns a robot on the Moon.",
-tl:"Ginalugad ng mga Sobyet na Lunokhod rover ang Buwan noong dekada 1970. Pinatnubayan ang mga ito ng mga koponan sa Earth sa pamamagitan ng remote control, at ginagamit pa rin ang kanilang mga reflector upang sukatin ang layo ng Buwan."});
+fun:"An American video game developer bought Lunokhod 2 at auction in 1993, so he owns a robot on the Moon."});
 
 ADDART({id:"marslanders",t:"Mars Landers",c:"Space Exploration",i:"🔴",w:"Phoenix (spacecraft)",r:["mars","marsrovers","vikinglanders","insight","marsorbiters"],
 p:[["Touching down on Mars","Landers are spacecraft that set down on Mars’s surface."],["Bouncing airbags","Mars Pathfinder landed in 1997 by bouncing on airbags."],["Ice at the pole","Phoenix dug up water ice near Mars’s north pole in 2008."]],
@@ -74,8 +69,7 @@ s2:[["Perchlorates","Phoenix discovered perchlorate salts, which are toxic to hu
 sp:["A DVD on Mars","Phoenix carried a DVD called ‘Visions of Mars’ with stories, art and the names of a quarter of a million people, intended as a library for future human explorers."],
 g:[["Lander","A spacecraft that touches down on a surface"],["Heat shield","Protection against heat during atmospheric entry"],["Perchlorate","A salt containing chlorine and oxygen"],["Sky crane","A system that lowers a rover on cables"]],
 f:["Mars 3 made the first soft landing in 1971.","Pathfinder bounced to a stop on airbags.","Phoenix dug up water ice in 2008."],
-fun:"Mars Pathfinder bounced on airbags about 15 meters high before rolling to a stop on Mars.",
-tl:"Ang Mars lander ay mga spacecraft na lumalapag sa ibabaw ng Mars. Lumapag ang Mars Pathfinder noong 1997 sa pagtalbog sa mga airbag, at hinukay ng Phoenix ang yelong tubig malapit sa north pole ng Mars noong 2008."});
+fun:"Mars Pathfinder bounced on airbags about 15 meters high before rolling to a stop on Mars."});
 
 ADDART({id:"dawnmission",t:"The Dawn Mission",c:"Space Exploration",i:"🌄",w:"Dawn (spacecraft)",r:["ceres","vesta","asteroidbelt","rocketengines","dwarfplanets"],
 p:[["Two worlds in one mission","Dawn orbited the giant asteroid Vesta and the dwarf planet Ceres."],["Ion engines","It used gentle but efficient ion engines."],["Bright spots","It solved the mystery of Ceres’s bright spots."]],
@@ -87,8 +81,7 @@ s2:[["Why ‘Dawn’?","The mission was named Dawn because Vesta and Ceres are r
 sp:["Gentle push","Dawn’s ion engine pushed with about the same force as the weight of a single sheet of paper, yet it carried the spacecraft between worlds."],
 g:[["Ion engine","An engine that accelerates charged atoms with electricity"],["Xenon","A heavy gas used as ion engine fuel"],["Dwarf planet","A small planet-like body"],["Cryovolcano","An ice volcano"]],
 f:["Dawn orbited Vesta and Ceres.","It used ion engines.","Ceres’s bright spots are salt deposits."],
-fun:"Dawn’s ion engine pushed only as hard as the weight of a sheet of paper, but it ran for years.",
-tl:"Umikot ang Dawn sa malaking asteroid na Vesta at sa dwarf planet na Ceres. Gumamit ito ng mahina ngunit matipid na ion engine, at nalutas nito ang misteryo ng maliliwanag na batik sa Ceres."});
+fun:"Dawn’s ion engine pushed only as hard as the weight of a sheet of paper, but it ran for years."});
 
 ADDART({id:"ulysses",t:"Ulysses: Over the Sun’s Poles",c:"Space Exploration",i:"☀️",w:"Ulysses (spacecraft)",r:["sun","solarwind","jupiter","solarobservatories","spaceweather"],
 p:[["Flying over the Sun","Ulysses was the first spacecraft to fly over the Sun’s poles."],["A boost from Jupiter","It used Jupiter’s gravity to swing out of the planets’ plane."],["Studying the solar wind","It mapped the solar wind in three dimensions."]],
@@ -100,8 +93,7 @@ s2:[["The name","Ulysses is named after the Latin name of Odysseus, the hero of 
 sp:["Long-distance flight","To reach the Sun’s poles, Ulysses traveled out to Jupiter, more than five times Earth’s distance from the Sun, showing that sometimes the best route to the Sun is to fly away from it first."],
 g:[["Ecliptic","The plane in which the planets orbit"],["Gravity assist","Using a planet’s gravity to change a spacecraft’s path"],["Solar cycle","The Sun’s 11-year activity cycle"],["Solar wind","Charged particles flowing from the Sun"]],
 f:["Ulysses was the first to fly over the Sun’s poles.","It used Jupiter’s gravity.","It operated for more than 18 years."],
-fun:"To fly over the Sun’s poles, Ulysses first had to travel all the way out to Jupiter.",
-tl:"Ang Ulysses ang unang spacecraft na lumipad sa ibabaw ng mga polo ng Araw. Ginamit nito ang grabidad ng Jupiter upang makaalis sa patag na daanan ng mga planeta, at iminapa nito ang solar wind sa tatlong dimensyon."});
+fun:"To fly over the Sun’s poles, Ulysses first had to travel all the way out to Jupiter."});
 
 ADDART({id:"fermitelescope",t:"Gamma-Ray Space Telescopes",c:"Space Exploration",i:"⚡",w:"Fermi Gamma-ray Space Telescope",r:["gammaraybursts","bh","pulsar","gravwaves","spitzer"],
 p:[["The most energetic light","Gamma rays are light with the highest energy."],["Compton and Fermi","NASA’s Compton and Fermi observatories mapped the gamma-ray sky."],["Giant bubbles","Fermi discovered huge gamma-ray bubbles above and below our galaxy."]],
@@ -113,8 +105,7 @@ s2:[["Spy satellite discovery","Gamma-ray bursts were discovered in 1967 by US V
 sp:["Antimatter from lightning","Fermi found that thunderstorms can produce beams of positrons, the antimatter version of electrons, which shoot into space along Earth’s magnetic field."],
 g:[["Gamma ray","The highest-energy form of light"],["Gamma-ray burst","A brief, intense flash of gamma rays"],["Multi-messenger astronomy","Studying events with light and other signals"],["Positron","The antimatter version of an electron"]],
 f:["Gamma rays are the most energetic light.","Fermi scans the whole sky every three hours.","Fermi discovered giant bubbles around our galaxy."],
-fun:"Gamma-ray bursts were discovered by spy satellites looking for secret nuclear bomb tests.",
-tl:"Ang gamma ray ang liwanag na may pinakamataas na enerhiya. Iminapa ng Compton at Fermi ng NASA ang kalangitan sa gamma ray, at natuklasan ng Fermi ang malalaking bula ng gamma ray sa itaas at ibaba ng ating galaxy."});
+fun:"Gamma-ray bursts were discovered by spy satellites looking for secret nuclear bomb tests."});
 
 ADDART({id:"fastradiobursts",t:"Fast Radio Bursts",c:"Space and Astronomy",i:"📻",w:"Fast radio burst",r:["radioastronomy","magnetars","pulsar","seti","galaxies"],
 p:[["Mysterious flashes","Fast radio bursts are brief, powerful flashes of radio waves from space."],["Over in milliseconds","Each lasts only a few thousandths of a second."],["Magnetars","At least some come from highly magnetic dead stars."]],
@@ -126,8 +117,7 @@ s2:[["CHIME","The Canadian Hydrogen Intensity Mapping Experiment (CHIME), in Bri
 sp:["A microwave mystery","For years, astronomers puzzled over radio signals at Parkes that turned out to come from impatient staff opening a microwave oven at lunchtime."],
 g:[["Fast radio burst","A millisecond flash of radio waves from space"],["Magnetar","A neutron star with an extremely strong magnetic field"],["Repeater","An FRB source that flashes more than once"],["Dispersion","Spreading of a signal by frequency"]],
 f:["The first FRB was discovered in 2007.","FRBs last only milliseconds.","Some FRBs come from magnetars."],
-fun:"Some strange radio signals once thought to be from space turned out to come from a microwave oven at the observatory.",
-tl:"Ang fast radio burst ay maikli at malakas na kislap ng radio wave mula sa kalawakan. Ilang libong bahagi lamang ng segundo ang itinatagal ng bawat isa, at nagmumula ang ilan sa mga patay na bituing may napakalakas na magnetismo."});
+fun:"Some strange radio signals once thought to be from space turned out to come from a microwave oven at the observatory."});
 
 ADDART({id:"verarubin",t:"The Vera C. Rubin Observatory",c:"Space and Astronomy",i:"🎥",w:"Vera C. Rubin Observatory",r:["groundtelescopes","darkmatter","planetnine","chilecountry","asteroidbelt"],
 p:[["A movie of the sky","Rubin Observatory photographs the entire southern sky every few nights."],["The biggest camera","It has the largest digital camera ever built for astronomy."],["Survey begins","Its 10-year survey began in 2025–2026."]],
@@ -139,8 +129,7 @@ s2:[["Vera Rubin","Vera Rubin (1928–2016) faced discrimination as a woman in a
 sp:["Asteroid haul","In just ten hours of test observations, Rubin discovered more than 2,000 new asteroids, a taste of the millions it is expected to find."],
 g:[["Survey","A systematic observation of a large area"],["Megapixel","One million pixels"],["Alert","A notice sent when something changes in the sky"],["Near-Earth asteroid","An asteroid whose orbit comes close to Earth’s"]],
 f:["Rubin has the largest astronomy camera ever built.","Its first images were released in June 2025.","It will survey the sky for 10 years."],
-fun:"Rubin found more than 2,000 new asteroids in its first ten hours of test observations.",
-tl:"Kinukunan ng Vera C. Rubin Observatory ang buong timog na kalangitan bawat ilang gabi. Nasa kanya ang pinakamalaking digital camera na nagawa para sa astronomiya, at sinimulan nito ang 10-taong survey noong 2025–2026."});
+fun:"Rubin found more than 2,000 new asteroids in its first ten hours of test observations."});
 
 ADDART({id:"alma",t:"ALMA: The Atacama Large Millimeter Array",c:"Space and Astronomy",i:"📡",w:"Atacama Large Millimeter Array",r:["radioastronomy","starformation","eht","chilecountry","solarform"],
 p:[["Sixty-six dishes in the desert","ALMA is a radio telescope made of 66 antennas in Chile."],["High and dry","It sits at 5,000 meters, one of the driest places on Earth."],["Baby planets","It has photographed planets forming around young stars."]],
@@ -152,8 +141,7 @@ s2:[["Chajnantor","Chajnantor means ‘place of departure’ in the Kunza langua
 sp:["Giant trucks","Each of ALMA’s antenna transporters is about 20 meters long and 10 meters wide and rolls on 28 tires."],
 g:[["Interferometry","Combining signals from several antennas"],["Millimeter wave","Light with wavelengths around a millimeter"],["Protoplanetary disk","A disk of gas and dust where planets form"],["Plateau","A high, flat area of land"]],
 f:["ALMA has 66 antennas.","It sits at about 5,000 meters.","It photographed a disk forming planets in 2014."],
-fun:"ALMA’s 100-ton antennas are moved around the desert by giant trucks named Otto and Lore.",
-tl:"Ang ALMA ay radio telescope na binubuo ng 66 antenna sa Chile. Nasa taas itong 5,000 metro sa isa sa pinakatuyong lugar sa mundo, at nakunan nito ng larawan ang mga planetang nabubuo sa paligid ng mga batang bituin."});
+fun:"ALMA’s 100-ton antennas are moved around the desert by giant trucks named Otto and Lore."});
 
 ADDART({id:"arecibo",t:"Arecibo and FAST",c:"Space and Astronomy",i:"📡",w:"Arecibo Telescope",r:["radioastronomy","seti","pulsar","chinacountry","exoplanet"],
 p:[["Giant dishes","Arecibo and FAST are the largest single-dish radio telescopes ever built."],["Arecibo’s fall","Puerto Rico’s Arecibo telescope collapsed in 2020."],["China’s giant","China’s FAST, 500 meters wide, is now the largest."]],
@@ -165,8 +153,7 @@ s2:[["Arecibo in films","Arecibo appeared in the James Bond film GoldenEye (1995
 sp:["Planets around a dead star","The first confirmed planets beyond the solar system, found with Arecibo in 1992, orbit a pulsar, a spinning dead star, an unexpected place for planets."],
 g:[["Radio telescope","A telescope that detects radio waves"],["Sinkhole","A natural hole formed by dissolving rock"],["Radar","Bouncing radio waves off objects to study them"],["Pulsar","A rapidly spinning neutron star"]],
 f:["Arecibo’s dish was 305 meters wide.","Arecibo collapsed in 2020.","FAST’s dish is 500 meters wide."],
-fun:"The first planets found beyond our solar system, discovered with Arecibo, orbit a dead star called a pulsar.",
-tl:"Ang Arecibo at FAST ang pinakamalalaking radio telescope na may iisang dish na nagawa. Gumuho ang Arecibo sa Puerto Rico noong 2020, at ang FAST ng China, na 500 metro ang lapad, na ang pinakamalaki ngayon."});
+fun:"The first planets found beyond our solar system, discovered with Arecibo, orbit a dead star called a pulsar."});
 
 ADDART({id:"cargoships",t:"Space Station Cargo Ships",c:"Space Exploration",i:"📦",w:"Cargo spacecraft",r:["iss","spacex","soyuz","tiangong","salyut"],
 p:[["Deliveries to orbit","Uncrewed cargo ships carry food, water, fuel and equipment to space stations."],["Progress first","The Soviet Progress began deliveries in 1978."],["Trash on the way back","Most cargo ships burn up on reentry, carrying away garbage."]],
@@ -178,8 +165,7 @@ s2:[["Named after people","Northrop Grumman names each Cygnus after a person who
 sp:["Garbage fireworks","Cargo ships filled with trash make a fiery reentry, sometimes photographed by astronauts from the station as streaks of light in the atmosphere."],
 g:[["Cargo spacecraft","An uncrewed supply vehicle"],["Berthing","Attaching a spacecraft with a robotic arm"],["Reboost","Raising a station’s orbit with engine burns"],["Uncrewed","Without people aboard"]],
 f:["Progress 1 made the first cargo delivery in 1978.","Dragon can bring cargo back to Earth.","Most cargo ships burn up carrying trash."],
-fun:"Space station crews pack their trash into cargo ships, which then burn up in the atmosphere.",
-tl:"Nagdadala ang mga cargo ship na walang sakay ng pagkain, tubig, gasolina at kagamitan sa mga space station. Sinimulan ng Progress ng Unyong Sobyet ang paghahatid noong 1978, at nasusunog ang karamihan sa pagbalik habang dala ang basura."});
+fun:"Space station crews pack their trash into cargo ships, which then burn up in the atmosphere."});
 
 ADDART({id:"shenzhou",t:"Shenzhou: China’s Crewed Spacecraft",c:"Space Exploration",i:"🇨🇳",w:"Shenzhou (spacecraft)",r:["tiangong","longmarch","chinacountry","womeninspace","soyuz"],
 p:[["China’s space capsule","Shenzhou spacecraft carry Chinese astronauts to orbit."],["Yang Liwei, 2003","China became the third country to launch a person into space."],["Crews to Tiangong","Shenzhou crews live aboard the Tiangong space station."]],
@@ -191,8 +177,7 @@ s2:[["Yang Liwei","Yang Liwei, a former fighter pilot, orbited Earth 14 times in
 sp:["A mysterious knock","During Shenzhou 5, Yang Liwei reported hearing a sound like someone knocking on the spacecraft with a wooden hammer; later astronauts reported similar noises, perhaps caused by the spacecraft expanding and contracting."],
 g:[["Taikonaut","A Chinese astronaut"],["Reentry capsule","The part of a spacecraft that returns to Earth"],["Orbital module","A living compartment used in orbit"],["Lifeboat","A spacecraft kept ready for emergency return"]],
 f:["Yang Liwei flew on Shenzhou 5 in 2003.","Liu Yang was the first Chinese woman in space.","Shenzhou crews live on Tiangong."],
-fun:"China’s first astronaut reported hearing a mysterious knocking sound outside his spacecraft.",
-tl:"Dinadala ng Shenzhou ang mga astronaut ng China sa orbit. Naging ikatlong bansa ang China na naglunsad ng tao sa kalawakan noong 2003 sa paglipad ni Yang Liwei, at nakatira ang mga crew ng Shenzhou sa Tiangong space station."});
+fun:"China’s first astronaut reported hearing a mysterious knocking sound outside his spacecraft."});
 
 ADDART({id:"hera",t:"Hera: Revisiting DART’s Asteroid",c:"Space Exploration",i:"🎯",w:"Hera (space mission)",r:["planetdefense","asteroidbelt","spaceagencies","mars","phobosdeimos"],
 p:[["Checking the crash","Hera is a European mission to study the asteroid NASA’s DART spacecraft hit."],["Planetary defense","It helps learn how to push dangerous asteroids off course."],["Arriving in 2026","Hera was due to reach the Didymos asteroids in November 2026."]],
@@ -204,8 +189,7 @@ s2:[["Hera and Juno","Hera is named after the Greek goddess of marriage. Didymos
 sp:["A boulder-covered rubble pile","DART’s final images showed that Dimorphos is a ‘rubble pile’ covered in boulders, loosely held together by weak gravity."],
 g:[["Kinetic impactor","A spacecraft that hits an asteroid to change its path"],["Planetary defense","Protecting Earth from asteroid impacts"],["Binary asteroid","Two asteroids orbiting each other"],["CubeSat","A small standardized satellite"]],
 f:["DART hit Dimorphos in 2022.","Hera launched in 2024.","Hera carries two CubeSats."],
-fun:"NASA’s DART crash shortened the orbit of the asteroid moon Dimorphos by about 32 minutes.",
-tl:"Ang Hera ay misyon ng Europa upang pag-aralan ang asteroid na binangga ng DART ng NASA. Tumutulong ito na matutunan kung paano ilihis ang mapanganib na asteroid, at nakatakda itong dumating sa Didymos noong Nobyembre 2026."});
+fun:"NASA’s DART crash shortened the orbit of the asteroid moon Dimorphos by about 32 minutes."});
 
 ADDART({id:"zerogravityflights",t:"Zero-Gravity Flights",c:"Space Exploration",i:"🛫",w:"Reduced-gravity aircraft",r:["grav","astronauts","spacebody","flight","apollo13"],
 p:[["Weightless in an airplane","Special airplane flights create about 20 seconds of weightlessness."],["The Vomit Comet","NASA’s training plane earned a famous nickname."],["Training and research","Astronauts train and scientists test experiments on these flights."]],
@@ -217,8 +201,7 @@ s2:[["Hawking’s float","Stephen Hawking made eight parabolas during his 2007 f
 sp:["Not really zero","Gravity is never actually turned off on these flights; passengers float because they and the plane fall at exactly the same rate."],
 g:[["Parabola","A U-shaped curve like the path of a thrown ball"],["Free fall","Falling under gravity alone"],["Microgravity","Very weak apparent gravity"],["Motion sickness","Nausea caused by confusing motion signals"]],
 f:["Parabolic flights give about 20 seconds of weightlessness.","NASA’s plane was called the Vomit Comet.","Stephen Hawking floated on a flight in 2007."],
-fun:"The floating scenes in the film Apollo 13 were filmed in real weightlessness aboard NASA’s ‘Vomit Comet’.",
-tl:"Lumilikha ang mga espesyal na paglipad ng eroplano ng mga 20 segundong pagiging walang timbang. Tinawag na Vomit Comet ang training plane ng NASA, at ginagamit ito ng mga astronaut at siyentipiko sa pagsasanay at pananaliksik."});
+fun:"The floating scenes in the film Apollo 13 were filmed in real weightlessness aboard NASA’s ‘Vomit Comet’."});
 
 ADDART({id:"spaceradiation",t:"Radiation in Space",c:"Space Exploration",i:"☢️",w:"Health threat from cosmic rays",r:["cosmicrays","spacebody","magnet","solarwind","astronauts"],
 p:[["An invisible danger","Space is filled with radiation that Earth’s atmosphere and magnetic field block."],["Van Allen belts","Belts of trapped radiation surround Earth."],["A challenge for Mars","Radiation is one of the biggest risks for astronauts going to Mars."]],
@@ -230,8 +213,7 @@ s2:[["Through the belts","Apollo astronauts crossed the Van Allen belts quickly 
 sp:["Cosmic ray sparkles","Astronauts describe the light flashes caused by cosmic rays as streaks, dots or starbursts, seen most often when they are trying to sleep."],
 g:[["Cosmic rays","High-energy particles from space"],["Van Allen belts","Zones of trapped radiation around Earth"],["Shielding","Material that blocks radiation"],["Dose","An amount of radiation absorbed"]],
 f:["Earth’s magnetic field protects us from much space radiation.","The Van Allen belts were found in 1958.","Water makes good radiation shielding."],
-fun:"Astronauts sometimes see flashes of light with their eyes closed, caused by cosmic ray particles passing through their eyes.",
-tl:"Puno ng radyasyon ang kalawakan na hinaharangan ng atmospera at magnetic field ng Earth. Pinaliligiran ang Earth ng mga Van Allen belt, at isa ang radyasyon sa pinakamalaking panganib para sa mga astronaut na pupunta sa Mars."});
+fun:"Astronauts sometimes see flashes of light with their eyes closed, caused by cosmic ray particles passing through their eyes."});
 
 ADDART({id:"hubbleservicing",t:"Hubble’s Servicing Missions",c:"Space Exploration",i:"🔧",w:"Hubble Space Telescope servicing missions",r:["hubblest","spaceshuttle","spacewalks","astronauts","shuttledisasters"],
 p:[["Repairing a telescope in space","Astronauts visited Hubble five times to fix and upgrade it."],["Fixing blurry vision","The first mission in 1993 corrected Hubble’s flawed mirror."],["Spacewalking mechanics","Astronauts used special tools on long spacewalks."]],
@@ -243,10 +225,9 @@ s2:[["The scientist-astronaut","Astronaut John Grunsfeld, an astronomer, flew on
 sp:["Glasses for a telescope","The corrective device COSTAR worked like a pair of glasses for Hubble’s instruments. It was removed in 2009 because all newer instruments had built-in correction."],
 g:[["Servicing mission","A mission to repair or upgrade a spacecraft"],["Spherical aberration","A blur caused by a wrongly shaped mirror or lens"],["Gyroscope","A device that helps a spacecraft point accurately"],["COSTAR","Hubble’s corrective optics device"]],
 f:["Astronauts serviced Hubble five times.","The 1993 mission fixed Hubble’s blurry vision.","The last servicing mission was in 2009."],
-fun:"Hubble’s main mirror was off by only about a fiftieth of the width of a human hair, but that was enough to blur its images.",
-tl:"Limang ulit na binisita ng mga astronaut ang Hubble upang ayusin at i-upgrade ito. Itinama ng unang misyon noong 1993 ang may depektong salamin ng Hubble, at gumamit ang mga astronaut ng espesyal na kasangkapan sa mahahabang spacewalk."});
+fun:"Hubble’s main mirror was off by only about a fiftieth of the width of a human hair, but that was enough to blur its images."});
 
-ADDART({id:"artemisaccords",t:"The Artemis Accords",c:"Space Exploration",i:"🤝",w:"Artemis Accords",r:["artemis","spacelaw","moon","spaceagencies","asteroidmining"],
+ADDART({id:"artemisaccords",t:"The Artemis Accords",c:"Space Exploration",i:"🤝",w:"Artemis Accords",r:["artemis","spacelaw","moon","spaceagencies","asteroidmining","spacemining"],
 p:[["Rules for the Moon","The Artemis Accords are principles for peaceful exploration of the Moon and beyond."],["Dozens of countries","Seventy-six countries had signed by September 2026."],["Not everyone","China and Russia have not signed and lead a separate lunar program."]],
 l:"The Artemis Accords are a set of non-binding principles for the peaceful, safe and cooperative exploration of the Moon, Mars, comets and asteroids, created by the United States in connection with NASA’s Artemis program. The accords were first signed on 13 October 2020 by eight countries: Australia, Canada, Italy, Japan, Luxembourg, the United Arab Emirates, the United Kingdom and the United States. They build on the 1967 Outer Space Treaty and commit signatories to principles including peaceful purposes, transparency about their activities, making their systems compatible, helping astronauts in distress, registering space objects, sharing scientific data, protecting historic sites such as the Apollo landing sites, using space resources in line with international law, avoiding harmful interference through ‘safety zones’ and limiting space debris. Many countries joined in the following years, including the Philippines, Hungary and Malaysia in December 2025, and by September 2026, when San Marino signed, the accords had 76 signatories. China and Russia have not signed; they are developing their own International Lunar Research Station and have invited other countries to join. Supporters see the accords as practical rules for a busy Moon, while critics question whether resource rules favor wealthy nations.",
 s:[["What the principles say","The accords stress that space activities should be peaceful and transparent. Signatories agree to share information about where they operate, to coordinate to avoid accidents and to release scientific data publicly."],["Space resources","The accords state that extracting resources such as water ice from the Moon does not in itself amount to claiming territory, which is banned by the Outer Space Treaty. Some legal experts and countries dispute this interpretation."],["Heritage sites","Signatories agree to preserve historically significant sites, such as the Apollo 11 landing site with Neil Armstrong’s footprints and the remains of early landers, from damage by future missions."],["A rival vision","China and Russia’s International Lunar Research Station plans a base near the lunar south pole in the 2030s, with partners including several countries. The two groups reflect wider geopolitical competition in space."]],
@@ -256,5 +237,4 @@ s2:[["Non-binding","The accords are political commitments rather than a treaty, 
 sp:["Named after a goddess","Artemis is the Greek goddess of the Moon and twin sister of Apollo, linking NASA’s new program to the Apollo missions of the 1960s and 1970s."],
 g:[["Accords","Agreements"],["Non-binding","Not legally enforceable"],["Signatory","A country that has signed an agreement"],["Safety zone","An area where operators coordinate to avoid interference"]],
 f:["The Artemis Accords were first signed in 2020.","76 countries had signed by September 2026.","China and Russia have not signed."],
-fun:"The Artemis Accords include a promise to protect historic sites on the Moon, such as Neil Armstrong’s footprints.",
-tl:"Ang Artemis Accords ay mga prinsipyo para sa mapayapang paggalugad sa Buwan at higit pa. Pitumpu’t anim na bansa ang lumagda hanggang Setyembre 2026, ngunit hindi lumagda ang China at Russia na may sariling programa sa Buwan."});
+fun:"The Artemis Accords include a promise to protect historic sites on the Moon, such as Neil Armstrong’s footprints."});

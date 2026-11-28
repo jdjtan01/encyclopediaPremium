@@ -11,8 +11,7 @@ s2:[["The rice bowl","Central Luzon’s flat, well-watered plains produce much o
 sp:["Typhoon alley","Luzon’s eastern coast faces the Pacific, where most typhoons that strike the Philippines come from. The Sierra Madre mountains act as a barrier, weakening storms before they reach the populous plains, which is one reason conservationists want to protect its forests."],
 g:[["Archipelago","A group of islands"],["Cordillera","A long chain of mountains"],["Region","An administrative division of the Philippines"],["Rice bowl","An area that grows a large share of a country’s rice"]],
 f:["Luzon is the fourth most populous island in the world.","Mount Pulag is Luzon’s highest peak.","A new human species, Homo luzonensis, was found on Luzon."],
-fun:"Luzon is larger than Cuba, Iceland or South Korea.",
-tl:"Ang Luzon ang pinakamalaki at pinakamataong pulo ng Pilipinas. Narito ang Maynila at karamihan ng mga tao at industriya ng bansa, pati ang Cordillera, ang kapatagan ng Gitnang Luzon at ang mga bulkan ng Bicol."});
+fun:"Luzon is larger than Cuba, Iceland or South Korea."});
 
 ADDART({id:"visayas",t:"The Visayas",c:"Philippines",i:"🏖️",w:"Visayas",r:["cebu","bohol","boracay","lapulapu","magellan"],
 p:[["The central islands","The Visayas are the islands in the middle of the Philippines."],["Islands and seas","Major islands include Cebu, Panay, Negros, Leyte, Samar and Bohol."],["Where Magellan landed","Magellan reached the Visayas in 1521 and died at Mactan."]],
@@ -24,8 +23,7 @@ s2:[["The Sinulog","Every January, Cebu City holds the Sinulog festival in honor
 sp:["The Visayan Sea","The shallow seas between the Visayan islands are among the richest fishing grounds in the Philippines and are home to whale sharks, which gather near Donsol and Oslob, sea turtles and the coral gardens of Apo Island, a model of community-based marine conservation."],
 g:[["Visayan","Relating to the Visayas or its peoples and languages"],["Pintados","‘Painted ones’, the Spanish name for tattooed Visayan warriors"],["Strait","A narrow stretch of water between two islands"],["Santo Niño","An image of the child Jesus venerated in Cebu"]],
 f:["Visayan languages have more speakers than any other Philippine language group.","Magellan died at Mactan in 1521.","The Battle of Leyte Gulf was the largest naval battle in history."],
-fun:"Early Spanish visitors called Visayans ‘pintados’ because of their elaborate tattoos.",
-tl:"Ang Visayas ang mga pulo sa gitna ng Pilipinas, kabilang ang Cebu, Panay, Negros, Leyte, Samar at Bohol. Dito dumaong si Magellan noong 1521 at namatay sa Mactan."});
+fun:"Early Spanish visitors called Visayans ‘pintados’ because of their elaborate tattoos."});
 
 ADDART({id:"davao",t:"Davao City",c:"Philippines",i:"🌳",w:"Davao City",r:["mindanao","apo","phfood","phbio","indig"],
 p:[["Mindanao’s largest city","Davao City is the biggest city in Mindanao and one of the largest in the Philippines."],["Beneath Mount Apo","The country’s highest mountain rises just west of the city."],["Durian and eagles","Davao is known for durian fruit and the Philippine Eagle Center."]],
@@ -37,8 +35,7 @@ s2:[["Durian","Davao is famous for durian, the strong-smelling fruit with a cust
 sp:["Kadayawan","Kadayawan, from a Mandaya word meaning something good or valuable, is Davao’s thanksgiving festival for the harvest and the city’s Indigenous cultures. It features street dancing by groups representing the city’s eleven tribes, floral floats and displays of fruit and flowers."],
 g:[["Lumad","Indigenous peoples of Mindanao"],["Abaca","A plant whose fibers are used for rope and cloth"],["Gulf","A large bay"],["Datu","A traditional chief"]],
 f:["Davao City is one of the largest cities in the world by area.","Mount Apo lies partly within the city.","Davao was home to a large Japanese community before the Second World War."],
-fun:"Durian is so smelly that it is banned from many hotels and buses in Davao, yet the city proudly calls itself the Durian Capital.",
-tl:"Ang Lungsod ng Davao ang pinakamalaking lungsod sa Mindanao at isa sa pinakamalaki sa Pilipinas. Nasa paanan ito ng Bundok Apo at kilala sa durian at sa Philippine Eagle Center."});
+fun:"Durian is so smelly that it is banned from many hotels and buses in Davao, yet the city proudly calls itself the Durian Capital."});
 
 ADDART({id:"iloilo",t:"Iloilo City",c:"Philippines",i:"🏛️",w:"Iloilo City",r:["visayas","phfood","phfest","spanph","bahaynabato"],
 p:[["Queen City of the South","Iloilo City is the capital of Iloilo province and the center of Western Visayas."],["Heritage and food","It is known for Spanish-era mansions, old churches and dishes such as La Paz batchoy."],["Festival city","The Dinagyang festival each January fills its streets with dancers."]],
@@ -50,8 +47,7 @@ s2:[["La Paz batchoy","La Paz batchoy, created in the La Paz public market in th
 sp:["Miagao Church","The Church of Santo Tomás de Villanueva in Miagao, south of the city, was completed in 1797 as both a church and a fortress against raids. Its facade is carved with a coconut tree, papaya and guava plants, blending Christian images with Philippine nature. It is one of four Baroque churches of the Philippines listed by UNESCO."],
 g:[["Esplanade","A long open walkway, often along water"],["Heritage","Buildings, traditions and objects passed down from the past"],["Gastronomy","The art and culture of good food"],["Chartered city","A city with its own charter and government"]],
 f:["Iloilo’s port opened to world trade in 1855.","La Paz batchoy was created in a public market in the 1930s.","Miagao Church was built as a fortress against raids."],
-fun:"Molo Church is nicknamed the ‘feminist church’ because all 16 statues of saints inside are women.",
-tl:"Ang Lungsod ng Iloilo ang sentro ng Kanlurang Visayas, kilala sa mga lumang mansiyon at simbahan at sa mga pagkaing gaya ng La Paz batchoy. Tuwing Enero, napupuno ng mga mananayaw ang lansangan nito sa Dinagyang."});
+fun:"Molo Church is nicknamed the ‘feminist church’ because all 16 statues of saints inside are women."});
 
 ADDART({id:"barangay",t:"The Barangay",c:"Philippines",i:"🏘️",w:"Barangay",r:["phgov","precol","democ","ofw","manila"],
 p:[["The smallest unit of government","A barangay is a village, district or neighborhood, the basic unit of local government in the Philippines."],["An ancient word","The name comes from the balangay, the boats in which early settlers arrived."],["Over 42,000 barangays","Every Filipino lives in one, from tiny villages to crowded city districts."]],
@@ -63,8 +59,7 @@ s2:[["The balangay boats","In 1976, ancient wooden boats were excavated at Butua
 sp:["Bayanihan","Many barangays keep alive the spirit of bayanihan, neighbors helping each other, from the famous image of villagers carrying a bamboo house on their shoulders to modern clean-up drives, feeding programs and relief operations after disasters."],
 g:[["Datu","A traditional chief"],["Kagawad","A barangay council member"],["Tanod","A volunteer barangay watchman"],["Clearance","An official document certifying a resident’s record"]],
 f:["The Philippines has more than 42,000 barangays.","The word barangay comes from a type of boat.","Barangay elections are held without political parties."],
-fun:"The oldest balangay boat found at Butuan is about 1,700 years old.",
-tl:"Ang barangay ang pinakamaliit na yunit ng pamahalaan sa Pilipinas, katumbas ng nayon o purok. Nagmula ang pangalan nito sa balangay, ang mga bangkang sinakyan ng mga unang nanirahan, at mahigit 42,000 ang barangay sa bansa."});
+fun:"The oldest balangay boat found at Butuan is about 1,700 years old."});
 
 ADDART({id:"phflag",t:"The Philippine Flag and National Anthem",c:"Philippines",i:"🇵🇭",w:"Flag of the Philippines",r:["independence","aguinaldo","phrev","phgov","phlang"],
 p:[["Sun, stars and stripes","The flag has a white triangle with a sun and three stars, and blue and red stripes."],["First raised in 1898","It was unfurled at the declaration of independence in Kawit, Cavite."],["Lupang Hinirang","The anthem’s music was composed in 1898 and its Tagalog words adopted in 1956."]],
@@ -76,8 +71,7 @@ s2:[["The eight rays","The eight rays of the sun stand for the first provinces p
 sp:["Flying the flag","The flag is raised briskly and lowered slowly, flown from sunrise to sunset unless lit at night, and, when worn out, burned respectfully rather than thrown away. On the flag of the Philippines alone among national flags, a change in orientation, red on top, signals a state of war."],
 g:[["Hoist","The side of a flag nearest the pole"],["Anthem","A country’s official song"],["Heraldic code","Laws about flags, seals and symbols"],["Tempo","The speed of a piece of music"]],
 f:["The flag is flown with red on top in time of war.","It was sewn by hand in Hong Kong in five days.","The anthem was first played without words in 1898."],
-fun:"The Philippine flag is the only national flag that changes meaning when flipped upside down.",
-tl:"Ang watawat ng Pilipinas ay may puting tatsulok na may araw at tatlong bituin, at asul at pulang guhit. Unang iwinagayway ito noong 12 Hunyo 1898 sa Kawit, Cavite, at inawit ang Lupang Hinirang na kinatha ni Julián Felipe."});
+fun:"The Philippine flag is the only national flag that changes meaning when flipped upside down."});
 
 ADDART({id:"gdelpilar",t:"Gregorio del Pilar",c:"People",i:"⚔️",w:"Gregorio del Pilar",r:["phamwar","aguinaldo","aluna","delpilar","phrev"],
 p:[["The boy general","Gregorio del Pilar became a general in the Philippine revolutionary army at 22."],["Tirad Pass","He died in 1899 defending a mountain pass to let Aguinaldo escape."],["A national hero","His stand is remembered as a Philippine Thermopylae."]],
@@ -89,8 +83,7 @@ s2:[["The diary","Before the battle, del Pilar wrote in his diary that the gener
 sp:["A Philippine Thermopylae","The stand at Tirad Pass is often compared with the Battle of Thermopylae in 480 BC, where a small Greek force led by King Leonidas of Sparta held a mountain pass against a huge Persian army until betrayed by a local who showed the Persians a way around."],
 g:[["Rear guard","Troops protecting the back of a retreating army"],["Pass","A route through mountains"],["Brigadier general","A junior general’s rank"],["Shrine","A place honored for its history or sacredness"]],
 f:["Del Pilar became a general at 22.","He held Tirad Pass with about 60 men.","He died at 24."],
-fun:"Fort del Pilar in Baguio, home of the Philippine Military Academy, is named after him.",
-tl:"Si Gregorio del Pilar ay naging heneral ng hukbong rebolusyonaryo sa edad na 22. Namatay siya noong 1899 sa pagtatanggol ng Tirad Pass upang makatakas si Aguinaldo, at itinuturing siyang bayani ng bansa."});
+fun:"Fort del Pilar in Baguio, home of the Philippine Military Academy, is named after him."});
 
 ADDART({id:"romulo",t:"Carlos P. Romulo",c:"People",i:"🌐",w:"Carlos P. Romulo",r:["un","commonwealth","pacificwar","journalism","phgov"],
 p:[["Diplomat and writer","Carlos P. Romulo was a Filipino journalist, soldier and diplomat."],["Voice at the United Nations","He signed the UN Charter and became the first Asian president of the UN General Assembly."],["Pulitzer Prize","He won the prize in 1942 for his reporting on the coming war in Asia."]],
@@ -102,5 +95,4 @@ s2:[["The small man who spoke loudly","Romulo was short, about 1.63 meters, and 
 sp:["Romulo and ASEAN","As foreign secretary, Romulo was one of the signatories who founded the Association of Southeast Asian Nations in Bangkok in 1967, and he worked to make the Philippines a bridge between Asia and the West."],
 g:[["Diplomat","An official who represents a country abroad"],["Charter","A founding document setting out rules and aims"],["General Assembly","The main meeting of all UN member states"],["Correspondent","A journalist who reports from a particular place"]],
 f:["Romulo was the first Asian to win a Pulitzer Prize.","He signed the United Nations Charter in 1945.","He served as foreign secretary for about 16 years."],
-fun:"Romulo joked that he was the only general in the US Army who had never fired a shot.",
-tl:"Si Carlos P. Romulo ay mamamahayag, sundalo at diplomatiko ng Pilipinas. Nilagdaan niya ang UN Charter at naging unang Asyanong pangulo ng UN General Assembly, at nanalo siya ng Pulitzer Prize noong 1942."});
+fun:"Romulo joked that he was the only general in the US Army who had never fired a shot."});

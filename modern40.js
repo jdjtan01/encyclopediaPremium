@@ -1,16 +1,15 @@
 // New articles, 18 November 2026 (part 10): space.
 ADDART({id:"bepicolombo",t:"BepiColombo",c:"Space Exploration",i:"☿️",w:"BepiColombo",r:["mercury","spaceagencies","ionengines","venus","japancountry"],
-p:[["A joint mission to Mercury","BepiColombo is a European–Japanese mission to the innermost planet."],["A long journey","It took eight years and nine planetary flybys to reach Mercury."],["Arriving in November 2026","It is due to enter orbit around Mercury on 21 November 2026."]],
-l:"BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to study Mercury, the smallest planet and the closest to the Sun. Named after the Italian scientist Giuseppe ‘Bepi’ Colombo, who worked out how the Mariner 10 spacecraft could fly past Mercury several times, it was launched on an Ariane 5 rocket on 20 October 2018. The spacecraft consists of two orbiters, ESA’s Mercury Planetary Orbiter and JAXA’s Mercury Magnetospheric Orbiter, named Mio, carried by a Mercury Transfer Module with electric thrusters. Reaching Mercury is surprisingly hard, because a spacecraft falling toward the Sun speeds up and must lose a lot of energy to be captured; BepiColombo used one flyby of Earth, two of Venus and six of Mercury to slow down. A thruster problem in 2024 delayed its arrival. The transfer module separated in September 2026, and the orbiters are due to enter orbit around Mercury on 21 November 2026, separate in December and begin science operations in 2027. They will study Mercury’s surface, interior, magnetic field and thin atmosphere and look for ice at its poles.",
+p:[["A joint mission to Mercury","BepiColombo is a European–Japanese mission to the innermost planet."],["A long journey","It took eight years and nine planetary flybys to reach Mercury."],["Arriving in November 2026","It was due to enter orbit around Mercury on 21 November 2026."]],
+l:"BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to study Mercury, the smallest planet and the closest to the Sun. Named after the Italian scientist Giuseppe ‘Bepi’ Colombo, who worked out how the Mariner 10 spacecraft could fly past Mercury several times, it was launched on an Ariane 5 rocket on 20 October 2018. The spacecraft consists of two orbiters, ESA’s Mercury Planetary Orbiter and JAXA’s Mercury Magnetospheric Orbiter, named Mio, carried by a Mercury Transfer Module with electric thrusters. Reaching Mercury is surprisingly hard, because a spacecraft falling toward the Sun speeds up and must lose a lot of energy to be captured; BepiColombo used one flyby of Earth, two of Venus and six of Mercury to slow down. A thruster problem in 2024 delayed its arrival. The transfer module separated in September 2026, and on 21 November 2026 the still-joined spacecraft entered orbit around Mercury. The two orbiters are due to separate on 9–10 December 2026 and to start science operations in April 2027. They will study Mercury’s surface, interior, magnetic field and thin atmosphere and look for ice at its poles.",
 s:[["Why Mercury is hard to reach","Because of the Sun’s strong gravity, reaching Mercury requires more change in speed than reaching Pluto. Missions must use gravity assists and engines to brake. Only two spacecraft had visited before: NASA’s Mariner 10 in 1974–1975 and MESSENGER, which orbited from 2011 to 2015."],["Two orbiters","ESA’s orbiter will map Mercury’s surface and study its composition and interior from a low polar orbit. Japan’s Mio will study Mercury’s magnetic field and how it interacts with the solar wind from a more stretched orbit."],["Surviving the heat","At Mercury, sunlight is up to ten times stronger than at Earth, and the planet’s surface reaches about 430°C. BepiColombo uses special insulation, radiators and heat-resistant materials to protect its instruments."],["Puzzles","Mercury has a surprisingly large iron core, a magnetic field, and dark material on its surface. MESSENGER found water ice in permanently shadowed polar craters and strange hollows. BepiColombo aims to explain how Mercury formed and why it is so dense."]],
 k:[["Agencies","ESA and JAXA"],["Launch","20 October 2018"],["Flybys","1 Earth, 2 Venus, 6 Mercury"],["Mercury orbit insertion","21 November 2026"],["Science operations","From 2027"]],
-d:[["2018","BepiColombo launches"],["2020","Earth flyby"],["2020–2021","Two Venus flybys"],["2021–2025","Six Mercury flybys"],["2024","Thruster problem delays arrival"],["2026","Arrival at Mercury (21 November)"]],
+d:[["2018","BepiColombo launches"],["2020","Earth flyby"],["2020–2021","Two Venus flybys"],["2021–2025","Six Mercury flybys"],["2024","Thruster problem delays arrival"],["2026","Enters orbit around Mercury (21 November)"]],
 s2:[["Bepi Colombo","Giuseppe Colombo (1920–1984) was a mathematician and engineer at the University of Padua. He realized that Mariner 10’s orbit could be arranged to return to Mercury repeatedly and also proposed the idea of tethered satellites."],["Selfies at Mercury","During its flybys, BepiColombo’s small monitoring cameras photographed Mercury’s cratered surface with parts of the spacecraft in view, giving the public early glimpses of the planet."]],
 sp:["Mercury’s day","Mercury rotates very slowly: one solar day, from sunrise to sunrise, lasts about 176 Earth days, twice as long as its year of 88 days."],
 g:[["Orbiter","A spacecraft that circles a planet"],["Gravity assist","Using a planet’s gravity to change speed"],["Magnetosphere","The region controlled by a planet’s magnetic field"],["Solar wind","A stream of charged particles from the Sun"]],
-f:["BepiColombo used nine planetary flybys.","Reaching Mercury takes more energy than reaching Pluto.","It is due to enter Mercury orbit on 21 November 2026."],
-fun:"BepiColombo’s journey to Mercury took eight years, longer than the Cassini spacecraft took to reach Saturn.",
-tl:"Ang BepiColombo ay magkasanib na misyon ng Europa at Japan sa Mercury. Walong taon at siyam na flyby ang inabot nito bago marating ang Mercury, at nakatakda itong pumasok sa orbit noong 21 Nobyembre 2026."});
+f:["BepiColombo used nine planetary flybys.","Reaching Mercury takes more energy than reaching Pluto.","It entered orbit around Mercury on 21 November 2026."],
+fun:"BepiColombo’s journey to Mercury took eight years, longer than the Cassini spacecraft took to reach Saturn."});
 
 ADDART({id:"venusmissions",t:"Missions to Venus",c:"Space Exploration",i:"♀️",w:"Exploration of Venus",r:["venus","climchange","spaceagencies","parkerprobe","astrobio"],
 p:[["Earth’s hellish twin","Venus is similar in size to Earth but has a crushing, scorching atmosphere."],["Soviet landers","The Soviet Venera probes were the first to land on another planet."],["New missions coming","NASA and ESA plan new Venus missions in the 2030s."]],
@@ -22,8 +21,7 @@ s2:[["Balloons on Venus","In 1985, the Soviet Vega missions released two balloon
 sp:["A day longer than a year","Venus rotates backward and extremely slowly: one rotation takes 243 Earth days, longer than its year of 225 days."],
 g:[["Runaway greenhouse effect","Uncontrolled heating from trapped heat"],["Lander","A spacecraft that lands on a surface"],["Sulfuric acid","A highly corrosive acid"],["Radar mapping","Making maps with radio echoes"]],
 f:["Venera 7 was the first craft to land on another planet.","Venus’s surface is about 465°C.","Venus is still volcanically active."],
-fun:"Venus is so hot that lead would melt on its surface, yet about 50 kilometers up in its clouds, temperatures and pressures are similar to Earth’s.",
-tl:"Halos kasinlaki ng Earth ang Venus ngunit may napakabigat at napakainit na atmospera. Ang mga Venera probe ng Unyong Sobyet ang unang lumapag sa ibang planeta, at may mga bagong misyon ang NASA at ESA sa 2030s."});
+fun:"Venus is so hot that lead would melt on its surface, yet about 50 kilometers up in its clouds, temperatures and pressures are similar to Earth’s."});
 
 ADDART({id:"pioneerprobes",t:"Pioneer 10 and 11",c:"Space Exploration",i:"🛸",w:"Pioneer 10",r:["jupiter","saturn","voyager","fermiparadox","asteroidbelt"],
 p:[["First to Jupiter","Pioneer 10 was the first spacecraft to cross the asteroid belt and fly past Jupiter."],["First to Saturn","Pioneer 11 made the first flyby of Saturn in 1979."],["A message to aliens","Both carry plaques showing humans and Earth’s location."]],
@@ -35,8 +33,7 @@ s2:[["Where are they going?","Pioneer 10 is heading toward the red giant star Al
 sp:["Linda Salzman Sagan","The artist who drew the human figures on the Pioneer plaque, Linda Salzman Sagan, later helped create the Voyager Golden Record with Carl Sagan, Frank Drake and others."],
 g:[["Probe","An uncrewed spacecraft sent to explore"],["Radioisotope generator","A power source using heat from radioactive decay"],["Flyby","Passing close to an object"],["Pulsar","A rapidly spinning neutron star"]],
 f:["Pioneer 10 was the first to fly past Jupiter.","Pioneer 11 made the first Saturn flyby.","Both carry plaques for aliens."],
-fun:"The Pioneer plaque uses the pulses of 14 pulsars like a cosmic map to show where the Sun is in the galaxy.",
-tl:"Ang Pioneer 10 ang unang spacecraft na tumawid sa asteroid belt at dumaan sa Jupiter, habang ang Pioneer 11 ang unang dumaan sa Saturn noong 1979. May dalang plake ang dalawa na nagpapakita ng tao at lokasyon ng Earth."});
+fun:"The Pioneer plaque uses the pulses of 14 pulsars like a cosmic map to show where the Sun is in the galaxy."});
 
 ADDART({id:"vikinglanders",t:"The Viking Mars Landers",c:"Space Exploration",i:"🔴",w:"Viking program",r:["mars","marsrovers","astrobio","spaceagencies","conspiracy"],
 p:[["First US Mars landings","Viking 1 and 2 landed on Mars in 1976."],["Searching for life","They carried experiments to look for microbes in Martian soil."],["Long-lasting","Viking 1’s lander worked for more than six years."]],
@@ -48,12 +45,11 @@ s2:[["Mars’s first color picture","When Viking 1 sent its first color image, e
 sp:["The Thomas Mutch Memorial Station","NASA renamed Viking 1’s landing site the Thomas Mutch Memorial Station after the leader of its imaging team, who died in a climbing accident in 1980."],
 g:[["Lander","A spacecraft that touches down on a surface"],["Organic molecule","A carbon-based molecule"],["Perchlorate","A reactive salt found in Martian soil"],["Mesa","A flat-topped hill"]],
 f:["Viking 1 landed on Mars on 20 July 1976.","Viking searched for life in Martian soil.","The ‘Face on Mars’ is an eroded hill."],
-fun:"Viking’s lander cameras were so slow that each image was scanned line by line over several minutes.",
-tl:"Lumapag sa Mars ang Viking 1 at 2 noong 1976, ang unang matagumpay na paglapag ng Estados Unidos doon. May dala silang mga eksperimento upang maghanap ng mikrobyo sa lupa ng Mars, at gumana ang lander ng Viking 1 nang mahigit anim na taon."});
+fun:"Viking’s lander cameras were so slow that each image was scanned line by line over several minutes."});
 
 ADDART({id:"changeprogram",t:"China’s Chang’e Moon Missions",c:"Space Exploration",i:"🌕",w:"Chinese Lunar Exploration Program",r:["moon","moonbases","tianwen","spaceagencies","chinacountry"],
 p:[["Named after a Moon goddess","Chang’e is the Moon goddess in Chinese mythology."],["First far-side landing","Chang’e 4 made the first landing on the Moon’s far side in 2019."],["Far-side samples","Chang’e 6 brought back the first samples from the far side in 2024."]],
-l:"The Chang’e program is China’s robotic lunar exploration program, named after Chang’e, the goddess of the Moon in Chinese mythology. Its missions have followed a step-by-step plan to orbit, land and return samples. Chang’e 1 (2007) and Chang’e 2 (2010) orbited and mapped the Moon. On 14 December 2013, Chang’e 3 made the first soft landing on the Moon since 1976, deploying the Yutu, or ‘Jade Rabbit’, rover. On 3 January 2019, Chang’e 4 made the first ever landing on the far side of the Moon, in the Von Kármán crater, communicating through a relay satellite called Queqiao; its Yutu-2 rover became the longest-operating lunar rover. Chang’e 5 returned about 1.7 kilograms of lunar samples in December 2020, the first since 1976, revealing volcanic activity more recent than expected. Chang’e 6 landed on the far side in June 2024 and returned about 1.9 kilograms of samples, the first from the far side. Chang’e 7, designed to search for water ice near the lunar south pole with an orbiter, lander, rover and hopper, was planned for launch around 2026, and Chang’e 8 will test technologies for a future lunar research station.",
+l:"The Chang’e program is China’s robotic lunar exploration program, named after Chang’e, the goddess of the Moon in Chinese mythology. Its missions have followed a step-by-step plan to orbit, land and return samples. Chang’e 1 (2007) and Chang’e 2 (2010) orbited and mapped the Moon. On 14 December 2013, Chang’e 3 made the first soft landing on the Moon since 1976, deploying the Yutu, or ‘Jade Rabbit’, rover. On 3 January 2019, Chang’e 4 made the first ever landing on the far side of the Moon, in the Von Kármán crater, communicating through a relay satellite called Queqiao; its Yutu-2 rover became the longest-operating lunar rover. Chang’e 5 returned about 1.7 kilograms of lunar samples in December 2020, the first since 1976, revealing volcanic activity more recent than expected. Chang’e 6 landed on the far side in June 2024 and returned about 1.9 kilograms of samples, the first from the far side. Chang’e 7, designed to search for water ice near the lunar south pole with an orbiter, lander, rover and hopper, was planned for launch in August 2026 but was postponed by bad weather and is now expected in 2027, and Chang’e 8 will test technologies for a future lunar research station.",
 s:[["The far side","The far side of the Moon always faces away from Earth, so a lander there cannot communicate directly. China launched the Queqiao relay satellite to a point beyond the Moon in 2018. Chang’e 4 also grew cotton seeds in a small biosphere, the first plants to sprout on the Moon, though they soon died."],["Yutu-2","The Yutu-2 rover explored the far side for years, traveling more than 1.5 kilometers and studying the soil and rocks. Its radar revealed layers beneath the surface."],["Samples","Chang’e 5’s samples, from Oceanus Procellarum, showed lava flowed there about 2 billion years ago, younger than Apollo samples. Chang’e 6’s far-side samples, from the giant South Pole–Aitken basin, help explain why the near and far sides differ."],["International partners","Chang’e missions have carried instruments from countries including Sweden, Germany, France, Italy and Pakistan. China plans an International Lunar Research Station near the south pole with Russia and other partners, and crewed landings before 2030."]],
 k:[["Named after","Chang’e, the Moon goddess"],["First far-side landing","Chang’e 4, 3 January 2019"],["Chang’e 5 samples","About 1.7 kg (2020)"],["Chang’e 6 samples","About 1.9 kg from the far side (2024)"],["Next mission","Chang’e 7 (south pole)"]],
 d:[["2007","Chang’e 1 orbits the Moon"],["2013","Chang’e 3 lands with the Yutu rover"],["2019","Chang’e 4 lands on the far side"],["2020","Chang’e 5 returns samples"],["2024","Chang’e 6 returns far-side samples"]],
@@ -61,8 +57,7 @@ s2:[["The legend of Chang’e","In the legend, Chang’e drinks an elixir of imm
 sp:["The longest-lived lunar rover","Yutu-2, which landed in 2019, operated far longer than its planned three months, surviving more than 50 lunar nights, each about two weeks of freezing darkness."],
 g:[["Soft landing","A controlled, gentle landing"],["Far side","The side of the Moon facing away from Earth"],["Relay satellite","A satellite that passes on signals"],["Sample return","Bringing material from space to Earth"]],
 f:["Chang’e 4 made the first far-side landing.","Chang’e 6 returned the first far-side samples.","The first plants to sprout on the Moon grew on Chang’e 4."],
-fun:"The cotton seeds aboard Chang’e 4 sprouted in January 2019, making them the first plants ever to grow on the Moon.",
-tl:"Ipinangalan ang Chang’e program kay Chang’e, ang diyosa ng Buwan sa mitolohiyang Tsino. Ginawa ng Chang’e 4 ang unang paglapag sa malayong bahagi ng Buwan noong 2019, at nagdala ang Chang’e 6 ng unang sample mula roon noong 2024."});
+fun:"The cotton seeds aboard Chang’e 4 sprouted in January 2019, making them the first plants ever to grow on the Moon."});
 
 ADDART({id:"lunaprogram",t:"The Soviet Luna Program",c:"Space Exploration",i:"🌑",w:"Luna programme",r:["moon","space","sputnik","marsrovers","apollo"],
 p:[["Many Moon firsts","The Soviet Luna probes achieved many of the first Moon missions."],["First photos of the far side","Luna 3 photographed the Moon’s hidden side in 1959."],["Robots on the Moon","Lunokhod 1 was the first rover on another world."]],
@@ -74,8 +69,7 @@ s2:[["A pennant on the Moon","Luna 2 carried metal pennants with the Soviet coat
 sp:["Luna 15 and Apollo 11","In July 1969, the Soviet Luna 15 was orbiting the Moon at the same time as Apollo 11, attempting to land and collect samples. It crashed into the Moon just hours before Armstrong and Aldrin left the surface."],
 g:[["Soft landing","Landing gently without damage"],["Far side","The hemisphere of the Moon facing away from Earth"],["Rover","A vehicle that drives on another world"],["Sample return","Bringing material from space to Earth"]],
 f:["Luna 2 was the first object to reach the Moon.","Luna 3 first photographed the far side.","Lunokhod 1 was the first rover on another world."],
-fun:"British astronomers at Jodrell Bank decoded Luna 9’s pictures using a newspaper fax machine and published them before the Soviet Union did.",
-tl:"Nakamit ng mga Luna probe ng Unyong Sobyet ang marami sa mga unang misyon sa Buwan. Kinunan ng Luna 3 ang malayong bahagi ng Buwan noong 1959, at ang Lunokhod 1 ang unang rover sa ibang mundo."});
+fun:"British astronomers at Jodrell Bank decoded Luna 9’s pictures using a newspaper fax machine and published them before the Soviet Union did."});
 
 ADDART({id:"dsn",t:"The Deep Space Network",c:"Space Exploration",i:"📡",w:"NASA Deep Space Network",r:["radioastronomy","voyager","radio","australiacountry","spaincountry"],
 p:[["Talking to spacecraft","The Deep Space Network is NASA’s system of giant antennas for communicating with distant probes."],["Three sites","Its antennas are in California, Spain and Australia."],["Always in touch","Together they keep contact as Earth rotates."]],
@@ -87,8 +81,7 @@ s2:[["Daily schedules","Every week, DSN schedulers juggle requests from dozens o
 sp:["Talking to Voyager 2","Voyager 2 is so far south in the sky that only the Canberra complex can send it commands, using its 70-meter antenna. When that dish was upgraded in 2020, Voyager 2 could not receive commands for months."],
 g:[["Antenna","A device for sending or receiving radio waves"],["Downlink","Data sent from a spacecraft to Earth"],["Uplink","Commands sent from Earth to a spacecraft"],["Oversubscribed","Having more demand than capacity"]],
 f:["The DSN has sites in California, Spain and Australia.","Its largest dishes are 70 meters wide.","Voyager 1’s signal takes almost a day to reach Earth."],
-fun:"The signal received from Voyager 1 is about 20 billion times weaker than the power needed to run a digital watch.",
-tl:"Ang Deep Space Network ay sistema ng NASA ng malalaking antenna para makipag-ugnayan sa malalayong spacecraft. Nasa California, Spain at Australia ang mga antenna nito, at magkakasama nilang pinananatili ang ugnayan habang umiikot ang Earth."});
+fun:"The signal received from Voyager 1 is about 20 billion times weaker than the power needed to run a digital watch."});
 
 ADDART({id:"trappist1",t:"TRAPPIST-1",c:"Space and Astronomy",i:"🪐",w:"TRAPPIST-1",r:["exoplanet","reddwarfs","habitablezone","jwst","astrobio"],
 p:[["Seven Earth-sized planets","TRAPPIST-1 is a small star with seven rocky planets."],["Close and compact","All seven orbit closer to their star than Mercury does to the Sun."],["Searching for atmospheres","The James Webb Space Telescope is studying them for air."]],
@@ -100,8 +93,7 @@ s2:[["Named after a beer?","The TRAPPIST telescope’s name stands for Transitin
 sp:["Planets close together","The TRAPPIST-1 planets pass so close to one another that they tug on each other’s orbits, changing the timing of their transits. Astronomers use these timing changes to measure the planets’ masses."],
 g:[["Red dwarf","A small, cool star"],["Transit","A planet passing in front of its star"],["Tidally locked","Always showing the same face to the star"],["Resonance","A regular relationship between orbits"]],
 f:["TRAPPIST-1 has seven rocky planets.","Its planets orbit closer than Mercury does to the Sun.","TRAPPIST-1 is older than the Sun."],
-fun:"A year on TRAPPIST-1b lasts only about 36 hours.",
-tl:"Ang TRAPPIST-1 ay maliit na bituin na may pitong mabatong planeta. Mas malapit ang orbit ng lahat ng pito sa bituin nito kaysa sa Mercury sa Araw, at pinag-aaralan ng James Webb Space Telescope kung may hangin ang mga ito."});
+fun:"A year on TRAPPIST-1b lasts only about 36 hours."});
 
 ADDART({id:"habitablezone",t:"The Habitable Zone",c:"Space and Astronomy",i:"🌍",w:"Habitable zone",r:["exoplanet","astrobio","venus","mars","keplertelescope"],
 p:[["The ‘Goldilocks zone’","The habitable zone is the region around a star where liquid water could exist on a planet."],["Not too hot, not too cold","Earth lies inside the Sun’s habitable zone."],["Only a starting point","Being in the zone does not guarantee a planet can support life."]],
@@ -113,8 +105,7 @@ s2:[["Galactic habitable zone","Some scientists suggest there is also a galactic
 sp:["Goldilocks","The nickname comes from the fairy tale ‘Goldilocks and the Three Bears’, in which a girl chooses porridge that is ‘just right’, neither too hot nor too cold."],
 g:[["Habitable zone","Where a planet could have liquid surface water"],["Exoplanet","A planet around another star"],["Runaway greenhouse effect","Uncontrolled heating from trapped heat"],["Tidal heating","Heat produced by gravitational squeezing"]],
 f:["Earth lies in the Sun’s habitable zone.","Red dwarfs have habitable zones very close to them.","Being in the zone does not guarantee life."],
-fun:"If Earth were about 5 percent closer to the Sun, some scientists think it could have suffered a runaway greenhouse effect like Venus.",
-tl:"Ang habitable zone ay rehiyon sa paligid ng bituin kung saan maaaring magkaroon ng likidong tubig ang isang planeta. Nasa loob ng habitable zone ng Araw ang Earth, ngunit hindi tiyak na may buhay ang planeta dahil lamang nasa zone ito."});
+fun:"If Earth were about 5 percent closer to the Sun, some scientists think it could have suffered a runaway greenhouse effect like Venus."});
 
 ADDART({id:"reddwarfs",t:"Red Dwarfs",c:"Space and Astronomy",i:"🔴",w:"Red dwarf",r:["stars","alphacentauri","trappist1","habitablezone","browndwarfs"],
 p:[["The most common stars","Red dwarfs make up about three-quarters of the stars in the Milky Way."],["Small and dim","None can be seen with the naked eye from Earth."],["Almost eternal","They can shine for trillions of years."]],
@@ -126,8 +117,7 @@ s2:[["Barnard’s Star","Barnard’s Star, about 6 light-years away, moves faste
 sp:["Too dim to see","Even Proxima Centauri, the nearest star, is about 100 times too faint to see without a telescope. Its bright neighbors, Alpha Centauri A and B, are Sun-like stars."],
 g:[["Red dwarf","A small, cool, long-lived star"],["Flare star","A star that brightens suddenly with flares"],["Convection","Heat transfer by moving material"],["White dwarf","The dense core left after a star dies"]],
 f:["Red dwarfs are about 75% of the stars in the Milky Way.","The nearest star, Proxima Centauri, is a red dwarf.","No red dwarf has yet died of old age."],
-fun:"The universe is not yet old enough for any red dwarf to have run out of fuel.",
-tl:"Ang red dwarf ang pinakakaraniwang uri ng bituin, mga tatlong-kapat ng mga bituin sa Milky Way. Maliit at malamlam ang mga ito, walang nakikita ng mata lamang, at maaaring magliwanag nang trilyun-trilyong taon."});
+fun:"The universe is not yet old enough for any red dwarf to have run out of fuel."});
 
 ADDART({id:"starformation",t:"How Stars Are Born",c:"Space and Astronomy",i:"⭐",w:"Star formation",r:["nebula","stars","jwst","solarform","grav"],
 p:[["Born in clouds","Stars form inside cold, dense clouds of gas and dust."],["Gravity pulls together","Clumps collapse and heat up until nuclear fusion begins."],["Planets too","Disks around young stars give birth to planets."]],
@@ -139,8 +129,7 @@ s2:[["Massive stars","Massive stars form more quickly and burn brightly for only
 sp:["Herbig–Haro objects","Jets shot out from young stars smash into surrounding gas, creating glowing knots called Herbig–Haro objects, named after astronomers George Herbig and Guillermo Haro."],
 g:[["Molecular cloud","A cold, dense cloud where stars form"],["Protostar","A young star still gathering mass"],["Protoplanetary disk","A disk of gas and dust around a young star"],["Nebula","A cloud of gas and dust in space"]],
 f:["Stars form in cold clouds of gas and dust.","Fusion begins at about 10 million degrees.","The Orion Nebula is a stellar nursery."],
-fun:"The Sun was probably born in a cluster with thousands of sibling stars, which have since scattered across the Milky Way.",
-tl:"Nabubuo ang mga bituin sa loob ng malalamig at makakapal na ulap ng gas at alikabok. Bumabagsak at umiinit ang mga kumpol dahil sa grabidad hanggang magsimula ang nuclear fusion, at nagsisilang din ng mga planeta ang disk sa paligid ng batang bituin."});
+fun:"The Sun was probably born in a cluster with thousands of sibling stars, which have since scattered across the Milky Way."});
 
 ADDART({id:"fateuniverse",t:"The Fate of the Universe",c:"Space and Astronomy",i:"♾️",w:"Ultimate fate of the universe",r:["bigbang","darkmatter","hubble","bh","cmb"],
 p:[["How will it end?","Scientists study whether the universe will expand forever, tear apart or collapse."],["Dark energy decides","The mysterious dark energy driving expansion will shape the future."],["Unimaginably far off","Any end would come many billions of years from now."]],
@@ -152,8 +141,7 @@ s2:[["Einstein’s ‘biggest blunder’","Einstein added a ‘cosmological cons
 sp:["Vacuum decay","A more speculative idea is ‘vacuum decay’: if the universe is not in its most stable state, a bubble of a more stable state could form and expand at the speed of light, changing the laws of physics. Physicists consider it very unlikely in any foreseeable time."],
 g:[["Cosmology","The study of the universe as a whole"],["Dark energy","A mysterious force driving accelerating expansion"],["Heat death","A state of no usable energy"],["Hawking radiation","Radiation slowly emitted by black holes"]],
 f:["The universe’s expansion is accelerating.","Dark energy makes up about 68% of the universe.","Black holes may evaporate after about 10¹⁰⁰ years."],
-fun:"In the far future, astronomers in our galaxy may see no other galaxies at all, because all others will have been carried out of view by expansion.",
-tl:"Pinag-aaralan ng mga siyentipiko kung lalawak magpakailanman, mapupunit o babagsak ang uniberso. Ang mahiwagang dark energy ang magpapasya rito, at mangyayari ang anumang wakas makalipas pa ang maraming bilyong taon."});
+fun:"In the far future, astronomers in our galaxy may see no other galaxies at all, because all others will have been carried out of view by expansion."});
 
 ADDART({id:"groundtelescopes",t:"Giant Ground Telescopes",c:"Space and Astronomy",i:"🔭",w:"Extremely large telescope",r:["scope","jwst","lightpollution","hawaii","chilecountry"],
 p:[["Bigger mirrors, deeper views","Giant telescopes collect more light to see faint, distant objects."],["High and dry","They are built on mountaintops in Chile, Hawaii and the Canary Islands."],["The next giants","The Extremely Large Telescope, with a 39-meter mirror, is being built in Chile."]],
@@ -165,8 +153,7 @@ s2:[["The Rubin camera","The Rubin Observatory’s camera has 3,200 megapixels; 
 sp:["Why mirrors, not lenses","Large telescopes use mirrors rather than lenses because big lenses sag under their own weight and bend different colors differently. Mirrors can be supported from behind and made in segments."],
 g:[["Primary mirror","The main light-collecting mirror"],["Adaptive optics","Technology that corrects atmospheric blurring"],["Segmented mirror","A mirror made of many smaller pieces"],["First light","A telescope’s first observation"]],
 f:["The ELT’s mirror will be 39 meters wide.","Adaptive optics uses lasers to sharpen images.","The Rubin Observatory has the largest digital camera ever built."],
-fun:"The ELT will be able to collect about 100 million times more light than the human eye.",
-tl:"Mas maraming liwanag ang nakokolekta ng malalaking teleskopyo upang makita ang malalayo at malalamlam na bagay. Itinatayo ang mga ito sa tuktok ng bundok sa Chile, Hawaii at Canary Islands, at itinatayo ngayon sa Chile ang Extremely Large Telescope na may 39-metrong salamin."});
+fun:"The ELT will be able to collect about 100 million times more light than the human eye."});
 
 ADDART({id:"orbits",t:"Orbits and Orbital Mechanics",c:"Space Exploration",i:"🌀",w:"Orbit",r:["grav","keplerlaws","sat","lagrange","newton"],
 p:[["Always falling","An orbit is a path in which an object constantly falls around a planet or star."],["Kepler and Newton","Kepler described orbits; Newton explained them with gravity."],["Kinds of orbits","Satellites use low, medium, geostationary and polar orbits."]],
@@ -178,8 +165,7 @@ s2:[["Newton’s cannonball","In his thought experiment, Newton imagined a canno
 sp:["Why astronauts float","Astronauts on the ISS are not beyond Earth’s gravity, which is still about 90 percent as strong there. They float because they and their spacecraft are falling together around Earth."],
 g:[["Orbit","A curved path around a body due to gravity"],["Ellipse","An oval shape"],["Escape velocity","The speed needed to leave a body’s gravity"],["Geostationary","Orbiting at the same rate Earth rotates"]],
 f:["Orbiting objects are constantly falling.","The ISS orbits Earth every 90 minutes.","To catch up in orbit, you slow down."],
-fun:"Gravity on the International Space Station is still about 90 percent as strong as on Earth’s surface; astronauts float because they are in free fall.",
-tl:"Ang orbit ay landas kung saan patuloy na bumabagsak ang isang bagay paikot sa planeta o bituin. Inilarawan ni Kepler ang mga orbit at ipinaliwanag ito ni Newton gamit ang grabidad, at gumagamit ang mga satellite ng iba’t ibang uri ng orbit."});
+fun:"Gravity on the International Space Station is still about 90 percent as strong as on Earth’s surface; astronauts float because they are in free fall."});
 
 ADDART({id:"rocketengines",t:"Rocket Engines",c:"Space Exploration",i:"🔥",w:"Rocket engine",r:["rocket","saturnv","starship","ionengines","jetengine"],
 p:[["Pushing by throwing","Rocket engines push forward by blasting hot gas backward."],["Carrying their own oxygen","Unlike jet engines, rockets work in the vacuum of space."],["Solid, liquid and more","Engines burn solid propellant, liquid fuels or use electricity."]],
@@ -191,5 +177,4 @@ s2:[["Goddard and the New York Times","In 1920, The New York Times mocked Robert
 sp:["The rocket equation","Tsiolkovsky’s rocket equation shows that a rocket’s change in speed depends on its exhaust speed and how much of its mass is propellant. Because of it, most of a rocket’s launch mass must be fuel, which is why rockets have stages."],
 g:[["Thrust","The force that pushes a rocket"],["Oxidizer","A chemical that supplies oxygen for burning"],["Turbopump","A pump driven by a turbine that feeds propellant"],["Nozzle","The bell-shaped exit that accelerates exhaust"]],
 f:["Rockets carry their own oxygen.","Goddard launched the first liquid-fueled rocket in 1926.","Most of a rocket’s mass is propellant."],
-fun:"Robert Goddard’s first liquid-fueled rocket flew for just 2.5 seconds and reached a height of about 12.5 meters, landing in a cabbage field.",
-tl:"Itinutulak ng rocket engine ang sasakyan pasulong sa pamamagitan ng pagbubuga ng mainit na gas paatras. Hindi tulad ng jet engine, may dala itong sariling oxygen kaya gumagana ito sa kalawakan."});
+fun:"Robert Goddard’s first liquid-fueled rocket flew for just 2.5 seconds and reached a height of about 12.5 meters, landing in a cabbage field."});

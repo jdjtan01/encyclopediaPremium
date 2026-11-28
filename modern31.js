@@ -9,8 +9,7 @@ s2:[["Burrows as shelters","During the 2019–20 Australian bushfires, stories s
 sp:["The northern hairy-nosed wombat","One of the world’s rarest mammals, the northern hairy-nosed wombat lives mainly in Epping Forest National Park in Queensland, protected by a fence 20 kilometers long to keep out wild dogs."],
 g:[["Marsupial","A mammal that raises its young in a pouch"],["Burrow","A tunnel dug as a home"],["Metabolism","The chemical processes that use energy in the body"],["Mange","A skin disease caused by mites"]],
 f:["Wombats produce cube-shaped droppings.","A wombat’s pouch opens backward.","Wombats block burrows with their hard rear ends."],
-fun:"A wombat can produce about 80 to 100 small cubes of poo in a single night.",
-tl:"Ang wombat ay matipunong marsupial mula sa Australia na mahusay humukay ng lungga. Ito lamang ang hayop na kilalang naglalabas ng dumi na hugis-kubo, at paatras ang pagkakabukas ng supot nito."});
+fun:"A wombat can produce about 80 to 100 small cubes of poo in a single night."});
 
 ADDART({id:"narwhals",t:"Narwhals",c:"Animals and Nature",i:"🦄",w:"Narwhal",r:["whale","arctic","climchange","inuit","seals"],
 p:[["Unicorns of the sea","Narwhals are Arctic whales; males usually have a long spiral tusk."],["The tusk is a tooth","The tusk is an enormously long tooth with millions of nerve endings."],["Deep divers","Narwhals dive to more than 1,500 meters under Arctic ice."]],
@@ -22,8 +21,7 @@ s2:[["Unicorn horns","Medieval Europeans believed powdered ‘unicorn horn’ co
 sp:["Narwhal songs","Narwhals communicate with clicks, whistles and knocking sounds and use echolocation to find prey under the ice. Their sounds can travel for kilometers through the water."],
 g:[["Tusk","A long, protruding tooth"],["Pod","A group of whales"],["Echolocation","Finding objects by sending out sound and hearing echoes"],["Myoglobin","A protein that stores oxygen in muscles"]],
 f:["The narwhal’s tusk is a tooth.","Narwhal tusks were sold as unicorn horns.","Narwhals can dive deeper than 1,500 meters."],
-fun:"The name narwhal comes from Old Norse words meaning ‘corpse whale’, possibly because of its mottled gray skin.",
-tl:"Ang narwhal ay balyena sa Arctic na kadalasang may mahabang paikot na pangil sa mga lalaki. Ang pangil ay talagang ngipin na may milyon-milyong ugat, at sumisisid ang narwhal nang mahigit 1,500 metro."});
+fun:"The name narwhal comes from Old Norse words meaning ‘corpse whale’, possibly because of its mottled gray skin."});
 
 ADDART({id:"lobsters",t:"Lobsters",c:"Animals and Nature",i:"🦞",w:"Lobster",r:["crustacean","atlantic","fish","animaltesting","oceancurrents"],
 p:[["Armored sea animals","Lobsters are large crustaceans with hard shells and ten legs."],["Long-lived","Some lobsters live for more than 50 years."],["From cheap food to luxury","Lobster was once fed to prisoners but is now an expensive delicacy."]],
@@ -35,8 +33,7 @@ s2:[["Are lobsters immortal?","A popular internet myth claims lobsters never die
 sp:["Lobster pots","Lobsters are usually caught in baited traps called pots, lowered to the seafloor on ropes. Escape gaps let small lobsters leave, and in Maine, fishers notch the tails of egg-bearing females, which must then be released if caught again."],
 g:[["Crustacean","An animal with a hard shell and jointed legs, like a crab"],["Molting","Shedding an old shell to grow"],["Carapace","The shell covering the head and thorax"],["Sentient","Able to have feelings such as pain"]],
 f:["Lobster blood is bluish.","Lobsters turn red when cooked.","About one in two million lobsters is blue."],
-fun:"Lobsters taste with their legs and smell with tiny hairs on their antennae.",
-tl:"Ang lobster ay malaking crustacean sa dagat na may matigas na balat at sampung paa. Ang ilan ay nabubuhay nang mahigit 50 taon, at dating pagkain ng mga bilanggo bago naging mamahaling pagkain."});
+fun:"Lobsters taste with their legs and smell with tiny hairs on their antennae."});
 
 ADDART({id:"reindeer",t:"Reindeer and Caribou",c:"Animals and Nature",i:"🦌",w:"Reindeer",r:["deer","arctic","tundra","finlandcountry","birdmigr"],
 p:[["One species, two names","Reindeer in Europe and Asia and caribou in North America are the same species."],["Both sexes grow antlers","They are the only deer in which females usually grow antlers."],["Herded for thousands of years","Arctic peoples such as the Sámi herd reindeer for food and transport."]],
@@ -48,8 +45,7 @@ s2:[["Santa’s reindeer","The poem ‘A Visit from St. Nicholas’ (1823) gave 
 sp:["The Sámi","The Sámi are the Indigenous people of northern Scandinavia and Russia’s Kola Peninsula. In Norway and Sweden, reindeer herding is legally reserved mainly for Sámi people, and herding families have their own earmarks to identify their animals."],
 g:[["Tundra","Cold, treeless land in the far north"],["Antler","A bony growth shed and regrown each year"],["Lichen","A partnership of fungus and algae"],["Semi-domesticated","Partly tamed but living mostly free"]],
 f:["Reindeer and caribou are the same species.","Female reindeer grow antlers.","Reindeer eyes change color in winter."],
-fun:"Reindeer can see ultraviolet light, which makes white wolves and urine trails stand out clearly against the snow.",
-tl:"Ang reindeer, na tinatawag na caribou sa Hilagang Amerika, ay usang naangkop sa malamig na Arctic. Ito lamang ang usa kung saan may sungay rin ang babae, at pinapastol ito ng mga Sámi at iba pang taga-Arctic."});
+fun:"Reindeer can see ultraviolet light, which makes white wolves and urine trails stand out clearly against the snow."});
 
 ADDART({id:"llamas",t:"Llamas and Alpacas",c:"Animals and Nature",i:"🦙",w:"Llama",r:["camel","andes","perucountry","inca","domestication"],
 p:[["Camels of the Andes","Llamas and alpacas are South American relatives of camels."],["Domesticated long ago","People domesticated them in the Andes thousands of years ago."],["Wool and work","Alpacas are raised for soft fiber; llamas mainly carry loads."]],
@@ -61,8 +57,7 @@ s2:[["Guard llamas","Farmers in North America, Australia and elsewhere use llama
 sp:["Spitting","Llamas and alpacas spit mainly to settle arguments with each other over food or rank. The ‘spit’ is a smelly mix of saliva and partly digested grass from their stomachs. They rarely spit at people unless mistreated."],
 g:[["Camelid","A member of the camel family"],["Fleece","The wool coat of an animal"],["Pack animal","An animal used to carry loads"],["Antibody","A protein that helps fight infection"]],
 f:["Llamas and alpacas are relatives of camels.","Alpacas were bred for fiber and llamas for carrying loads.","Llamas are used to guard sheep."],
-fun:"Llamas and alpacas share communal dung piles, which makes them easy to house-train.",
-tl:"Ang llama at alpaca ay mga kamag-anak ng kamelyo mula sa Andes sa Timog Amerika. Inalagaan ang mga ito libu-libong taon na ang nakalipas; pangunahing tagadala ng karga ang llama, habang pinalalaki ang alpaca para sa malambot na balahibo."});
+fun:"Llamas and alpacas share communal dung piles, which makes them easy to house-train."});
 
 ADDART({id:"okapis",t:"Okapis",c:"Animals and Nature",i:"🦓",w:"Okapi",r:["giraffe","drccountry","leopold2","conservation","zebras"],
 p:[["The forest giraffe","The okapi looks part zebra, but it is the giraffe’s only living relative."],["Discovered in 1901","Western scientists described it only in 1901."],["Endangered","Okapis live only in the rainforests of the Democratic Republic of the Congo."]],
@@ -74,8 +69,7 @@ s2:[["A national symbol","The okapi is a national symbol of the Democratic Repub
 sp:["A long tongue","An okapi’s tongue is about 30–45 centimeters long. It uses it to strip leaves from branches and to clean its eyes and ears."],
 g:[["Ossicone","A skin-covered horn on giraffes and okapis"],["Prehensile","Able to grasp"],["Camera trap","A camera triggered by passing animals"],["Endangered","At high risk of extinction"]],
 f:["The okapi is the giraffe’s only living relative.","Okapis were described by scientists only in 1901.","An okapi can lick its own ears."],
-fun:"Okapis communicate with infrasound, sounds too low for humans to hear, which helps mothers and calves stay in touch in the forest.",
-tl:"Ang okapi ay mukhang may bahagi ng zebra ngunit ito lamang ang buhay na kamag-anak ng giraffe. Inilarawan ito ng mga Kanluraning siyentipiko noong 1901 lamang at nanganganib na ngayon sa mga gubat ng Congo."});
+fun:"Okapis communicate with infrasound, sounds too low for humans to hear, which helps mothers and calves stay in touch in the forest."});
 
 ADDART({id:"pufferfish",t:"Pufferfish",c:"Animals and Nature",i:"🐡",w:"Tetraodontidae",r:["fishes","coral","poisonousplants","japancountry","seahorse"],
 p:[["Balloon fish","Pufferfish inflate themselves with water to scare predators."],["Deadly poison","Many contain tetrodotoxin, one of the strongest natural poisons."],["A risky delicacy","In Japan, specially licensed chefs prepare puffer, called fugu."]],
@@ -87,8 +81,7 @@ s2:[["Cook’s close call","During Captain James Cook’s second voyage in 1774,
 sp:["Dolphins and puffers","Dolphins have been filmed gently chewing pufferfish and passing them around, apparently becoming dazed by small amounts of toxin. Scientists debate whether they do it deliberately."],
 g:[["Tetrodotoxin","A deadly nerve poison found in pufferfish"],["Brackish","Slightly salty water, like in estuaries"],["Antidote","A medicine that counteracts a poison"],["Fugu","Japanese name for pufferfish as food"]],
 f:["Pufferfish inflate with water to scare predators.","Tetrodotoxin has no antidote.","Male pufferfish sculpt circles in the sand."],
-fun:"A single pufferfish can contain enough tetrodotoxin to kill about 30 adult people.",
-tl:"Ang pufferfish ay lumolobo sa pamamagitan ng paglunok ng tubig upang takutin ang mga kaaway. Marami sa mga ito ang may tetrodotoxin, isa sa pinakamalakas na lason sa kalikasan, ngunit niluluto ito ng mga lisensyadong chef sa Japan bilang fugu."});
+fun:"A single pufferfish can contain enough tetrodotoxin to kill about 30 adult people."});
 
 ADDART({id:"puffins",t:"Puffins",c:"Animals and Nature",i:"🐧",w:"Puffin",r:["birds","albatross","iceland","norwaycountry","climchange"],
 p:[["Colorful seabirds","Puffins are seabirds with bright, triangular beaks in breeding season."],["Expert divers","They ‘fly’ underwater with their wings to catch small fish."],["Cliff-top burrows","Puffins nest in burrows on islands and sea cliffs."]],
@@ -100,8 +93,7 @@ s2:[["Puffling patrols","In the Westman Islands of Iceland, young pufflings flyi
 sp:["Clowns of the sea","Puffins’ colorful beaks, orange feet and waddling walk have earned them nicknames such as ‘clowns of the sea’ and ‘sea parrots’. A group of puffins is sometimes called a circus or an improbability."],
 g:[["Auk","A family of diving seabirds"],["Colony","A large group of animals nesting together"],["Puffling","A young puffin"],["Incubate","To keep eggs warm until they hatch"]],
 f:["Puffins can carry dozens of fish in their beaks.","Puffin beaks glow under ultraviolet light.","Iceland has about half of all Atlantic puffins."],
-fun:"Puffins flap their wings up to 400 times a minute and can fly at about 80 kilometers per hour.",
-tl:"Ang puffin ay ibong-dagat na may matingkad at tatsulok na tuka tuwing panahon ng pagpaparami. Lumalangoy ito na parang lumilipad sa ilalim ng tubig upang manghuli ng isda at namumugad sa mga lungga sa isla at bangin."});
+fun:"Puffins flap their wings up to 400 times a minute and can fly at about 80 kilometers per hour."});
 
 ADDART({id:"kiwis",t:"Kiwi Birds",c:"Animals and Nature",i:"🥝",w:"Kiwi (bird)",r:["birds","nzcountry","ostrich","invasiveplants","conservation"],
 p:[["Flightless birds","Kiwi are small, flightless birds found only in New Zealand."],["Huge eggs","A kiwi egg can be about 20 percent of the mother’s weight."],["National symbol","New Zealanders are nicknamed ‘Kiwis’ after the bird."]],
@@ -113,8 +105,7 @@ s2:[["Elephant bird cousins","A 2014 DNA study found that the kiwi’s closest r
 sp:["Kiwi sanctuaries","Fenced sanctuaries such as Zealandia in Wellington keep out predators, letting kiwi and other native birds live safely. Since 2022, kiwi have been released into hills around Wellington, where community groups trap predators."],
 g:[["Flightless","Unable to fly"],["Incubate","To keep eggs warm until they hatch"],["Stoat","A small predatory mammal related to weasels"],["Taonga","A Māori word for a treasure"]],
 f:["Kiwi have nostrils at the tip of their beaks.","Kiwi lay the largest eggs for their size of any bird.","Kiwi are found only in New Zealand."],
-fun:"Kiwi are so unusual for birds, with hair-like feathers and whiskers, that they are sometimes called ‘honorary mammals’.",
-tl:"Ang kiwi ay maliit na ibong hindi lumilipad na matatagpuan lamang sa New Zealand. Napakalaki ng itlog nito kumpara sa katawan, at tinatawag na ‘Kiwis’ ang mga taga-New Zealand bilang parangal dito."});
+fun:"Kiwi are so unusual for birds, with hair-like feathers and whiskers, that they are sometimes called ‘honorary mammals’."});
 
 ADDART({id:"cicadas",t:"Cicadas",c:"Animals and Nature",i:"🦗",w:"Cicada",r:["insect","metamorph","sound","trees","animalbehavior"],
 p:[["Loud insects","Male cicadas make some of the loudest sounds of any insect."],["Underground lives","Young cicadas live underground for years, sucking sap from roots."],["Periodical swarms","Some North American cicadas emerge in vast numbers every 13 or 17 years."]],
@@ -126,8 +117,7 @@ s2:[["Why prime numbers?","Thirteen and 17 are prime numbers, divisible only by 
 sp:["Emergence","On spring nights, cicada nymphs crawl out of holes in the ground, climb tree trunks and split open their skins. The soft, pale adults pump blood into their wings and harden over a few hours, leaving empty shells clinging to bark."],
 g:[["Tymbal","A drum-like sound organ in cicadas"],["Nymph","A young insect that looks somewhat like an adult"],["Brood","A group of cicadas that emerge in the same year"],["Prime number","A number divisible only by itself and 1"]],
 f:["Cicadas can be as loud as a motorcycle.","Periodical cicadas live underground for 13 or 17 years.","Cicadas neither bite nor sting."],
-fun:"In some periodical cicada emergences, there can be more than a million cicadas per acre of land.",
-tl:"Ang cicada ay insektong kilala sa malakas na huni tuwing tag-init. Nabubuhay ang mga batang cicada sa ilalim ng lupa nang ilang taon, at may mga uri sa Hilagang Amerika na sabay-sabay lumalabas tuwing 13 o 17 taon."});
+fun:"In some periodical cicada emergences, there can be more than a million cicadas per acre of land."});
 
 ADDART({id:"tomatoes",t:"Tomatoes",c:"Food and Agriculture",i:"🍅",w:"Tomato",r:["fruits","perucountry","mexicocountry","potato","explor"],
 p:[["A fruit used as a vegetable","Botanically, tomatoes are berries."],["From the Americas","Tomatoes were domesticated in Mexico from wild plants of the Andes."],["Once feared","Many Europeans once thought tomatoes were poisonous."]],
@@ -139,8 +129,7 @@ s2:[["La Tomatina","Every August, the town of Buñol in Spain holds La Tomatina,
 sp:["The Flavr Savr","In 1994, the Flavr Savr tomato, engineered to soften more slowly, became the first genetically modified whole food sold in stores. It was not a commercial success and was withdrawn after a few years."],
 g:[["Nightshade family","A plant family including tomatoes, potatoes and peppers"],["Berry","A fleshy fruit with seeds inside"],["Heirloom","An old variety passed down through generations"],["Lycopene","The red pigment in tomatoes"]],
 f:["Tomatoes are botanically berries.","The US Supreme Court ruled tomatoes are vegetables.","Tomato leaves are toxic."],
-fun:"The early Italian name for the tomato, pomodoro, means ‘golden apple’, because the first tomatoes in Italy were probably yellow.",
-tl:"Ang kamatis ay prutas na ginagamit bilang gulay at nagmula sa Amerika. Inalagaan ito sa Mexico mula sa mga ligaw na halaman ng Andes, at minsang inakala ng mga Europeo na nakalalason ito."});
+fun:"The early Italian name for the tomato, pomodoro, means ‘golden apple’, because the first tomatoes in Italy were probably yellow."});
 
 ADDART({id:"apples",t:"Apples",c:"Food and Agriculture",i:"🍎",w:"Apple",r:["fruits","roses","silk","newton","grapes"],
 p:[["A fruit from Central Asia","Apples come from wild forests in Kazakhstan."],["Thousands of varieties","There are more than 7,500 apple varieties."],["Grown by grafting","Apple trees do not grow true from seed, so varieties are copied by grafting."]],
@@ -152,8 +141,7 @@ s2:[["Granny Smith","The Granny Smith apple grew from a chance seedling found by
 sp:["Wild apple forests","The wild apple forests of the Tian Shan mountains in Kazakhstan contain trees with fruit of many sizes, colors and flavors. Scientists study them for genes that could make apples more resistant to disease and climate change."],
 g:[["Grafting","Joining a cutting from one plant onto the roots of another"],["Rootstock","The root part of a grafted tree"],["Variety","A distinct type of a plant"],["Orchard","A planting of fruit trees"]],
 f:["Apples belong to the rose family.","Apples come from wild forests in Kazakhstan.","Apple trees do not grow true from seed."],
-fun:"Apples float in water because about a quarter of their volume is air, which makes the game of bobbing for apples possible.",
-tl:"Ang mansanas ay nagmula sa mga ligaw na gubat sa Kazakhstan at may mahigit 7,500 uri. Hindi tumutubo nang pareho sa magulang ang punla nito, kaya kinokopya ang mga uri sa pamamagitan ng grafting."});
+fun:"Apples float in water because about a quarter of their volume is air, which makes the game of bobbing for apples possible."});
 
 ADDART({id:"bananas",t:"Bananas",c:"Food and Agriculture",i:"🍌",w:"Banana",r:["fruits","fungi","trade","cloning","gmos"],
 p:[["The world’s favorite fruit","Bananas are among the most eaten fruits on Earth."],["Clones","Nearly all export bananas are genetically identical Cavendish clones."],["A disease threat","A fungus called Panama disease threatens banana farms worldwide."]],
@@ -165,8 +153,7 @@ s2:[["Radioactive bananas","Bananas contain potassium, a small part of which is 
 sp:["Plantains","Plantains are starchy bananas eaten cooked: boiled, fried or mashed. In countries such as Uganda, where people eat some of the most bananas in the world, the word for food is closely linked to cooked bananas called matooke."],
 g:[["Clone","A genetically identical copy"],["Corm","An underground stem that stores food"],["Plantain","A starchy cooking banana"],["Herbaceous","Having a soft, non-woody stem"]],
 f:["Banana plants are not trees.","Most export bananas are Cavendish clones.","Bananas are slightly radioactive."],
-fun:"Botanically, bananas are berries, while strawberries are not.",
-tl:"Ang saging ay isa sa pinakakinakaing prutas sa mundo at nagmula sa Timog-silangang Asya. Halos lahat ng iniluluwas na saging ay magkakaparehong Cavendish clone, at banta sa mga ito ang fungus na tinatawag na Panama disease."});
+fun:"Botanically, bananas are berries, while strawberries are not."});
 
 ADDART({id:"citrus",t:"Citrus Fruits",c:"Food and Agriculture",i:"🍊",w:"Citrus",r:["fruits","vitamins","sailing","china","indiacountry"],
 p:[["Oranges, lemons and limes","Citrus fruits include oranges, lemons, limes, grapefruits and mandarins."],["Ancient hybrids","Most citrus are hybrids of a few wild ancestors from Asia."],["Fighting scurvy","Citrus juice helped sailors prevent scurvy."]],
@@ -178,8 +165,7 @@ s2:[["Why oranges are orange","In tropical countries, ripe oranges often stay gr
 sp:["Buddha’s hand","Buddha’s hand is a type of citron whose fruit splits into long finger-like segments with almost no pulp. It is valued in China and Japan for its fragrance and is used in temple offerings."],
 g:[["Hybrid","The offspring of two different species or varieties"],["Scurvy","A disease caused by lack of vitamin C"],["Rind","The tough outer skin of a fruit"],["Pectin","A substance from fruit used to thicken jams"]],
 f:["Sweet oranges are hybrids of pomelo and mandarin.","Citrus juice prevents scurvy.","All navel oranges come from one Brazilian tree."],
-fun:"Lemons float in water but limes usually sink, because limes are slightly denser.",
-tl:"Kabilang sa citrus ang dalandan, lemon, dayap, suha at mandarin. Karamihan sa mga ito ay hybrid ng ilang ligaw na ninuno mula sa Asya, at nakatulong ang katas ng citrus upang maiwasan ng mga marino ang scurvy."});
+fun:"Lemons float in water but limes usually sink, because limes are slightly denser."});
 
 ADDART({id:"chilies",t:"Chili Peppers",c:"Food and Agriculture",i:"🌶️",w:"Chili pepper",r:["spice","mexicocountry","tomatoes","indiacountry","explor"],
 p:[["Hot fruits","Chili peppers get their heat from a chemical called capsaicin."],["From the Americas","Chilies were domesticated in Mexico about 6,000 years ago."],["Spread worldwide","After 1492, chilies quickly became central to Asian and African cooking."]],
@@ -191,8 +177,7 @@ s2:[["Why ‘pepper’?","Columbus was searching for black pepper, a valuable sp
 sp:["Bell peppers","Bell peppers, also called capsicums or sweet peppers, belong to the same species as many hot chilies but have a gene that stops them making capsaicin, so they rate zero on the Scoville scale."],
 g:[["Capsaicin","The chemical that makes chilies hot"],["Scoville heat unit","A measure of chili heat"],["Receptor","A protein that detects a signal"],["Paprika","A spice made from dried red peppers"]],
 f:["Birds cannot taste the heat of chilies.","Milk cools chili burn better than water.","India produces the most chilies."],
-fun:"The Bhut Jolokia, or ghost pepper, became so famous for its heat that the Indian army tested it for use in smoke grenades.",
-tl:"Ang sili ay nakakakuha ng anghang mula sa kemikal na capsaicin. Inalagaan ito sa Mexico mga 6,000 taon na ang nakalipas, at matapos ang 1492 ay naging mahalaga ito sa lutuing Asyano at Aprikano."});
+fun:"The Bhut Jolokia, or ghost pepper, became so famous for its heat that the Indian army tested it for use in smoke grenades."});
 
 ADDART({id:"onions",t:"Onions and Garlic",c:"Food and Agriculture",i:"🧅",w:"Allium",r:["spice","egypt","medicinalplants","plantbased","vitamins"],
 p:[["The allium family","Onions, garlic, leeks and chives belong to the genus Allium."],["Ancient foods","Onions and garlic were eaten in ancient Egypt and Mesopotamia."],["Tears and smell","Sulfur chemicals give them their strong flavors and make us cry."]],
@@ -204,5 +189,4 @@ s2:[["The tearless onion","In 2002, Japanese scientists identified the enzyme th
 sp:["Garlic breath","Garlic breath lasts because sulfur compounds such as allyl methyl sulfide are absorbed into the blood and released through the lungs and skin for hours. Eating raw apples, lettuce or mint can reduce the smell."],
 g:[["Allium","The plant group including onions and garlic"],["Bulb","An underground bud with food-storing layers"],["Clove","One segment of a garlic bulb"],["Enzyme","A protein that speeds up chemical reactions"]],
 f:["Onions and garlic are toxic to dogs and cats.","China grows about three-quarters of the world’s garlic.","Garlic was placed in Tutankhamun’s tomb."],
-fun:"Chives, leeks and onions all belong to the same genus, and their flowers, which form round purple or white balls, are edible.",
-tl:"Ang sibuyas, bawang, leeks at chives ay kabilang sa genus na Allium. Kinain na ang mga ito sa sinaunang Egypt, at ang mga kemikal na may sulfur ang nagbibigay ng matapang na lasa at nagpapaluha sa atin."});
+fun:"Chives, leeks and onions all belong to the same genus, and their flowers, which form round purple or white balls, are edible."});

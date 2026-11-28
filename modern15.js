@@ -11,8 +11,7 @@ s2:[["The mosaics","Hagia Sophia’s mosaics, made of tiny pieces of colored gla
 sp:["A dome that floats","The builders placed 40 windows around the base of the dome. Seen from below, the bright band of light makes the dome seem to hover. The historian Procopius wrote that it seemed suspended from heaven by a golden chain."],
 g:[["Byzantine","Relating to the Eastern Roman Empire"],["Mosaic","A picture made of small pieces of glass or stone"],["Minaret","A tall tower of a mosque"],["Dome","A rounded roof"]],
 f:["Hagia Sophia was the world’s largest cathedral for nearly 1,000 years.","It was built in under six years.","Its dome has 40 windows around its base."],
-fun:"Viking graffiti, carved by a Norse soldier, can still be seen on a marble railing in Hagia Sophia.",
-tl:"Ang Hagia Sophia sa Istanbul ay naging katedral, moske, museo at muling moske. Kamangha-mangha ang malaking simboryo nito noong itayo ito noong 537, at magkatabi rito ang mga Kristiyanong mosaic at kaligrapiyang Islamiko."});
+fun:"Viking graffiti, carved by a Norse soldier, can still be seen on a marble railing in Hagia Sophia."});
 
 ADDART({id:"sagradafamilia",t:"The Sagrada Família",c:"Countries and Places",i:"⛪",w:"Sagrada Família",r:["barcelona","spaincountry","gothic","architecture","christ"],
 p:[["Gaudí’s masterpiece","The Sagrada Família is a huge basilica in Barcelona designed by Antoni Gaudí."],["Over 140 years of building","Construction began in 1882 and is still going on."],["The tallest church","In 2026 its central tower reached 172.5 meters, making it the tallest church in the world."]],
@@ -24,8 +23,7 @@ s2:[["Gaudí’s death","On 7 June 1926, Gaudí was hit by a tram while walking 
 sp:["Light inside","Inside the basilica, stained-glass windows fill the nave with colored light: cool blues and greens on the eastern side, for the morning, and warm reds and oranges on the western side, for the setting sun. The effect changes throughout the day."],
 g:[["Basilica","An important church given special status by the pope"],["Facade","The front or a face of a building"],["Spire","A tall, pointed tower"],["Crypt","An underground room beneath a church"]],
 f:["Construction of the Sagrada Família began in 1882.","Gaudí is buried in its crypt.","It became the world’s tallest church in 2025–2026."],
-fun:"Gaudí made the central tower slightly lower than Barcelona’s Montjuïc hill on purpose.",
-tl:"Ang Sagrada Família ay malaking basilika sa Barcelona na dinisenyo ni Antoni Gaudí. Sinimulan itong itayo noong 1882, at noong 2026 ay umabot sa 172.5 metro ang gitnang tore nito, kaya ito na ang pinakamataas na simbahan sa mundo."});
+fun:"Gaudí made the central tower slightly lower than Barcelona’s Montjuïc hill on purpose."});
 
 ADDART({id:"earthmagnet",t:"Earth’s Magnetic Field",c:"Science",i:"🧲",w:"Earth's magnetic field",r:["magnet","compass","aurora","spaceweather","birdmigr"],
 p:[["A giant magnet","Earth behaves like a giant magnet, with a magnetic field around the whole planet."],["Made in the core","The field is produced by swirling liquid iron deep inside the Earth."],["A protective shield","It shields life from harmful particles from the Sun."]],
@@ -37,8 +35,7 @@ s2:[["William Gilbert","In 1600, English physician William Gilbert published ‘
 sp:["The South Atlantic Anomaly","Over the South Atlantic Ocean and South America, the magnetic field is weaker than elsewhere. Satellites passing through this region are exposed to more radiation and can suffer glitches, so some switch off sensitive instruments while crossing it."],
 g:[["Magnetosphere","The region of space controlled by a planet’s magnetic field"],["Geodynamo","The process that generates Earth’s magnetic field"],["Magnetic pole","A place where the magnetic field points straight down or up"],["Reversal","When Earth’s magnetic north and south swap places"]],
 f:["Earth’s magnetic field is generated in its liquid outer core.","The magnetic north pole moves over time.","The last magnetic reversal happened about 780,000 years ago."],
-fun:"Mars once had a global magnetic field, but lost it, which helped the solar wind strip away much of its atmosphere.",
-tl:"Parang malaking magnet ang Daigdig na may magnetic field na nakapalibot sa buong planeta. Ginagawa ito ng umiikot na likidong bakal sa loob ng Daigdig, at pinoprotektahan nito ang buhay mula sa mapanganib na partikulo ng Araw."});
+fun:"Mars once had a global magnetic field, but lost it, which helped the solar wind strip away much of its atmosphere."});
 
 ADDART({id:"smallpox",t:"Smallpox",c:"Health and the Body",i:"💉",w:"Smallpox",r:["vacc","pandemic","who","microbe","hygiene"],
 p:[["A deadly disease","Smallpox was a contagious disease that killed hundreds of millions of people."],["The first vaccine","Edward Jenner’s cowpox experiment of 1796 led to the first vaccine."],["Wiped out","In 1980 smallpox became the first human disease ever eradicated."]],
@@ -50,8 +47,7 @@ s2:[["Ali Maow Maalin","Ali Maow Maalin, a hospital cook in Merca, Somalia, caug
 sp:["Ring vaccination","Instead of trying to vaccinate everyone in the world, eradication teams found each new case, isolated the patient and vaccinated everyone they had contact with, and their contacts, creating a ‘ring’ of immunity that stopped the virus from spreading."],
 g:[["Eradication","Wiping out a disease completely worldwide"],["Vaccine","A substance that trains the body to fight a disease"],["Variolation","Deliberately infecting someone with mild smallpox to give immunity"],["Contagious","Easily spread from person to person"]],
 f:["Smallpox is the only human disease to have been eradicated.","The word vaccine comes from the Latin word for cow.","The last natural case of smallpox occurred in Somalia in 1977."],
-fun:"Milkmaids were known for having clear skin because catching cowpox protected them from smallpox scars.",
-tl:"Ang bulutong ay nakahahawang sakit na pumatay ng daan-daang milyong tao. Ang eksperimento ni Edward Jenner noong 1796 ang nagbunga ng unang bakuna, at noong 1980 ito ang naging unang sakit ng tao na tuluyang naalis."});
+fun:"Milkmaids were known for having clear skin because catching cowpox protected them from smallpox scars."});
 
 ADDART({id:"baobab",t:"Baobab Trees",c:"Animals and Nature",i:"🌳",w:"Adansonia",r:["trees","grasslands","madag","bat","desert"],
 p:[["Upside-down trees","Baobabs have huge trunks and short branches that look like roots."],["Water towers","Their trunks can store tens of thousands of liters of water."],["Ancient giants","Some baobabs have lived for over 2,000 years."]],
@@ -63,8 +59,7 @@ s2:[["The Avenue of the Baobabs","In western Madagascar, a dirt road is lined wi
 sp:["Superfruit","Baobab fruit has a hard shell filled with a dry, powdery pulp that tastes tangy and is rich in vitamin C. It is eaten fresh, mixed into drinks or sold as a powder. Its seeds are pressed for oil used in cooking and cosmetics."],
 g:[["Genus","A group of closely related species"],["Savanna","Tropical grassland with scattered trees"],["Pollinate","To carry pollen from flower to flower"],["Endemic","Found naturally in only one place"]],
 f:["Six of the eight baobab species live only in Madagascar.","Baobab flowers open at night and are pollinated by bats.","Some baobabs have lived for over 2,000 years."],
-fun:"An African legend says the gods planted the baobab upside down, with its roots in the air, as punishment for its pride.",
-tl:"Ang baobab ay punong may napakalaking puno at maiikling sanga na parang ugat, kaya tinatawag itong ‘baligtad na puno’. Nag-iimbak ito ng libu-libong litro ng tubig at may mga nabubuhay nang mahigit 2,000 taon."});
+fun:"An African legend says the gods planted the baobab upside down, with its roots in the air, as punishment for its pride."});
 
 ADDART({id:"redwoods",t:"Redwoods and Sequoias",c:"Animals and Nature",i:"🌲",w:"Sequoioideae",r:["trees","usacountry","conservation","climchange","yellowstone"],
 p:[["The tallest trees","Coast redwoods are the tallest living trees on Earth."],["The largest trees","Giant sequoias are the biggest trees by volume."],["Ancient survivors","Some have lived for over 3,000 years."]],
@@ -76,8 +71,7 @@ s2:[["Finding Hyperion","In 2006, two naturalists exploring a remote valley in R
 sp:["Fire-resistant giants","Redwood bark can be up to 30 centimeters thick and contains little resin, so it does not burn easily. Many old redwoods have survived numerous fires, which leave black scars on their trunks. But very hot modern wildfires, made worse by drought and heat, can kill even the biggest trees."],
 g:[["Conifer","A tree that bears cones and usually has needles"],["Old-growth forest","A forest that has grown for a very long time without major disturbance"],["Grove","A small group of trees"],["Living fossil","A species that has changed little from ancient fossils"]],
 f:["The tallest known tree is about 116 meters tall.","Giant sequoia cones need fire to open.","Only about 5 percent of old-growth coast redwoods remain."],
-fun:"A single giant sequoia can hold enough wood to build dozens of houses.",
-tl:"Ang coast redwood ang pinakamataas na punong buhay sa mundo, at ang giant sequoia ang pinakamalaki ayon sa dami ng kahoy. May mga nabubuhay nang mahigit 3,000 taon, protektado ng makapal na balat na hindi madaling masunog."});
+fun:"A single giant sequoia can hold enough wood to build dozens of houses."});
 
 ADDART({id:"kelp",t:"Kelp Forests",c:"Animals and Nature",i:"🌿",w:"Kelp forest",r:["seaweeds","otters","coral","climchange","pacific"],
 p:[["Underwater forests","Kelp forests are thick growths of large brown seaweed in cool coastal seas."],["Fast growers","Giant kelp can grow about half a meter in a single day."],["Homes for sea life","They shelter fish, sea otters, seals and countless other creatures."]],
@@ -89,8 +83,7 @@ s2:[["My Octopus Teacher","The documentary ‘My Octopus Teacher’, which won a
 sp:["Sea otters","Sea otters spend most of their lives in kelp forests. They often wrap themselves in kelp to stop drifting away while they sleep, and sometimes hold paws with each other in groups called rafts. They use rocks as tools to crack open urchins and shellfish."],
 g:[["Algae","Simple living things that make food from sunlight, mostly in water"],["Holdfast","The root-like part that anchors kelp to rocks"],["Urchin barren","An area where sea urchins have eaten all the kelp"],["Canopy","The top layer of a forest"]],
 f:["Giant kelp can grow up to about 60 centimeters a day.","Kelp is a kind of algae, not a plant.","Sea otters help protect kelp forests by eating sea urchins."],
-fun:"Alginate from kelp helps make ice cream smooth and toothpaste thick.",
-tl:"Ang kelp forest ay makapal na tubo ng malalaking kayumangging damong-dagat sa malamig na baybayin. Napakabilis lumaki ng giant kelp, at nagsisilbi itong tahanan ng isda, sea otter, seal at marami pang nilalang."});
+fun:"Alginate from kelp helps make ice cream smooth and toothpaste thick."});
 
 ADDART({id:"salt",t:"Salt",c:"Science",i:"🧂",w:"Salt",r:["gandhi","trade","atom","foodsafety","desert"],
 p:[["A precious mineral","Salt, or sodium chloride, is essential for life and has been prized for thousands of years."],["Shaping history","Salt was traded, taxed and even fought over."],["Use it wisely","Our bodies need some salt, but too much is harmful to health."]],
@@ -102,8 +95,7 @@ s2:[["The Salt March","In 1930, Mahatma Gandhi walked about 385 kilometers to th
 sp:["Salt and salary","It is often said that the word ‘salary’ comes from Roman soldiers being paid in salt. Historians doubt this, but the word does come from the Latin sal, ‘salt’, perhaps because soldiers received an allowance to buy it."],
 g:[["Sodium chloride","The chemical name for common salt"],["Evaporation","When liquid turns into vapor, leaving solids behind"],["Brine","Water with a lot of salt dissolved in it"],["Iodized salt","Salt with added iodine for health"]],
 f:["Salt crystals are shaped like tiny cubes.","Most people eat about twice the recommended amount of salt.","The Wieliczka mine has chapels carved from salt."],
-fun:"The Dead Sea is so salty, over 30 percent salt, that people float easily on its surface.",
-tl:"Ang asin, o sodium chloride, ay mahalaga sa buhay at pinahahalagahan na nang libu-libong taon. Ipinagpalit, binuwisan at pinag-awayan ito, at kailangan ito ng katawan ngunit nakasasama ang sobra."});
+fun:"The Dead Sea is so salty, over 30 percent salt, that people float easily on its surface."});
 
 ADDART({id:"cheese",t:"Cheese",c:"How We Live",i:"🧀",w:"Cheese",r:["microbe","agri","foodsafety","francecountry","italycountry"],
 p:[["Milk made to last","Cheese is a food made by curdling milk and separating the curds from the whey."],["Thousands of kinds","There are well over a thousand varieties around the world."],["Made by microbes","Bacteria and molds give many cheeses their flavors, textures and holes."]],
@@ -115,8 +107,7 @@ s2:[["Cheese rolling","Every spring at Cooper’s Hill in Gloucestershire, Engla
 sp:["Why aged cheese has less lactose","Lactose is the natural sugar in milk, which some people cannot digest well. Most of it drains away in the whey, and during aging, bacteria use up much of what remains. That is why hard, aged cheeses like Parmesan and cheddar contain very little lactose."],
 g:[["Curd","The solid part of curdled milk"],["Whey","The liquid left after milk curdles"],["Rennet","An enzyme that makes milk curdle"],["Aging","Storing cheese so its flavor develops"]],
 f:["A wheel of Parmigiano Reggiano weighs about 40 kilograms.","The holes in Swiss cheese come from gas made by bacteria.","The oldest known cheese is about 3,600 years old."],
-fun:"It takes about 10 liters of milk to make 1 kilogram of hard cheese.",
-tl:"Ang keso ay pagkaing gawa sa gatas na pinakulta at pinaghiwalay ang curd at whey. Mahigit isang libo ang uri nito sa mundo, at bakterya at amag ang nagbibigay ng lasa, tekstura at butas sa maraming keso."});
+fun:"It takes about 10 liters of milk to make 1 kilogram of hard cheese."});
 
 ADDART({id:"rubber",t:"Rubber",c:"Technology",i:"🛞",w:"Natural rubber",r:["olmecs","cars","plastics","africacolon","trees"],
 p:[["Stretchy and waterproof","Rubber is a stretchy, waterproof material used in tires, shoes, gloves and much more."],["From a tree","Natural rubber comes from latex, a milky sap of the rubber tree."],["A dark history","The rubber boom of the 1800s brought great wealth and terrible cruelty."]],
@@ -128,8 +119,7 @@ s2:[["Tapping a tree","Rubber tappers cut a thin, sloping groove in the bark of 
 sp:["The eraser","In 1770, English scientist Joseph Priestley noticed that a piece of the new material could rub out pencil marks, and gave it the name ‘rubber’. Erasers are still often called rubbers in British English."],
 g:[["Latex","A milky liquid from certain plants"],["Vulcanization","Heating rubber with sulfur to make it stronger"],["Elastic","Able to stretch and return to its shape"],["Synthetic","Made by people using chemistry"]],
 f:["About 70 percent of natural rubber is used in tires.","Rubber gets its English name from rubbing out pencil marks.","Rubber trees can be tapped for decades."],
-fun:"Rubber balls were bouncing in Mesoamerica more than 3,500 years ago.",
-tl:"Ang goma ay nababanat at hindi tinatablan ng tubig na ginagamit sa gulong, sapatos at guwantes. Nagmumula ang natural na goma sa latex ng puno ng goma, at may madilim na kasaysayan ang rubber boom noong 1800."});
+fun:"Rubber balls were bouncing in Mesoamerica more than 3,500 years ago."});
 
 ADDART({id:"cotton",t:"Cotton",c:"Technology",i:"☁️",w:"Cotton",r:["weaving","indrev","slavetrade","clothing","waterscarcity"],
 p:[["A soft fiber","Cotton is a soft, fluffy fiber that grows around the seeds of the cotton plant."],["The world’s favorite fabric","It is the most widely used natural fiber for clothing."],["A troubled history","Cotton was linked to slavery and the Industrial Revolution."]],
@@ -141,8 +131,7 @@ s2:[["The Aral Sea","The Aral Sea in Central Asia was once one of the largest la
 sp:["From boll to shirt","Cotton bolls are picked by machines or by hand, then ginned to remove the seeds. The fibers are cleaned, combed and spun into yarn, which is woven or knitted into fabric, then dyed, cut and sewn into clothes. A single cotton T-shirt can require thousands of liters of water to produce, mostly for growing the cotton."],
 g:[["Boll","The protective case around cotton seeds and fibers"],["Cotton gin","A machine that separates cotton fibers from seeds"],["Spinning","Twisting fibers into thread"],["Textile","Cloth or fabric"]],
 f:["Cotton was domesticated separately in Asia, Africa and the Americas.","The cotton gin was invented in 1793.","Cotton seeds are pressed for cooking oil."],
-fun:"The fibers in a single cotton boll can be spun into thread hundreds of meters long.",
-tl:"Ang bulak ay malambot na hibla na tumutubo sa paligid ng buto ng halamang bulak. Ito ang pinakaginagamit na natural na hibla sa damit, at may kaugnayan ito sa pang-aalipin at sa Rebolusyong Industriyal."});
+fun:"The fibers in a single cotton boll can be spun into thread hundreds of meters long."});
 
 ADDART({id:"soap",t:"Soap",c:"Health and the Body",i:"🧼",w:"Soap",r:["hygiene","sanitation","molecules","reactions","pandemic"],
 p:[["Cleaning chemistry","Soap is made by reacting fats or oils with an alkali."],["Grabs dirt and grease","Soap molecules attract water at one end and oil at the other."],["A lifesaver","Washing hands with soap prevents the spread of many diseases."]],
@@ -154,8 +143,7 @@ s2:[["Aleppo soap","Aleppo soap, made in Syria for many centuries, is made from 
 sp:["Soap versus viruses","Many viruses, including flu and the coronavirus that causes COVID-19, are wrapped in a thin fatty layer. Soap molecules wedge into this layer and pull it apart, destroying the virus. That is why soap and water work so well for cleaning hands."],
 g:[["Saponification","The reaction that turns fats and alkali into soap"],["Alkali","A chemical that can neutralize acids, such as lye"],["Micelle","A tiny ball of soap molecules that traps grease"],["Hygiene","Practices that keep people clean and healthy"]],
 f:["People have made soap for at least 4,000 years.","Soap breaks apart the fatty layer of many viruses.","Global Handwashing Day is on 15 October."],
-fun:"Soap bubbles are thin films of soapy water, and their swirling colors come from light reflecting off both surfaces of the film.",
-tl:"Ang sabon ay gawa sa reaksiyon ng taba o langis at alkali. Hinahatak ng molekula nito ang tubig sa isang dulo at langis sa kabila, kaya natatanggal ang dumi, at ang paghuhugas ng kamay gamit ang sabon ay nakaiiwas sa maraming sakit."});
+fun:"Soap bubbles are thin films of soapy water, and their swirling colors come from light reflecting off both surfaces of the film."});
 
 ADDART({id:"calendars",t:"Calendars",c:"Science",i:"📅",w:"Calendar",r:["moon","timephys","lunarnewyear","maya","rome"],
 p:[["Measuring the year","Calendars organize days into weeks, months and years."],["Sun and moon","Some calendars follow the sun, some the moon and some both."],["The calendar we use","Most of the world uses the Gregorian calendar, introduced in 1582."]],
@@ -167,8 +155,7 @@ s2:[["The missing days","When Catholic countries adopted the Gregorian calendar 
 sp:["The seven-day week","The seven-day week probably comes from ancient Mesopotamia and the Jewish Sabbath, and spread with Christianity and Islam. In many languages, the days are named after the sun, the moon and the five planets visible to the naked eye, or gods linked to them."],
 g:[["Leap year","A year with an extra day, 29 February"],["Lunar","Relating to the moon"],["Lunisolar","Based on both the moon and the sun"],["Equinox","A day when day and night are about equal in length"]],
 f:["A solar year lasts about 365.24 days.","The Gregorian calendar was introduced in 1582.","The Islamic calendar is about 11 days shorter than the solar year."],
-fun:"The year 2000 was a leap year, but 1900 was not, because of the Gregorian leap-year rule.",
-tl:"Inaayos ng kalendaryo ang mga araw sa linggo, buwan at taon. May mga kalendaryong sumusunod sa araw, sa buwan o sa pareho, at karamihan sa mundo ay gumagamit ng kalendaryong Gregoryano na ipinakilala noong 1582."});
+fun:"The year 2000 was a leap year, but 1900 was not, because of the Gregorian leap-year rule."});
 
 ADDART({id:"kites",t:"Kites",c:"How We Live",i:"🪁",w:"Kite",r:["wind","flight","chinacountry","festivals","elec"],
 p:[["Flying on the wind","A kite is a light frame covered with material, flown on a string in the wind."],["An ancient invention","Kites were invented in China over 2,000 years ago."],["Fun and science","Kites have been used for festivals, science experiments and even early flight research."]],
@@ -180,8 +167,7 @@ s2:[["Giant kites of Sumpango","In the town of Sumpango in Guatemala, families b
 sp:["How a kite flies","A kite is held at an angle to the wind. Air pushing against its underside and flowing over its top creates an upward force called lift. The string pulls against the wind, and the tail adds stability, stopping the kite from spinning."],
 g:[["Lift","An upward force created by moving air"],["Tether","A line that holds something in place"],["Box kite","A kite made of open box shapes"],["Kitesurfing","A sport where a kite pulls a rider on a board across water"]],
 f:["Kites were invented in China over 2,000 years ago.","Weather services once used kites to measure the upper air.","Giant kites in Guatemala can be over 15 meters wide."],
-fun:"In 1848, a kite was used to carry the first line across the Niagara River gorge, the start of building a bridge.",
-tl:"Ang saranggola ay magaan na balangkas na may takip, pinalilipad sa tali sa hangin. Naimbento ito sa Tsina mahigit 2,000 taon na ang nakararaan at ginamit sa pista, eksperimento sa agham at maging sa pananaliksik sa paglipad."});
+fun:"In 1848, a kite was used to carry the first line across the Niagara River gorge, the start of building a bridge."});
 
 ADDART({id:"golf",t:"Golf",c:"How We Live",i:"⛳",w:"Golf",r:["soccer","olymp","ukcountry","tennis","athletics"],
 p:[["Club and ball","Golf is a sport in which players hit a small ball into a series of holes with clubs."],["Fewest strokes wins","The goal is to complete the course in as few strokes as possible."],["Born in Scotland","The modern game developed in Scotland in the 1400s."]],
@@ -193,8 +179,7 @@ s2:[["Golf on the Moon","In February 1971, Apollo 14 astronaut Alan Shepard atta
 sp:["The Old Course","The Old Course at St Andrews, on the east coast of Scotland, is one of the oldest golf courses in the world. Its famous features include the Swilcan Bridge, a small stone bridge over a stream, and deep bunkers with names like ‘Hell’. It is owned by a public trust, and on Sundays it is closed to golf so local people can walk on it."],
 g:[["Par","The number of strokes expected for a hole"],["Fairway","The mown area between the tee and the green"],["Bunker","A sand-filled hazard"],["Putt","A gentle stroke to roll the ball into the hole"]],
 f:["A standard golf course has 18 holes.","The Open Championship began in 1860.","Golf balls were hit on the Moon in 1971."],
-fun:"A typical golf ball has between 300 and 500 dimples.",
-tl:"Ang golf ay laro kung saan pinapalo ng manlalaro ang maliit na bola papasok sa mga butas gamit ang club, sa pinakakaunting palo hangga’t maaari. Umusbong ang makabagong golf sa Scotland noong 1400."});
+fun:"A typical golf ball has between 300 and 500 dimples."});
 
 ADDART({id:"rugby",t:"Rugby",c:"How We Live",i:"🏉",w:"Rugby football",r:["soccer","olymp","nzcountry","southafricacountry","maori"],
 p:[["Run with the ball","Rugby is a team sport in which players carry, pass and kick an oval ball."],["Union and league","The two main forms are rugby union and rugby league."],["A global game","It is especially popular in New Zealand, South Africa, Britain, Ireland, France, Australia and the Pacific Islands."]],
@@ -206,8 +191,7 @@ s2:[["Mandela and the 1995 World Cup","In 1995, South Africa hosted the Rugby Wo
 sp:["The haka","New Zealand’s national team, the All Blacks, perform a Māori haka before every match, facing their opponents. Other Pacific teams perform their own war dances: Tonga the Sipi Tau, Samoa the Siva Tau and Fiji the Cibi."],
 g:[["Try","Grounding the ball over the opponents’ goal line"],["Scrum","A way of restarting play where the forwards push against each other"],["Tackle","Bringing a player with the ball to the ground"],["Conversion","A kick at goal after a try"]],
 f:["Rugby union has 15 players per team.","South Africa has won the Rugby World Cup four times.","Fiji won the first Olympic rugby sevens gold."],
-fun:"In rugby, players can only pass the ball backwards or sideways, never forward.",
-tl:"Ang rugby ay larong pangkat kung saan dinadala, ipinapasa at sinisipa ang hugis-itlog na bola. Ang dalawang pangunahing anyo nito ay rugby union at rugby league, at sikat ito sa New Zealand, South Africa, Britanya at Pasipiko."});
+fun:"In rugby, players can only pass the ball backwards or sideways, never forward."});
 
 ADDART({id:"icehockey",t:"Ice Hockey",c:"How We Live",i:"🏒",w:"Ice hockey",r:["canadacountry","olymp","snow","toronto","athletics"],
 p:[["A fast game on ice","Ice hockey is a team sport played on skates, using sticks to shoot a puck into a goal."],["Born in Canada","The modern game was developed in Canada in the 1800s."],["Speed and power","It is one of the fastest team sports in the world."]],
@@ -219,8 +203,7 @@ s2:[["The Stanley Cup","The Stanley Cup was donated in 1893 by Lord Stanley, the
 sp:["The puck","A hockey puck is a disc of hard vulcanized rubber, 7.6 centimeters across and 2.5 centimeters thick. Pucks are frozen before games so they slide faster and bounce less on the ice."],
 g:[["Puck","A hard rubber disc used in ice hockey"],["Rink","An ice surface for skating"],["Power play","When one team has more players on the ice because of a penalty"],["Goaltender","The player who guards the goal"]],
 f:["Ice hockey teams have six players on the ice.","The first indoor game was played in Montreal in 1875.","Hockey pucks are frozen before games."],
-fun:"Each player on a Stanley Cup–winning team gets to take the trophy home for a day.",
-tl:"Ang ice hockey ay larong pangkat sa yelo kung saan gumagamit ang mga nakaisketing manlalaro ng stick upang ipasok ang puck sa goal. Binuo ito sa Canada noong 1800 at isa sa pinakamabibilis na laro sa mundo."});
+fun:"Each player on a Stanley Cup–winning team gets to take the trophy home for a day."});
 
 ADDART({id:"skiing",t:"Skiing",c:"How We Live",i:"⛷️",w:"Skiing",r:["snow","olymp","norwaycountry","mountainform","climchange"],
 p:[["Gliding on snow","Skiing means traveling over snow on long, narrow boards called skis."],["Thousands of years old","People skied for transport and hunting long before it became a sport."],["Winter Olympic favorite","Skiing events are at the heart of the Winter Olympic Games."]],
@@ -232,8 +215,7 @@ s2:[["The Birkebeiner","In 1206, according to Norwegian history, two skiing sold
 sp:["Artificial snow","Snow-making machines spray tiny droplets of water into cold air, where they freeze into small ice particles. Many ski resorts depend on artificial snow, but it requires lots of water and energy and only works when temperatures are cold enough."],
 g:[["Nordic skiing","Skiing with free heels, including cross-country and ski jumping"],["Alpine skiing","Downhill skiing with fixed heels"],["Binding","The device that attaches a boot to a ski"],["Slalom","A race weaving between gates"]],
 f:["The oldest skis are about 8,000 years old.","Modern ski bindings were developed in Norway in the 1860s.","Ski jumpers can fly over 200 meters."],
-fun:"The word ski comes from an Old Norse word meaning a split piece of wood.",
-tl:"Ang skiing ay pag-dausdos sa niyebe gamit ang mahahaba at makikitid na tabla na tinatawag na ski. Libu-libong taon na itong ginagamit sa paglalakbay at pangangaso bago naging isport, at mahalaga ito sa Winter Olympics."});
+fun:"The word ski comes from an Old Norse word meaning a split piece of wood."});
 
 ADDART({id:"surfing",t:"Surfing",c:"How We Live",i:"🏄",w:"Surfing",r:["polynesia","waves","olymp","coasts","pacific"],
 p:[["Riding waves","Surfing means riding ocean waves standing on a board."],["Polynesian roots","Surfing began in Polynesia and was central to Hawaiian culture."],["An Olympic sport","Surfing made its Olympic debut at the Tokyo Games."]],
@@ -245,8 +227,7 @@ s2:[["Duke Kahanamoku","Duke Kahanamoku won Olympic gold medals in swimming in 1
 sp:["How waves break","Ocean waves are mostly made by wind blowing over the sea. As a wave approaches the shore, the seabed becomes shallower and slows the bottom of the wave, while the top keeps moving, so the wave grows taller and finally tips over and breaks. Surfers ride the steep face just before it breaks."],
 g:[["Surfboard","A long, narrow board used for riding waves"],["Swell","Waves that have traveled far from where they were made by wind"],["Wetsuit","A rubber suit that keeps surfers warm"],["Big-wave surfing","Riding extremely large waves"]],
 f:["Surfing began in ancient Polynesia.","Duke Kahanamoku spread surfing to Australia and California.","Surfing debuted at the Olympics in 2021."],
-fun:"Hawaiian chiefs’ surfboards could be over 5 meters long and weigh around 70 kilograms.",
-tl:"Ang surfing ay pagsakay sa alon ng karagatan habang nakatayo sa tabla. Nagsimula ito sa Polynesia at mahalaga sa kulturang Hawaiian, at unang isinama sa Olympics sa Tokyo."});
+fun:"Hawaiian chiefs’ surfboards could be over 5 meters long and weigh around 70 kilograms."});
 
 ADDART({id:"archery",t:"Archery",c:"How We Live",i:"🏹",w:"Archery",r:["stoneage","martial","olymp","mongol","castles"],
 p:[["Bow and arrow","Archery is the skill of shooting arrows with a bow."],["An ancient technology","People have used bows and arrows for tens of thousands of years."],["Precision sport","Today archery is an Olympic sport demanding great focus and control."]],
@@ -258,5 +239,4 @@ s2:[["Agincourt","At the Battle of Agincourt in 1415, a smaller English army def
 sp:["Bhutan’s national sport","In Bhutan, archery is the national sport and a part of festivals and celebrations. Traditional matches use bamboo bows and targets about 140 meters away, and teams sing, dance and tease their opponents during the contest."],
 g:[["Bow","A curved weapon that shoots arrows using a string"],["Quiver","A case for holding arrows"],["Composite bow","A bow made from layers of different materials"],["Longbow","A tall, powerful bow made from a single piece of wood"]],
 f:["People have used bows for at least 60,000 years.","Olympic archers shoot at targets 70 meters away.","Archery is the national sport of Bhutan."],
-fun:"Ötzi the Iceman, who lived about 5,300 years ago, was carrying an unfinished longbow when he died.",
-tl:"Ang pana ay kasanayan sa pagpapalipad ng palaso gamit ang busog. Libu-libong taon na itong ginagamit ng tao sa pangangaso at digmaan, at ngayon ay isport ito sa Olympics na nangangailangan ng matinding pokus."});
+fun:"Ötzi the Iceman, who lived about 5,300 years ago, was carrying an unfinished longbow when he died."});

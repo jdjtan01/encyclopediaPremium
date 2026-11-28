@@ -9,8 +9,7 @@ s2:[["What is ‘pork barrel’?","The term comes from the United States, where 
 sp:["The whistleblowers","Benhur Luy, Napoles’s second cousin and former finance officer, kept digital records of transactions. With other former employees, he testified in Senate hearings and in court for years, living under the government’s Witness Protection Program."],
 g:[["PDAF","Priority Development Assistance Fund, lawmakers’ discretionary fund"],["NGO","Non-governmental organization"],["Kickback","An illegal payment in return for a favor"],["Plunder","Amassing at least ₱50 million in ill-gotten wealth by a public official"]],
 f:["The Supreme Court declared the PDAF unconstitutional in 2013.","The scam was exposed by a whistleblower and a newspaper.","Many of the accused lawmakers were acquitted of plunder."],
-fun:"Protesters at the Million People March wore pig masks and carried toy pigs to mock the pork barrel system.",
-tl:"Ang pork barrel scam ay iskema kung saan tinatayang ₱10 bilyong pondo ng mga mambabatas ang napunta sa mga pekeng NGO. Inilantad ito noong 2013 ng isang whistleblower at ng Inquirer, at idineklarang labag sa Saligang Batas ang PDAF noong Nobyembre 2013."});
+fun:"Protesters at the Million People March wore pig masks and carried toy pigs to mock the pork barrel system."});
 
 ADDART({id:"floodcontrol",t:"The Flood Control Scandal",c:"Philippines",i:"🌊",w:"Flood control projects scandal in the Philippines",r:["porkbarrel","floods","phgov","phdynasties","phtyph"],
 p:[["Ghost projects","The flood control scandal revealed missing, substandard or ‘ghost’ flood control projects."],["Billions lost","Officials estimated that up to ₱118 billion was lost from 2023 to 2025."],["Powerful figures charged","In 2026, a former Speaker of the House was arrested on plunder charges."]],
@@ -22,8 +21,7 @@ s2:[["Ghost projects","A ‘ghost project’ is one that is paid for but never b
 sp:["Citizens as watchdogs","During the scandal, ordinary Filipinos used social media to share photos of crumbling or missing flood walls in their towns, and volunteers built online maps of suspicious projects using government data. Their posts helped investigators decide where to look."],
 g:[["Ghost project","A project paid for but never built"],["Kickback","An illegal payment in return for a contract"],["Plunder","A public official amassing at least ₱50 million illegally"],["Ombudsman","The official who investigates and prosecutes government wrongdoing"]],
 f:["About ₱545 billion was spent on flood control from mid-2022 to 2025.","The Trillion Peso March took place on the anniversary of martial law.","A former Speaker of the House was arrested in 2026."],
-fun:"Some contractors under investigation were found to own dozens of luxury cars, which became a symbol of the scandal on social media.",
-tl:"Ang flood control scandal ay iskandalo ng korapsyon noong 2025 tungkol sa mga proyektong pangkontrol ng baha na palpak o hindi umiiral. Tinatayang hanggang ₱118 bilyon ang nawala, at inaresto noong Setyembre 2026 ang dating Speaker na si Martin Romualdez sa kasong plunder."});
+fun:"Some contractors under investigation were found to own dozens of luxury cars, which became a symbol of the scandal on social media."});
 
 ADDART({id:"mamasapano",t:"The Mamasapano Clash",c:"Philippines",i:"🕯️",w:"Mamasapano clash",r:["mindanao","terrorism","maguindanao","police","phgov"],
 p:[["A police raid gone wrong","On 25 January 2015, a police operation to capture a wanted terrorist turned into a deadly clash."],["The SAF 44","Forty-four police commandos were killed, along with 18 rebels and 5 civilians."],["Peace process shaken","The clash delayed the Bangsamoro peace law."]],
@@ -35,5 +33,4 @@ s2:[["Remembering the SAF 44","The fallen commandos were given posthumous awards
 sp:["Lessons for operations","Military experts studying Mamasapano point to the importance of coordination between police, the army and peace mechanisms, clear chains of command and plans for reinforcements. The clash is taught as a case study in Philippine security training."],
 g:[["Special Action Force","An elite unit of the Philippine National Police"],["MILF","Moro Islamic Liberation Front, a Moro rebel group that made peace with the government"],["Chain of command","The order of authority in an organization"],["Bangsamoro","The Moro homeland in Mindanao"]],
 f:["Forty-four police commandos died in the clash.","The target, Marwan, was killed during the raid.","The Bangsamoro Organic Law was passed three years after the clash."],
-fun:"The Philippine government declared a national day of mourning on 30 January 2015, and many people wore black ribbons or changed their profile pictures in honor of the SAF 44.",
-tl:"Ang Mamasapano clash ay naganap noong 25 Enero 2015 sa Maguindanao nang ang operasyon ng pulisya laban sa teroristang si Marwan ay humantong sa madugong sagupaan. Apatnapu’t apat na SAF commando ang napatay, at naantala nito ang batas pangkapayapaan para sa Bangsamoro."});
+fun:"The Philippine government declared a national day of mourning on 30 January 2015, and many people wore black ribbons or changed their profile pictures in honor of the SAF 44."});

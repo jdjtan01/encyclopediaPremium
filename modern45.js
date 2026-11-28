@@ -9,8 +9,7 @@ s2:[["The three-try plug","People joked that a USB-A plug needed three attempts:
 sp:["The trident logo","The USB logo is based on the trident of Neptune, the Roman sea god, with a circle, triangle and square at the tips representing the many kinds of devices USB can connect."],
 g:[["Port","A socket on a device for plugging in cables"],["Plug and play","Working automatically when connected"],["Flash drive","A small USB storage stick"],["USB-C","A reversible USB connector"]],
 f:["USB was first released in 1996.","USB-C plugs work either way up.","The EU requires USB-C on new phones."],
-fun:"The USB logo is based on the trident of the sea god Neptune.",
-tl:"Pinagdurugtong ng USB ang keyboard, telepono, drive at charger sa computer. Pinalitan nito ang gulo ng iba’t ibang connector, at ang nababaligtad na USB-C na ang pamantayan para sa telepono at laptop."});
+fun:"The USB logo is based on the trident of the sea god Neptune."});
 
 ADDART({id:"linux",t:"Linux",c:"Technology",i:"🐧",w:"Linux",r:["operatingsystems","opensource","comp","supercomputers","smartphone"],
 p:[["A free operating system","Linux is a free, open-source operating system started in 1991."],["Started by a student","Finnish student Linus Torvalds created it as a hobby."],["Running the world","Linux runs Android phones, most servers and all top supercomputers."]],
@@ -22,8 +21,7 @@ s2:[["Linux on Mars","NASA’s Ingenuity helicopter, which made the first powere
 sp:["Just a hobby","Torvalds’s 1991 announcement predicted his system would never be big. Today, Linux runs on billions of devices."],
 g:[["Kernel","The core of an operating system"],["Open source","Software whose code anyone can see and change"],["Distribution","A packaged version of Linux"],["Server","A computer that provides services to others"]],
 f:["Linux was announced in 1991.","Its mascot is Tux the penguin.","Android is built on Linux."],
-fun:"Linus Torvalds described Linux as ‘just a hobby’ when he announced it, and it now runs on billions of devices.",
-tl:"Ang Linux ay libre at open-source na operating system na sinimulan noong 1991 ng Finnish na estudyanteng si Linus Torvalds. Pinatatakbo nito ang mga Android phone, karamihan ng server at lahat ng nangungunang supercomputer."});
+fun:"Linus Torvalds described Linux as ‘just a hobby’ when he announced it, and it now runs on billions of devices."});
 
 ADDART({id:"compression",t:"Data Compression",c:"Technology",i:"🗜️",w:"Data compression",r:["datastorage","streaming","soundrecording","photography","binary"],
 p:[["Making files smaller","Compression shrinks data so it takes less space and travels faster."],["Lossless and lossy","Some methods keep every bit; others throw away details we barely notice."],["JPEG and MP3","Compressed formats made digital photos, music and video practical."]],
@@ -35,8 +33,7 @@ s2:[["Tom’s Diner","Karlheinz Brandenburg tested MP3 repeatedly using Suzanne 
 sp:["Too big without it","An uncompressed 4K movie could take several terabytes. Compression lets it stream over an ordinary home internet connection."],
 g:[["Compression","Encoding data in fewer bits"],["Lossless","Compression that keeps every detail"],["Lossy","Compression that discards some detail"],["Codec","Software that compresses and decompresses media"]],
 f:["Lossless compression keeps every bit.","JPEG was standardized in 1992.","MP3 made music files about ten times smaller."],
-fun:"Suzanne Vega’s song ‘Tom’s Diner’ was used again and again to test the MP3 format, earning her the nickname ‘mother of the MP3’.",
-tl:"Pinaliliit ng data compression ang mga file upang makatipid sa espasyo at mas mabilis maipadala. Pinananatili ng ilang paraan ang bawat bit habang tinatanggal ng iba ang detalyeng halos hindi napapansin, at pinadali ng JPEG at MP3 ang digital na larawan at musika."});
+fun:"Suzanne Vega’s song ‘Tom’s Diner’ was used again and again to test the MP3 format, earning her the nickname ‘mother of the MP3’."});
 
 ADDART({id:"instantcameras",t:"Instant Cameras",c:"Technology",i:"📸",w:"Instant camera",r:["camera","photography","reactions","light","videotape"],
 p:[["Photos in minutes","Instant cameras print a developed photo moments after it is taken."],["A child’s question","Edwin Land invented them after his daughter asked why she could not see a photo right away."],["Back in fashion","Instant cameras are popular again in the digital age."]],
@@ -48,8 +45,7 @@ s2:[["Edwin Land","Land, who left Harvard without graduating, held more than 500
 sp:["Land the adviser","Besides cameras, Edwin Land advised several US presidents on science and helped plan early spy satellite and reconnaissance aircraft projects."],
 g:[["Instant camera","A camera that prints developed photos quickly"],["Developing","Chemically making a photo image appear"],["Film pack","A cartridge of instant film sheets"],["Patent","A legal right to an invention"]],
 f:["The first instant camera went on sale in 1948.","Edwin Land founded Polaroid.","Shaking an instant photo does not help it develop."],
-fun:"The instant camera was invented because a three-year-old girl asked why she couldn’t see her photo right away.",
-tl:"Nagpi-print ang instant camera ng nadebelop nang larawan ilang sandali matapos itong kunan. Inimbento ito ni Edwin Land matapos itanong ng kanyang anak kung bakit hindi agad makita ang larawan, at muling sumikat ang mga ito sa panahong digital."});
+fun:"The instant camera was invented because a three-year-old girl asked why she couldn’t see her photo right away."});
 
 ADDART({id:"videotape",t:"Videotape and VHS",c:"Technology",i:"📼",w:"VHS",r:["tv","soundrecording","datastorage","cinema","streaming"],
 p:[["Recording TV","Videotape recorded moving pictures and sound on magnetic tape."],["The format war","VHS beat Sony’s Betamax in the 1980s."],["Movies at home","Video rental stores let families watch films at home."]],
@@ -61,8 +57,7 @@ s2:[["Camcorders","Camcorders combined a video camera and recorder in one device
 sp:["The last Blockbuster","The last remaining Blockbuster video store, in Bend, Oregon, became a tourist attraction and even appeared in a 2020 documentary."],
 g:[["Videotape","Magnetic tape that records video"],["VCR","Videocassette recorder"],["Format war","A battle between incompatible technologies"],["Camcorder","A portable video camera and recorder"]],
 f:["Ampex demonstrated videotape in 1956.","VHS beat Betamax.","The last VCRs were made in 2016."],
-fun:"Video rental stores asked customers to ‘be kind, rewind’ their tapes before returning them.",
-tl:"Nagtatala ang videotape ng gumagalaw na larawan at tunog sa magnetic tape. Tinalo ng VHS ang Betamax ng Sony noong dekada 1980, at nakapanood ang mga pamilya ng pelikula sa bahay dahil sa mga video rental store."});
+fun:"Video rental stores asked customers to ‘be kind, rewind’ their tapes before returning them."});
 
 ADDART({id:"gameconsoles",t:"Video Game Consoles",c:"Technology",i:"🎮",w:"Video game console",r:["videogames","arcadegames","gpus","japancountry","esports"],
 p:[["Games on the TV","Consoles are computers built for playing games on a television."],["From Odyssey to Switch","Consoles evolved from simple dots to lifelike worlds."],["Nintendo, Sony and Microsoft","Three companies dominate the console market."]],
@@ -74,8 +69,7 @@ s2:[["Ralph Baer","Ralph Baer, a German-born American engineer, began designing 
 sp:["The buried cartridges","In 2014, filmmakers excavated a New Mexico landfill and found the long-rumored buried Atari cartridges, confirming a legend from the 1983 crash."],
 g:[["Console","A computer built for playing games"],["Cartridge","A plug-in game memory module"],["Handheld","A portable game device"],["Generation","A group of consoles from the same era"]],
 f:["The first home console was released in 1972.","The Game Boy came out in 1989.","The Switch 2 launched in 2025."],
-fun:"Thousands of unsold Atari game cartridges were buried in a New Mexico landfill in 1983 and dug up in 2014.",
-tl:"Ang game console ay computer na ginawa para sa paglalaro sa telebisyon. Mula Odyssey hanggang Switch, umunlad ang mga console mula sa simpleng tuldok hanggang sa makatotohanang mundo, at tatlong kompanya ang nangunguna sa merkado."});
+fun:"Thousands of unsold Atari game cartridges were buried in a New Mexico landfill in 1983 and dug up in 2014."});
 
 ADDART({id:"supersonic",t:"Concorde and Supersonic Flight",c:"Technology",i:"✈️",w:"Concorde",r:["flight","jetengine","sound","airports","airships"],
 p:[["Faster than sound","Supersonic aircraft fly faster than the speed of sound."],["Concorde","The Anglo-French Concorde carried passengers at twice the speed of sound."],["Quieter booms","New aircraft aim to bring back supersonic travel with softer sonic booms."]],
@@ -87,8 +81,7 @@ s2:[["Fastest crossing","On 7 February 1996, a British Airways Concorde flew fro
 sp:["Champagne and caviar","Concorde passengers, often business travelers and celebrities, paid thousands of dollars for tickets and enjoyed luxury meals, but the cabin was narrow, with small windows the size of a hand."],
 g:[["Supersonic","Faster than the speed of sound"],["Mach number","Speed compared with the speed of sound"],["Sonic boom","A loud noise from shock waves of supersonic flight"],["Delta wing","A triangle-shaped wing"]],
 f:["Chuck Yeager broke the sound barrier in 1947.","Concorde flew at about twice the speed of sound.","Concorde was retired in 2003."],
-fun:"Concorde grew longer by up to about 25 centimeters in flight as friction heated its body.",
-tl:"Lumilipad nang mas mabilis kaysa tunog ang mga supersonic na eroplano. Nagdala ang Concorde ng mga pasahero sa dalawang ulit ng bilis ng tunog, at naglalayon ang mga bagong eroplano na ibalik ang supersonic na biyahe nang may mas mahinang sonic boom."});
+fun:"Concorde grew longer by up to about 25 centimeters in flight as friction heated its body."});
 
 ADDART({id:"airtaxis",t:"Air Taxis and Flying Cars",c:"Technology",i:"🚁",w:"Electric vertical take-off and landing",r:["helicopters","drones","battery","ev","airtrafficcontrol"],
 p:[["Electric aircraft for cities","Air taxis are small electric aircraft that take off and land vertically."],["Many rotors","They use several electric rotors, like large drones."],["Starting soon","Companies are preparing passenger services in a few cities."]],
@@ -100,8 +93,7 @@ s2:[["Flying cars in fiction","The 1960s cartoon The Jetsons and films such as B
 sp:["Paris Olympics","Organizers hoped to fly air taxis during the 2024 Paris Olympics, but certification was not completed in time, showing how hard it is to bring new aircraft into service."],
 g:[["eVTOL","Electric vertical take-off and landing aircraft"],["Vertiport","A landing site for vertical aircraft"],["Type certificate","Official approval of an aircraft design"],["Tilt-rotor","A rotor that can tilt between vertical and forward"]],
 f:["Air taxis take off and land vertically.","Most are battery powered.","China certified the first eVTOL type in 2023."],
-fun:"The dream of flying cars is more than a century old; Glenn Curtiss showed an ‘Autoplane’ in 1917.",
-tl:"Ang air taxi ay maliliit na de-kuryenteng sasakyang panghimpapawid na lumilipad at lumalapag nang patayo. Gumagamit ito ng maraming de-kuryenteng rotor gaya ng malalaking drone, at naghahanda ang mga kompanya ng serbisyo para sa pasahero sa ilang lungsod."});
+fun:"The dream of flying cars is more than a century old; Glenn Curtiss showed an ‘Autoplane’ in 1917."});
 
 ADDART({id:"bci",t:"Brain–Computer Interfaces",c:"Technology",i:"🧠",w:"Brain–computer interface",r:["brain","nervous","ai","prosthetics","hearingaids"],
 p:[["Thought into action","Brain–computer interfaces let people control devices with brain signals."],["Helping paralyzed people","They help people who cannot move or speak communicate."],["Implants and caps","Some use implanted electrodes; others use sensors on the scalp."]],
@@ -113,8 +105,7 @@ s2:[["A cup of coffee","In 2012, Cathy Hutchinson, paralyzed by a stroke, used a
 sp:["Playing chess by thought","Neuralink’s first participant, Noland Arbaugh, paralyzed from the shoulders down, used his implant to play chess and video games on a computer by thinking about moving the cursor."],
 g:[["BCI","Brain–computer interface"],["Electrode","A conductor that picks up electrical signals"],["EEG","Recording brain waves from the scalp"],["Neurorights","Rights protecting brain data and mental privacy"]],
 f:["Brain waves were first recorded in 1924.","BCIs help paralyzed people communicate.","Chile protects neurorights in its constitution."],
-fun:"In 2012, a paralyzed woman drank coffee by herself using a robotic arm controlled by her thoughts.",
-tl:"Pinapayagan ng brain–computer interface ang mga tao na kontrolin ang mga device gamit ang signal ng utak. Tinutulungan nito ang mga taong hindi makagalaw o makapagsalita, at may gumagamit ng implant habang ang iba ay sensor sa anit."});
+fun:"In 2012, a paralyzed woman drank coffee by herself using a robotic arm controlled by her thoughts."});
 
 ADDART({id:"roboticsurgery",t:"Robotic Surgery",c:"Health and the Body",i:"🦾",w:"Robot-assisted surgery",r:["surgery","robot","medimaging","telemedicine","hospitals"],
 p:[["Robots in the operating room","Surgeons use robotic arms to perform precise operations."],["Small cuts","Robotic surgery uses tiny incisions instead of large openings."],["The surgeon is in control","Robots follow the surgeon’s hand movements."]],
@@ -126,8 +117,7 @@ s2:[["Operation Lindbergh","The 2001 transatlantic operation was nicknamed Opera
 sp:["Grape surgery","In a famous demonstration, surgeons used a da Vinci robot to peel the skin off a grape and stitch it back together, showing its delicate precision."],
 g:[["Robot-assisted surgery","Surgery using robots controlled by surgeons"],["Incision","A surgical cut"],["Console","The control station where the surgeon sits"],["Laparoscopic surgery","Keyhole surgery using a camera"]],
 f:["The da Vinci robot was cleared in 2000.","The first transatlantic operation was in 2001.","Surgeons control the robots."],
-fun:"Surgeons once demonstrated a surgical robot by peeling a grape and stitching its skin back together.",
-tl:"Gumagamit ang mga siruhano ng robotic arm upang magsagawa ng tumpak na operasyon. Maliliit na hiwa lamang ang ginagamit ng robotic surgery, at sinusunod ng robot ang galaw ng kamay ng siruhano."});
+fun:"Surgeons once demonstrated a surgical robot by peeling a grape and stitching its skin back together."});
 
 ADDART({id:"defibrillators",t:"Defibrillators",c:"Health and the Body",i:"❤️",w:"Defibrillation",r:["heart","firstaid","circuits","pacemakers","hospitals"],
 p:[["Restarting the heart’s rhythm","Defibrillators use an electric shock to stop a dangerous heart rhythm."],["Anyone can use one","Automated external defibrillators (AEDs) talk users through each step."],["Every minute counts","Quick CPR and a shock greatly improve survival."]],
@@ -139,8 +129,7 @@ s2:[["Frank Pantridge","Pantridge’s first portable defibrillator weighed about
 sp:["A song for CPR","Some first-aid trainers suggest doing chest compressions to the beat of a song with about 100 to 120 beats per minute to keep the right pace."],
 g:[["Defibrillator","A device that shocks the heart to restore rhythm"],["Ventricular fibrillation","A deadly quivering of the heart"],["AED","Automated external defibrillator"],["CPR","Cardiopulmonary resuscitation"]],
 f:["The first successful human defibrillation was in 1947.","AEDs give spoken instructions.","CPR plus an AED improves survival."],
-fun:"The first portable defibrillator weighed about 70 kilograms and ran on car batteries.",
-tl:"Gumagamit ang defibrillator ng kuryente upang ihinto ang mapanganib na ritmo ng puso. Kahit sino ay maaaring gumamit ng AED dahil ginagabayan nito ang bawat hakbang, at malaki ang naitutulong ng mabilis na CPR at shock."});
+fun:"The first portable defibrillator weighed about 70 kilograms and ran on car batteries."});
 
 ADDART({id:"dnasequencing",t:"DNA Sequencing",c:"Technology",i:"🧬",w:"DNA sequencing",r:["dna","genetherapy","pandemic","evo","cell"],
 p:[["Reading the code of life","DNA sequencing reads the order of letters in DNA."],["The Human Genome Project","Scientists read nearly all human DNA by 2003."],["Faster and cheaper","Sequencing a genome now costs a few hundred dollars."]],
@@ -152,8 +141,7 @@ s2:[["Frederick Sanger","Sanger won the Nobel Prize in Chemistry twice: in 1958 
 sp:["A library of letters","Printed out, the 3 billion letters of one human genome would fill about 200 books the size of a thick telephone directory."],
 g:[["Sequencing","Reading the order of DNA bases"],["Genome","All the DNA in an organism"],["Base","One of the four DNA letters"],["Variant","A different version of a virus or gene"]],
 f:["Sanger sequencing was developed in 1977.","The Human Genome Project finished in 2003.","Sequencing a genome now costs a few hundred dollars."],
-fun:"Reading the first human genome cost billions of dollars; today it costs a few hundred dollars.",
-tl:"Binabasa ng DNA sequencing ang pagkakasunod-sunod ng mga titik sa DNA. Nabasa ng mga siyentipiko ang halos lahat ng DNA ng tao noong 2003, at ilang daang dolyar na lamang ngayon ang gastos sa pag-sequence ng isang genome."});
+fun:"Reading the first human genome cost billions of dollars; today it costs a few hundred dollars."});
 
 ADDART({id:"verticalfarming",t:"Vertical Farming and Hydroponics",c:"Food and Agriculture",i:"🥬",w:"Vertical farming",r:["agri","plantsenses","leds","urban","waterchem"],
 p:[["Farms indoors","Vertical farms grow crops in stacked layers inside buildings."],["No soil needed","Hydroponics grows plants in nutrient-rich water."],["Less water, more energy","They save water and land but use lots of electricity."]],
@@ -165,8 +153,7 @@ s2:[["Farms in space","Astronauts on the International Space Station grew and at
 sp:["Pink farms","The mix of red and blue LED light makes many vertical farms glow pink or purple, an eerie sight compared with green fields."],
 g:[["Hydroponics","Growing plants in nutrient water without soil"],["Aeroponics","Growing plants with roots sprayed by mist"],["Aquaponics","Combining fish farming and hydroponics"],["Vertical farm","An indoor farm with stacked growing layers"]],
 f:["Vertical farms stack crops indoors.","Hydroponics grows plants without soil.","Astronauts ate space-grown lettuce in 2015."],
-fun:"Vertical farms often glow pink because plants grow best under red and blue light.",
-tl:"Nagtatanim ang vertical farm ng mga pananim sa patong-patong na hanay sa loob ng gusali. Hindi nangangailangan ng lupa ang hydroponics, at nakatitipid ito ng tubig at lupa ngunit malakas sa kuryente."});
+fun:"Vertical farms often glow pink because plants grow best under red and blue light."});
 
 ADDART({id:"labgrownmeat",t:"Lab-Grown Meat",c:"Food and Agriculture",i:"🧫",w:"Cultured meat",r:["plantbased","cattle","cell","climate","foodsecurity"],
 p:[["Meat from cells","Cultivated meat is grown from animal cells instead of raised animals."],["The first burger","The first lab-grown burger was cooked in London in 2013."],["Approved in a few countries","Singapore, the United States and a few others allow its sale."]],
@@ -178,8 +165,7 @@ s2:[["Winston Churchill’s prediction","In 1931, Winston Churchill predicted th
 sp:["The first taste","Food critics who tasted the 2013 burger said it was close to meat but lacked fat and juiciness, because it contained only muscle cells."],
 g:[["Cultivated meat","Meat grown from animal cells"],["Bioreactor","A tank for growing cells"],["Growth medium","The nutrient broth cells grow in"],["Scaffold","A structure that cells grow on"]],
 f:["The first lab-grown burger was cooked in 2013.","Singapore approved cultivated meat first, in 2020.","Italy banned cultivated meat in 2023."],
-fun:"The first lab-grown burger, cooked in 2013, cost about 250,000 euros to make.",
-tl:"Pinalalaki ang cultivated meat mula sa selula ng hayop sa halip na mag-alaga ng hayop. Niluto ang unang lab-grown burger sa London noong 2013, at pinapayagan na ang pagbebenta nito sa Singapore, United States at ilang iba pang bansa."});
+fun:"The first lab-grown burger, cooked in 2013, cost about 250,000 euros to make."});
 
 ADDART({id:"hotairballoons",t:"Hot-Air Balloons",c:"Technology",i:"🎈",w:"Hot-air balloon",r:["flight","airships","thermo","weatherforecast","francecountry"],
 p:[["The first human flight","People first flew in a hot-air balloon in 1783."],["Hot air rises","Heating the air inside makes the balloon lighter than the air around it."],["Around the world","A balloon first flew nonstop around the world in 1999."]],
@@ -191,8 +177,7 @@ s2:[["Pilâtre de Rozier","Jean-François Pilâtre de Rozier, the first person t
 sp:["Piccard family","Bertrand Piccard’s grandfather Auguste Piccard flew a balloon into the stratosphere in 1931, and his father Jacques Piccard dived to the deepest point of the ocean in 1960."],
 g:[["Envelope","The fabric bag of a balloon"],["Burner","The device that heats the air"],["Buoyancy","The upward force on something lighter than its surroundings"],["Propane","A gas fuel used by balloon burners"]],
 f:["People first flew in a balloon in 1783.","Hot air rises because it is less dense.","A balloon first circled the world nonstop in 1999."],
-fun:"The first passengers in a hot-air balloon were a sheep, a duck and a rooster.",
-tl:"Unang lumipad ang tao sa hot-air balloon noong 1783. Umaangat ang lobo dahil gumagaan ito kapag pinainit ang hangin sa loob, at unang nakaikot nang walang tigil sa mundo ang isang lobo noong 1999."});
+fun:"The first passengers in a hot-air balloon were a sheep, a duck and a rooster."});
 
 ADDART({id:"parachutes",t:"Parachutes",c:"Technology",i:"🪂",w:"Parachute",r:["flight","grav","hotairballoons","marsrovers","spacesuits"],
 p:[["Slowing a fall","Parachutes use air resistance to slow falling people and objects."],["The first jump","André-Jacques Garnerin made the first parachute jump from a balloon in 1797."],["From skydivers to spacecraft","Parachutes land spacecraft on Earth and Mars."]],
@@ -204,8 +189,7 @@ s2:[["Perseverance’s secret message","The orange and white pattern of Persever
 sp:["Leonardo’s design works","In 2000, British skydiver Adrian Nicholas descended safely under a parachute built of canvas and wood following Leonardo da Vinci’s 500-year-old sketch."],
 g:[["Drag","Air resistance slowing motion"],["Terminal velocity","The steady top speed of a falling object"],["Canopy","The fabric part of a parachute"],["Ripcord","A cord pulled to open a parachute"]],
 f:["Garnerin made the first parachute jump from a balloon in 1797.","Parachutes land spacecraft.","Perseverance’s parachute hid a coded message."],
-fun:"The pattern on the Mars rover Perseverance’s parachute hid the message ‘Dare Mighty Things’ in binary code.",
-tl:"Gumagamit ang parachute ng resistensiya ng hangin upang pabagalin ang pagbagsak ng tao at bagay. Si André-Jacques Garnerin ang unang tumalon gamit ang parachute mula sa lobo noong 1797, at ginagamit din ito sa paglapag ng spacecraft sa Earth at Mars."});
+fun:"The pattern on the Mars rover Perseverance’s parachute hid the message ‘Dare Mighty Things’ in binary code."});
 
 ADDART({id:"subways",t:"Subways and Metros",c:"Technology",i:"🚇",w:"Rapid transit",r:["rail","tunnels","urban","ukcountry","elec"],
 p:[["Trains under the city","Subways are rapid transit railways, often underground."],["London first","The world’s first underground railway opened in London in 1863."],["Moving millions","Metro systems carry millions of passengers in big cities every day."]],
@@ -217,8 +201,7 @@ s2:[["Mind the gap","The London Underground’s recorded warning ‘Mind the gap
 sp:["Busiest system","Tokyo’s rail and metro networks are among the busiest in the world, with ‘pushers’ at some stations once famous for helping squeeze passengers onto crowded trains."],
 g:[["Metro","An urban rapid transit railway"],["Cut and cover","Building a tunnel by digging a trench and roofing it"],["Tunnel boring machine","A machine that digs tunnels"],["Platform screen doors","Doors separating platforms from tracks"]],
 f:["The first underground railway opened in London in 1863.","Tokyo opened Asia’s first subway in 1927.","Shanghai has one of the largest metro networks."],
-fun:"The first underground trains in London were pulled by steam locomotives in tunnels under the streets.",
-tl:"Ang subway ay mabilis na tren sa lungsod na madalas tumatakbo sa ilalim ng lupa. Binuksan sa London noong 1863 ang unang underground railway sa mundo, at milyun-milyong pasahero ang dinadala araw-araw ng mga metro sa malalaking lungsod."});
+fun:"The first underground trains in London were pulled by steam locomotives in tunnels under the streets."});
 
 ADDART({id:"biometrics",t:"Fingerprints and Biometrics",c:"Technology",i:"🖐️",w:"Biometrics",r:["facialrecognition","passwords","smartphone","cybersecurity","eye"],
 p:[["Your body as an ID","Biometrics identifies people by fingerprints, faces, eyes or voices."],["Fingerprints solved crimes","Fingerprints were first used to solve a murder in 1892."],["Unlocking phones","Phones use fingerprint and face scanners instead of passwords."]],
@@ -230,8 +213,7 @@ s2:[["Koalas have fingerprints","Koalas have fingerprints so similar to humans�
 sp:["Fingerprint ridges","Fingerprint ridges may help people grip objects and sense textures, by making skin vibrate as fingers slide across surfaces."],
 g:[["Biometrics","Identifying people by body features"],["Minutiae","Small details in fingerprint ridges"],["Iris","The colored part of the eye"],["Enrollment","Registering someone’s biometric data"]],
 f:["Fingerprints are unique, even for identical twins.","Fingerprints solved a murder in 1892.","Phones use fingerprint and face scanners."],
-fun:"Koalas have fingerprints so similar to humans’ that they could confuse investigators.",
-tl:"Kinikilala ng biometrics ang tao sa pamamagitan ng fingerprint, mukha, mata o boses. Unang ginamit ang fingerprint upang lutasin ang isang pagpatay noong 1892, at gumagamit na ang mga telepono ng fingerprint at face scanner sa halip na password."});
+fun:"Koalas have fingerprints so similar to humans’ that they could confuse investigators."});
 
 ADDART({id:"welding",t:"Welding",c:"Technology",i:"👨‍🏭",w:"Welding",r:["metals","steel","robot","ships","cars"],
 p:[["Joining metal","Welding joins pieces of metal by melting them together."],["Electric arcs","Arc welding uses an electric spark hotter than the Sun’s surface."],["Ships, cars and skyscrapers","Modern construction depends on welding."]],
@@ -243,8 +225,7 @@ s2:[["Underwater welding","Divers weld underwater to repair ships, oil platforms
 sp:["Hotter than the Sun","A welding arc can reach temperatures higher than the surface of the Sun, about 5,500°C."],
 g:[["Welding","Joining materials by melting them together"],["Electric arc","A continuous electric spark"],["Electrode","A conductor that carries current to the weld"],["Filler metal","Metal added to form a weld joint"]],
 f:["Welding joins metal by melting it.","Liberty ships were welded during World War II.","The first welding in space was in 1969."],
-fun:"In space, very clean metal surfaces can weld together just by touching, a process called cold welding.",
-tl:"Pinagdurugtong ng welding ang mga metal sa pagtunaw sa mga ito. Gumagamit ang arc welding ng kislap ng kuryente na mas mainit pa sa ibabaw ng Araw, at nakasalalay sa welding ang paggawa ng barko, kotse at matataas na gusali."});
+fun:"In space, very clean metal surfaces can weld together just by touching, a process called cold welding."});
 
 ADDART({id:"tidalpower",t:"Tidal Power",c:"Technology",i:"🌊",w:"Tidal power",r:["tides","renew","hydropower","moon","oceanenergy"],
 p:[["Energy from tides","Tidal power uses the rise and fall of the sea to make electricity."],["Predictable power","Tides come and go like clockwork, unlike wind and sun."],["Few big plants","Only a few large tidal power stations exist."]],
@@ -256,5 +237,4 @@ s2:[["Old tide mills","Some medieval tide mills still survive, including the Woo
 sp:["Slowing Earth","Tides gradually slow Earth’s rotation, making days longer by about 2 milliseconds per century, and push the Moon about 3.8 centimeters farther away each year."],
 g:[["Tidal power","Electricity from tides"],["Barrage","A dam across an estuary"],["Tidal stream","A fast current caused by tides"],["Tidal range","The height difference between high and low tide"]],
 f:["Tides are caused mainly by the Moon.","La Rance opened in 1966.","Tidal power is very predictable."],
-fun:"The tides slowly push the Moon about 3.8 centimeters farther from Earth every year.",
-tl:"Ginagamit ng tidal power ang pagtaas at pagbaba ng dagat upang makagawa ng kuryente. Mahuhulaan ang pagdating ng tides, hindi gaya ng hangin at araw, ngunit iilan lamang ang malalaking tidal power station."});
+fun:"The tides slowly push the Moon about 3.8 centimeters farther from Earth every year."});

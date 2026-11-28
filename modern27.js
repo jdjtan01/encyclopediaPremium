@@ -9,8 +9,7 @@ s2:[["Why knuckles crack","When you pull or bend a joint, the pressure inside th
 sp:["Babies’ bones","Newborn babies have about 300 bones and soft spots in the skull called fontanelles, where the bones have not yet joined. As children grow, some bones fuse, leaving adults with 206 bones."],
 g:[["Joint","A place where bones meet"],["Ligament","A tough band connecting bone to bone"],["Cartilage","Smooth, firm tissue covering bone ends"],["Arthritis","Inflammation and pain in joints"]],
 f:["The knee is the largest joint in the body.","Babies have about 300 bones, adults 206.","Cracking your knuckles does not cause arthritis."],
-fun:"The smallest joints in the body are between the three tiny bones of the middle ear, which pass sound vibrations to the inner ear.",
-tl:"Ang kasukasuan ay lugar kung saan nagtatagpo ang dalawa o higit pang buto. Pinagdurugtong ang mga ito ng ligament at pinapakinis ng cartilage at likido, at may iba’t ibang uri tulad ng hinge at ball-and-socket."});
+fun:"The smallest joints in the body are between the three tiny bones of the middle ear, which pass sound vibrations to the inner ear."});
 
 ADDART({id:"laughter",t:"Laughter",c:"Health and the Body",i:"😂",w:"Laughter",r:["brain","emotions","comedy","psychology","stress"],
 p:[["A social signal","Laughter is a sound people make when something is funny or when they feel happy and connected."],["Older than language","Apes and even rats make laugh-like sounds during play."],["Good for you","Laughing can relieve stress and help people bond."]],
@@ -22,8 +21,7 @@ s2:[["Tickling","You cannot tickle yourself well because your brain predicts the
 sp:["Laughing rats","In the 1990s, neuroscientist Jaak Panksepp discovered that rats make ultrasonic chirps, too high for humans to hear, when tickled or playing. Tickled rats chased the scientist’s hand to be tickled again, suggesting that playful joy is an ancient emotion."],
 g:[["Diaphragm","The muscle under the lungs that helps us breathe"],["Endorphins","Natural chemicals that reduce pain and improve mood"],["Contagious","Spreading easily from person to person"],["Incongruity","Something that doesn’t fit what we expect"]],
 f:["Rats laugh when tickled, but too high-pitched for us to hear.","Most laughter follows ordinary remarks, not jokes.","You can’t tickle yourself because your brain predicts the touch."],
-fun:"One of the world’s oldest recorded jokes, from ancient Sumer around 1900 BC, is a rude joke about a young woman and her husband, showing that people have always loved silly humor.",
-tl:"Ang pagtawa ay likas na tugon kapag may nakakatawa o kapag masaya at malapit tayo sa iba. Mas matanda ito kaysa wika, dahil tumatawa rin ang mga unggoy at daga kapag naglalaro, at nakababawas ito ng stress."});
+fun:"One of the world’s oldest recorded jokes, from ancient Sumer around 1900 BC, is a rude joke about a young woman and her husband, showing that people have always loved silly humor."});
 
 ADDART({id:"autism",t:"Autism",c:"Health and the Body",i:"🧩",w:"Autism",r:["brain","mental","psychology","dyslexia","antivax"],
 p:[["A different way of thinking","Autism is a developmental condition that affects how people communicate, interact and experience the world."],["A spectrum","Autistic people differ widely in their strengths and the support they need."],["Common","About 1 in 31 children in the United States is diagnosed with autism."]],
@@ -35,8 +33,7 @@ s2:[["Sensory experiences","Many autistic people experience sensations more inte
 sp:["Temple Grandin","Temple Grandin, an autistic woman who did not speak until she was about four, became a professor of animal science and designed humane livestock facilities used across North America. Her books and talks helped change how people understand autism."],
 g:[["Spectrum","A wide range of different forms"],["Neurodiversity","The natural variety of human brains and minds"],["Diagnosis","Identifying a condition"],["Stimming","Repetitive movements or sounds that help self-regulation"]],
 f:["Autism is a lifelong condition, not an illness that can be caught.","Research has found no link between vaccines and autism.","Many autistic people are diagnosed as adults."],
-fun:"Temple Grandin invented a ‘hug machine’ that applies gentle pressure, which she found calming; similar weighted blankets are now widely used.",
-tl:"Ang autism ay kondisyong pang-develop na nakaaapekto sa pakikipag-usap, pakikisalamuha at pagdanas ng mundo. Tinatawag itong spectrum dahil iba-iba ang kalakasan at pangangailangan ng mga taong autistic, at walang kaugnayan ito sa mga bakuna."});
+fun:"Temple Grandin invented a ‘hug machine’ that applies gentle pressure, which she found calming; similar weighted blankets are now widely used."});
 
 ADDART({id:"commoncold",t:"The Common Cold",c:"Health and the Body",i:"🤧",w:"Common cold",r:["immune","flu","hygiene","antibiotics","fever"],
 p:[["The most common illness","The common cold is a mild viral infection of the nose and throat."],["Over 200 viruses","Rhinoviruses cause most colds, which is why there is no vaccine."],["Rest and time","Colds usually get better on their own in about a week."]],
@@ -48,8 +45,7 @@ s2:[["Colds and flu","Flu, caused by influenza viruses, usually starts suddenly 
 sp:["The Common Cold Unit","From 1946 to 1990, Britain’s Common Cold Unit in Salisbury invited volunteers to stay for 10 days, free of charge, to be deliberately given colds for research. About 20,000 people took part. Although no cure was found, the unit learned much about how colds spread."],
 g:[["Virus","A tiny germ that can only multiply inside living cells"],["Rhinovirus","The most common type of cold virus"],["Respiratory tract","The nose, throat, airways and lungs"],["Antibiotic","A medicine that kills bacteria, not viruses"]],
 f:["More than 200 different viruses can cause a cold.","Antibiotics do not work on colds.","Rhinovirus means ‘nose virus’."],
-fun:"Volunteers at Britain’s Common Cold Unit were given a free 10-day holiday in the countryside, and some couples who met there later married.",
-tl:"Ang sipon ay banayad na impeksyon ng virus sa ilong at lalamunan, at ito ang pinakakaraniwang sakit ng tao. Mahigit 200 virus ang maaaring magdulot nito, kaya walang bakuna, at kusa itong gumagaling sa mga isang linggo."});
+fun:"Volunteers at Britain’s Common Cold Unit were given a free 10-day holiday in the countryside, and some couples who met there later married."});
 
 ADDART({id:"alzheimers",t:"Alzheimer’s Disease and Dementia",c:"Health and the Body",i:"🧠",w:"Alzheimer's disease",r:["brain","memory","aging","agingworld","mental"],
 p:[["Memory loss","Dementia is a decline in memory and thinking that affects daily life."],["The most common cause","Alzheimer’s disease causes most cases of dementia."],["A growing challenge","About 57 million people worldwide live with dementia."]],
@@ -61,8 +57,7 @@ s2:[["Caring for people with dementia","Most people with dementia are cared for 
 sp:["The Nun Study","Since 1986, researchers have studied hundreds of elderly nuns in the United States who donated their brains to science. Some nuns whose brains showed many plaques had no symptoms of dementia, suggesting that education, mental activity and positive emotions may help the brain cope with disease."],
 g:[["Dementia","A decline in memory and thinking that affects daily life"],["Neuron","A nerve cell in the brain"],["Amyloid","A protein that forms plaques in Alzheimer’s disease"],["Caregiver","A person who looks after someone who needs help"]],
 f:["Dementia is not a normal part of aging.","Alzheimer’s disease causes most cases of dementia.","Music memories often survive late into dementia."],
-fun:"Auguste Deter’s original medical files and brain slides were rediscovered in Frankfurt in the 1990s, almost 90 years after Alzheimer studied them.",
-tl:"Ang dementia ay paghina ng memorya at pag-iisip na nakaaapekto sa araw-araw na buhay, at ang Alzheimer’s disease ang pinakakaraniwang sanhi nito. Mga 57 milyong tao sa mundo ang may dementia, at wala pang lunas, ngunit may mga bagong gamot na nakapagpapabagal nito."});
+fun:"Auguste Deter’s original medical files and brain slides were rediscovered in Frankfurt in the 1990s, almost 90 years after Alzheimer studied them."});
 
 ADDART({id:"cholera",t:"Cholera",c:"Health and the Body",i:"💧",w:"Cholera",r:["germtheory","sanitation","waterscarcity","pandemic","antibiotics"],
 p:[["A waterborne disease","Cholera is an infection of the intestines spread by contaminated water and food."],["Deadly but treatable","It can kill within hours, but simple rehydration saves most patients."],["Clean water stops it","Cholera disappears where people have clean water and sanitation."]],
@@ -74,10 +69,9 @@ s2:[["Oral rehydration solution","Developed in Bangladesh and India in the 1960s
 sp:["The Broad Street pump","A replica of the Broad Street pump, without a handle, stands in Soho, London, near a pub named after John Snow. Public health experts sometimes hold ceremonies removing a pump handle to celebrate disease prevention."],
 g:[["Dehydration","Loss of too much water from the body"],["Epidemiology","The study of how diseases spread in populations"],["Sanitation","Systems for safely removing human waste"],["Pandemic","A disease outbreak spreading across many countries"]],
 f:["Cholera can kill within hours but is easily treated with rehydration.","John Snow’s map is a famous example of data saving lives.","The seventh cholera pandemic has continued since 1961."],
-fun:"John Snow was also a pioneer of anesthesia and gave chloroform to Queen Victoria during the birth of two of her children.",
-tl:"Ang kolera ay impeksyon sa bituka na kumakalat sa maruming tubig at pagkain. Maaari itong pumatay sa loob ng ilang oras, ngunit karamihan sa pasyente ay naliligtas ng simpleng rehydration, at nawawala ito kung may malinis na tubig at sanitasyon."});
+fun:"John Snow was also a pioneer of anesthesia and gave chloroform to Queen Victoria during the birth of two of her children."});
 
-ADDART({id:"fandom",t:"Fandoms and Fan Culture",c:"The Modern World",i:"🎤",w:"Fandom",r:["kpop","anime","cosplay","socialmedia","superhero"],
+ADDART({id:"fandom",t:"Fandoms and Fan Culture",c:"The Modern World",i:"🎤",w:"Fandom",r:["kpop","anime","cosplay","socialmedia","superhero","fanfiction","tradingcards"],
 p:[["Shared passion","A fandom is a community of fans devoted to a show, band, book, game or sports team."],["Creative fans","Fans write stories, make art and organize events."],["Powerful online","Social media has made fandoms larger and more influential than ever."]],
 l:"A fandom is a community of fans who share enthusiasm for something, such as a television series, film franchise, book series, musician, video game or sports team. Fans do more than watch or listen: they discuss theories, collect merchandise, travel to concerts and conventions, make fan art and fan fiction, dress up as characters in cosplay, and form friendships with people around the world. Organized fandom dates back at least to the 19th century, when readers of Sherlock Holmes stories reacted with dismay to the detective’s apparent death in 1893, and grew with science fiction clubs, Beatlemania and Star Trek conventions in the 20th century. The internet and social media transformed fandoms into global networks that can trend topics, raise money for charity and influence what companies make. Fandoms can create belonging and creativity, but can also show darker sides, such as harassment of critics, celebrities or other fans.",
 s:[["Early fandoms","When Arthur Conan Doyle killed off Sherlock Holmes in 1893, thousands of readers cancelled subscriptions to the magazine that published the stories, and he eventually brought Holmes back. Science fiction fans organized clubs and fanzines from the 1930s, and the first World Science Fiction Convention was held in New York in 1939."],["Conventions","Star Trek fans held their first large convention in New York in 1972 and campaigned successfully to save the show from cancellation in 1968. San Diego Comic-Con, started in 1970 with about 300 people, now attracts well over 100,000 visitors. Anime, gaming and K-pop conventions are held around the world."],["Fan creativity","Fan fiction imagines new adventures for favorite characters, and websites host millions of fan stories. Some famous authors began by writing fan fiction. Fans also create art, videos, music remixes, translations of foreign shows and wikis that document every detail of their favorite worlds."],["Fandom online","K-pop fandoms, such as BTS’s ARMY, coordinate streaming, voting and charity drives across countries. Sports fans follow teams worldwide through online communities. When fans feel strongly, they can pressure studios to change plans, as when fans persuaded a studio to redesign Sonic the Hedgehog for a 2020 film."]],
@@ -87,8 +81,7 @@ s2:[["Sports fans","Sports fandom is one of the oldest and largest. Fans wear te
 sp:["The word ‘fan’","The word fan is probably short for ‘fanatic’ and was first used in the late 19th century for enthusiastic baseball supporters in the United States. Fandom combines ‘fan’ with ‘-dom’, as in kingdom."],
 g:[["Fandom","A community of fans"],["Fan fiction","Stories written by fans using existing characters"],["Convention","A large gathering of fans"],["Merchandise","Products such as shirts and toys linked to a brand"]],
 f:["Readers made Arthur Conan Doyle bring Sherlock Holmes back.","San Diego Comic-Con began with about 300 people.","‘Fan’ probably comes from ‘fanatic’."],
-fun:"After the 1968 fan letter-writing campaign that saved Star Trek, NASA named its first space shuttle test vehicle Enterprise in 1976, partly because of fan petitions.",
-tl:"Ang fandom ay komunidad ng mga tagahanga ng isang palabas, banda, aklat, laro o koponan. Gumagawa sila ng fan art, kuwento at mga pagtitipon, at pinalaki ng social media ang kanilang impluwensiya sa buong mundo."});
+fun:"After the 1968 fan letter-writing campaign that saved Star Trek, NASA named its first space shuttle test vehicle Enterprise in 1976, partly because of fan petitions."});
 
 ADDART({id:"emoji",t:"Emoji",c:"The Modern World",i:"😀",w:"Emoji",r:["smartphone","socialmedia","writing","memes","langevo"],
 p:[["Pictures in messages","Emoji are small pictures used in text messages and online."],["Born in Japan","The first popular set was designed in Japan in 1999."],["A global language?","Nearly 4,000 emoji are now part of the Unicode standard."]],
@@ -100,8 +93,7 @@ s2:[["Most popular emoji","For years, ‘Face with Tears of Joy’ 😂 was the 
 sp:["Emoji in a museum","In 2016, the Museum of Modern Art in New York added Kurita’s original 176 emoji to its permanent collection, recognizing them as an important piece of design history."],
 g:[["Emoji","A small picture used in digital messages"],["Emoticon","A face made from keyboard characters, like :-)"],["Unicode","The international standard for digital text characters"],["Pixel","A tiny dot that makes up a digital image"]],
 f:["‘Emoji’ is not related to the word ‘emotion’.","The first popular emoji were only 12 by 12 pixels.","A Unicode emoji looks different on different companies’ phones."],
-fun:"Herman Melville’s novel Moby-Dick has been ‘translated’ entirely into emoji in a crowdsourced project called Emoji Dick, which the US Library of Congress added to its collection.",
-tl:"Ang emoji ay maliliit na larawang ginagamit sa text at online upang ipahayag ang damdamin. Nagsimula ito sa Japan noong 1999, at halos 4,000 na ang emoji sa pamantayang Unicode."});
+fun:"Herman Melville’s novel Moby-Dick has been ‘translated’ entirely into emoji in a crowdsourced project called Emoji Dick, which the US Library of Congress added to its collection."});
 
 ADDART({id:"realitytv",t:"Reality Television",c:"The Modern World",i:"📺",w:"Reality television",r:["tv","influencers","streaming","comedy","fandom"],
 p:[["Real people on screen","Reality TV shows ordinary people or celebrities in unscripted situations."],["Many formats","Formats include competitions, talent shows and documentaries of daily life."],["Popular and criticized","Viewers love the drama, but critics question how ‘real’ it is."]],
@@ -113,8 +105,7 @@ s2:[["A global business","Reality formats are among the most traded TV products 
 sp:["The Truman Show","The 1998 film The Truman Show imagined a man who does not know his whole life is a TV show watched by millions. Released just before the reality TV boom, it seemed to predict the genre and remains a popular way to discuss privacy and media."],
 g:[["Genre","A category of film, TV or literature"],["Unscripted","Without written lines for the people on screen"],["Format","A show’s concept and rules, sold to other countries"],["Duty of care","A responsibility to protect people from harm"]],
 f:["Big Brother was first broadcast in the Netherlands in 1999.","Reality shows are much cheaper to make than dramas.","Kelly Clarkson became famous by winning American Idol."],
-fun:"The name Big Brother comes from George Orwell’s novel Nineteen Eighty-Four, in which an all-seeing ruler watches citizens through screens.",
-tl:"Ang reality TV ay mga palabas na nagpapakita ng ordinaryong tao o artista sa mga sitwasyong hindi iskrip. Popular ito dahil sa drama, ngunit pinupuna kung gaano ito katotoo at kung paano tinatrato ang mga kalahok."});
+fun:"The name Big Brother comes from George Orwell’s novel Nineteen Eighty-Four, in which an all-seeing ruler watches citizens through screens."});
 
 ADDART({id:"themeparks",t:"Theme Parks",c:"The Modern World",i:"🎢",w:"Amusement park",r:["overtourism","cinema","anim","machines","tourism"],
 p:[["Rides and stories","Theme parks are amusement parks built around stories, characters or themes."],["From pleasure gardens","They grew from old pleasure gardens and fairs."],["Disneyland changed everything","Disneyland, opened in 1955, created the modern theme park."]],
@@ -126,8 +117,7 @@ s2:[["Why we enjoy thrill rides","Roller coasters trigger the body’s fight-or-
 sp:["Tivoli’s influence","Walt Disney visited Copenhagen’s Tivoli Gardens in the early 1950s and admired its cleanliness, lights, gardens and friendly atmosphere. He said it helped inspire his plans for Disneyland."],
 g:[["Theme park","An amusement park built around themes or stories"],["Animatronics","Robotic figures that move and talk"],["Adrenaline","A hormone released in exciting or scary moments"],["Attraction","A ride, show or feature that draws visitors"]],
 f:["Bakken in Denmark has operated since 1583.","Walt Disney was inspired partly by Tivoli Gardens.","The first Ferris wheel was built for the 1893 Chicago world’s fair."],
-fun:"Disneyland’s Sleeping Beauty Castle is only about 23 meters tall, but it uses forced perspective, with smaller details higher up, to look much taller.",
-tl:"Ang theme park ay pasyalang may mga sakayan at atraksiyong batay sa isang tema o kuwento. Binago ng Disneyland noong 1955 ang mga theme park, at ngayon ay dinarayo ito ng sampu-sampung milyong bisita taun-taon."});
+fun:"Disneyland’s Sleeping Beauty Castle is only about 23 meters tall, but it uses forced perspective, with smaller details higher up, to look much taller."});
 
 ADDART({id:"airpollution",t:"Air Pollution",c:"The Modern World",i:"😷",w:"Air pollution",r:["pollution","lungs","climchange","fossilfuels","coal"],
 p:[["Dirty air","Air pollution is harmful gases and particles in the air we breathe."],["A major killer","The WHO links air pollution to about 7 million early deaths a year."],["Cleaner air is possible","Laws and cleaner technology have improved air quality in many cities."]],
@@ -139,8 +129,7 @@ s2:[["Measuring air quality","Air quality indexes turn measurements of pollutant
 sp:["The lead story","Adding lead to gasoline to improve engine performance, from the 1920s, spread toxic lead around the world, harming children’s brains. After decades of campaigns, the last country to stop selling leaded gasoline for cars, Algeria, did so in 2021, which the UN called a major public health victory."],
 g:[["Pollutant","A harmful substance in the environment"],["PM2.5","Fine particles less than 2.5 micrometers across"],["Smog","Smoke and fog, or haze from air pollution"],["Catalytic converter","A device that cleans car exhaust"]],
 f:["About 99 percent of people breathe air that exceeds WHO guidelines.","The Great Smog of 1952 killed thousands of Londoners.","Leaded gasoline for cars was finally phased out worldwide in 2021."],
-fun:"The word ‘smog’, combining smoke and fog, was popularized in 1905 by a London doctor, Henry Antoine Des Voeux.",
-tl:"Ang polusyon sa hangin ay mga mapanganib na gas at partikulo sa hanging nilalanghap natin. Iniuugnay ito ng WHO sa mga 7 milyong maagang kamatayan bawat taon, ngunit napabuti ng mga batas at malinis na teknolohiya ang hangin sa maraming lungsod."});
+fun:"The word ‘smog’, combining smoke and fog, was popularized in 1905 by a London doctor, Henry Antoine Des Voeux."});
 
 ADDART({id:"minimumwage",t:"The Minimum Wage",c:"The Modern World",i:"💵",w:"Minimum wage",r:["inequality","costliving","gigeconomy","labor","inflation"],
 p:[["A legal pay floor","A minimum wage is the lowest pay employers are allowed to give workers."],["Over a century old","New Zealand and Australia introduced the first minimum wages in the 1890s."],["Much debated","Economists disagree about its effects on jobs and poverty."]],
@@ -152,5 +141,4 @@ s2:[["Who earns the minimum wage?","Minimum wage workers often work in retail, h
 sp:["The Harvester judgment","In 1907 the Sunshine Harvester factory in Melbourne, maker of farm machinery, applied for a tax exemption that depended on paying ‘fair and reasonable’ wages. Justice Higgins studied family budgets to decide what that meant, setting a basic wage of seven shillings a day."],
 g:[["Minimum wage","The lowest pay allowed by law"],["Living wage","Pay needed to cover basic living costs"],["Informal job","Work not registered or protected by labor laws"],["Inflation","A general rise in prices over time"]],
 f:["New Zealand introduced the first national minimum wage system.","The first US federal minimum wage was 25 cents an hour.","An economist won a Nobel Prize partly for studying minimum wages."],
-fun:"US President Franklin D. Roosevelt said in 1933 that no business that depends on paying workers less than a living wage has any right to continue.",
-tl:"Ang minimum wage ay pinakamababang sahod na pinapayagang ibigay ng employer sa manggagawa. Nagsimula ito sa New Zealand noong 1894, at pinagtatalunan ng mga ekonomista ang epekto nito sa trabaho at kahirapan."});
+fun:"US President Franklin D. Roosevelt said in 1933 that no business that depends on paying workers less than a living wage has any right to continue."});

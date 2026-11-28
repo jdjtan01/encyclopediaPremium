@@ -9,8 +9,7 @@ s2:[["Beethoven’s ear trumpets","Ludwig van Beethoven, who became deaf, used e
 sp:["Graeme Clark","Graeme Clark was inspired by his father, who was deaf. He developed the multichannel cochlear implant at the University of Melbourne; it was first implanted in Rod Saunders in 1978, and the company Cochlear was founded to produce it."],
 g:[["Cochlea","The spiral-shaped hearing organ in the inner ear"],["Auditory nerve","The nerve carrying sound signals to the brain"],["Amplify","To make louder"],["Profound deafness","Very severe hearing loss"]],
 f:["More than 1.5 billion people have some hearing loss.","Cochlear implants stimulate the hearing nerve directly.","The US allowed over-the-counter hearing aids in 2022."],
-fun:"Some modern hearing aids can stream phone calls and music directly into the ears and translate languages in real time.",
-tl:"Pinalalakas at nililinaw ng hearing aid ang mga tunog, habang direktang pinasisigla ng cochlear implant ang ugat ng pandinig. Mabibili na ngayon ang ilang hearing aid nang walang reseta."});
+fun:"Some modern hearing aids can stream phone calls and music directly into the ears and translate languages in real time."});
 
 ADDART({id:"ereaders",t:"E-readers",c:"Technology",i:"📖",w:"E-reader",r:["novel","encyclopedias","libraries","print","smartphone"],
 p:[["Digital books","E-readers are devices designed for reading electronic books."],["Electronic ink","Their screens look like paper and use little power."],["Changing publishing","E-books changed how people buy and borrow books."]],
@@ -22,8 +21,7 @@ s2:[["Project Gutenberg","In 1971, Michael Hart typed the US Declaration of Inde
 sp:["Audiobooks","Alongside e-books, audiobooks have grown rapidly with smartphones and streaming services. Many people now ‘read’ books by listening while commuting or exercising."],
 g:[["E-book","A book in digital form"],["E-ink","A paper-like electronic display"],["License","Permission to use something under conditions"],["Public domain","Works no longer protected by copyright"]],
 f:["E-ink screens use power only when the page changes.","The Kindle launched in 2007.","Project Gutenberg began in 1971."],
-fun:"Amazon once deleted copies of George Orwell’s 1984 from readers’ devices, an event many found fittingly Orwellian.",
-tl:"Ang e-reader ay aparatong idinisenyo para sa pagbabasa ng mga digital na libro. Mukhang papel ang screen nito at kaunti lamang ang kuryenteng gamit, at binago ng mga e-book ang paraan ng pagbili at paghiram ng libro."});
+fun:"Amazon once deleted copies of George Orwell’s 1984 from readers’ devices, an event many found fittingly Orwellian."});
 
 ADDART({id:"videocalls",t:"Video Calls",c:"Technology",i:"📹",w:"Videotelephony",r:["internet","phone","smartphone","covid19","remotework"],
 p:[["Seeing while talking","Video calls let people see and hear each other in real time."],["A long-imagined invention","Picturephones were demonstrated as early as 1964."],["The pandemic boom","Video calls became part of daily life during COVID-19."]],
@@ -35,8 +33,7 @@ s2:[["Video calls in fiction","Science fiction long predicted video phones, from
 sp:["Calls from space","Astronauts on the International Space Station hold video calls with family, schools and mission control, sometimes with delays of a few seconds as signals travel via satellites."],
 g:[["Codec","Software that compresses and decompresses data"],["Webcam","A camera connected to a computer"],["Telehealth","Health care delivered remotely"],["Latency","Delay in data transmission"]],
 f:["The Picturephone was demonstrated in 1964.","Zoom grew to 300 million daily participants in 2020.","Video calls help deaf people talk in sign language."],
-fun:"In 1927, US Commerce Secretary Herbert Hoover appeared in an early two-way television demonstration between Washington and New York.",
-tl:"Pinapayagan ng video call ang mga tao na magkita at magkarinigan nang sabay. Ipinakita ang mga picturephone noon pang 1964, at naging bahagi ng araw-araw na buhay ang video call noong COVID-19."});
+fun:"In 1927, US Commerce Secretary Herbert Hoover appeared in an early two-way television demonstration between Washington and New York."});
 
 ADDART({id:"fuelcells",t:"Fuel Cells",c:"Technology",i:"🔋",w:"Fuel cell",r:["hydrogen","battery","ev","apollo","energytransition"],
 p:[["Electricity from hydrogen","Fuel cells turn hydrogen and oxygen into electricity, water and heat."],["No burning","They make power through a chemical reaction, not combustion."],["From Apollo to buses","Fuel cells powered spacecraft and now run some vehicles."]],
@@ -48,8 +45,7 @@ s2:[["Hydrogen trains","In 2018, Germany introduced the world’s first passenge
 sp:["Water for astronauts","The water produced by Apollo’s fuel cells was used for drinking and preparing food, but it sometimes contained hydrogen bubbles, which gave astronauts gas."],
 g:[["Electrolyte","A substance that lets ions move between electrodes"],["Anode and cathode","The two electrodes of a cell"],["Green hydrogen","Hydrogen made using renewable electricity"],["Combustion","Burning"]],
 f:["Fuel cells produce only water and heat.","Apollo astronauts drank water made by fuel cells.","The first hydrogen passenger trains ran in Germany in 2018."],
-fun:"The principle of the fuel cell was discovered in 1839, decades before the internal combustion engine became practical.",
-tl:"Ginagawang kuryente, tubig at init ng fuel cell ang hydrogen at oxygen. Hindi ito nagsusunog, at nagpatakbo ito ng mga spacecraft at ngayon ng ilang sasakyan."});
+fun:"The principle of the fuel cell was discovered in 1839, decades before the internal combustion engine became practical."});
 
 ADDART({id:"exoskeletons",t:"Exoskeletons",c:"Technology",i:"🦿",w:"Powered exoskeleton",r:["robot","prosthetics","nervous","olymp","ai"],
 p:[["Wearable robots","Exoskeletons are wearable frames that support or strengthen the body."],["Walking again","Some help people with paralysis stand and walk."],["Lighter work","Workers use exoskeletons to reduce strain when lifting."]],
@@ -61,8 +57,7 @@ s2:[["Soft exosuits","Researchers at Harvard developed soft exosuits made of fab
 sp:["Ekso Bionics","Amanda Boxtel, paralyzed in a skiing accident in 1992, became one of the first people to walk using an Ekso exoskeleton in 2010 and became an advocate for the technology."],
 g:[["Exoskeleton","A hard outer frame"],["Tetraplegia","Paralysis of all four limbs"],["Passive device","One without motors"],["Rehabilitation","Recovery of abilities after injury"]],
 f:["Exoskeletons can help paralyzed people walk.","The first personal exoskeleton was approved in 2014.","GE built a huge powered suit in the 1960s."],
-fun:"General Electric’s 1960s Hardiman exoskeleton weighed about 680 kilograms, as much as the load it was meant to lift.",
-tl:"Ang exoskeleton ay naisusuot na balangkas na sumusuporta o nagpapalakas sa katawan. Tumutulong ang ilan sa mga taong paralisado na tumayo at maglakad, at ginagamit ito ng mga manggagawa upang gumaan ang pagbubuhat."});
+fun:"General Electric’s 1960s Hardiman exoskeleton weighed about 680 kilograms, as much as the load it was meant to lift."});
 
 ADDART({id:"maglev",t:"Maglev Trains",c:"Technology",i:"🚄",w:"Maglev",r:["highspeedrail","rail","magnet","chinacountry","japancountry"],
 p:[["Floating trains","Maglev trains float above their tracks using magnets."],["Record speeds","A Japanese maglev reached 603 km/h in 2015."],["Few lines","Only a handful of maglev lines operate, mostly in Asia."]],
@@ -74,8 +69,7 @@ s2:[["The Lathen accident","In September 2006, a Transrapid test train crashed i
 sp:["Urban maglevs","Slower maglevs serve cities in Asia, including the Linimo line in Aichi, Japan, opened for Expo 2005, and lines in Changsha and Beijing in China and Incheon in South Korea."],
 g:[["Levitation","Floating in the air"],["Linear motor","An electric motor that produces straight-line motion"],["Superconductor","A material with no electrical resistance when very cold"],["Guideway","The track a maglev follows"]],
 f:["Maglev trains float above their tracks.","A Japanese maglev reached 603 km/h in 2015.","The Shanghai Maglev opened in 2004."],
-fun:"Passengers on the Shanghai Maglev can watch a display showing the train’s speed as it zooms toward 300 kilometers per hour.",
-tl:"Lumulutang ang maglev train sa ibabaw ng riles gamit ang malalakas na magnet. Umabot sa 603 km/h ang isang maglev sa Japan noong 2015, ngunit iilan lamang ang linya nito, karamihan sa Asya."});
+fun:"Passengers on the Shanghai Maglev can watch a display showing the train’s speed as it zooms toward 300 kilometers per hour."});
 
 ADDART({id:"syntheticfibers",t:"Nylon and Synthetic Fibers",c:"Technology",i:"🧵",w:"Synthetic fiber",r:["plastics","clothing","weaving","fossilfuels","microplastics"],
 p:[["Man-made threads","Synthetic fibers such as nylon and polyester are made from chemicals."],["Nylon stockings","Nylon stockings caused shopping frenzies in the 1940s."],["Most of our clothes","Synthetics now make up most of the world’s fiber production."]],
@@ -87,8 +81,7 @@ s2:[["Kevlar","In 1965, DuPont chemist Stephanie Kwolek invented Kevlar, a fiber
 sp:["Velcro and nylon","George de Mestral’s hook-and-loop fastener became practical only when he discovered that nylon, sewn under infrared light, formed tough, tiny hooks."],
 g:[["Polymer","A long chain molecule made of repeating units"],["Spinneret","A device that forms fibers from liquid polymer"],["Microfiber","A tiny fiber shed from fabric"],["Fast fashion","Cheap clothing made quickly in large amounts"]],
 f:["Nylon was invented in 1935.","Polyester is the most produced fiber.","Synthetic clothes shed microplastics when washed."],
-fun:"About 4 million pairs of nylon stockings were sold in a few hours on the first day they went on sale nationally in the United States.",
-tl:"Ang synthetic fiber gaya ng nylon at polyester ay gawa sa mga kemikal. Nagdulot ng pagkakagulo sa pamimili ang nylon stockings noong 1940s, at ngayon ay synthetic na ang karamihan ng hiblang ginagawa sa mundo."});
+fun:"About 4 million pairs of nylon stockings were sold in a few hours on the first day they went on sale nationally in the United States."});
 
 ADDART({id:"bluetooth",t:"Bluetooth",c:"Technology",i:"🦷",w:"Bluetooth",r:["wifi","headphones","smartphone","radio","smarthome"],
 p:[["Short-range wireless","Bluetooth connects devices over short distances without cables."],["Named after a king","It is named after Harald Bluetooth, a Viking king."],["Billions of devices","Earbuds, keyboards, watches and cars use Bluetooth."]],
@@ -100,8 +93,7 @@ s2:[["Harald Bluetooth","Harald Gormsson ruled Denmark and parts of Norway in th
 sp:["Audio sharing","Bluetooth LE Audio and Auracast technology, introduced in the 2020s, let one device broadcast sound to many earbuds or hearing aids at once, for example in airports, theaters and gyms."],
 g:[["Pairing","Linking two Bluetooth devices securely"],["Frequency hopping","Rapidly switching radio channels"],["Piconet","A small Bluetooth network"],["Rune","A letter of an ancient Germanic alphabet"]],
 f:["Bluetooth is named after a Viking king.","The Bluetooth logo combines two runes.","Bluetooth hops channels up to 1,600 times a second."],
-fun:"Bluetooth’s name was meant to be temporary until marketers found something better, but no better name was agreed on.",
-tl:"Ang Bluetooth ay nag-uugnay ng mga aparato sa maikling distansya nang walang kable. Ipinangalan ito kay Harald Bluetooth, isang haring Viking, at ginagamit ito ng earbuds, keyboard, relo at kotse."});
+fun:"Bluetooth’s name was meant to be temporary until marketers found something better, but no better name was agreed on."});
 
 ADDART({id:"keyboards",t:"Computer Keyboards and Mice",c:"Technology",i:"⌨️",w:"Computer keyboard",r:["typewriter","comp","touchscreens","videogames","spine"],
 p:[["Typing and pointing","Keyboards and mice are the main ways people control computers."],["QWERTY’s long life","The QWERTY layout dates back to typewriters of the 1870s."],["Douglas Engelbart’s mouse","The computer mouse was demonstrated in 1968."]],
@@ -113,8 +105,7 @@ s2:[["The Mother of All Demos","On 9 December 1968, in San Francisco, Engelbart 
 sp:["The @ and # keys","The @ symbol was on typewriters for accounting. The # key, called the hash, pound or number sign, gained new life with phone menus and, from 2007, social media hashtags."],
 g:[["QWERTY","The standard English keyboard layout"],["Input device","A device used to give information to a computer"],["Graphical interface","A screen with windows, icons and pointers"],["Repetitive strain injury","Injury from repeated movements"]],
 f:["QWERTY dates back to 1874.","The first mouse was made of wood.","The mouse was first demonstrated in 1968."],
-fun:"Engelbart’s team called the mouse a ‘mouse’ because the cord coming out of the back looked like a tail; nobody remembered who first used the name.",
-tl:"Ang keyboard at mouse ang pangunahing paraan ng pagkontrol sa computer. Nagmula ang QWERTY layout sa mga makinilya ng 1870s, at ipinakita ang computer mouse noong 1968."});
+fun:"Engelbart’s team called the mouse a ‘mouse’ because the cord coming out of the back looked like a tail; nobody remembered who first used the name."});
 
 ADDART({id:"supercomputers",t:"Supercomputers",c:"Technology",i:"🖥️",w:"Supercomputer",r:["comp","chip","ai","weatherforecast","quantumcomp"],
 p:[["The fastest computers","Supercomputers perform quintillions of calculations per second."],["Exascale era","Several now exceed one exaflop."],["Science machines","They simulate weather, climate, nuclear physics and medicines."]],
@@ -126,10 +117,9 @@ s2:[["Seymour Cray","Seymour Cray, often called the father of supercomputing, de
 sp:["Your phone vs. a Cray","A modern smartphone is many thousands of times faster than the Cray-1, which performed about 160 million calculations per second and cost millions of dollars."],
 g:[["FLOPS","Floating-point operations per second"],["Exascale","Capable of at least one exaflop"],["GPU","A processor that handles many calculations in parallel"],["Benchmark","A standard test of performance"]],
 f:["The fastest supercomputers exceed an exaflop.","China’s LineShine was ranked No. 1 in 2026.","The first supercomputer was the CDC 6600."],
-fun:"An exaflop computer can do in one second what would take every person on Earth calculating once a second for almost four years.",
-tl:"Ang supercomputer ang pinakamabilis na computer, na gumagawa ng quintillion na kalkulasyon bawat segundo. Ginagamit ito sa pag-aaral ng panahon, klima, physics at gamot, at nanguna ang LineShine ng China noong 2026."});
+fun:"An exaflop computer can do in one second what would take every person on Earth calculating once a second for almost four years."});
 
-ADDART({id:"rfid",t:"RFID and NFC",c:"Technology",i:"📶",w:"Radio-frequency identification",r:["qrcodes","digitalpay","radio","dataprivacy","pets"],
+ADDART({id:"rfid",t:"RFID and NFC",c:"Technology",i:"📶",w:"Radio-frequency identification",r:["qrcodes","digitalpay","radio","dataprivacy","pets","barcodes"],
 p:[["Tags that talk","RFID tags store information that can be read by radio waves."],["Tap to pay","NFC, a kind of RFID, lets phones and cards pay with a tap."],["Everywhere","RFID tracks goods, pets, passports and toll payments."]],
 l:"Radio-frequency identification (RFID) is a technology that uses radio waves to identify and track tags attached to objects, animals or people. An RFID tag contains a tiny chip and an antenna; when a reader sends out a radio signal, a passive tag uses the signal’s energy to power itself and reply with its stored information, without a battery or a direct line of sight. Active tags have their own batteries and longer range. RFID grew from World War II ‘identify friend or foe’ systems that recognized aircraft by radio. Today it is used in shop security tags, warehouse inventory, library books, toll-road payment, building access cards, public transport cards, microchips implanted in pets and electronic passports. Near-field communication (NFC), developed in the early 2000s, is a short-range form of RFID that works within a few centimeters and lets smartphones and bank cards make contactless payments, share data and act as keys. RFID has raised privacy concerns because tags can sometimes be read without the owner knowing.",
 s:[["How it works","Passive RFID tags can be as small as a grain of rice. Low-frequency tags work over centimeters, high-frequency tags over about a meter and ultra-high-frequency tags over several meters, allowing whole pallets of goods to be scanned at once as they pass through a warehouse door."],["Contactless payments","Contactless bank cards and phone wallets use NFC with encryption so that each payment uses a one-time code. Contactless payments spread rapidly in the 2010s and especially during the COVID-19 pandemic, when people avoided touching payment terminals."],["Pets and animals","Pet microchips, inserted under the skin, store an identification number that vets and shelters can scan to reunite lost animals with owners. Farmers use RFID ear tags to track livestock, and scientists tag fish and birds to study migration."],["Privacy","Critics worried that RFID tags in clothing or passports could let people be tracked. Electronic passports use encryption and shielded covers. A few people have chosen to have RFID chips implanted in their hands to open doors and pay, a practice that remains rare."]],
@@ -139,8 +129,7 @@ s2:[["The Thing","In 1945, Soviet schoolchildren presented the US ambassador in 
 sp:["Smart shelves","Some clothing stores use RFID tags on every item so that staff can count stock in minutes and customers can use self-checkout by placing items in a bin that reads all the tags at once."],
 g:[["Tag","A small device with a chip and antenna"],["Reader","A device that sends and receives radio signals"],["NFC","Near-field communication"],["Contactless","Working without physical contact"]],
 f:["Passive RFID tags have no battery.","NFC works within a few centimeters.","Pet microchips use RFID."],
-fun:"Some RFID tags are so small that they can be embedded in paper, such as concert tickets and banknote experiments.",
-tl:"Nag-iimbak ng impormasyon ang RFID tag na mababasa sa pamamagitan ng radio waves. Pinapayagan ng NFC, isang uri ng RFID, ang mga telepono at card na magbayad sa isang tapik, at ginagamit ang RFID sa paninda, alagang hayop, pasaporte at toll."});
+fun:"Some RFID tags are so small that they can be embedded in paper, such as concert tickets and banknote experiments."});
 
 ADDART({id:"printers",t:"Printers",c:"Technology",i:"🖨️",w:"Computer printer",r:["print","printing3d","comp","paper","typewriter"],
 p:[["Paper from computers","Printers turn digital documents into marks on paper."],["Laser and inkjet","Most home and office printers use laser or inkjet technology."],["Ink costs","Printer ink is famously expensive."]],
@@ -152,8 +141,7 @@ s2:[["The paperless office","Since the 1970s, people have predicted the ‘paper
 sp:["PC LOAD LETTER","The confusing printer error message ‘PC LOAD LETTER’, meaning ‘add letter-size paper’, became a famous joke about baffling technology after it appeared in the 1999 comedy film Office Space."],
 g:[["Toner","Powdered ink used in laser printers"],["Inkjet","A printer that sprays ink droplets"],["Dot-matrix","Printing using a grid of dots"],["Fuser","Part of a laser printer that melts toner onto paper"]],
 f:["Laser printing was invented in 1969.","Freshly laser-printed pages are warm.","Some color printers add hidden tracking dots."],
-fun:"Printer ink has been compared in price to vintage champagne, costing far more per liter than many luxury liquids.",
-tl:"Ginagawang marka sa papel ng printer ang mga digital na dokumento. Laser o inkjet ang ginagamit ng karamihan ng printer sa bahay at opisina, at kilalang napakamahal ng tinta ng printer."});
+fun:"Printer ink has been compared in price to vintage champagne, costing far more per liter than many luxury liquids."});
 
 ADDART({id:"vendingmachines",t:"Vending Machines",c:"Technology",i:"🥤",w:"Vending machine",r:["money","japancountry","atms","digitalpay","foodsafety"],
 p:[["Automatic shops","Vending machines sell items automatically when money is inserted."],["Ancient origins","Hero of Alexandria described a coin-operated holy water dispenser."],["Japan’s favorite","Japan has about one vending machine for every 30 people."]],
@@ -165,8 +153,7 @@ s2:[["The Automat","Automats were restaurants where customers bought food from r
 sp:["Disaster machines","After the 2011 earthquake and tsunami in Japan, some drink machines were programmed to give out free drinks during emergencies, and they display disaster information on electronic signs."],
 g:[["Dispense","To give out"],["Bill validator","A device that checks banknotes"],["Automat","A restaurant using food vending compartments"],["Automated retail","Selling goods by machine"]],
 f:["The first known vending machine dispensed holy water.","Japan has about 4 million vending machines.","Some vending machines sell cars."],
-fun:"Some Japanese vending machines change their prices based on the outside temperature, and others recognize customers’ faces to suggest drinks.",
-tl:"Awtomatikong nagbebenta ng mga paninda ang vending machine kapag hinulugan ng pera. Inilarawan ni Hero ng Alexandria ang isang makinang naglalabas ng banal na tubig, at may mga 4 milyong vending machine sa Japan."});
+fun:"Some Japanese vending machines change their prices based on the outside temperature, and others recognize customers’ faces to suggest drinks."});
 
 ADDART({id:"walkietalkies",t:"Walkie-Talkies and Two-Way Radios",c:"Technology",i:"📻",w:"Walkie-talkie",r:["radio","phone","ww2","firefighters","police"],
 p:[["Push to talk","Walkie-talkies are handheld radios for talking over short distances."],["Born in wartime","They were developed for soldiers in World War II."],["Still vital","Police, firefighters and workers rely on two-way radios."]],
@@ -178,5 +165,4 @@ s2:[["Walkie-talkie or handie-talkie?","In World War II, ‘walkie-talkie’ ref
 sp:["Mayday","The emergency distress call ‘Mayday’ was proposed in 1923 by radio officer Frederick Mockford at Croydon Airport in London, from the French m’aider, ‘help me’. It is repeated three times."],
 g:[["Two-way radio","A radio that can send and receive"],["Push-to-talk","Pressing a button to transmit"],["Repeater","A station that rebroadcasts signals to extend range"],["Phonetic alphabet","Code words for letters"]],
 f:["Radio users say ‘over’ when they finish speaking.","Walkie-talkies were developed for World War II.","Two-way radios work when phone networks fail."],
-fun:"The word ‘roger’ comes from the old phonetic alphabet, in which R was ‘Roger’, standing for ‘received’.",
-tl:"Ang walkie-talkie ay radyong hawak-kamay para makipag-usap sa maikling distansya. Nabuo ito para sa mga sundalo noong World War II, at umaasa pa rin dito ang pulis, bumbero at mga manggagawa."});
+fun:"The word ‘roger’ comes from the old phonetic alphabet, in which R was ‘Roger’, standing for ‘received’."});
