@@ -66,7 +66,13 @@ giganotosaurus:["Dinosaur (carcharodontosaurid theropod)","Meat",99,97,12.5,3.7,
 edmontosaurus:["Dinosaur (hadrosaur)","Plants",73,66,11,3,5000,"hadro","About 9–12 m long",[["Hell Creek, Montana",47.6,-106.9],["Lance Formation, Wyoming",43.3,-104.6],["Alberta, Canada",51.5,-112.7],["North Slope, Alaska",70.0,-151.5]]],
 sarcosuchus:["Reptile (giant crocodile relative)","Fish, turtles and other animals",112,110,9.5,1,3500,"mosa","About 9–9.5 m long",[["Gadoufaoua, Niger",16.5,9.5],["Recôncavo Basin, Brazil",-12.7,-38.6]]],
 megalania:["Reptile (giant monitor lizard)","Large animals",1.5,0.05,5.5,0.9,450,"mosa","About 3.5–7 m long (debated)",[["Darling Downs, Queensland, Australia",-27.5,151.5],["Naracoorte Caves, South Australia",-37.03,140.8]]],
-nothosaurus:["Reptile (nothosaur, sea reptile)","Fish",240,210,4,0.5,200,"plesio","Mostly 1–4 m long (largest about 7 m)",[["Muschelkalk, Germany",49.8,9.9],["Monte San Giorgio, Switzerland",45.9,8.95],["Guizhou, China",25.8,105.0],["Israel",31.0,35.0]]]
+nothosaurus:["Reptile (nothosaur, sea reptile)","Fish",240,210,4,0.5,200,"plesio","Mostly 1–4 m long (largest about 7 m)",[["Muschelkalk, Germany",49.8,9.9],["Monte San Giorgio, Switzerland",45.9,8.95],["Guizhou, China",25.8,105.0],["Israel",31.0,35.0]]],
+ceratosaurus:["Dinosaur (ceratosaur theropod)","Meat, possibly fish",153,148,6,2,700,"theropod","About 5–7 m long",[["Garden Park, Colorado",38.5,-105.2],["Cleveland-Lloyd Quarry, Utah",39.33,-110.69],["Lourinhã, Portugal",39.24,-9.31]]],
+kentrosaurus:["Dinosaur (stegosaur)","Plants",152,150,4.3,1.5,1000,"stego","About 4–4.5 m long",[["Tendaguru, Tanzania",-9.75,39.25]]],
+amargasaurus:["Dinosaur (dicraeosaurid sauropod)","Low-growing plants",129,122,10,2.5,2600,"sauropod","About 9–10 m long",[["La Amarga, Neuquén, Argentina",-39.5,-70.0]]],
+pliosaurus:["Reptile (pliosaur, sea reptile)","Fish, squid, sharks, reptiles",200,90,11,1.5,10000,"plesio","Largest about 10–12 m long",[["Kimmeridge, Dorset, England",50.61,-2.12],["Queensland, Australia (Kronosaurus)",-20.8,142.0],["Villa de Leyva, Colombia",5.63,-73.52],["Svalbard, Norway",78.2,15.6]]],
+andrewsarchus:["Mammal (even-toed hoofed mammal)","Probably omnivore",45,42,3.5,1.5,1000,"cat","Body size unknown; about 3.5 m long shown",[["Irdin Manha, Inner Mongolia, China",43.6,111.9]]],
+cavebear:["Mammal (bear)","Mostly plants",0.3,0.024,3,1.7,500,"sloth","About 3 m long; males up to about 500 kg",[["Drachenloch, Switzerland",46.93,9.46],["Bear Cave, Romania",46.57,22.55],["Chauvet Cave, France",44.39,4.42],["Zoolithen Cave, Germany",49.8,11.3]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
