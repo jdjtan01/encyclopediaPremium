@@ -19,6 +19,17 @@ html[data-vt=theme] body>header{view-transition-name:none!important}
 .hjump a{border-color:transparent!important;background:transparent!important;transition:background .25s,color .25s,translate .2s!important}
 .hjump a:hover{background:var(--sf2)!important}
 .hjump a[aria-current=true]{background:var(--hd)!important;color:var(--bg)!important;box-shadow:0 4px 12px -4px rgba(0,0,0,.4)}
+/* Hero subject cards: the active card's timer traces the card's outline instead of a flat white strip */
+@property --sxp{syntax:"<percentage>";inherits:false;initial-value:0%}
+#v .sx-c i.bar{position:absolute;inset:0;margin:0!important;width:auto!important;height:auto!important;border-radius:inherit;padding:2px;z-index:3;pointer-events:none;opacity:0;animation:none;
+background:conic-gradient(from 0deg,rgba(255,255,255,.95) 0 var(--sxp),rgba(255,255,255,.16) var(--sxp) 100%);
+-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask:linear-gradient(#000 0 0) content-box exclude,linear-gradient(#000 0 0);
+filter:drop-shadow(0 0 3px rgba(255,255,255,.8)) drop-shadow(0 0 8px var(--l));transition:opacity .4s ease}
+#v .sx-c.on i.bar{opacity:1;animation:sxring var(--cyc,5s) linear forwards}
+#v .sx.paused .sx-c.on i.bar{animation:none;--sxp:100%}
+@keyframes sxring{from{--sxp:0%}to{--sxp:100%}}
+#v .sx-c.on{box-shadow:0 18px 32px -14px var(--c),0 0 26px -8px var(--l)!important}
+@media (prefers-reduced-motion:reduce){#v .sx-c.on i.bar{animation:none;--sxp:100%}}
 /* Random button lives in the More menu now */
 header #rnd{display:none!important}
 /* 7. Consistent hover lift and press */
