@@ -28,7 +28,7 @@ window.TODAY=(window.TODAY||[]).concat([
 [8,29,2005,"Hurricane Katrina makes landfall on the US Gulf Coast."],
 [9,2,1666,"The Great Fire of London begins.","london"],
 [9,21,1937,"The Hobbit by J. R. R. Tolkien is published."],
-[10,14,1066,"William of Normandy defeats Harold at the Battle of Hastings."],
+[10,14,1066,"William of Normandy defeats Harold at the Battle of Hastings.","tapestry"],
 [10,18,1867,"The United States takes formal possession of Alaska."],
 [10,29,1929,"Black Tuesday: the US stock market crashes."],
 [11,9,1938,"Kristallnacht: Nazi mobs attack Jewish communities in Germany and Austria.","antisemitism"],

@@ -78,7 +78,13 @@ corythosaurus:["Dinosaur (lambeosaurine hadrosaur)","Plants",77,75,9,2.5,3500,"h
 mamenchisaurus:["Dinosaur (sauropod)","Plants",160,145,26,5,25000,"sauropod","About 22–35 m long (species vary)",[["Mamenxi, Sichuan, China",30.0,104.9],["Zigong, Sichuan, China",29.34,104.78],["Xinjiang, China",44.0,89.0]]],
 utahraptor:["Dinosaur (dromaeosaur)","Meat",136,134,6.5,1.8,400,"raptor","About 6–7 m long",[["Cedar Mountain Formation, Utah",38.9,-110.1]]],
 hallucigenia:["Lobopodian (velvet worm relative)","Small food particles",510,505,0.03,0.01,0,"trilo","About 1–5 cm long",[["Burgess Shale, British Columbia",51.43,-116.47],["Chengjiang, Yunnan, China",24.67,102.98]]],
-diprotodon:["Marsupial (giant wombat relative)","Plants",1.8,0.04,3.5,1.8,2700,"wombat","About 3–4 m long",[["Lake Callabonna, South Australia",-29.75,140.07],["Wellington Caves, New South Wales",-32.6,148.94],["Darling Downs, Queensland",-27.5,151.5]]]
+diprotodon:["Marsupial (giant wombat relative)","Plants",1.8,0.04,3.5,1.8,2700,"wombat","About 3–4 m long",[["Lake Callabonna, South Australia",-29.75,140.07],["Wellington Caves, New South Wales",-32.6,148.94],["Darling Downs, Queensland",-27.5,151.5]]],
+sinosauropteryx:["Dinosaur (feathered compsognathid)","Small animals",125,122,1,0.3,0.6,"theropod","About 1 m long",[["Yixian Formation, Liaoning, China",41.6,120.8]]],
+pachyrhinosaurus:["Dinosaur (centrosaurine ceratopsian)","Plants",73.5,69,7,2,3500,"cerat","About 6–8 m long",[["Pipestone Creek, Alberta",55.0,-119.1],["Drumheller, Alberta",51.46,-112.71],["North Slope, Alaska",70.0,-151.5]]],
+gorgonops:["Synapsid (gorgonopsian)","Meat",265,252,3.5,1,300,"cat","Largest (Inostrancevia) about 3.5 m long",[["Karoo Basin, South Africa",-32.3,22.6],["Northern Dvina, Russia",62.0,44.0],["Ruhuhu Basin, Tanzania",-10.5,35.0]]],
+lystrosaurus:["Synapsid (dicynodont)","Plants",255,250,1.5,0.5,90,"wombat","About 0.6–2.5 m long",[["Karoo Basin, South Africa",-31.5,25.0],["Fremouw Formation, Antarctica",-84.5,164.0],["Panchet Formation, India",23.7,86.8],["Xinjiang, China",44.0,88.0]]],
+gastornis:["Bird (giant flightless bird)","Plants, nuts and seeds",56,45,2,1.9,150,"terror","About 1.75–2 m tall",[["Meudon, near Paris, France",48.81,2.24],["Wyoming",43.0,-108.5],["Ellesmere Island, Canada",79.0,-82.0],["Messel Pit, Germany",49.92,8.75]]],
+moa:["Bird (moa and elephant birds)","Plants",3,0.0006,3,3.6,250,"terror","Giant moa up to about 3.6 m tall with neck stretched",[["Canterbury, New Zealand",-43.5,171.5],["Otago, New Zealand",-45.5,169.5],["Southern Madagascar (elephant birds)",-24.5,45.0]]]
 };
 // Original outline drawings. Points are [x, y] in a 100 × 100 box (x along the body, head to the right; y down, 100 = ground).
 // A third value 1 makes a sharp corner instead of a curve.
